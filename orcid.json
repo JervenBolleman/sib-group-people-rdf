@@ -1,0 +1,1794 @@
+{
+ "alan-james-bridge": {
+  "name": "Alan James Bridge",
+  "orcid": "0000-0003-2148-9135",
+  "status": "auto"
+ },
+ "anaclaudia-sima": {
+  "name": "Ana-Claudia Sima",
+  "orcid": null,
+  "status": "not-found"
+ },
+ "andrea-auchincloss": {
+  "name": "Andrea Auchincloss",
+  "orcid": "0000-0002-5297-5390",
+  "status": "auto"
+ },
+ "andrea-brites-marto": {
+  "name": "Andrea Brites Marto",
+  "orcid": "0009-0005-4104-256X",
+  "status": "auto"
+ },
+ "anne-niknejad": {
+  "name": "Anne Niknejad",
+  "orcid": "0000-0003-3308-6245",
+  "status": "auto"
+ },
+ "anthony-arrascue": {
+  "candidates": [
+   {
+    "institutions": [],
+    "name": "Anthony Ayala",
+    "orcid": "0000-0002-0691-372X"
+   },
+   {
+    "institutions": [
+     "Colegio Crece",
+     "Universidad Peruana Unión"
+    ],
+    "name": "Anthony Ayala",
+    "orcid": "0000-0003-2205-5435"
+   },
+   {
+    "institutions": [],
+    "name": "Anthony Ayala",
+    "orcid": "0009-0004-3184-6145"
+   },
+   {
+    "institutions": [],
+    "name": "Anthony Ayala",
+    "orcid": "0000-0002-3913-6453"
+   }
+  ],
+  "name": "Anthony Arrascue Ayala",
+  "orcid": null,
+  "status": "not-found"
+ },
+ "arnaud-gos": {
+  "candidates": [
+   {
+    "institutions": [],
+    "name": "Arnaud Gos",
+    "orcid": "0000-0002-5018-1378"
+   }
+  ],
+  "name": "Arnaud Gos",
+  "orcid": null,
+  "status": "not-found"
+ },
+ "arnaud-kerhornou": {
+  "name": "Arnaud Kerhornou",
+  "orcid": "0000-0002-2890-295X",
+  "status": "auto"
+ },
+ "beatrice-cuche": {
+  "name": "Béatrice Cuche",
+  "orcid": null,
+  "status": "not-found"
+ },
+ "catherine-rivoire": {
+  "name": "Catherine Rivoire",
+  "orcid": "0000-0002-5979-8382",
+  "status": "auto"
+ },
+ "chantal-hulo": {
+  "candidates": [
+   {
+    "institutions": [],
+    "name": "Chantal Hulo",
+    "orcid": "0000-0001-8176-7999"
+   }
+  ],
+  "name": "Chantal Hulo",
+  "orcid": null,
+  "status": "not-found"
+ },
+ "chiara-bortoluzzi": {
+  "name": "Chiara Bortoluzzi",
+  "orcid": "0000-0001-6589-6635",
+  "status": "auto"
+ },
+ "christian-deguttry": {
+  "name": "Christian de Guttry",
+  "orcid": null,
+  "status": "not-found"
+ },
+ "christian-sigrist": {
+  "name": "Christian Sigrist",
+  "orcid": "0000-0002-4348-0070",
+  "status": "auto"
+ },
+ "clara-roujeau": {
+  "name": "Clara Roujeau",
+  "orcid": null,
+  "status": "not-found"
+ },
+ "cristina-casals-casas": {
+  "name": "Cristina Casals Casas",
+  "orcid": "0000-0001-8769-177X",
+  "status": "auto"
+ },
+ "daniel-walther": {
+  "candidates": [
+   {
+    "institutions": [
+     "Leipzig University"
+    ],
+    "name": "Daniel Walther",
+    "orcid": "0009-0001-5189-074X"
+   }
+  ],
+  "name": "Daniel Walther",
+  "orcid": null,
+  "status": "not-found"
+ },
+ "davide-chiarugi": {
+  "candidates": [
+   {
+    "institutions": [
+     "University of Cambridge",
+     "University of Pisa",
+     "University of Siena"
+    ],
+    "name": "Davide Chiarugi",
+    "orcid": "0000-0003-2752-3189"
+   }
+  ],
+  "name": "Davide Chiarugi",
+  "orcid": null,
+  "status": "not-found"
+ },
+ "deepak-unni": {
+  "name": "Deepak Unni",
+  "orcid": "0000-0002-3583-7340",
+  "status": "auto"
+ },
+ "delphine-baratin": {
+  "candidates": [
+   {
+    "institutions": [],
+    "name": "Delphine Baratin",
+    "orcid": "0000-0002-4873-3030"
+   }
+  ],
+  "name": "Delphine Baratin",
+  "orcid": null,
+  "status": "not-found"
+ },
+ "diana-marek": {
+  "name": "Diana Marek",
+  "orcid": "0000-0002-9812-6351",
+  "status": "auto"
+ },
+ "dillenn-terumalai": {
+  "name": "Dillenn Terumalai",
+  "orcid": "0009-0000-0629-8870",
+  "status": "auto"
+ },
+ "dmitry-kuznetsov": {
+  "name": "Dmitry Kuznetsov",
+  "orcid": "0000-0002-9972-947X",
+  "status": "auto"
+ },
+ "dolnide-dornevil": {
+  "name": "Dolnide Dornevil",
+  "orcid": null,
+  "status": "not-found"
+ },
+ "edouard-decastro": {
+  "name": "Edouard de Castro",
+  "orcid": "0000-0001-5436-7383",
+  "status": "auto"
+ },
+ "elisabeth-coudert": {
+  "name": "Elisabeth Coudert",
+  "orcid": "0000-0001-8314-404X",
+  "status": "auto"
+ },
+ "elisabeth-gasteiger": {
+  "name": "Elisabeth Gasteiger",
+  "orcid": "0000-0003-1829-162X",
+  "status": "auto"
+ },
+ "emmanuel-boutet": {
+  "name": "Emmanuel Boutet",
+  "orcid": "0000-0002-3743-4203",
+  "status": "auto"
+ },
+ "eneida-hatcher": {
+  "name": "Eneida Hatcher",
+  "orcid": null,
+  "status": "not-found"
+ },
+ "erik-studer": {
+  "candidates": [
+   {
+    "institutions": [],
+    "name": "Erik Studer",
+    "orcid": "0000-0003-0461-2648"
+   }
+  ],
+  "name": "Erik Studer",
+  "orcid": null,
+  "status": "not-found"
+ },
+ "etienne-derham": {
+  "name": "Etienne de Rham",
+  "orcid": null,
+  "status": "not-found"
+ },
+ "flavia-marzetta": {
+  "candidates": [
+   {
+    "institutions": [],
+    "name": "Flavia Marzetta",
+    "orcid": "0000-0002-6684-6880"
+   }
+  ],
+  "name": "Flavia Marzetta",
+  "orcid": null,
+  "status": "not-found"
+ },
+ "florence-jungo": {
+  "name": "Florence Jungo",
+  "orcid": "0000-0002-7456-8390",
+  "status": "auto"
+ },
+ "florence-mehl": {
+  "name": "Florence Mehl",
+  "orcid": "0000-0002-9619-1707",
+  "status": "auto"
+ },
+ "florent-tassy": {
+  "name": "Florent Tassy",
+  "orcid": "0009-0007-1142-4617",
+  "status": "auto"
+ },
+ "frederic-burdet": {
+  "candidates": [
+   {
+    "institutions": [],
+    "name": "Frédéric Burdet",
+    "orcid": "0000-0002-2923-827X"
+   }
+  ],
+  "name": "Frédéric Burdet",
+  "orcid": null,
+  "status": "not-found"
+ },
+ "gerard-bouchet": {
+  "candidates": [
+   {
+    "institutions": [],
+    "name": "Gerard BOUCHET",
+    "orcid": "0000-0002-2005-6859"
+   }
+  ],
+  "name": "Gerard Bouchet",
+  "orcid": null,
+  "status": "not-found"
+ },
+ "guilaine-argoud-puy": {
+  "name": "Guilaine Argoud-Puy",
+  "orcid": "0000-0002-2979-8613",
+  "status": "auto"
+ },
+ "harald-witte": {
+  "name": "Harald Witte",
+  "orcid": "0000-0002-4421-3580",
+  "status": "auto"
+ },
+ "imane-lboukili": {
+  "candidates": [
+   {
+    "institutions": [
+     "Inria Centre de Recherche Sophia Antipolis Méditerranée",
+     "Institut National des Sciences Appliquées de Lyon",
+     "Institut Pasteur",
+     "International Agency For Research On Cancer",
+     "Johnson & Johnson (France)"
+    ],
+    "name": "Imane Lboukili",
+    "orcid": "0000-0003-4964-8142"
+   }
+  ],
+  "name": "Imane Lboukili",
+  "orcid": null,
+  "status": "not-found"
+ },
+ "iulian-dragan": {
+  "name": "Iulian Dragan",
+  "orcid": null,
+  "status": "not-found"
+ },
+ "ivo-de-carvalho": {
+  "candidates": [
+   {
+    "institutions": [],
+    "name": "Ivo Carvalho",
+    "orcid": "0009-0001-0982-3068"
+   },
+   {
+    "institutions": [
+     "UFRGS"
+    ],
+    "name": "Ivo Carvalho",
+    "orcid": "0000-0002-4588-1011"
+   },
+   {
+    "institutions": [
+     "Culham Centre for Fusion Energy",
+     "General Atomics",
+     "ITER",
+     "Instituto de Plasmas e Fusão Nuclear",
+     "JET / Eurofusion / IST / IPFN",
+     "Universidade Técnica de Lisboa Instituto Superior Técnico"
+    ],
+    "name": "Ivo Carvalho",
+    "orcid": "0000-0002-2458-8377"
+   }
+  ],
+  "name": "Ivo de Carvalho",
+  "orcid": null,
+  "status": "not-found"
+ },
+ "ivo-pedruzzi": {
+  "name": "Ivo Pedruzzi",
+  "orcid": "0000-0001-8561-7170",
+  "status": "auto"
+ },
+ "jan-armida": {
+  "candidates": [
+   {
+    "institutions": [],
+    "name": "Jan Armida",
+    "orcid": "0009-0007-4250-3983"
+   }
+  ],
+  "name": "Jan Armida",
+  "orcid": null,
+  "status": "not-found"
+ },
+ "jerven-tjalling-bolleman": {
+  "name": "Jerven Tjalling Bolleman",
+  "orcid": "0000-0002-7449-1266",
+  "status": "auto"
+ },
+ "josefina-lascanomaillard": {
+  "candidates": [
+   {
+    "institutions": [],
+    "name": "Josefina Lascano Maillard",
+    "orcid": "0000-0002-2500-7888"
+   }
+  ],
+  "name": "Josefina Lascano Maillard",
+  "orcid": null,
+  "status": "not-found"
+ },
+ "judit-kissblind": {
+  "name": "Judit Kiss Blind",
+  "orcid": null,
+  "status": "not-found"
+ },
+ "julia-maurer": {
+  "name": "Julia Maurer",
+  "orcid": "0000-0002-0731-2758",
+  "status": "auto"
+ },
+ "julius-winter": {
+  "name": "Julius Winter",
+  "orcid": "0000-0001-6702-1330",
+  "status": "auto"
+ },
+ "kamal-chikh-echioukh": {
+  "name": "Kamal Chikh Echioukh",
+  "orcid": null,
+  "status": "not-found"
+ },
+ "karin-sonesson": {
+  "name": "Karin Sonesson",
+  "orcid": null,
+  "status": "not-found"
+ },
+ "kristian-axelsen": {
+  "name": "Kristian Axelsen",
+  "orcid": "0000-0003-3889-2879",
+  "status": "auto"
+ },
+ "kubilay-meydan": {
+  "name": "Kubilay Meydan",
+  "orcid": null,
+  "status": "not-found"
+ },
+ "laure-verbregue": {
+  "name": "Laure Verbregue",
+  "orcid": null,
+  "status": "not-found"
+ },
+ "leonore-wigger": {
+  "candidates": [
+   {
+    "institutions": [],
+    "name": "Leonore Wigger",
+    "orcid": "0000-0001-5230-0265"
+   }
+  ],
+  "name": "Leonore Wigger",
+  "orcid": null,
+  "status": "not-found"
+ },
+ "lionel-breuza": {
+  "name": "Lionel Breuza",
+  "orcid": "0000-0002-8075-8625",
+  "status": "auto"
+ },
+ "livia-famiglietti": {
+  "name": "Maria Livia Famiglietti",
+  "orcid": "0000-0002-5283-6593",
+  "status": "auto"
+ },
+ "lou-gotz": {
+  "candidates": [
+   {
+    "institutions": [],
+    "name": "Lou Götz",
+    "orcid": "0000-0003-0233-2415"
+   }
+  ],
+  "name": "Lou Götz",
+  "orcid": null,
+  "status": "not-found"
+ },
+ "lucila-aimo": {
+  "name": "Lucila Aimo",
+  "orcid": "0000-0003-0943-6401",
+  "status": "auto"
+ },
+ "lucille-pourcel": {
+  "name": "Lucille Pourcel",
+  "orcid": "0000-0003-1522-9900",
+  "status": "auto"
+ },
+ "manuela-pruess": {
+  "name": "Manuela Pruess",
+  "orcid": "0000-0002-6857-5543",
+  "status": "auto"
+ },
+ "marc-feuermann": {
+  "name": "Marc Feuermann",
+  "orcid": "0000-0002-4187-2863",
+  "status": "auto"
+ },
+ "marco-pagni": {
+  "name": "Marco Pagni",
+  "orcid": "0000-0001-9292-9463",
+  "status": "auto"
+ },
+ "mark-ibberson": {
+  "name": "Mark Ibberson",
+  "orcid": "0000-0003-3152-5670",
+  "status": "auto"
+ },
+ "markus-mueller": {
+  "candidates": [
+   {
+    "institutions": [],
+    "name": "Markus Mueller",
+    "orcid": "0000-0002-4037-0052"
+   },
+   {
+    "institutions": [],
+    "name": "Markus Mueller",
+    "orcid": "0000-0001-5619-8712"
+   },
+   {
+    "institutions": [],
+    "name": "Markus Mueller",
+    "orcid": "0009-0005-2993-6974"
+   },
+   {
+    "institutions": [
+     "Medical University of Vienna",
+     "University Hospital of Lausanne"
+    ],
+    "name": "Markus Mueller",
+    "orcid": "0000-0003-1350-3742"
+   },
+   {
+    "institutions": [],
+    "name": "Markus Mueller",
+    "orcid": "0000-0002-0299-952X"
+   },
+   {
+    "institutions": [
+     "Erasmus Universiteit Rotterdam Erasmus School of Economics",
+     "University of Strathclyde",
+     "University of Warwick"
+    ],
+    "name": "Markus Mueller",
+    "orcid": "0000-0001-9105-8168"
+   },
+   {
+    "institutions": [
+     "Austrian Academy of Sciences",
+     "Blindeninstitutsstiftung Rückersdorf",
+     "Deutsche Physikalische Gesellschaft",
+     "International Quantum Structures Association",
+     "Jugend forscht (German youth science competition)",
+     "Max Planck Institute for Mathematics in the Sciences",
+     "Natural Sciences and Engineering Research Council of Canada",
+     "Paul-Pfinzing-Gymnasium Hersbruck",
+     "Perimeter Institute for Theoretical Physics",
+     "Ruprecht Karls Universität Heidelberg",
+     "Studienstiftung des deutschen Volkes eV",
+     "Technical University of Berlin",
+     "University of Erlangen-Nuremberg",
+     "Western University"
+    ],
+    "name": "Markus Mueller",
+    "orcid": "0000-0002-8086-5586"
+   },
+   {
+    "institutions": [
+     "University of Edinburgh"
+    ],
+    "name": "Markus Mueller",
+    "orcid": "0000-0003-4859-3215"
+   },
+   {
+    "institutions": [
+     "Technische Universitat Ilmenau",
+     "University of Exeter",
+     "University of Melbourne"
+    ],
+    "name": "Markus Mueller",
+    "orcid": "0000-0001-7489-6397"
+   },
+   {
+    "institutions": [],
+    "name": "Markus M. Mueller",
+    "orcid": "0000-0003-2342-8846"
+   },
+   {
+    "institutions": [],
+    "name": "Markus Michael Mueller",
+    "orcid": "0000-0003-2000-567X"
+   },
+   {
+    "institutions": [],
+    "name": "Markus Stefan Mueller",
+    "orcid": "0000-0001-6306-0375"
+   },
+   {
+    "institutions": [
+     "Hochschule Campus Wien"
+    ],
+    "name": "Markus Dominik Mueller",
+    "orcid": "0000-0002-7451-1837"
+   }
+  ],
+  "name": "Markus Mueller",
+  "orcid": null,
+  "status": "not-found"
+ },
+ "matthieu-fillon": {
+  "name": "Matthieu Fillon",
+  "orcid": null,
+  "status": "not-found"
+ },
+ "maya-zimmermann": {
+  "name": "Maya Zimmermann",
+  "orcid": null,
+  "status": "not-found"
+ },
+ "miriam-tesfai": {
+  "name": "Miriam Tesfai",
+  "orcid": null,
+  "status": "not-found"
+ },
+ "monica-pozzato": {
+  "name": "Monica Pozzato",
+  "orcid": "0000-0002-3080-5243",
+  "status": "auto"
+ },
+ "muriel-metrailler-lenoir": {
+  "name": "Muriel Metrailler Lenoir",
+  "orcid": null,
+  "status": "not-found"
+ },
+ "nadine-gruaz": {
+  "name": "Nadine Gruaz-Gumowski",
+  "orcid": "0000-0002-4699-4907",
+  "status": "auto"
+ },
+ "nathan-kulling": {
+  "name": "Nathan Külling",
+  "orcid": "0009-0006-2942-3009",
+  "status": "auto"
+ },
+ "nevila-nouspikel": {
+  "name": "Nevila Nouspikel",
+  "orcid": null,
+  "status": "not-found"
+ },
+ "nicole-redaschi": {
+  "name": "Nicole Redaschi",
+  "orcid": "0000-0001-8890-2268",
+  "status": "auto"
+ },
+ "olivier-martin": {
+  "candidates": [
+   {
+    "institutions": [],
+    "name": "Olivier Martin",
+    "orcid": "0000-0002-9926-5847"
+   },
+   {
+    "institutions": [],
+    "name": "Olivier Martin",
+    "orcid": "0000-0001-7375-2850"
+   },
+   {
+    "institutions": [],
+    "name": "Olivier Martin",
+    "orcid": "0000-0003-3811-8648"
+   },
+   {
+    "institutions": [
+     "National Research Institute for Agriculture, Food and Environment"
+    ],
+    "name": "Olivier Martin",
+    "orcid": "0009-0009-6727-8510"
+   },
+   {
+    "institutions": [
+     "Instituto Nacional de Matemática Pura e Aplicada",
+     "Stony Brook University",
+     "University of Chicago"
+    ],
+    "name": "Olivier Martin",
+    "orcid": "0000-0003-0224-9339"
+   },
+   {
+    "institutions": [
+     "Hospices Civils de Lyon"
+    ],
+    "name": "Olivier MARTIN",
+    "orcid": "0000-0001-5574-2480"
+   },
+   {
+    "institutions": [
+     "INRAE Centre de Versailles-Grignon"
+    ],
+    "name": "Olivier Martin",
+    "orcid": "0000-0002-5295-5963"
+   },
+   {
+    "institutions": [],
+    "name": "Olivier J.F. Martin",
+    "orcid": "0000-0002-9574-3119"
+   },
+   {
+    "institutions": [
+     "Antoni van Leeuwenhoek Nederlands Kanker Instituut",
+     "Centre de Regulació Genòmica",
+     "Hospices Civils de Lyon",
+     "Institut de Biologie et Chimie des Protéines",
+     "NTT Data",
+     "Universitat Pompeu Fabra",
+     "University Health Network",
+     "University of Clermont Auvergne",
+     "Université Claude Bernard Lyon 1",
+     "Vrije Universiteit Amsterdam"
+    ],
+    "name": "Olivier M. F. Martin",
+    "orcid": "0000-0003-3661-7208"
+   }
+  ],
+  "name": "Olivier Martin",
+  "orcid": null,
+  "status": "not-found"
+ },
+ "orlin-topalov": {
+  "name": "Orlin Topalov",
+  "orcid": "0009-0009-2548-7947",
+  "status": "auto"
+ },
+ "owen-appleton": {
+  "name": "Owen Appleton",
+  "orcid": "0000-0002-2571-6860",
+  "status": "auto"
+ },
+ "panayiotis-smeros": {
+  "name": "Panayiotis Smeros",
+  "orcid": "0009-0004-5814-5824",
+  "status": "auto"
+ },
+ "parit-bansal": {
+  "name": "Parit Bansal",
+  "orcid": "0000-0002-0875-1680",
+  "status": "auto"
+ },
+ "pascale-gaudet": {
+  "name": "Pascale Gaudet",
+  "orcid": "0000-0003-1813-6857",
+  "status": "auto"
+ },
+ "patricia-fernandezpinilla": {
+  "name": "Patricia Fernandez Pinilla",
+  "orcid": "0009-0008-1334-9726",
+  "status": "auto"
+ },
+ "patrick-masson": {
+  "name": "Patrick Masson",
+  "orcid": "0000-0001-7646-0052",
+  "status": "auto"
+ },
+ "paul-thomas": {
+  "candidates": [
+   {
+    "institutions": [
+     "Bangor University"
+    ],
+    "name": "Paul Thomas",
+    "orcid": "0000-0001-8806-5818"
+   },
+   {
+    "institutions": [
+     "Mar Baselios College of Engineering and Technology"
+    ],
+    "name": "Paul Thomas",
+    "orcid": "0000-0001-8587-3828"
+   },
+   {
+    "institutions": [
+     "Defence Science and Technology Laboratory",
+     "Loughborough University"
+    ],
+    "name": "Paul Thomas",
+    "orcid": "0000-0003-0081-5763"
+   },
+   {
+    "institutions": [],
+    "name": "paul thomas",
+    "orcid": "0000-0002-9578-1916"
+   },
+   {
+    "institutions": [],
+    "name": "Paul Thomas",
+    "orcid": "0000-0003-2315-6078"
+   },
+   {
+    "institutions": [],
+    "name": "Paul Thomas",
+    "orcid": "0000-0002-4814-0825"
+   },
+   {
+    "institutions": [],
+    "name": "Paul Thomas",
+    "orcid": "0000-0003-2841-0282"
+   },
+   {
+    "institutions": [],
+    "name": "PAUL THOMAS",
+    "orcid": "0000-0003-2814-5394"
+   },
+   {
+    "institutions": [],
+    "name": "Paul Thomas",
+    "orcid": "0000-0003-2513-3347"
+   },
+   {
+    "institutions": [],
+    "name": "Paul Thomas",
+    "orcid": "0000-0002-1749-3265"
+   },
+   {
+    "institutions": [
+     "University of Liverpool"
+    ],
+    "name": "Paul Thomas",
+    "orcid": "0009-0009-0750-9890"
+   },
+   {
+    "institutions": [],
+    "name": "Paul Thomas",
+    "orcid": "0000-0002-4854-7158"
+   },
+   {
+    "institutions": [
+     "AbbVie Inc",
+     "George Mason University",
+     "Northwestern University",
+     "University of Illinois at Urbana-Champaign"
+    ],
+    "name": "Paul Thomas",
+    "orcid": "0000-0003-2887-4765"
+   },
+   {
+    "institutions": [],
+    "name": "Paul Thomas",
+    "orcid": "0000-0001-8962-903X"
+   },
+   {
+    "institutions": [],
+    "name": "Paul Thomas",
+    "orcid": "0000-0002-4801-4925"
+   },
+   {
+    "institutions": [
+     "Cardiff and Vale University Health Board",
+     "European Respiratory Society",
+     "S.outh Glamorgan Institute of Higher Education"
+    ],
+    "name": "Paul THOMAS",
+    "orcid": "0000-0001-6460-1137"
+   },
+   {
+    "institutions": [],
+    "name": "PAUL THOMAS",
+    "orcid": "0000-0002-8238-5041"
+   },
+   {
+    "institutions": [
+     "Carleton University",
+     "The Samara Centre for Democracy",
+     "University of Toronto"
+    ],
+    "name": "Paul Thomas",
+    "orcid": "0000-0002-7505-0008"
+   },
+   {
+    "institutions": [
+     "Monash University",
+     "University of Melbourne"
+    ],
+    "name": "Paul Thomas",
+    "orcid": "0000-0002-3109-2556"
+   },
+   {
+    "institutions": [],
+    "name": "Paul Thomas",
+    "orcid": "0000-0003-1647-6495"
+   },
+   {
+    "institutions": [],
+    "name": "PAUL THOMAS",
+    "orcid": "0000-0001-9815-3782"
+   },
+   {
+    "institutions": [
+     "Dartmouth College Geisel School of Medicine",
+     "Integrative Pediatrics"
+    ],
+    "name": "Paul Thomas",
+    "orcid": "0000-0002-4081-6376"
+   },
+   {
+    "institutions": [],
+    "name": "Paul Thomas",
+    "orcid": "0000-0003-4924-8069"
+   },
+   {
+    "institutions": [
+     "Deutsches Zentrum für Luft und Raumfahrt",
+     "Friedrich Schiller University Jena",
+     "TU-Berlin"
+    ],
+    "name": "Paul Thomas",
+    "orcid": "0000-0001-6884-6422"
+   },
+   {
+    "institutions": [
+     "Derby Teaching Hospitals NHS Foundation Trust",
+     "Nottingham University Hospitals NHS Trust",
+     "University of Nottingham"
+    ],
+    "name": "Paul Thomas",
+    "orcid": "0000-0002-7711-6584"
+   },
+   {
+    "institutions": [],
+    "name": "Paul Thomas",
+    "orcid": "0000-0002-9663-685X"
+   },
+   {
+    "institutions": [
+     "Association for Information Science and Technology",
+     "Midwest Popular Culture Association",
+     "Popular Culture Association",
+     "University of Kansas"
+    ],
+    "name": "Paul Thomas",
+    "orcid": "0000-0002-5596-7951"
+   },
+   {
+    "institutions": [],
+    "name": "Paul Thomas",
+    "orcid": "0000-0002-8748-4022"
+   },
+   {
+    "institutions": [
+     "Australian National University",
+     "Cardiff and Vale University Health Board",
+     "European Respiratory Society"
+    ],
+    "name": "Paul Thomas",
+    "orcid": "0000-0002-3396-9753"
+   },
+   {
+    "institutions": [
+     "A P J Abdul Kalam Technological University"
+    ],
+    "name": "Paul Thomas",
+    "orcid": "0009-0007-1659-6602"
+   },
+   {
+    "institutions": [],
+    "name": "Paul Thomas",
+    "orcid": "0000-0002-2420-0950"
+   },
+   {
+    "institutions": [],
+    "name": "Paul Thomas",
+    "orcid": "0009-0003-5377-3840"
+   },
+   {
+    "institutions": [
+     "National Health Service"
+    ],
+    "name": "Paul Thomas",
+    "orcid": "0009-0008-6052-0944"
+   },
+   {
+    "institutions": [
+     "Goethe University Frankfurt"
+    ],
+    "name": "Paul Thomas",
+    "orcid": "0009-0003-4392-0018"
+   },
+   {
+    "institutions": [
+     "University of California, San Francisco",
+     "Walter Reed Army Institute of Research"
+    ],
+    "name": "Paul Thomas",
+    "orcid": "0000-0002-6772-3997"
+   },
+   {
+    "institutions": [],
+    "name": "Paul Thomas",
+    "orcid": "0000-0002-5756-6633"
+   },
+   {
+    "institutions": [
+     "University of Adelaide"
+    ],
+    "name": "Paul Thomas",
+    "orcid": "0000-0002-5002-5770"
+   },
+   {
+    "institutions": [
+     "Mycorrhizal Systems Ltd",
+     "University of Sheffield",
+     "University of Stirling"
+    ],
+    "name": "Paul Thomas",
+    "orcid": "0000-0003-4252-1456"
+   },
+   {
+    "institutions": [
+     "Rochester Institute of Technology"
+    ],
+    "name": "Paul Thomas",
+    "orcid": "0000-0002-0455-193X"
+   },
+   {
+    "institutions": [
+     "US Geological Survey"
+    ],
+    "name": "Paul Thomas",
+    "orcid": "0000-0001-6484-6636"
+   },
+   {
+    "institutions": [
+     "Physiological Society",
+     "Preston Polytechnic",
+     "Royal Microscopical Society",
+     "University College Hospital Medical School",
+     "University of California Davis",
+     "University of Cambridge",
+     "University of East Anglia",
+     "University of Washington"
+    ],
+    "name": "Paul Thomas",
+    "orcid": "0000-0002-0883-9068"
+   },
+   {
+    "institutions": [
+     "University of Huddersfield"
+    ],
+    "name": "Paul Thomas",
+    "orcid": "0000-0003-1264-2759"
+   },
+   {
+    "institutions": [
+     "Kansas State University Salina",
+     "Purdue University",
+     "Purdue University West Lafayette"
+    ],
+    "name": "Paul Thomas",
+    "orcid": "0000-0003-3960-4242"
+   },
+   {
+    "institutions": [
+     "University of California San Francisco",
+     "University of Southern California"
+    ],
+    "name": "Paul Thomas",
+    "orcid": "0000-0002-9074-3507"
+   },
+   {
+    "institutions": [
+     "Microsoft"
+    ],
+    "name": "Paul Thomas",
+    "orcid": "0000-0003-2425-3136"
+   },
+   {
+    "institutions": [
+     "King's College London",
+     "OsloMet - storbyuniversitetet",
+     "University of South-Eatsern Norway"
+    ],
+    "name": "Paul Thomas",
+    "orcid": "0000-0002-1366-3781"
+   },
+   {
+    "institutions": [
+     "Cardiff University",
+     "EUROTOX",
+     "KREATiS",
+     "Society of Environmental Toxicology and Chemistry"
+    ],
+    "name": "Paul Thomas",
+    "orcid": "0000-0003-1671-9274"
+   },
+   {
+    "institutions": [
+     "Centre d'Etudes Superieures Industrielles"
+    ],
+    "name": "Paul Thomas",
+    "orcid": "0009-0005-0554-5274"
+   },
+   {
+    "institutions": [
+     "University of New South Wales"
+    ],
+    "name": "Paul Thomas",
+    "orcid": "0000-0002-9859-1464"
+   },
+   {
+    "institutions": [
+     "Imperial College London",
+     "King's College London",
+     "University of Technology Sydney"
+    ],
+    "name": "Paul Thomas",
+    "orcid": "0000-0001-6962-2121"
+   }
+  ],
+  "name": "Paul Thomas",
+  "orcid": null,
+  "status": "not-found"
+ },
+ "philipp-bucher": {
+  "candidates": [
+   {
+    "institutions": [],
+    "name": "Philipp Bucher",
+    "orcid": "0000-0003-4276-9419"
+   }
+  ],
+  "name": "Philipp Bucher",
+  "orcid": null,
+  "status": "not-found"
+ },
+ "philippe-le-mercier": {
+  "name": "Philippe Le Mercier",
+  "orcid": "0000-0001-8528-090X",
+  "status": "auto"
+ },
+ "rainer-krug": {
+  "name": "Rainer Krug",
+  "orcid": "0000-0002-7490-0066",
+  "status": "auto"
+ },
+ "regan-geissmann": {
+  "candidates": [
+   {
+    "institutions": [],
+    "name": "Regan Geissmann",
+    "orcid": "0000-0002-0131-3960"
+   }
+  ],
+  "name": "Regan Geissmann",
+  "orcid": null,
+  "status": "not-found"
+ },
+ "robert-waterhouse": {
+  "name": "Robert Waterhouse",
+  "orcid": "0000-0003-4199-9052",
+  "status": "auto"
+ },
+ "robin-engler": {
+  "name": "Robin Engler",
+  "orcid": "0009-0001-7090-6196",
+  "status": "auto"
+ },
+ "robin-liechti": {
+  "candidates": [
+   {
+    "institutions": [
+     "University of Lausanne"
+    ],
+    "name": "Robin Liechti",
+    "orcid": "0000-0001-8351-4776"
+   }
+  ],
+  "name": "Robin Liechti",
+  "orcid": null,
+  "status": "not-found"
+ },
+ "roman-mylonas": {
+  "candidates": [
+   {
+    "institutions": [],
+    "name": "Roman Mylonas",
+    "orcid": "0000-0001-5227-604X"
+   }
+  ],
+  "name": "Roman Mylonas",
+  "orcid": null,
+  "status": "not-found"
+ },
+ "ruijie-wang": {
+  "candidates": [
+   {
+    "institutions": [],
+    "name": "Ruijie Wang",
+    "orcid": "0000-0002-7631-1441"
+   },
+   {
+    "institutions": [
+     "Shantou University Medical College"
+    ],
+    "name": "Ruijie Wang",
+    "orcid": "0000-0002-0201-1737"
+   },
+   {
+    "institutions": [
+     "Institute of Urban Environment Chinese Academy of Sciences"
+    ],
+    "name": "Ruijie Wang",
+    "orcid": "0000-0001-5390-7528"
+   },
+   {
+    "institutions": [
+     "Guizhou University"
+    ],
+    "name": "Ruijie Wang",
+    "orcid": "0000-0002-5756-884X"
+   },
+   {
+    "institutions": [],
+    "name": "Ruijie Wang",
+    "orcid": "0000-0002-6609-3989"
+   },
+   {
+    "institutions": [],
+    "name": "Ruijie Wang",
+    "orcid": "0000-0001-7900-3308"
+   },
+   {
+    "institutions": [],
+    "name": "RUIJIE WANG",
+    "orcid": "0000-0003-1916-3902"
+   },
+   {
+    "institutions": [
+     "Nankai University"
+    ],
+    "name": "Ruijie Wang",
+    "orcid": "0009-0005-3753-1774"
+   },
+   {
+    "institutions": [],
+    "name": "ruijie wang",
+    "orcid": "0009-0001-1669-9261"
+   },
+   {
+    "institutions": [],
+    "name": "Ruijie Wang",
+    "orcid": "0000-0002-2819-4316"
+   },
+   {
+    "institutions": [],
+    "name": "Ruijie Wang",
+    "orcid": "0000-0003-3528-611X"
+   },
+   {
+    "institutions": [
+     "Aba Teachers University"
+    ],
+    "name": "Ruijie Wang",
+    "orcid": "0009-0007-6137-9674"
+   },
+   {
+    "institutions": [],
+    "name": "Ruijie Wang",
+    "orcid": "0000-0002-6209-559X"
+   },
+   {
+    "institutions": [],
+    "name": "Ruijie Wang",
+    "orcid": "0000-0001-5924-6265"
+   },
+   {
+    "institutions": [],
+    "name": "Ruijie Wang",
+    "orcid": "0000-0001-8635-5977"
+   },
+   {
+    "institutions": [],
+    "name": "ruijie wang",
+    "orcid": "0009-0009-4509-1712"
+   },
+   {
+    "institutions": [],
+    "name": "Ruijie WANG",
+    "orcid": "0000-0002-1435-7284"
+   },
+   {
+    "institutions": [],
+    "name": "Ruijie Wang",
+    "orcid": "0000-0003-4905-5224"
+   },
+   {
+    "institutions": [],
+    "name": "Ruijie Wang",
+    "orcid": "0000-0001-9617-5603"
+   },
+   {
+    "institutions": [],
+    "name": "Ruijie Wang",
+    "orcid": "0000-0002-2074-5910"
+   },
+   {
+    "institutions": [],
+    "name": "Ruijie Wang",
+    "orcid": "0009-0009-8569-4489"
+   },
+   {
+    "institutions": [
+     "Southern Medical University"
+    ],
+    "name": "Ruijie Wang",
+    "orcid": "0009-0001-1699-8675"
+   },
+   {
+    "institutions": [
+     "Guangxi University of Chinese Medicine"
+    ],
+    "name": "Ruijie wang",
+    "orcid": "0009-0002-8703-5013"
+   },
+   {
+    "institutions": [
+     "Henan Agricultural University",
+     "Institute of Cotton Research of Chinese Academy of Agricultural Sciences"
+    ],
+    "name": "Ruijie Wang",
+    "orcid": "0000-0002-8340-9519"
+   },
+   {
+    "institutions": [],
+    "name": "RuiJie Wang",
+    "orcid": "0009-0003-8178-8791"
+   },
+   {
+    "institutions": [],
+    "name": "Ruijie Wang",
+    "orcid": "0000-0002-1184-7755"
+   },
+   {
+    "institutions": [],
+    "name": "Ruijie Wang",
+    "orcid": "0000-0002-2025-912X"
+   },
+   {
+    "institutions": [
+     "Hong Kong Polytechnic University",
+     "University of Michigan"
+    ],
+    "name": "Ruijie Wang",
+    "orcid": "0009-0001-0732-0096"
+   },
+   {
+    "institutions": [],
+    "name": "Ruijie Wang",
+    "orcid": "0000-0002-0651-1456"
+   },
+   {
+    "institutions": [],
+    "name": "Ruijie Wang",
+    "orcid": "0009-0008-2993-2967"
+   },
+   {
+    "institutions": [],
+    "name": "Ruijie Wang",
+    "orcid": "0000-0001-8976-4899"
+   },
+   {
+    "institutions": [],
+    "name": "Ruijie Wang",
+    "orcid": "0000-0001-5263-7845"
+   },
+   {
+    "institutions": [
+     "Changzhou University"
+    ],
+    "name": "ruijie wang",
+    "orcid": "0009-0009-9393-9298"
+   },
+   {
+    "institutions": [
+     "Sun Yat-sen University"
+    ],
+    "name": "Ruijie Wang",
+    "orcid": "0009-0009-3106-8861"
+   },
+   {
+    "institutions": [
+     "Dalian University of Technology"
+    ],
+    "name": "Ruijie Wang",
+    "orcid": "0009-0000-0102-9153"
+   },
+   {
+    "institutions": [
+     "University of Illinois Urbana-Champaign"
+    ],
+    "name": "Ruijie Wang",
+    "orcid": "0000-0003-1368-1688"
+   },
+   {
+    "institutions": [],
+    "name": "ruijie wang",
+    "orcid": "0009-0007-2842-8788"
+   },
+   {
+    "institutions": [],
+    "name": "Ruijie Wang",
+    "orcid": "0000-0002-1761-934X"
+   },
+   {
+    "institutions": [
+     "Chang'an University"
+    ],
+    "name": "ruijie wang",
+    "orcid": "0009-0000-8646-2916"
+   },
+   {
+    "institutions": [],
+    "name": "RUIJIE WANG",
+    "orcid": "0009-0002-7108-5702"
+   },
+   {
+    "institutions": [
+     "Xi'an Aerospace-Huayang Mechanical & Electrical Equipment Co., Ltd.",
+     "Xi'an University of Technology"
+    ],
+    "name": "Ruijie Wang",
+    "orcid": "0009-0002-1763-4133"
+   },
+   {
+    "institutions": [],
+    "name": "Ruijie Wang",
+    "orcid": "0000-0002-4110-6552"
+   },
+   {
+    "institutions": [
+     "Anhui University of Traditional Chinese Medicine"
+    ],
+    "name": "ruijie wang",
+    "orcid": "0009-0003-6274-6641"
+   },
+   {
+    "institutions": [
+     "University of Science and Technology of China"
+    ],
+    "name": "Ruijie Wang",
+    "orcid": "0009-0005-2937-860X"
+   },
+   {
+    "institutions": [
+     "Association for Computing Machinery",
+     "Bournemouth University",
+     "British Psychological Society",
+     "De Montfort University",
+     "East China Normal University",
+     "Experimental Psychology Society",
+     "University of St Andrews"
+    ],
+    "name": "Ruijie Wang",
+    "orcid": "0000-0001-8025-549X"
+   },
+   {
+    "institutions": [
+     "Oregon Health & Science University"
+    ],
+    "name": "Ruijie Wang",
+    "orcid": "0000-0001-9611-4974"
+   },
+   {
+    "institutions": [
+     "Fudan University"
+    ],
+    "name": "Ruijie Wang",
+    "orcid": "0009-0008-9712-4582"
+   },
+   {
+    "institutions": [
+     "National Tsing Hua University"
+    ],
+    "name": "RuiJie Wang",
+    "orcid": "0009-0000-7966-6259"
+   },
+   {
+    "institutions": [
+     "太原科技大学"
+    ],
+    "name": "RuiJie Wang",
+    "orcid": "0009-0005-2837-6557"
+   },
+   {
+    "institutions": [
+     "Peking University"
+    ],
+    "name": "Ruijie Wang",
+    "orcid": "0000-0002-6656-2968"
+   }
+  ],
+  "name": "Ruijie Wang",
+  "orcid": null,
+  "status": "not-found"
+ },
+ "sabine-oesterle": {
+  "name": "Sabine Österle",
+  "orcid": "0000-0003-3248-7899",
+  "status": "auto"
+ },
+ "salvo-paesano": {
+  "name": "Salvo Giacomo Paesano",
+  "orcid": null,
+  "status": "not-found"
+ },
+ "samuel-neuenschwander": {
+  "name": "Samuel Neuenschwander",
+  "orcid": "0000-0002-4080-5546",
+  "status": "auto"
+ },
+ "sandrine-pilbout": {
+  "candidates": [
+   {
+    "institutions": [],
+    "name": "Sandrine Pilbout",
+    "orcid": "0000-0001-8829-7010"
+   }
+  ],
+  "name": "Sandrine Pilbout",
+  "orcid": null,
+  "status": "not-found"
+ },
+ "sebastien-gehant": {
+  "name": "Sebastien Gehant",
+  "orcid": null,
+  "status": "not-found"
+ },
+ "sebastien-moretti": {
+  "candidates": [
+   {
+    "institutions": [],
+    "name": "Sebastien Moretti",
+    "orcid": "0000-0003-1412-3434"
+   }
+  ],
+  "name": "Sebastien Moretti",
+  "orcid": null,
+  "status": "not-found"
+ },
+ "sergio-guarino": {
+  "candidates": [
+   {
+    "institutions": [
+     "NEPSA Rehabilitación Neurológica",
+     "Universitat Autònoma de Barcelona"
+    ],
+    "name": "Sergio Guarino",
+    "orcid": "0009-0005-4339-8412"
+   },
+   {
+    "institutions": [],
+    "name": "Sergio Guarino",
+    "orcid": "0000-0001-8171-1151"
+   }
+  ],
+  "name": "Sergio Guarino",
+  "orcid": null,
+  "status": "not-found"
+ },
+ "shubham-kapoor": {
+  "name": "Shubham Kapoor",
+  "orcid": "0000-0001-7423-940X",
+  "status": "auto"
+ },
+ "shyamala-sundaram": {
+  "name": "Shyamala Sundaram",
+  "orcid": "0000-0003-4209-460X",
+  "status": "auto"
+ },
+ "simone-guzzi": {
+  "name": "Simone Guzzi",
+  "orcid": "0009-0008-4201-0289",
+  "status": "auto"
+ },
+ "sonja-voordijk": {
+  "name": "Sonja Voordijk",
+  "orcid": null,
+  "status": "not-found"
+ },
+ "sylvain-poux": {
+  "name": "Sylvain Poux",
+  "orcid": "0000-0001-7299-6685",
+  "status": "auto"
+ },
+ "tarcisio-mendes": {
+  "candidates": [
+   {
+    "institutions": [],
+    "name": "Tarcisio Mendes de Farias",
+    "orcid": "0000-0002-3175-5372"
+   }
+  ],
+  "name": "Tarcisio Mendes de Farias",
+  "orcid": null,
+  "status": "not-found"
+ },
+ "teresa-neto": {
+  "candidates": [
+   {
+    "institutions": [
+     "Instituto Politécnico de Viseu Escola Superior de Tecnologia e Gestão de Viseu"
+    ],
+    "name": "Teresa Neto",
+    "orcid": "0000-0002-6854-4691"
+   },
+   {
+    "institutions": [],
+    "name": "Teresa Neto",
+    "orcid": "0000-0001-6330-6291"
+   },
+   {
+    "institutions": [
+     "1º Fórum de empresas do DEC",
+     "1º simpósio de Engenharia Civil (SEC 2021)",
+     "2º simpósio de Engenharia Civil (SEC 2023)",
+     "5th International Conference on Water  Economics Statistics and Finance e da International Conference on Rethinking Treatment with Asset  Management",
+     "ADENE",
+     "ADENE -  Revisão regulamentar do SCE",
+     "ADENE - Revisão Regulamentar do SCE - Formação Complementar para PQ",
+     "APET –  Associação Portuguesa de Engenheiros Técnicos",
+     "Arquitetando uma estratégia: Formação de técnicos mediadores no âmbito do Programa 1.º Direito Análise técnica do desempenho térmico e energético",
+     "Associação Empresarial de Portugal – AEP",
+     "Aula aberta \"SOLUÇÕES PARA A CONSTRUÇÃO SUSTENTÁVEL\"",
+     "Comissão de Coordenação e Desenvolvimento Regional do Norte",
+     "Curso de Formação Profissional de Sustentabilidade na Construção",
+     "Dia Aberto do Mestrado em Engenharia Civil - Os grandes desafios da  engenharia civil",
+     "FASE – Estudos e Projectos, SA",
+     "FEUP",
+     "Faculdade de Ciências Naturais, Engenharias  e Tecnologias da Universidade Lusófona do Porto - VIII Jornadas em Reabilitação de Infraestruturas e de Edifícios (RIE 2019)",
+     "Fundação Instituto Politécnico do Porto",
+     "IC - FEUP -  Módulo Reabilitação das Construções (Sessões 1 a 8) integrado no curso REAB – Reabilitação  Sustentável das Construções",
+     "ICEER 2018",
+     "IDT - Instituto para o Desenvolvimento Tecnológico do Instituto Politécnico do Porto",
+     "INEGI – Instituto de Engenharia Mecânica e  Gestão Industrial e pela CEMACOM – Unidade de Materiais Compósitos",
+     "ISEP",
+     "ISEP -  ISEP SEMINARS on Novel Teaching Methodologies: Gamification: A Way to Add Fun in Learning",
+     "ISEP, IST, RELACRE - 2º Congresso de Ensaios e Experimentação em Engenharia Civil - Monitorizar e Preservar",
+     "Instituto Politécnico do Porto",
+     "Instituto Superior da Maia",
+     "NEC/ISEP - FAUP",
+     "Núcleo de Estudantes de  Engenharia do Ambiente,  FEUP - 8º Fórum do Ambiente",
+     "ORDEM DOS ENGENHEIROS",
+     "ORDEM DOS ENGENHEIROS - Apresentação das alterações introduzidas no Regulamento Técnico  de SCIE",
+     "Ordem dos Engenheiros -  papel dos Engenheiros civis na nova regulamentação de  térmica",
+     "Ordem dos Engenheiros - CURSO AVANÇADO DE SCIE, Módulo: Condições de compartimentação,  isolamento e protecção corta-fogo",
+     "Ordem dos Engenheiros - Região Norte - Sessão O DL 95/2019 – Reabilitar com Regra – Implicações nas Especialidades de Engenharia Civil",
+     "Ordem dos Engenheiros - “Experiências e desafios no projeto de edifícios\"",
+     "Palestra proferida pelo eng.º Miguel Águas, diretor da ADP Energia, sobre “Eficiência  energética e produção de energia no Grupo Águas de Portugal”",
+     "Palestra “Projeto BIM; REH; Realidade Aumentada” - TOP Informática",
+     "RELACRE- LNEC \"Anomalias devidas à humidade e salubridade em  edifícios”",
+     "SPA",
+     "SPA - Sociedade Portuguesa de Acústica e pelo LNEC –  Laboratório Nacional de Engenharia Civil",
+     "SPA e LNEC",
+     "Seminário  “Elementos  construtivos em edifícios – 3ª edição”",
+     "Seminário  “Elementos construtivos de Edifícios”  – 2ª edição",
+     "Seminário  “Elementos construtivos” – 1ª edição",
+     "Sepctris Portugal",
+     "Serviço Nacional de Bombeiros e pela Liga dos Bombeiros Portugueses",
+     "Subdiretora da Licenciatura em engenharia civil do ISEP",
+     "TELHABEL -  Seminário Interseção 2019",
+     "Universidade do Porto Faculdade de Engenharia",
+     "Visita de Estudo - s estruturas de contenção da obra da Rua D. Pedro  V",
+     "WORKSHOP ARQUITECTOS DE FAMÍLIA - FAUP",
+     "Workshop “Redes Neuronais Artificiais”",
+     "a Passivhouse; Agência de Energia do Porto",
+     "seminário “Elementos  Construtivos em Edifícios – 4ª edição”",
+     "visita de estudo à obra do Quarteirão da antiga Casa Forte,  nas imediações da Praça D. João I",
+     "visita de estudo à reabilitação de um edifício de habitação  unifamiliar (rua 15 de novembro nº 171, no Porto)",
+     "visita e estudo às obras de reabilitação de 2 edifícios de  habitação unifamiliares – Lugar de Fundões, Castelo de Paiva"
+    ],
+    "name": "Teresa Neto",
+    "orcid": "0000-0002-1614-6827"
+   },
+   {
+    "institutions": [],
+    "name": "Teresa Neto",
+    "orcid": "0009-0007-3885-2902"
+   },
+   {
+    "institutions": [
+     "University of Aveiro"
+    ],
+    "name": "Teresa Neto",
+    "orcid": "0000-0001-9002-2155"
+   }
+  ],
+  "name": "Teresa Manuela Batista Neto",
+  "orcid": null,
+  "status": "not-found"
+ },
+ "thomas-junier": {
+  "name": "Thomas Junier",
+  "orcid": "0000-0002-4015-5969",
+  "status": "auto"
+ },
+ "thuong-tran": {
+  "candidates": [
+   {
+    "institutions": [],
+    "name": "Thuong Tran",
+    "orcid": "0000-0003-3220-3534"
+   },
+   {
+    "institutions": [],
+    "name": "Thuong Tran",
+    "orcid": "0000-0002-6364-1628"
+   },
+   {
+    "institutions": [],
+    "name": "Thuong Tran",
+    "orcid": "0000-0002-4690-0341"
+   },
+   {
+    "institutions": [],
+    "name": "Thuong Tran",
+    "orcid": "0009-0003-5539-2574"
+   },
+   {
+    "institutions": [],
+    "name": "Thuong Tran",
+    "orcid": "0009-0007-1264-7855"
+   },
+   {
+    "institutions": [
+     "Học viện Y Dược học Cổ truyền Việt Nam"
+    ],
+    "name": "Thuong Tran",
+    "orcid": "0009-0004-0026-9648"
+   },
+   {
+    "institutions": [
+     "Thai Nguyen University"
+    ],
+    "name": "Thuong Tran",
+    "orcid": "0009-0005-0427-859X"
+   },
+   {
+    "institutions": [
+     "Vietnam National University of Agriculture"
+    ],
+    "name": "THUONG TRAN",
+    "orcid": "0000-0003-1172-041X"
+   },
+   {
+    "institutions": [
+     "Foreign Trade University"
+    ],
+    "name": "Thuong Tran",
+    "orcid": "0009-0006-3103-7633"
+   },
+   {
+    "institutions": [
+     "Trường Đại học Y dược Cần Thơ"
+    ],
+    "name": "THUONG TRAN",
+    "orcid": "0009-0008-8727-3023"
+   },
+   {
+    "institutions": [
+     "Hanoi National University of Education",
+     "Ho Chi Minh City University of Education",
+     "Monash University",
+     "Trường Đại học Thủ Dầu Một",
+     "University of Social Sciences and Humanities"
+    ],
+    "name": "Thuong Tran",
+    "orcid": "0000-0003-1612-6313"
+   },
+   {
+    "institutions": [
+     "Hanoi University of Science and Technology",
+     "University of Lodz"
+    ],
+    "name": "Thuong Quang Tran",
+    "orcid": "0000-0003-0726-7472"
+   },
+   {
+    "institutions": [],
+    "name": "Thuong Hien Tran",
+    "orcid": "0000-0001-8587-5989"
+   }
+  ],
+  "name": "Thuong Van Du Tran",
+  "orcid": null,
+  "status": "not-found"
+ },
+ "valerie-barbie": {
+  "name": "Valérie Barbié",
+  "orcid": "0009-0006-8085-9393",
+  "status": "auto"
+ },
+ "vassilios-ioannidis": {
+  "name": "Vassilios Ioannidis",
+  "orcid": "0000-0002-4209-2578",
+  "status": "auto"
+ },
+ "vasundra-toure": {
+  "name": "Vasundra Touré",
+  "orcid": "0000-0003-4639-4431",
+  "status": "auto"
+ },
+ "vincent-emonet": {
+  "name": "Vincent Emonet",
+  "orcid": "0000-0002-1501-1082",
+  "status": "auto"
+ },
+ "vivienne-gerritsen": {
+  "name": "Vivienne Gerritsen",
+  "orcid": null,
+  "status": "not-found"
+ }
+}

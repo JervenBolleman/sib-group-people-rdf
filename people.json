@@ -1,0 +1,907 @@
+[
+ {
+  "slug": "alan-james-bridge",
+  "name": "Alan James Bridge",
+  "jobTitle": "Director, Swiss-Prot",
+  "groups": [
+   "swiss-prot"
+  ]
+ },
+ {
+  "slug": "anaclaudia-sima",
+  "name": "Ana-Claudia Sima",
+  "jobTitle": "Co-Team Lead, Knowledge Representation Unit",
+  "groups": [
+   "vital-it"
+  ]
+ },
+ {
+  "slug": "andrea-auchincloss",
+  "name": "Andrea Auchincloss",
+  "jobTitle": "Biocurator",
+  "groups": [
+   "swiss-prot"
+  ]
+ },
+ {
+  "slug": "andrea-brites-marto",
+  "name": "Andrea Brites Marto",
+  "jobTitle": "Software developer",
+  "groups": [
+   "personalized-health-informatics"
+  ]
+ },
+ {
+  "slug": "anne-niknejad",
+  "name": "Anne Niknejad",
+  "jobTitle": "Senior Biocurator",
+  "groups": [
+   "vital-it"
+  ]
+ },
+ {
+  "slug": "anthony-arrascue",
+  "name": "Anthony Arrascue Ayala",
+  "jobTitle": "Senior software developer",
+  "groups": [
+   "personalized-health-informatics"
+  ]
+ },
+ {
+  "slug": "arnaud-gos",
+  "name": "Arnaud Gos",
+  "jobTitle": "Biocurator",
+  "groups": [
+   "swiss-prot"
+  ]
+ },
+ {
+  "slug": "arnaud-kerhornou",
+  "name": "Arnaud Kerhornou",
+  "jobTitle": "Senior Software Developer",
+  "groups": [
+   "swiss-prot"
+  ]
+ },
+ {
+  "slug": "beatrice-cuche",
+  "name": "Béatrice Cuche",
+  "jobTitle": "Software Developer",
+  "groups": [
+   "swiss-prot"
+  ]
+ },
+ {
+  "slug": "catherine-rivoire",
+  "name": "Catherine Rivoire",
+  "jobTitle": "Senior Biocurator",
+  "groups": [
+   "swiss-prot"
+  ]
+ },
+ {
+  "slug": "chantal-hulo",
+  "name": "Chantal Hulo",
+  "jobTitle": "Senior Biocurator",
+  "groups": [
+   "swiss-prot"
+  ]
+ },
+ {
+  "slug": "chiara-bortoluzzi",
+  "name": "Chiara Bortoluzzi",
+  "jobTitle": "Data manager",
+  "groups": [
+   "environmental-bioinformatics"
+  ]
+ },
+ {
+  "slug": "christian-deguttry",
+  "name": "Christian de Guttry",
+  "jobTitle": "Scientific Project Manager",
+  "groups": [
+   "environmental-bioinformatics"
+  ]
+ },
+ {
+  "slug": "christian-sigrist",
+  "name": "Christian Sigrist",
+  "jobTitle": "Senior Biocurator",
+  "groups": [
+   "swiss-prot"
+  ]
+ },
+ {
+  "slug": "clara-roujeau",
+  "name": "Clara Roujeau",
+  "jobTitle": "Scientific Project Manager",
+  "groups": [
+   "vital-it"
+  ]
+ },
+ {
+  "slug": "cristina-casals-casas",
+  "name": "Cristina Casals Casas",
+  "jobTitle": "Biocurator",
+  "groups": [
+   "swiss-prot"
+  ]
+ },
+ {
+  "slug": "daniel-walther",
+  "name": "Daniel Walther",
+  "jobTitle": "Team Lead, Software Development & Product Lead",
+  "groups": [
+   "clinical-bioinformatics"
+  ]
+ },
+ {
+  "slug": "davide-chiarugi",
+  "name": "Davide Chiarugi",
+  "jobTitle": "Director, Personalized Health Informatics",
+  "groups": [
+   "personalized-health-informatics"
+  ]
+ },
+ {
+  "slug": "deepak-unni",
+  "name": "Deepak Unni",
+  "jobTitle": "Scientific coordinator fair / rdf",
+  "groups": [
+   "personalized-health-informatics"
+  ]
+ },
+ {
+  "slug": "delphine-baratin",
+  "name": "Delphine Baratin",
+  "jobTitle": "Senior Software Developer",
+  "groups": [
+   "swiss-prot"
+  ]
+ },
+ {
+  "slug": "diana-marek",
+  "name": "Diana Marek",
+  "jobTitle": "Training Project Manager & Senior Computational Biologist",
+  "groups": [
+   "vital-it"
+  ]
+ },
+ {
+  "slug": "dillenn-terumalai",
+  "name": "Dillenn Terumalai",
+  "jobTitle": "Senior Software Developer",
+  "groups": [
+   "clinical-bioinformatics"
+  ]
+ },
+ {
+  "slug": "dmitry-kuznetsov",
+  "name": "Dmitry Kuznetsov",
+  "jobTitle": "Principal Database Architect",
+  "groups": [
+   "vital-it"
+  ]
+ },
+ {
+  "slug": "dolnide-dornevil",
+  "name": "Dolnide Dornevil",
+  "jobTitle": "Administrative Assistant",
+  "groups": [
+   "swiss-prot"
+  ]
+ },
+ {
+  "slug": "edouard-decastro",
+  "name": "Edouard de Castro",
+  "jobTitle": "Senior Software Developer",
+  "groups": [
+   "swiss-prot"
+  ]
+ },
+ {
+  "slug": "elisabeth-coudert",
+  "name": "Elisabeth Coudert",
+  "jobTitle": "Team Lead, Biocuration",
+  "groups": [
+   "swiss-prot"
+  ]
+ },
+ {
+  "slug": "elisabeth-gasteiger",
+  "name": "Elisabeth Gasteiger",
+  "jobTitle": "Senior User Experience and Support Manager",
+  "groups": [
+   "swiss-prot"
+  ]
+ },
+ {
+  "slug": "emmanuel-boutet",
+  "name": "Emmanuel Boutet",
+  "jobTitle": "Biocurator",
+  "groups": [
+   "swiss-prot"
+  ]
+ },
+ {
+  "slug": "eneida-hatcher",
+  "name": "Eneida Hatcher",
+  "jobTitle": "Director, Centre for Pathogen Bioinformatics",
+  "groups": [
+   "centre-for-pathogen-bioinformatics"
+  ]
+ },
+ {
+  "slug": "erik-studer",
+  "name": "Erik Studer",
+  "jobTitle": "Senior Scientific Project Manager",
+  "groups": [
+   "clinical-bioinformatics"
+  ]
+ },
+ {
+  "slug": "etienne-derham",
+  "name": "Etienne de Rham",
+  "jobTitle": "Head of Finances & Vital-IT Operations",
+  "groups": [
+   "vital-it"
+  ]
+ },
+ {
+  "slug": "flavia-marzetta",
+  "name": "Flavia Marzetta",
+  "jobTitle": "Senior Computational Biologist",
+  "groups": [
+   "vital-it"
+  ]
+ },
+ {
+  "slug": "florence-jungo",
+  "name": "Florence Jungo",
+  "jobTitle": "Senior Biocurator",
+  "groups": [
+   "swiss-prot"
+  ]
+ },
+ {
+  "slug": "florence-mehl",
+  "name": "Florence Mehl",
+  "jobTitle": "Computational Biologist",
+  "groups": [
+   "vital-it"
+  ]
+ },
+ {
+  "slug": "florent-tassy",
+  "name": "Florent Tassy",
+  "jobTitle": "Software Developer",
+  "groups": [
+   "clinical-bioinformatics"
+  ]
+ },
+ {
+  "slug": "frederic-burdet",
+  "name": "Frédéric Burdet",
+  "jobTitle": "Senior Computational Biologist",
+  "groups": [
+   "vital-it"
+  ]
+ },
+ {
+  "slug": "gerard-bouchet",
+  "name": "Gerard Bouchet",
+  "jobTitle": "Product Lead and Senior Software Developer",
+  "groups": [
+   "clinical-bioinformatics"
+  ]
+ },
+ {
+  "slug": "guilaine-argoud-puy",
+  "name": "Guilaine Argoud-Puy",
+  "jobTitle": "Biocurator",
+  "groups": [
+   "swiss-prot"
+  ]
+ },
+ {
+  "slug": "harald-witte",
+  "name": "Harald Witte",
+  "jobTitle": "Senior clinical data specialist",
+  "groups": [
+   "personalized-health-informatics"
+  ]
+ },
+ {
+  "slug": "imane-lboukili",
+  "name": "Imane Lboukili",
+  "jobTitle": "Data Scientist",
+  "groups": [
+   "clinical-bioinformatics"
+  ]
+ },
+ {
+  "slug": "iulian-dragan",
+  "name": "Iulian Dragan",
+  "jobTitle": "Senior Database Administrator",
+  "groups": [
+   "vital-it"
+  ]
+ },
+ {
+  "slug": "ivo-de-carvalho",
+  "name": "Ivo de Carvalho",
+  "jobTitle": "Software Developer",
+  "groups": [
+   "clinical-bioinformatics"
+  ]
+ },
+ {
+  "slug": "ivo-pedruzzi",
+  "name": "Ivo Pedruzzi",
+  "jobTitle": "Team Lead, Biocuration",
+  "groups": [
+   "swiss-prot"
+  ]
+ },
+ {
+  "slug": "jan-armida",
+  "name": "Jan Armida",
+  "jobTitle": "Scientific Project Coordinator (FAIR Health Related Data)",
+  "groups": [
+   "personalized-health-informatics"
+  ]
+ },
+ {
+  "slug": "jerven-tjalling-bolleman",
+  "name": "Jerven Tjalling Bolleman",
+  "jobTitle": "Principal Software Engineer",
+  "groups": [
+   "swiss-prot"
+  ]
+ },
+ {
+  "slug": "josefina-lascanomaillard",
+  "name": "Josefina Lascano Maillard",
+  "jobTitle": "Computational Biologist",
+  "groups": [
+   "vital-it"
+  ]
+ },
+ {
+  "slug": "judit-kissblind",
+  "name": "Judit Kiss Blind",
+  "jobTitle": "SIB Member",
+  "groups": [
+   "personalized-health-informatics"
+  ]
+ },
+ {
+  "slug": "julia-maurer",
+  "name": "Julia Maurer",
+  "jobTitle": "SIB Member",
+  "groups": [
+   "personalized-health-informatics"
+  ]
+ },
+ {
+  "slug": "julius-winter",
+  "name": "Julius Winter",
+  "jobTitle": "Computational biologist",
+  "groups": [
+   "clinical-bioinformatics"
+  ]
+ },
+ {
+  "slug": "kamal-chikh-echioukh",
+  "name": "Kamal Chikh Echioukh",
+  "jobTitle": "System Administrator",
+  "groups": [
+   "swiss-prot"
+  ]
+ },
+ {
+  "slug": "karin-sonesson",
+  "name": "Karin Sonesson",
+  "jobTitle": "Senior System Administrator",
+  "groups": [
+   "swiss-prot"
+  ]
+ },
+ {
+  "slug": "kristian-axelsen",
+  "name": "Kristian Axelsen",
+  "jobTitle": "Senior Biocurator",
+  "groups": [
+   "swiss-prot"
+  ]
+ },
+ {
+  "slug": "kubilay-meydan",
+  "name": "Kubilay Meydan",
+  "jobTitle": "Data Analyst",
+  "groups": [
+   "vital-it"
+  ]
+ },
+ {
+  "slug": "laure-verbregue",
+  "name": "Laure Verbregue",
+  "jobTitle": "Administrative Assistant",
+  "groups": [
+   "swiss-prot"
+  ]
+ },
+ {
+  "slug": "leonore-wigger",
+  "name": "Leonore Wigger",
+  "jobTitle": "Senior Computational Biologist",
+  "groups": [
+   "vital-it"
+  ]
+ },
+ {
+  "slug": "lionel-breuza",
+  "name": "Lionel Breuza",
+  "jobTitle": "Team Lead, Biocuration",
+  "groups": [
+   "swiss-prot"
+  ]
+ },
+ {
+  "slug": "livia-famiglietti",
+  "name": "Maria Livia Famiglietti",
+  "jobTitle": "Senior Biocurator",
+  "groups": [
+   "swiss-prot"
+  ]
+ },
+ {
+  "slug": "lou-gotz",
+  "name": "Lou Götz",
+  "jobTitle": "Software Developer",
+  "groups": [
+   "vital-it"
+  ]
+ },
+ {
+  "slug": "lucila-aimo",
+  "name": "Lucila Aimo",
+  "jobTitle": "SIB Member",
+  "groups": [
+   "swiss-prot"
+  ]
+ },
+ {
+  "slug": "lucille-pourcel",
+  "name": "Lucille Pourcel",
+  "jobTitle": "Biocurator",
+  "groups": [
+   "swiss-prot"
+  ]
+ },
+ {
+  "slug": "manuela-pruess",
+  "name": "Manuela Pruess",
+  "jobTitle": "Grant Coordinator",
+  "groups": [
+   "swiss-prot",
+   "vital-it"
+  ]
+ },
+ {
+  "slug": "marc-feuermann",
+  "name": "Marc Feuermann",
+  "jobTitle": "Senior Biocurator",
+  "groups": [
+   "swiss-prot"
+  ]
+ },
+ {
+  "slug": "marco-pagni",
+  "name": "Marco Pagni",
+  "jobTitle": "Team Lead, Computational Biology",
+  "groups": [
+   "vital-it"
+  ]
+ },
+ {
+  "slug": "mark-ibberson",
+  "name": "Mark Ibberson",
+  "jobTitle": "Director, Vital-IT",
+  "groups": [
+   "vital-it"
+  ]
+ },
+ {
+  "slug": "markus-mueller",
+  "name": "Markus Mueller",
+  "jobTitle": "Principal Computational Biologist",
+  "groups": [
+   "vital-it"
+  ]
+ },
+ {
+  "slug": "matthieu-fillon",
+  "name": "Matthieu Fillon",
+  "jobTitle": "Senior software developer",
+  "groups": [
+   "clinical-bioinformatics"
+  ]
+ },
+ {
+  "slug": "maya-zimmermann",
+  "name": "Maya Zimmermann",
+  "jobTitle": "SIB Member",
+  "groups": [
+   "personalized-health-informatics"
+  ]
+ },
+ {
+  "slug": "miriam-tesfai",
+  "name": "Miriam Tesfai",
+  "jobTitle": "Senior Administrative Assistant",
+  "groups": [
+   "clinical-bioinformatics"
+  ]
+ },
+ {
+  "slug": "monica-pozzato",
+  "name": "Monica Pozzato",
+  "jobTitle": "Database Administrator",
+  "groups": [
+   "swiss-prot"
+  ]
+ },
+ {
+  "slug": "muriel-metrailler-lenoir",
+  "name": "Muriel Metrailler Lenoir",
+  "jobTitle": "Senior Administrative Assistant",
+  "groups": [
+   "vital-it"
+  ]
+ },
+ {
+  "slug": "nadine-gruaz",
+  "name": "Nadine Gruaz-Gumowski",
+  "jobTitle": "Biocurator",
+  "groups": [
+   "swiss-prot"
+  ]
+ },
+ {
+  "slug": "nathan-kulling",
+  "name": "Nathan Külling",
+  "jobTitle": "Research scientist",
+  "groups": [
+   "environmental-bioinformatics"
+  ]
+ },
+ {
+  "slug": "nevila-nouspikel",
+  "name": "Nevila Nouspikel",
+  "jobTitle": "Biocurator",
+  "groups": [
+   "swiss-prot"
+  ]
+ },
+ {
+  "slug": "nicole-redaschi",
+  "name": "Nicole Redaschi",
+  "jobTitle": "Head of Software Development, Swiss-Prot",
+  "groups": [
+   "swiss-prot"
+  ]
+ },
+ {
+  "slug": "olivier-martin",
+  "name": "Olivier Martin",
+  "jobTitle": "Software Developer",
+  "groups": [
+   "vital-it"
+  ]
+ },
+ {
+  "slug": "orlin-topalov",
+  "name": "Orlin Topalov",
+  "jobTitle": "Software Developer",
+  "groups": [
+   "vital-it"
+  ]
+ },
+ {
+  "slug": "owen-appleton",
+  "name": "Owen Appleton",
+  "jobTitle": "Senior IT Services Manager",
+  "groups": [
+   "personalized-health-informatics"
+  ]
+ },
+ {
+  "slug": "panayiotis-smeros",
+  "name": "Panayiotis Smeros",
+  "jobTitle": "Research scientist",
+  "groups": [
+   "vital-it"
+  ]
+ },
+ {
+  "slug": "parit-bansal",
+  "name": "Parit Bansal",
+  "jobTitle": "Senior Software Developer",
+  "groups": [
+   "swiss-prot"
+  ]
+ },
+ {
+  "slug": "pascale-gaudet",
+  "name": "Pascale Gaudet",
+  "jobTitle": "Senior Project Manager",
+  "groups": [
+   "swiss-prot"
+  ]
+ },
+ {
+  "slug": "patricia-fernandezpinilla",
+  "name": "Patricia Fernandez Pinilla",
+  "jobTitle": "Technical Coordinator",
+  "groups": [
+   "personalized-health-informatics"
+  ]
+ },
+ {
+  "slug": "patrick-masson",
+  "name": "Patrick Masson",
+  "jobTitle": "Senior Biocurator",
+  "groups": [
+   "swiss-prot"
+  ]
+ },
+ {
+  "slug": "paul-thomas",
+  "name": "Paul Thomas",
+  "jobTitle": "Co-Director, Swiss-Prot",
+  "groups": [
+   "swiss-prot"
+  ]
+ },
+ {
+  "slug": "philipp-bucher",
+  "name": "Philipp Bucher",
+  "jobTitle": "SIB Member",
+  "groups": [
+   "vital-it"
+  ]
+ },
+ {
+  "slug": "philippe-le-mercier",
+  "name": "Philippe Le Mercier",
+  "jobTitle": "Resource Manager",
+  "groups": [
+   "swiss-prot"
+  ]
+ },
+ {
+  "slug": "rainer-krug",
+  "name": "Rainer Krug",
+  "jobTitle": "Senior Data Specialist",
+  "groups": [
+   "environmental-bioinformatics"
+  ]
+ },
+ {
+  "slug": "regan-geissmann",
+  "name": "Regan Geissmann",
+  "jobTitle": "Administrative assistant",
+  "groups": [
+   "personalized-health-informatics"
+  ]
+ },
+ {
+  "slug": "robert-waterhouse",
+  "name": "Robert Waterhouse",
+  "jobTitle": "Director Environmental Bioinformatics",
+  "groups": [
+   "environmental-bioinformatics"
+  ]
+ },
+ {
+  "slug": "robin-engler",
+  "name": "Robin Engler",
+  "jobTitle": "Senior Computational Biologist",
+  "groups": [
+   "vital-it"
+  ]
+ },
+ {
+  "slug": "robin-liechti",
+  "name": "Robin Liechti",
+  "jobTitle": "Team Lead, Computational Biology",
+  "groups": [
+   "vital-it"
+  ]
+ },
+ {
+  "slug": "roman-mylonas",
+  "name": "Roman Mylonas",
+  "jobTitle": "SIB Member",
+  "groups": [
+   "vital-it"
+  ]
+ },
+ {
+  "slug": "ruijie-wang",
+  "name": "Ruijie Wang",
+  "jobTitle": "Research scientist",
+  "groups": [
+   "vital-it"
+  ]
+ },
+ {
+  "slug": "sabine-oesterle",
+  "name": "Sabine Österle",
+  "jobTitle": "Lead, Semantic Interoperability Strategy and FAIR Data Team",
+  "groups": [
+   "personalized-health-informatics"
+  ]
+ },
+ {
+  "slug": "salvo-paesano",
+  "name": "Salvo Giacomo Paesano",
+  "jobTitle": "Team Lead, System Administration",
+  "groups": [
+   "swiss-prot"
+  ]
+ },
+ {
+  "slug": "samuel-neuenschwander",
+  "name": "Samuel Neuenschwander",
+  "jobTitle": "Senior Computational Biologist",
+  "groups": [
+   "vital-it"
+  ]
+ },
+ {
+  "slug": "sandrine-pilbout",
+  "name": "Sandrine Pilbout",
+  "jobTitle": "Senior Biocurator",
+  "groups": [
+   "swiss-prot"
+  ]
+ },
+ {
+  "slug": "sebastien-gehant",
+  "name": "Sebastien Gehant",
+  "jobTitle": "Senior Software Developer",
+  "groups": [
+   "swiss-prot"
+  ]
+ },
+ {
+  "slug": "sebastien-moretti",
+  "name": "Sebastien Moretti",
+  "jobTitle": "Senior Software Developer and System Administrator",
+  "groups": [
+   "vital-it"
+  ]
+ },
+ {
+  "slug": "sergio-guarino",
+  "name": "Sergio Guarino",
+  "jobTitle": "Administrative and management position",
+  "groups": [
+   "personalized-health-informatics"
+  ]
+ },
+ {
+  "slug": "shubham-kapoor",
+  "name": "Shubham Kapoor",
+  "jobTitle": "Lead BioMedIT Research IT services and Team",
+  "groups": [
+   "personalized-health-informatics"
+  ]
+ },
+ {
+  "slug": "shyamala-sundaram",
+  "name": "Shyamala Sundaram",
+  "jobTitle": "Biocurator",
+  "groups": [
+   "swiss-prot"
+  ]
+ },
+ {
+  "slug": "simone-guzzi",
+  "name": "Simone Guzzi",
+  "jobTitle": "Software Developer",
+  "groups": [
+   "personalized-health-informatics"
+  ]
+ },
+ {
+  "slug": "sonja-voordijk",
+  "name": "Sonja Voordijk",
+  "jobTitle": "SIB Member",
+  "groups": [
+   "clinical-bioinformatics"
+  ]
+ },
+ {
+  "slug": "sylvain-poux",
+  "name": "Sylvain Poux",
+  "jobTitle": "Lead Biocurator, Quality Assurance",
+  "groups": [
+   "swiss-prot"
+  ]
+ },
+ {
+  "slug": "tarcisio-mendes",
+  "name": "Tarcisio Mendes de Farias",
+  "jobTitle": "Co-Team Lead, Knowledge Representation Unit",
+  "groups": [
+   "vital-it"
+  ]
+ },
+ {
+  "slug": "teresa-neto",
+  "name": "Teresa Manuela Batista Neto",
+  "jobTitle": "Senior Software Developer",
+  "groups": [
+   "swiss-prot"
+  ]
+ },
+ {
+  "slug": "thomas-junier",
+  "name": "Thomas Junier",
+  "jobTitle": "Senior Computational Biologist",
+  "groups": [
+   "vital-it"
+  ]
+ },
+ {
+  "slug": "thuong-tran",
+  "name": "Thuong Van Du Tran",
+  "jobTitle": "Senior Computational Biologist",
+  "groups": [
+   "vital-it"
+  ]
+ },
+ {
+  "slug": "valerie-barbie",
+  "name": "Valérie Barbié",
+  "jobTitle": "Director, Clinical Bioinformatics",
+  "groups": [
+   "clinical-bioinformatics"
+  ]
+ },
+ {
+  "slug": "vassilios-ioannidis",
+  "name": "Vassilios Ioannidis",
+  "jobTitle": "Team Lead, Computational Biology",
+  "groups": [
+   "vital-it"
+  ]
+ },
+ {
+  "slug": "vasundra-toure",
+  "name": "Vasundra Touré",
+  "jobTitle": "Scientific Coordinator FAIR / RDF",
+  "groups": [
+   "personalized-health-informatics"
+  ]
+ },
+ {
+  "slug": "vincent-emonet",
+  "name": "Vincent Emonet",
+  "jobTitle": "Data Scientist, Knowledge Representation Unit",
+  "groups": [
+   "vital-it"
+  ]
+ },
+ {
+  "slug": "vivienne-gerritsen",
+  "name": "Vivienne Gerritsen",
+  "jobTitle": "Senior Scientific Writer",
+  "groups": [
+   "swiss-prot"
+  ]
+ }
+]
