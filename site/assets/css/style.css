@@ -1,0 +1,765 @@
+:root {
+  color-scheme: light dark;
+  --fg: #1b1f23;
+  --bg: #ffffff;
+  --muted: #57606a;
+  --border: #d0d7de;
+  --code-bg: #f6f8fa;
+  --accent: #0969da;
+  --accent-contrast: #ffffff;
+  --ok-bg: #dafbe1;
+  --err-bg: #ffebe9;
+  --err-fg: #82071e;
+  --syn-keyword: #cf222e;
+  --syn-string: #0a3069;
+  --syn-function: #8250df;
+  --syn-number: #005cc5;
+  --syn-variable: #953800;
+  --comunica-fg: #9c0510;
+  --comunica-bg: #fdeceb;
+  --wikidata-fg: #0b7285;
+  --orcid-fg: #5a7d1a;
+  --note-bg: #ddf4ff;
+  max-width: 100%;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --fg: #e6edf3;
+    --bg: #0d1117;
+    --muted: #8b949e;
+    --border: #30363d;
+    --code-bg: #161b22;
+    --accent: #4493f8;
+    --accent-contrast: #0d1117;
+    --ok-bg: #12261e;
+    --err-bg: #2d1214;
+    --err-fg: #ff8182;
+    --comunica-fg: #ff8b93;
+    --comunica-bg: #2d1214;
+    --wikidata-fg: #39c5cf;
+    --orcid-fg: #a6ce39;
+    --note-bg: #122b42;
+    --syn-keyword: #ff7b72;
+    --syn-string: #a5d6ff;
+    --syn-function: #d2a8ff;
+    --syn-number: #79c0ff;
+    --syn-variable: #ffa657;
+  }
+}
+
+* { box-sizing: border-box; }
+
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--fg);
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+  line-height: 1.55;
+}
+
+.site-header {
+  border-bottom: 1px solid var(--border);
+  padding: 1rem clamp(16px, 4vw, 2rem);
+}
+
+.site-header .brand {
+  font-weight: 700;
+  text-decoration: none;
+  color: var(--fg);
+  font-size: 1.05rem;
+}
+
+.site-nav {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.25rem 1rem;
+  margin-top: 0.5rem;
+}
+
+.site-nav a {
+  color: var(--muted);
+  text-decoration: none;
+  font-size: 0.92rem;
+}
+
+.site-nav a:hover, .site-nav a.active {
+  color: var(--accent);
+}
+
+.nav-dropdown {
+  position: relative;
+}
+
+.nav-dropdown summary {
+  list-style: none;
+  cursor: pointer;
+  color: var(--muted);
+  font-size: 0.92rem;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.3rem;
+}
+
+.nav-dropdown summary::-webkit-details-marker {
+  display: none;
+}
+
+.nav-dropdown summary::marker {
+  content: '';
+}
+
+.nav-dropdown summary::after {
+  content: '\25BE';
+  font-size: 0.7em;
+  position: relative;
+  top: 1px;
+}
+
+.nav-dropdown summary:hover,
+.nav-dropdown summary.active,
+.nav-dropdown[open] summary {
+  color: var(--accent);
+}
+
+.nav-dropdown-menu {
+  position: absolute;
+  top: 100%;
+  left: 0;
+  margin-top: 0.5rem;
+  display: flex;
+  flex-direction: column;
+  min-width: 190px;
+  background: var(--bg);
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  padding: 0.35rem;
+  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.15);
+  z-index: 30;
+}
+
+.nav-dropdown-menu a {
+  padding: 0.4rem 0.6rem;
+  border-radius: 4px;
+  white-space: nowrap;
+}
+
+.nav-dropdown-menu a:hover {
+  background: var(--code-bg);
+}
+
+.nav-dropdown-menu a.active {
+  color: var(--accent);
+  font-weight: 600;
+}
+
+main {
+  max-width: 1120px;
+  margin: 0 auto;
+  padding: 1.5rem clamp(16px, 4vw, 2rem) 4rem;
+}
+
+.page-layout {
+  display: grid;
+  grid-template-columns: minmax(0, 860px) 220px;
+  gap: 2.5rem;
+  justify-content: center;
+  align-items: start;
+}
+
+.page-layout:not(:has(.page-toc)) {
+  grid-template-columns: minmax(0, 860px);
+}
+
+.page-content {
+  min-width: 0;
+}
+
+.page-toc {
+  position: sticky;
+  top: 1.25rem;
+  align-self: start;
+  font-size: 0.85rem;
+  max-height: calc(100vh - 2.5rem);
+  overflow-y: auto;
+}
+
+.page-toc-title {
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  font-size: 0.72rem;
+  color: var(--muted);
+  margin: 0 0 0.5rem;
+}
+
+.page-toc ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  border-left: 1px solid var(--border);
+}
+
+.page-toc li {
+  margin: 0;
+}
+
+.page-toc a {
+  display: block;
+  padding: 0.25rem 0 0.25rem 0.75rem;
+  margin-left: -1px;
+  border-left: 2px solid transparent;
+  color: var(--muted);
+  text-decoration: none;
+  line-height: 1.35;
+}
+
+.page-toc a:hover {
+  color: var(--accent);
+  border-left-color: var(--border);
+}
+
+.page-toc-h3 a {
+  padding-left: 1.5rem;
+  font-size: 0.92em;
+}
+
+@media (max-width: 1000px) {
+  main {
+    max-width: 860px;
+  }
+
+  .page-layout {
+    grid-template-columns: minmax(0, 1fr);
+  }
+
+  .page-toc {
+    position: static;
+    order: -1;
+    max-height: none;
+    border: 1px solid var(--border);
+    border-radius: 6px;
+    padding: 0.75rem 1rem;
+    margin-bottom: 0.5rem;
+  }
+}
+
+.notebook-download {
+  margin: 0 0 0.5rem;
+  text-align: right;
+}
+
+.notebook-download a {
+  display: inline-block;
+  font-size: 0.85rem;
+  color: var(--muted);
+  text-decoration: none;
+  padding: 0.3rem 0.7rem;
+  border: 1px solid var(--border);
+  border-radius: 999px;
+}
+
+.notebook-download a:hover {
+  color: var(--accent);
+  border-color: var(--accent);
+}
+
+h1, h2, h3, h4 { line-height: 1.25; }
+h1 { font-size: 1.9rem; }
+h2 { font-size: 1.4rem; margin-top: 2.2rem; border-top: 1px solid var(--border); padding-top: 1.5rem; }
+h3 { font-size: 1.15rem; margin-top: 1.6rem; }
+
+a { color: var(--accent); }
+
+code {
+  background: var(--code-bg);
+  padding: 0.15em 0.35em;
+  border-radius: 4px;
+  font-size: 0.9em;
+}
+
+pre {
+  background: var(--code-bg);
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  padding: 0.9rem 1rem;
+  overflow-x: auto;
+}
+
+pre code { background: none; padding: 0; }
+
+.token.comment { color: var(--muted); font-style: italic; }
+.token.string,
+.token.multiline-string,
+.token.url { color: var(--syn-string); }
+.token.keyword,
+.token.tag { color: var(--syn-keyword); font-weight: 600; }
+.token.function { color: var(--syn-function); }
+.token.number,
+.token.boolean { color: var(--syn-number); }
+.token.variable { color: var(--syn-variable); }
+.token.punctuation { color: var(--muted); }
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+  overflow-x: auto;
+  display: block;
+  margin: 0.75rem 0;
+}
+
+th, td {
+  border: 1px solid var(--border);
+  padding: 0.4rem 0.6rem;
+  text-align: left;
+  font-size: 0.92rem;
+}
+
+th { background: var(--code-bg); }
+
+.sparql-fixture {
+  margin: 1rem 0 0.5rem;
+  border: 1px solid var(--border);
+  border-radius: 6px;
+}
+
+.sparql-fixture summary {
+  cursor: pointer;
+  padding: 0.5rem 0.9rem;
+  font-size: 0.88rem;
+  color: var(--muted);
+}
+
+.sparql-editable-hint {
+  font-style: italic;
+}
+
+.sparql-fixture pre {
+  margin: 0;
+  border: none;
+  border-top: 1px solid var(--border);
+  border-radius: 0;
+}
+
+.sparql-example {
+  margin: 0.5rem 0 1.75rem;
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  overflow: hidden;
+}
+
+.sparql-example .sparql-query {
+  margin: 0;
+  border: none;
+  border-radius: 0;
+}
+
+[contenteditable="true"] {
+  outline: none;
+  cursor: text;
+}
+
+[contenteditable="true"]:hover {
+  box-shadow: inset 0 0 0 1px var(--accent);
+}
+
+[contenteditable="true"]:focus {
+  box-shadow: inset 0 0 0 2px var(--accent);
+  background: var(--bg);
+}
+
+.sparql-example-toolbar,
+.sparql-fixture-toolbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0.5rem;
+  padding: 0.5rem 0.9rem;
+  background: var(--code-bg);
+  border-top: 1px solid var(--border);
+}
+
+.sparql-fixture-toolbar {
+  border-radius: 0 0 6px 6px;
+}
+
+.sparql-btn {
+  border: none;
+  border-radius: 5px;
+  padding: 0.4rem 0.9rem;
+  font-size: 0.9rem;
+  cursor: pointer;
+}
+
+.sparql-run,
+.sparql-graph-toggle {
+  background: var(--accent);
+  color: var(--accent-contrast);
+}
+
+.sparql-btn:disabled { opacity: 0.6; cursor: progress; }
+.sparql-btn:hover:not(:disabled) { filter: brightness(1.08); }
+
+.sparql-btn-secondary {
+  background: transparent;
+  color: var(--muted);
+  box-shadow: inset 0 0 0 1px var(--border);
+}
+
+.sparql-reference-note {
+  font-size: 0.85rem;
+  color: var(--muted);
+}
+
+.sparql-results {
+  padding: 0 0.9rem;
+}
+
+.sparql-results:empty { padding: 0; }
+
+.sparql-empty {
+  color: var(--muted);
+  font-style: italic;
+  padding: 0.75rem 0;
+}
+
+.sparql-ask-result {
+  font-weight: 700;
+  font-size: 1.05rem;
+  padding: 0.75rem 0;
+}
+
+.sparql-reasoner-label {
+  font-weight: 600;
+  padding: 0.75rem 0 0.25rem;
+}
+
+.sparql-reasoner-output {
+  margin: 0 0 0.75rem;
+  white-space: pre-wrap;
+}
+
+.sparql-error {
+  background: var(--err-bg);
+  color: var(--err-fg);
+  border: none;
+  border-radius: 4px;
+  margin: 0.75rem 0;
+  white-space: pre-wrap;
+}
+
+.sparql-graph {
+  border-top: 1px solid var(--border);
+  background: var(--bg);
+}
+
+.sparql-graph:empty {
+  border-top: none;
+}
+
+.sparql-graph-svg {
+  display: block;
+  touch-action: none;
+  cursor: grab;
+}
+
+.sparql-graph-svg:active {
+  cursor: grabbing;
+}
+
+.sparql-graph-links line {
+  stroke: var(--muted);
+  stroke-opacity: 0.6;
+  stroke-width: 1.5px;
+
+  &.sparql-graph-link-predicate {
+    stroke-dasharray: 2 3;
+    stroke-opacity: 0.45;
+    stroke-width: 1px;
+  }
+
+  &.sparql-graph-link-source-wikidata {
+    stroke: var(--wikidata-fg);
+    stroke-opacity: 0.8;
+  }
+
+  &.sparql-graph-link-source-orcid {
+    stroke: var(--orcid-fg);
+    stroke-opacity: 0.8;
+  }
+}
+
+.sparql-graph-link-labels text {
+  fill: var(--muted);
+  font-size: 10px;
+  text-anchor: middle;
+  paint-order: stroke;
+  stroke: var(--bg);
+  stroke-width: 3px;
+
+  &.sparql-graph-link-source-wikidata {
+    fill: var(--wikidata-fg);
+  }
+
+  &.sparql-graph-link-source-orcid {
+    fill: var(--orcid-fg);
+  }
+}
+
+.sparql-graph-nodes circle {
+  stroke: var(--bg);
+  stroke-width: 1.5px;
+}
+
+.sparql-graph-nodes text {
+  fill: var(--fg);
+  font-size: 11px;
+  font-weight: 600;
+  text-anchor: middle;
+  paint-order: stroke;
+  stroke: var(--bg);
+  stroke-width: 3px;
+}
+
+.sparql-graph-nodes g {
+  cursor: grab;
+}
+
+.sparql-graph-node-literal {
+  rect {
+    fill: var(--code-bg);
+    stroke: var(--muted);
+    stroke-width: 1.5px;
+  }
+
+  text {
+    fill: var(--fg);
+    font-size: 11px;
+    font-weight: 400;
+    font-style: italic;
+    text-anchor: middle;
+    paint-order: stroke;
+    stroke: none;
+  }
+}
+
+.sparql-graph-node-source-wikidata {
+  circle {
+    fill: var(--wikidata-fg);
+  }
+
+  rect {
+    stroke: var(--wikidata-fg);
+    stroke-width: 2px;
+  }
+}
+
+.sparql-graph-node-source-orcid {
+  circle {
+    fill: var(--orcid-fg);
+  }
+
+  rect {
+    stroke: var(--orcid-fg);
+    stroke-width: 2px;
+  }
+}
+
+.sparql-graph-empty {
+  color: var(--muted);
+  font-style: italic;
+  padding: 0.9rem;
+  margin: 0;
+}
+
+.sparql-shacl-graph-svg .sparql-shacl-edge-extends {
+  stroke: var(--accent);
+  stroke-opacity: 0.7;
+  stroke-width: 1.5px;
+  stroke-dasharray: 4 3;
+}
+
+.sparql-shacl-graph-svg .sparql-shacl-edge-property {
+  stroke: var(--muted);
+  stroke-opacity: 0.6;
+  stroke-width: 1.5px;
+}
+
+.sparql-shacl-node-shape rect {
+  fill: var(--code-bg);
+  stroke: var(--accent);
+  stroke-width: 1.5px;
+}
+
+.sparql-shacl-node-shape text {
+  fill: var(--fg);
+  font-size: 11px;
+  font-weight: 600;
+}
+
+.sparql-shacl-node-class circle {
+  fill: #3fb950;
+  stroke: var(--bg);
+  stroke-width: 1.5px;
+}
+
+.sparql-shacl-node-datatype circle {
+  fill: #d29922;
+  stroke: var(--bg);
+  stroke-width: 1.5px;
+}
+
+.sparql-shacl-node-class text,
+.sparql-shacl-node-datatype text {
+  fill: var(--fg);
+  font-size: 11px;
+  font-weight: 600;
+  text-anchor: middle;
+  paint-order: stroke;
+  stroke: var(--bg);
+  stroke-width: 3px;
+}
+
+.sparql-shacl-node rect,
+.sparql-shacl-node circle {
+  cursor: grab;
+}
+
+.reference-block {
+  border: 1px dashed var(--border);
+  border-radius: 6px;
+  padding: 0.9rem 1rem;
+  margin: 1rem 0 1.75rem;
+}
+
+.sparql-live-fetch {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 0.6rem;
+  border: 1px dashed var(--border);
+  border-radius: 6px;
+  padding: 0.9rem 1rem;
+  margin: 1rem 0 1.75rem;
+
+  .sparql-live-fetch-legend {
+    margin: 0;
+    font-size: 0.8rem;
+    color: var(--muted);
+  }
+
+  .sparql-live-fetch-swatch {
+    display: inline-block;
+    width: 0.7em;
+    height: 0.7em;
+    border-radius: 50%;
+    margin: 0 0.3em 0 0.9em;
+    vertical-align: middle;
+
+    &.sparql-live-fetch-swatch-wikidata {
+      background: var(--wikidata-fg);
+      margin-left: 0;
+    }
+
+    &.sparql-live-fetch-swatch-orcid {
+      background: var(--orcid-fg);
+    }
+  }
+
+  .sparql-live-fetch-status {
+    margin: 0;
+    font-size: 0.85rem;
+    color: var(--muted);
+
+    &.is-error {
+      color: var(--err-fg);
+    }
+  }
+}
+
+.comunica-note {
+  display: flex;
+  align-items: flex-start;
+  gap: 0.75rem;
+  border: 1px solid var(--comunica-fg);
+  border-left-width: 4px;
+  border-radius: 6px;
+  padding: 0.9rem 1rem;
+  margin: 1rem 0 1.75rem;
+  background: var(--comunica-bg);
+
+  .comunica-icon {
+    flex: none;
+    width: 26px;
+    height: 26px;
+    margin-top: 0.15rem;
+    fill: var(--comunica-fg);
+  }
+
+  .comunica-note-body {
+    min-width: 0;
+  }
+
+  .comunica-note-label {
+    margin: 0 0 0.35rem;
+    color: var(--comunica-fg);
+    font-size: 0.75rem;
+    font-weight: 700;
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+  }
+}
+
+/* The one consistent way this site marks up a short side-remark -- a "Note",
+   "One honest caveat", "Worth remembering", whatever a page's prose used to
+   call it ad hoc -- so every aside looks the same everywhere instead of each
+   page inventing its own unstyled lead-in phrase. Reuses --accent rather
+   than a dedicated color pair: a plain informational note doesn't need its
+   own hue the way a branded Comunica-limitation callout does. */
+.sparql-note {
+  display: flex;
+  align-items: flex-start;
+  gap: 0.75rem;
+  border: 1px solid var(--accent);
+  border-left-width: 4px;
+  border-radius: 6px;
+  padding: 0.9rem 1rem;
+  margin: 1rem 0 1.75rem;
+  background: var(--note-bg);
+
+  .sparql-note-icon {
+    flex: none;
+    width: 22px;
+    height: 22px;
+    margin-top: 0.15rem;
+    color: var(--accent);
+  }
+
+  .sparql-note-body {
+    min-width: 0;
+  }
+
+  .sparql-note-label {
+    margin: 0 0 0.35rem;
+    color: var(--accent);
+    font-size: 0.75rem;
+    font-weight: 700;
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+  }
+}
+
+.reference-block .reference-label {
+  font-size: 0.8rem;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  color: var(--muted);
+  margin-bottom: 0.5rem;
+}
+
+.site-footer {
+  border-top: 1px solid var(--border);
+  color: var(--muted);
+  font-size: 0.85rem;
+  padding: 1.5rem clamp(16px, 4vw, 2rem) 3rem;
+  text-align: center;
+}

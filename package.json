@@ -1,0 +1,17 @@
+{
+  "name": "sib-group-people-rdf",
+  "private": true,
+  "version": "1.0.0",
+  "description": "SIB groups, people, papers and courses as schema.org RDF, queried in the browser with Comunica.",
+  "type": "module",
+  "scripts": {
+    "build": "node site/build.mjs",
+    "serve": "npx --yes serve _site"
+  },
+  "devDependencies": {
+    "@comunica/query-sparql": "^5.4.1",
+    "esbuild": "^0.24.0",
+    "n3": "^1.17.4",
+    "prismjs": "^1.29.0"
+  }
+}

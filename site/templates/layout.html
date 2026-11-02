@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{{TITLE}}</title>
+<link rel="stylesheet" href="{{BASE}}assets/css/style.css">
+</head>
+<body>
+<header class="site-header">
+  <a class="brand" href="{{BASE}}index.html">SIB people and groups</a>
+  <nav class="site-nav">
+{{NAV}}
+  </nav>
+</header>
+<main>
+{{NOTEBOOK}}
+<div class="page-layout">
+  <div class="page-content">
+{{CONTENT}}
+  </div>
+  {{TOC}}
+</div>
+</main>
+<footer class="site-footer">
+  Queries on this site run entirely in your browser with <a href="https://comunica.dev/">Comunica</a> against the graph embedded in the page - nothing is sent to a server. The data and queries are editable - try changing them and running again.
+</footer>
+<script src="{{BASE}}assets/js/comunica-bundle.js"></script>
+<script src="{{BASE}}assets/js/prism-bundle.js"></script>
+<script src="{{BASE}}assets/js/sparql-runner.js"></script>
+</body>
+</html>

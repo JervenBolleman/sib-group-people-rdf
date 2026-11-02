@@ -12,7 +12,7 @@ Papers and courses are only linked to people that were found in a group director
 Matching is by name: author "Barbie V" matches "Valerie Barbie" when the surname and
 first initial agree. Common surnames can give false links, so review before use.
 
-Usage: python3 crawl_sib.py [--out sib.ttl] [--cache cache] [--refresh] [--no-courses]
+Usage: python3 crawl_sib.py [--out data/sib.ttl] [--cache cache] [--refresh] [--no-courses]
 """
 import argparse
 import hashlib
@@ -328,7 +328,7 @@ def doi_iri(doi):
 
 def main():
     ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
-    ap.add_argument("--out", default=os.path.join(HERE, "sib.ttl"))
+    ap.add_argument("--out", default=os.path.join(HERE, "data", "sib.ttl"))
     ap.add_argument("--cache", default=os.path.join(HERE, "cache"))
     ap.add_argument("--refresh", action="store_true", help="ignore cached pages and refetch")
     ap.add_argument("--no-courses", action="store_true", help="skip the training course crawl")
