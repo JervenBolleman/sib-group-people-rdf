@@ -1,0 +1,187 @@
+.people-graph {
+  margin: 1.25rem 0 2rem;
+}
+
+.people-graph .people-graph-controls {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.6rem 1.2rem;
+  align-items: center;
+  margin-bottom: 0.75rem;
+}
+
+.people-graph .people-graph-filters {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem 1rem;
+}
+
+.people-graph .people-graph-filter {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+  font-size: 0.9rem;
+  cursor: pointer;
+}
+
+.people-graph .people-graph-filter::before {
+  content: "";
+  width: 0.75rem;
+  height: 0.75rem;
+  border-radius: 50%;
+  background: var(--muted);
+}
+
+.people-graph .people-graph-filter.sib::before {
+  background: var(--wikidata-fg);
+}
+
+.people-graph .people-graph-filter.group::before {
+  background: var(--syn-function);
+}
+
+.people-graph .people-graph-filter.person::before {
+  background: var(--accent);
+}
+
+.people-graph .people-graph-filter.course::before {
+  background: var(--syn-variable);
+}
+
+.people-graph .people-graph-search {
+  flex: 1 1 14rem;
+  min-width: 0;
+  padding: 0.4rem 0.6rem;
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  background: var(--bg);
+  color: var(--fg);
+  font: inherit;
+}
+
+.people-graph .people-graph-stage {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  align-items: stretch;
+}
+
+.people-graph .people-graph-canvas {
+  flex: 1 1 min(36rem, 100%);
+  min-width: 0;
+  height: min(70vh, 40rem);
+  min-height: 26rem;
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  background: var(--code-bg);
+  overflow: hidden;
+}
+
+.people-graph .people-graph-canvas svg {
+  display: block;
+  width: 100%;
+  height: 100%;
+  cursor: grab;
+}
+
+.people-graph .people-graph-details {
+  flex: 0 1 17rem;
+  min-width: 0;
+  max-height: min(70vh, 40rem);
+  overflow-y: auto;
+  padding: 0.8rem 1rem;
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  background: var(--bg);
+  font-size: 0.9rem;
+}
+
+.people-graph .people-graph-details .people-graph-close {
+  float: right;
+  margin-left: 0.5rem;
+}
+
+.people-graph .people-graph-details img.people-graph-photo {
+  display: block;
+  width: 6rem;
+  height: 6rem;
+  max-width: 100%;
+  object-fit: cover;
+  border-radius: 50%;
+  margin-bottom: 0.5rem;
+}
+
+.people-graph .people-graph-details h3 {
+  margin: 0.2rem 0 0.1rem;
+  font-size: 1.1rem;
+}
+
+.people-graph .people-graph-details h4 {
+  margin: 0.9rem 0 0.3rem;
+  font-size: 0.95rem;
+}
+
+.people-graph .people-graph-details p {
+  margin: 0.2rem 0;
+}
+
+.people-graph .people-graph-details .people-graph-type {
+  color: var(--muted);
+  font-size: 0.85rem;
+}
+
+.people-graph .people-graph-details ul {
+  margin: 0;
+  padding-left: 1.1rem;
+}
+
+.people-graph svg .links line {
+  stroke: var(--muted);
+  stroke-width: 0.8;
+}
+
+.people-graph svg .node {
+  cursor: pointer;
+}
+
+.people-graph svg .node circle.base,
+.people-graph svg .node rect.base {
+  stroke: var(--bg);
+  stroke-width: 1.5;
+}
+
+.people-graph svg .node.person circle.base {
+  fill: var(--accent);
+}
+
+.people-graph svg .node.group rect.base {
+  fill: var(--syn-function);
+}
+
+.people-graph svg .node.sib circle.base {
+  fill: var(--wikidata-fg);
+}
+
+.people-graph svg .node.course circle.base {
+  fill: var(--syn-variable);
+}
+
+.people-graph svg .node.paper circle.base {
+  fill: var(--muted);
+}
+
+.people-graph svg .node text.initials {
+  fill: var(--accent-contrast);
+  font-size: 10px;
+  font-weight: 600;
+  pointer-events: none;
+}
+
+.people-graph svg .node text.label {
+  fill: var(--fg);
+  font-size: 9px;
+  pointer-events: none;
+  paint-order: stroke;
+  stroke: var(--bg);
+  stroke-width: 3px;
+}

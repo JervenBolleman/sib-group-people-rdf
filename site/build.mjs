@@ -2,6 +2,7 @@ import { readFileSync, writeFileSync, mkdirSync, rmSync, cpSync } from 'node:fs'
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 import esbuild from 'esbuild';
+import { Parser } from 'n3';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const ROOT = path.resolve(__dirname, '..');
@@ -11,8 +12,15 @@ const OUT = path.join(ROOT, '_site');
 // templates/layout.html.
 const CLIENT_BUNDLES = [
   ['src/comunica-entry.js', 'assets/js/comunica-bundle.js'],
+  ['src/graph-entry.js', 'assets/js/graph-bundle.js'],
   ['src/prism-entry.js', 'assets/js/prism-bundle.js'],
 ];
+
+const SCHEMA = 'https://schema.org/';
+const RDF_TYPE = 'http://www.w3.org/1999/02/22-rdf-syntax-ns#type';
+const ROR = 'https://ror.org/002n09z45';
+const TYPE_NAMES = { Person: 'person', Course: 'course', ScholarlyArticle: 'paper' };
+const LINK_KINDS = ['memberOf', 'parentOrganization', 'author', 'instructor'];
 
 const PREFIXES = 'PREFIX schema: <https://schema.org/>\n';
 
@@ -64,6 +72,25 @@ SELECT ?groupA ?groupB (COUNT(DISTINCT ?course) AS ?courses) WHERE {
 }
 GROUP BY ?groupA ?groupB
 ORDER BY DESC(?courses)
+`,
+  },
+  {
+    id: 'groups-co-publishing',
+    title: 'Which groups co-publish?',
+    text: 'Pairs of different groups, with the number of papers that had an author from each group.',
+    query: `${PREFIXES}
+SELECT ?groupA ?groupB (COUNT(DISTINCT ?paper) AS ?papers) WHERE {
+  ?paper a schema:ScholarlyArticle ;
+         schema:author ?p1, ?p2 .
+  ?p1 schema:memberOf ?a .
+  ?p2 schema:memberOf ?b .
+  ?a schema:name ?groupA .
+  ?b schema:name ?groupB .
+  FILTER(?p1 != ?p2 && STR(?groupA) < STR(?groupB))
+}
+GROUP BY ?groupA ?groupB
+ORDER BY DESC(?papers)
+LIMIT 50
 `,
   },
   {
@@ -140,6 +167,48 @@ function copyStaticAssets() {
   mkdirSync(path.join(OUT, 'assets/js'), { recursive: true });
   cpSync(path.join(__dirname, 'assets/css/style.css'), path.join(OUT, 'assets/css/style.css'));
   cpSync(path.join(__dirname, 'assets/js/sparql-runner.js'), path.join(OUT, 'assets/js/sparql-runner.js'));
+  cpSync(path.join(__dirname, 'assets/js/people-graph.js'), path.join(OUT, 'assets/js/people-graph.js'));
+  cpSync(path.join(__dirname, 'assets/css/people-graph.css'), path.join(OUT, 'assets/css/people-graph.css'));
+}
+
+// Turns the Turtle file into the nodes and links the people graph draws. Only
+// typed resources and the four relations between them are kept, so literal
+// values such as names stay on the nodes and do not become nodes themselves.
+function buildGraphData(turtle) {
+  const quads = new Parser().parse(turtle);
+  const typeOf = new Map();
+  for (const q of quads) {
+    if (q.predicate.value !== RDF_TYPE || !q.object.value.startsWith(SCHEMA)) continue;
+    const kind = q.object.value.slice(SCHEMA.length);
+    if (kind === 'Organization') {
+      typeOf.set(q.subject.value, q.subject.value === ROR ? 'sib' : 'group');
+    } else if (TYPE_NAMES[kind]) {
+      typeOf.set(q.subject.value, TYPE_NAMES[kind]);
+    }
+  }
+
+  const nodes = new Map();
+  for (const id of typeOf.keys()) nodes.set(id, { id, type: typeOf.get(id) });
+  for (const q of quads) {
+    const node = nodes.get(q.subject.value);
+    if (!node || !q.predicate.value.startsWith(SCHEMA)) continue;
+    const key = q.predicate.value.slice(SCHEMA.length);
+    if (key === 'name') node.label = q.object.value;
+    if (key === 'image') node.image = q.object.value;
+    if (key === 'url') node.url = q.object.value;
+    if (key === 'jobTitle') node.jobTitle = q.object.value;
+  }
+
+  const links = [];
+  for (const q of quads) {
+    if (!q.predicate.value.startsWith(SCHEMA)) continue;
+    const kind = q.predicate.value.slice(SCHEMA.length);
+    if (!LINK_KINDS.includes(kind)) continue;
+    if (!nodes.has(q.subject.value) || !nodes.has(q.object.value)) continue;
+    links.push({ source: q.subject.value, target: q.object.value, kind });
+  }
+
+  return { nodes: [...nodes.values()], links };
 }
 
 function fixtureBlock(turtle) {
@@ -169,6 +238,26 @@ function exampleBlock(example) {
   );
 }
 
+function graphBlock(graph) {
+  const json = JSON.stringify(graph).replace(/</g, '\\u003c');
+  return (
+    '<h2>Graph</h2>\n' +
+    '<p>Every person, group, paper and course in the data. People are shown with their sib.swiss photo. ' +
+      'Hover a node to see its neighbours, click it for details.</p>\n' +
+    '<div class="people-graph">' +
+    '<div class="people-graph-controls">' +
+    '<div class="people-graph-filters"></div>' +
+    '<input type="search" class="people-graph-search" placeholder="Find a name or title" aria-label="Find a name or title">' +
+    '</div>' +
+    '<div class="people-graph-stage">' +
+    '<div class="people-graph-canvas"></div>' +
+    '<aside class="people-graph-details" hidden></aside>' +
+    '</div>' +
+    '</div>\n' +
+    `<script type="application/json" id="people-graph-data">${json}</script>`
+  );
+}
+
 function renderContent(turtle) {
   return [
     '<h1>SIB people and groups</h1>',
@@ -179,6 +268,7 @@ function renderContent(turtle) {
       'Papers and courses are linked to people by name, so a few links may be wrong.</p>',
     '<h2>Data</h2>',
     fixtureBlock(turtle),
+    graphBlock(buildGraphData(turtle)),
     '<h2>Questions</h2>',
     ...EXAMPLES.map(exampleBlock),
   ].join('\n');

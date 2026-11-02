@@ -496,6 +496,7 @@
 <https://orcid.org/0000-0003-2148-9135>
     a schema:Person ;
     schema:name "Alan James Bridge" ;
+    schema:image <https://www.sib.swiss/fp/img/people/bridgea.jpg> ;
     schema:jobTitle "Director, Swiss-Prot" ;
     schema:url <https://www.sib.swiss/directory/person/alan-james-bridge> ;
     schema:worksFor <https://ror.org/002n09z45> ;
@@ -504,6 +505,7 @@
 <https://www.sib.swiss/directory/person/anaclaudia-sima>
     a schema:Person ;
     schema:name "Ana-Claudia Sima" ;
+    schema:image <https://www.sib.swiss/fp/img/people/simaa.jpg> ;
     schema:jobTitle "Co-Team Lead, Knowledge Representation Unit" ;
     schema:url <https://www.sib.swiss/directory/person/anaclaudia-sima> ;
     schema:worksFor <https://ror.org/002n09z45> ;
@@ -512,6 +514,7 @@
 <https://orcid.org/0000-0002-5297-5390>
     a schema:Person ;
     schema:name "Andrea Auchincloss" ;
+    schema:image <https://www.sib.swiss/fp/img/people/auchinca.jpg> ;
     schema:jobTitle "Biocurator" ;
     schema:url <https://www.sib.swiss/directory/person/andrea-auchincloss> ;
     schema:worksFor <https://ror.org/002n09z45> ;
@@ -520,6 +523,7 @@
 <https://orcid.org/0009-0005-4104-256X>
     a schema:Person ;
     schema:name "Andrea Brites Marto" ;
+    schema:image <https://www.sib.swiss/fp/img/people/britesma.jpg> ;
     schema:jobTitle "Software developer" ;
     schema:url <https://www.sib.swiss/directory/person/andrea-brites-marto> ;
     schema:worksFor <https://ror.org/002n09z45> ;
@@ -528,6 +532,7 @@
 <https://orcid.org/0000-0003-3308-6245>
     a schema:Person ;
     schema:name "Anne Niknejad" ;
+    schema:image <https://www.sib.swiss/fp/img/people/niknejaa.jpg> ;
     schema:jobTitle "Senior Biocurator" ;
     schema:url <https://www.sib.swiss/directory/person/anne-niknejad> ;
     schema:worksFor <https://ror.org/002n09z45> ;
@@ -536,6 +541,7 @@
 <https://www.sib.swiss/directory/person/anthony-arrascue>
     a schema:Person ;
     schema:name "Anthony Arrascue Ayala" ;
+    schema:image <https://www.sib.swiss/fp/img/people/arrascua.jpg> ;
     schema:jobTitle "Senior software developer" ;
     schema:url <https://www.sib.swiss/directory/person/anthony-arrascue> ;
     schema:worksFor <https://ror.org/002n09z45> ;
@@ -544,6 +550,7 @@
 <https://www.sib.swiss/directory/person/arnaud-gos>
     a schema:Person ;
     schema:name "Arnaud Gos" ;
+    schema:image <https://www.sib.swiss/fp/img/people/rgosa.jpg> ;
     schema:jobTitle "Biocurator" ;
     schema:url <https://www.sib.swiss/directory/person/arnaud-gos> ;
     schema:worksFor <https://ror.org/002n09z45> ;
@@ -552,6 +559,7 @@
 <https://orcid.org/0000-0002-2890-295X>
     a schema:Person ;
     schema:name "Arnaud Kerhornou" ;
+    schema:image <https://www.sib.swiss/fp/img/people/kerhorna.jpg> ;
     schema:jobTitle "Senior Software Developer" ;
     schema:url <https://www.sib.swiss/directory/person/arnaud-kerhornou> ;
     schema:worksFor <https://ror.org/002n09z45> ;
@@ -560,6 +568,7 @@
 <https://www.sib.swiss/directory/person/beatrice-cuche>
     a schema:Person ;
     schema:name "Béatrice Cuche" ;
+    schema:image <https://www.sib.swiss/fp/img/people/cucheb.jpg> ;
     schema:jobTitle "Software Developer" ;
     schema:url <https://www.sib.swiss/directory/person/beatrice-cuche> ;
     schema:worksFor <https://ror.org/002n09z45> ;
@@ -568,6 +577,7 @@
 <https://orcid.org/0000-0002-5979-8382>
     a schema:Person ;
     schema:name "Catherine Rivoire" ;
+    schema:image <https://www.sib.swiss/fp/img/people/rivoirec.jpg> ;
     schema:jobTitle "Senior Biocurator" ;
     schema:url <https://www.sib.swiss/directory/person/catherine-rivoire> ;
     schema:worksFor <https://ror.org/002n09z45> ;
@@ -576,6 +586,7 @@
 <https://www.sib.swiss/directory/person/chantal-hulo>
     a schema:Person ;
     schema:name "Chantal Hulo" ;
+    schema:image <https://www.sib.swiss/fp/img/people/huloc.jpg> ;
     schema:jobTitle "Senior Biocurator" ;
     schema:url <https://www.sib.swiss/directory/person/chantal-hulo> ;
     schema:worksFor <https://ror.org/002n09z45> ;
@@ -584,6 +595,7 @@
 <https://orcid.org/0000-0001-6589-6635>
     a schema:Person ;
     schema:name "Chiara Bortoluzzi" ;
+    schema:image <https://www.sib.swiss/fp/img/people/bortoluc.jpg> ;
     schema:jobTitle "Data manager" ;
     schema:url <https://www.sib.swiss/directory/person/chiara-bortoluzzi> ;
     schema:worksFor <https://ror.org/002n09z45> ;
@@ -600,6 +612,7 @@
 <https://orcid.org/0000-0002-4348-0070>
     a schema:Person ;
     schema:name "Christian Sigrist" ;
+    schema:image <https://www.sib.swiss/fp/img/people/sigristc.jpg> ;
     schema:jobTitle "Senior Biocurator" ;
     schema:url <https://www.sib.swiss/directory/person/christian-sigrist> ;
     schema:worksFor <https://ror.org/002n09z45> ;
@@ -608,6 +621,7 @@
 <https://www.sib.swiss/directory/person/clara-roujeau>
     a schema:Person ;
     schema:name "Clara Roujeau" ;
+    schema:image <https://www.sib.swiss/fp/img/people/roujeauc.jpg> ;
     schema:jobTitle "Scientific Project Manager" ;
     schema:url <https://www.sib.swiss/directory/person/clara-roujeau> ;
     schema:worksFor <https://ror.org/002n09z45> ;
@@ -616,6 +630,7 @@
 <https://orcid.org/0000-0001-8769-177X>
     a schema:Person ;
     schema:name "Cristina Casals Casas" ;
+    schema:image <https://www.sib.swiss/fp/img/people/casalsc.jpg> ;
     schema:jobTitle "Biocurator" ;
     schema:url <https://www.sib.swiss/directory/person/cristina-casals-casas> ;
     schema:worksFor <https://ror.org/002n09z45> ;
@@ -632,6 +647,7 @@
 <https://www.sib.swiss/directory/person/davide-chiarugi>
     a schema:Person ;
     schema:name "Davide Chiarugi" ;
+    schema:image <https://www.sib.swiss/fp/img/people/chiarugd.jpg> ;
     schema:jobTitle "Director, Personalized Health Informatics" ;
     schema:url <https://www.sib.swiss/directory/person/davide-chiarugi> ;
     schema:worksFor <https://ror.org/002n09z45> ;
@@ -648,6 +664,7 @@
 <https://www.sib.swiss/directory/person/delphine-baratin>
     a schema:Person ;
     schema:name "Delphine Baratin" ;
+    schema:image <https://www.sib.swiss/fp/img/people/baratind.jpg> ;
     schema:jobTitle "Senior Software Developer" ;
     schema:url <https://www.sib.swiss/directory/person/delphine-baratin> ;
     schema:worksFor <https://ror.org/002n09z45> ;
@@ -656,6 +673,7 @@
 <https://orcid.org/0000-0002-9812-6351>
     a schema:Person ;
     schema:name "Diana Marek" ;
+    schema:image <https://www.sib.swiss/fp/img/people/marekd.jpg> ;
     schema:jobTitle "Training Project Manager & Senior Computational Biologist" ;
     schema:url <https://www.sib.swiss/directory/person/diana-marek> ;
     schema:worksFor <https://ror.org/002n09z45> ;
@@ -664,6 +682,7 @@
 <https://orcid.org/0009-0000-0629-8870>
     a schema:Person ;
     schema:name "Dillenn Terumalai" ;
+    schema:image <https://www.sib.swiss/fp/img/people/terumald.jpg> ;
     schema:jobTitle "Senior Software Developer" ;
     schema:url <https://www.sib.swiss/directory/person/dillenn-terumalai> ;
     schema:worksFor <https://ror.org/002n09z45> ;
@@ -672,6 +691,7 @@
 <https://orcid.org/0000-0002-9972-947X>
     a schema:Person ;
     schema:name "Dmitry Kuznetsov" ;
+    schema:image <https://www.sib.swiss/fp/img/people/kuznetsd.jpg> ;
     schema:jobTitle "Principal Database Architect" ;
     schema:url <https://www.sib.swiss/directory/person/dmitry-kuznetsov> ;
     schema:worksFor <https://ror.org/002n09z45> ;
@@ -680,6 +700,7 @@
 <https://www.sib.swiss/directory/person/dolnide-dornevil>
     a schema:Person ;
     schema:name "Dolnide Dornevil" ;
+    schema:image <https://www.sib.swiss/fp/img/people/dornevid.jpg> ;
     schema:jobTitle "Administrative Assistant" ;
     schema:url <https://www.sib.swiss/directory/person/dolnide-dornevil> ;
     schema:worksFor <https://ror.org/002n09z45> ;
@@ -688,6 +709,7 @@
 <https://orcid.org/0000-0001-5436-7383>
     a schema:Person ;
     schema:name "Edouard de Castro" ;
+    schema:image <https://www.sib.swiss/fp/img/people/castroe.jpg> ;
     schema:jobTitle "Senior Software Developer" ;
     schema:url <https://www.sib.swiss/directory/person/edouard-decastro> ;
     schema:worksFor <https://ror.org/002n09z45> ;
@@ -696,6 +718,7 @@
 <https://orcid.org/0000-0001-8314-404X>
     a schema:Person ;
     schema:name "Elisabeth Coudert" ;
+    schema:image <https://www.sib.swiss/fp/img/people/couderte.jpg> ;
     schema:jobTitle "Team Lead, Biocuration" ;
     schema:url <https://www.sib.swiss/directory/person/elisabeth-coudert> ;
     schema:worksFor <https://ror.org/002n09z45> ;
@@ -704,6 +727,7 @@
 <https://orcid.org/0000-0003-1829-162X>
     a schema:Person ;
     schema:name "Elisabeth Gasteiger" ;
+    schema:image <https://www.sib.swiss/fp/img/people/gasteige.jpg> ;
     schema:jobTitle "Senior User Experience and Support Manager" ;
     schema:url <https://www.sib.swiss/directory/person/elisabeth-gasteiger> ;
     schema:worksFor <https://ror.org/002n09z45> ;
@@ -712,6 +736,7 @@
 <https://orcid.org/0000-0002-3743-4203>
     a schema:Person ;
     schema:name "Emmanuel Boutet" ;
+    schema:image <https://www.sib.swiss/fp/img/people/boutete.jpg> ;
     schema:jobTitle "Biocurator" ;
     schema:url <https://www.sib.swiss/directory/person/emmanuel-boutet> ;
     schema:worksFor <https://ror.org/002n09z45> ;
@@ -728,6 +753,7 @@
 <https://www.sib.swiss/directory/person/erik-studer>
     a schema:Person ;
     schema:name "Erik Studer" ;
+    schema:image <https://www.sib.swiss/fp/img/people/studere.jpg> ;
     schema:jobTitle "Senior Scientific Project Manager" ;
     schema:url <https://www.sib.swiss/directory/person/erik-studer> ;
     schema:worksFor <https://ror.org/002n09z45> ;
@@ -736,6 +762,7 @@
 <https://www.sib.swiss/directory/person/etienne-derham>
     a schema:Person ;
     schema:name "Etienne de Rham" ;
+    schema:image <https://www.sib.swiss/fp/img/people/derhame.jpg> ;
     schema:jobTitle "Head of Finances & Vital-IT Operations" ;
     schema:url <https://www.sib.swiss/directory/person/etienne-derham> ;
     schema:worksFor <https://ror.org/002n09z45> ;
@@ -744,6 +771,7 @@
 <https://www.sib.swiss/directory/person/flavia-marzetta>
     a schema:Person ;
     schema:name "Flavia Marzetta" ;
+    schema:image <https://www.sib.swiss/fp/img/people/marzettf.jpg> ;
     schema:jobTitle "Senior Computational Biologist" ;
     schema:url <https://www.sib.swiss/directory/person/flavia-marzetta> ;
     schema:worksFor <https://ror.org/002n09z45> ;
@@ -752,6 +780,7 @@
 <https://orcid.org/0000-0002-7456-8390>
     a schema:Person ;
     schema:name "Florence Jungo" ;
+    schema:image <https://www.sib.swiss/fp/img/people/jungof.jpg> ;
     schema:jobTitle "Senior Biocurator" ;
     schema:url <https://www.sib.swiss/directory/person/florence-jungo> ;
     schema:worksFor <https://ror.org/002n09z45> ;
@@ -760,6 +789,7 @@
 <https://orcid.org/0000-0002-9619-1707>
     a schema:Person ;
     schema:name "Florence Mehl" ;
+    schema:image <https://www.sib.swiss/fp/img/people/mehlf.jpg> ;
     schema:jobTitle "Computational Biologist" ;
     schema:url <https://www.sib.swiss/directory/person/florence-mehl> ;
     schema:worksFor <https://ror.org/002n09z45> ;
@@ -768,6 +798,7 @@
 <https://orcid.org/0009-0007-1142-4617>
     a schema:Person ;
     schema:name "Florent Tassy" ;
+    schema:image <https://www.sib.swiss/fp/img/people/tassyf.jpg> ;
     schema:jobTitle "Software Developer" ;
     schema:url <https://www.sib.swiss/directory/person/florent-tassy> ;
     schema:worksFor <https://ror.org/002n09z45> ;
@@ -776,6 +807,7 @@
 <https://www.sib.swiss/directory/person/frederic-burdet>
     a schema:Person ;
     schema:name "Frédéric Burdet" ;
+    schema:image <https://www.sib.swiss/fp/img/people/burdetf.jpg> ;
     schema:jobTitle "Senior Computational Biologist" ;
     schema:url <https://www.sib.swiss/directory/person/frederic-burdet> ;
     schema:worksFor <https://ror.org/002n09z45> ;
@@ -784,6 +816,7 @@
 <https://www.sib.swiss/directory/person/gerard-bouchet>
     a schema:Person ;
     schema:name "Gerard Bouchet" ;
+    schema:image <https://www.sib.swiss/fp/img/people/bouchetg.jpg> ;
     schema:jobTitle "Product Lead and Senior Software Developer" ;
     schema:url <https://www.sib.swiss/directory/person/gerard-bouchet> ;
     schema:worksFor <https://ror.org/002n09z45> ;
@@ -792,6 +825,7 @@
 <https://orcid.org/0000-0002-2979-8613>
     a schema:Person ;
     schema:name "Guilaine Argoud-Puy" ;
+    schema:image <https://www.sib.swiss/fp/img/people/argoudg.jpg> ;
     schema:jobTitle "Biocurator" ;
     schema:url <https://www.sib.swiss/directory/person/guilaine-argoud-puy> ;
     schema:worksFor <https://ror.org/002n09z45> ;
@@ -800,6 +834,7 @@
 <https://orcid.org/0000-0002-4421-3580>
     a schema:Person ;
     schema:name "Harald Witte" ;
+    schema:image <https://www.sib.swiss/fp/img/people/witteh.jpg> ;
     schema:jobTitle "Senior clinical data specialist" ;
     schema:url <https://www.sib.swiss/directory/person/harald-witte> ;
     schema:worksFor <https://ror.org/002n09z45> ;
@@ -816,6 +851,7 @@
 <https://www.sib.swiss/directory/person/iulian-dragan>
     a schema:Person ;
     schema:name "Iulian Dragan" ;
+    schema:image <https://www.sib.swiss/fp/img/people/dragani.jpg> ;
     schema:jobTitle "Senior Database Administrator" ;
     schema:url <https://www.sib.swiss/directory/person/iulian-dragan> ;
     schema:worksFor <https://ror.org/002n09z45> ;
@@ -824,6 +860,7 @@
 <https://www.sib.swiss/directory/person/ivo-de-carvalho>
     a schema:Person ;
     schema:name "Ivo de Carvalho" ;
+    schema:image <https://www.sib.swiss/fp/img/people/decarvai.jpg> ;
     schema:jobTitle "Software Developer" ;
     schema:url <https://www.sib.swiss/directory/person/ivo-de-carvalho> ;
     schema:worksFor <https://ror.org/002n09z45> ;
@@ -832,6 +869,7 @@
 <https://orcid.org/0000-0001-8561-7170>
     a schema:Person ;
     schema:name "Ivo Pedruzzi" ;
+    schema:image <https://www.sib.swiss/fp/img/people/pedruzzi.jpg> ;
     schema:jobTitle "Team Lead, Biocuration" ;
     schema:url <https://www.sib.swiss/directory/person/ivo-pedruzzi> ;
     schema:worksFor <https://ror.org/002n09z45> ;
@@ -840,6 +878,7 @@
 <https://www.sib.swiss/directory/person/jan-armida>
     a schema:Person ;
     schema:name "Jan Armida" ;
+    schema:image <https://www.sib.swiss/fp/img/people/armidaj.jpg> ;
     schema:jobTitle "Scientific Project Coordinator (FAIR Health Related Data)" ;
     schema:url <https://www.sib.swiss/directory/person/jan-armida> ;
     schema:worksFor <https://ror.org/002n09z45> ;
@@ -848,6 +887,7 @@
 <https://orcid.org/0000-0002-7449-1266>
     a schema:Person ;
     schema:name "Jerven Tjalling Bolleman" ;
+    schema:image <https://www.sib.swiss/fp/img/people/bollemaj.jpg> ;
     schema:jobTitle "Principal Software Engineer" ;
     schema:url <https://www.sib.swiss/directory/person/jerven-tjalling-bolleman> ;
     schema:worksFor <https://ror.org/002n09z45> ;
@@ -856,6 +896,7 @@
 <https://www.sib.swiss/directory/person/josefina-lascanomaillard>
     a schema:Person ;
     schema:name "Josefina Lascano Maillard" ;
+    schema:image <https://www.sib.swiss/fp/img/people/lascanoj.jpg> ;
     schema:jobTitle "Computational Biologist" ;
     schema:url <https://www.sib.swiss/directory/person/josefina-lascanomaillard> ;
     schema:worksFor <https://ror.org/002n09z45> ;
@@ -872,6 +913,7 @@
 <https://orcid.org/0000-0002-0731-2758>
     a schema:Person ;
     schema:name "Julia Maurer" ;
+    schema:image <https://www.sib.swiss/fp/img/people/maurerj.jpg> ;
     schema:jobTitle "SIB Member" ;
     schema:url <https://www.sib.swiss/directory/person/julia-maurer> ;
     schema:worksFor <https://ror.org/002n09z45> ;
@@ -904,6 +946,7 @@
 <https://orcid.org/0000-0003-3889-2879>
     a schema:Person ;
     schema:name "Kristian Axelsen" ;
+    schema:image <https://www.sib.swiss/fp/img/people/axelsenk.jpg> ;
     schema:jobTitle "Senior Biocurator" ;
     schema:url <https://www.sib.swiss/directory/person/kristian-axelsen> ;
     schema:worksFor <https://ror.org/002n09z45> ;
@@ -912,6 +955,7 @@
 <https://www.sib.swiss/directory/person/kubilay-meydan>
     a schema:Person ;
     schema:name "Kubilay Meydan" ;
+    schema:image <https://www.sib.swiss/fp/img/people/meydank.jpg> ;
     schema:jobTitle "Data Analyst" ;
     schema:url <https://www.sib.swiss/directory/person/kubilay-meydan> ;
     schema:worksFor <https://ror.org/002n09z45> ;
@@ -928,6 +972,7 @@
 <https://www.sib.swiss/directory/person/leonore-wigger>
     a schema:Person ;
     schema:name "Leonore Wigger" ;
+    schema:image <https://www.sib.swiss/fp/img/people/wiggerl.jpg> ;
     schema:jobTitle "Senior Computational Biologist" ;
     schema:url <https://www.sib.swiss/directory/person/leonore-wigger> ;
     schema:worksFor <https://ror.org/002n09z45> ;
@@ -936,6 +981,7 @@
 <https://orcid.org/0000-0002-8075-8625>
     a schema:Person ;
     schema:name "Lionel Breuza" ;
+    schema:image <https://www.sib.swiss/fp/img/people/breuzal.jpg> ;
     schema:jobTitle "Team Lead, Biocuration" ;
     schema:url <https://www.sib.swiss/directory/person/lionel-breuza> ;
     schema:worksFor <https://ror.org/002n09z45> ;
@@ -944,6 +990,7 @@
 <https://orcid.org/0000-0002-5283-6593>
     a schema:Person ;
     schema:name "Maria Livia Famiglietti" ;
+    schema:image <https://www.sib.swiss/fp/img/people/famiglil.jpg> ;
     schema:jobTitle "Senior Biocurator" ;
     schema:url <https://www.sib.swiss/directory/person/livia-famiglietti> ;
     schema:worksFor <https://ror.org/002n09z45> ;
@@ -952,6 +999,7 @@
 <https://www.sib.swiss/directory/person/lou-gotz>
     a schema:Person ;
     schema:name "Lou Götz" ;
+    schema:image <https://www.sib.swiss/fp/img/people/gotzl.jpg> ;
     schema:jobTitle "Software Developer" ;
     schema:url <https://www.sib.swiss/directory/person/lou-gotz> ;
     schema:worksFor <https://ror.org/002n09z45> ;
@@ -960,6 +1008,7 @@
 <https://orcid.org/0000-0003-0943-6401>
     a schema:Person ;
     schema:name "Lucila Aimo" ;
+    schema:image <https://www.sib.swiss/fp/img/people/aimol.jpg> ;
     schema:jobTitle "SIB Member" ;
     schema:url <https://www.sib.swiss/directory/person/lucila-aimo> ;
     schema:worksFor <https://ror.org/002n09z45> ;
@@ -968,6 +1017,7 @@
 <https://orcid.org/0000-0003-1522-9900>
     a schema:Person ;
     schema:name "Lucille Pourcel" ;
+    schema:image <https://www.sib.swiss/fp/img/people/pourcell.jpg> ;
     schema:jobTitle "Biocurator" ;
     schema:url <https://www.sib.swiss/directory/person/lucille-pourcel> ;
     schema:worksFor <https://ror.org/002n09z45> ;
@@ -976,6 +1026,7 @@
 <https://orcid.org/0000-0002-6857-5543>
     a schema:Person ;
     schema:name "Manuela Pruess" ;
+    schema:image <https://www.sib.swiss/fp/img/people/pruessm.jpg> ;
     schema:jobTitle "Grant Coordinator" ;
     schema:url <https://www.sib.swiss/directory/person/manuela-pruess> ;
     schema:worksFor <https://ror.org/002n09z45> ;
@@ -985,6 +1036,7 @@
 <https://orcid.org/0000-0002-4187-2863>
     a schema:Person ;
     schema:name "Marc Feuermann" ;
+    schema:image <https://www.sib.swiss/fp/img/people/feuermam.jpg> ;
     schema:jobTitle "Senior Biocurator" ;
     schema:url <https://www.sib.swiss/directory/person/marc-feuermann> ;
     schema:worksFor <https://ror.org/002n09z45> ;
@@ -993,6 +1045,7 @@
 <https://orcid.org/0000-0001-9292-9463>
     a schema:Person ;
     schema:name "Marco Pagni" ;
+    schema:image <https://www.sib.swiss/fp/img/people/pagnim.jpg> ;
     schema:jobTitle "Team Lead, Computational Biology" ;
     schema:url <https://www.sib.swiss/directory/person/marco-pagni> ;
     schema:worksFor <https://ror.org/002n09z45> ;
@@ -1001,6 +1054,7 @@
 <https://orcid.org/0000-0003-3152-5670>
     a schema:Person ;
     schema:name "Mark Ibberson" ;
+    schema:image <https://www.sib.swiss/fp/img/people/ibbersom.jpg> ;
     schema:jobTitle "Director, Vital-IT" ;
     schema:url <https://www.sib.swiss/directory/person/mark-ibberson> ;
     schema:worksFor <https://ror.org/002n09z45> ;
@@ -1009,6 +1063,7 @@
 <https://www.sib.swiss/directory/person/markus-mueller>
     a schema:Person ;
     schema:name "Markus Mueller" ;
+    schema:image <https://www.sib.swiss/fp/img/people/muellerm.jpg> ;
     schema:jobTitle "Principal Computational Biologist" ;
     schema:url <https://www.sib.swiss/directory/person/markus-mueller> ;
     schema:worksFor <https://ror.org/002n09z45> ;
@@ -1017,6 +1072,7 @@
 <https://www.sib.swiss/directory/person/matthieu-fillon>
     a schema:Person ;
     schema:name "Matthieu Fillon" ;
+    schema:image <https://www.sib.swiss/fp/img/people/fillonm.jpg> ;
     schema:jobTitle "Senior software developer" ;
     schema:url <https://www.sib.swiss/directory/person/matthieu-fillon> ;
     schema:worksFor <https://ror.org/002n09z45> ;
@@ -1049,6 +1105,7 @@
 <https://www.sib.swiss/directory/person/muriel-metrailler-lenoir>
     a schema:Person ;
     schema:name "Muriel Metrailler Lenoir" ;
+    schema:image <https://www.sib.swiss/fp/img/people/metrailm.jpg> ;
     schema:jobTitle "Senior Administrative Assistant" ;
     schema:url <https://www.sib.swiss/directory/person/muriel-metrailler-lenoir> ;
     schema:worksFor <https://ror.org/002n09z45> ;
@@ -1057,6 +1114,7 @@
 <https://orcid.org/0000-0002-4699-4907>
     a schema:Person ;
     schema:name "Nadine Gruaz-Gumowski" ;
+    schema:image <https://www.sib.swiss/fp/img/people/gruazn.jpg> ;
     schema:jobTitle "Biocurator" ;
     schema:url <https://www.sib.swiss/directory/person/nadine-gruaz> ;
     schema:worksFor <https://ror.org/002n09z45> ;
@@ -1065,6 +1123,7 @@
 <https://orcid.org/0009-0006-2942-3009>
     a schema:Person ;
     schema:name "Nathan Külling" ;
+    schema:image <https://www.sib.swiss/fp/img/people/kullingn.jpg> ;
     schema:jobTitle "Research scientist" ;
     schema:url <https://www.sib.swiss/directory/person/nathan-kulling> ;
     schema:worksFor <https://ror.org/002n09z45> ;
@@ -1073,6 +1132,7 @@
 <https://www.sib.swiss/directory/person/nevila-nouspikel>
     a schema:Person ;
     schema:name "Nevila Nouspikel" ;
+    schema:image <https://www.sib.swiss/fp/img/people/nouspikn.jpg> ;
     schema:jobTitle "Biocurator" ;
     schema:url <https://www.sib.swiss/directory/person/nevila-nouspikel> ;
     schema:worksFor <https://ror.org/002n09z45> ;
@@ -1081,6 +1141,7 @@
 <https://orcid.org/0000-0001-8890-2268>
     a schema:Person ;
     schema:name "Nicole Redaschi" ;
+    schema:image <https://www.sib.swiss/fp/img/people/redaschn.jpg> ;
     schema:jobTitle "Head of Software Development, Swiss-Prot" ;
     schema:url <https://www.sib.swiss/directory/person/nicole-redaschi> ;
     schema:worksFor <https://ror.org/002n09z45> ;
@@ -1089,6 +1150,7 @@
 <https://www.sib.swiss/directory/person/olivier-martin>
     a schema:Person ;
     schema:name "Olivier Martin" ;
+    schema:image <https://www.sib.swiss/fp/img/people/martino.jpg> ;
     schema:jobTitle "Software Developer" ;
     schema:url <https://www.sib.swiss/directory/person/olivier-martin> ;
     schema:worksFor <https://ror.org/002n09z45> ;
@@ -1097,6 +1159,7 @@
 <https://orcid.org/0009-0009-2548-7947>
     a schema:Person ;
     schema:name "Orlin Topalov" ;
+    schema:image <https://www.sib.swiss/fp/img/people/topalovo.jpg> ;
     schema:jobTitle "Software Developer" ;
     schema:url <https://www.sib.swiss/directory/person/orlin-topalov> ;
     schema:worksFor <https://ror.org/002n09z45> ;
@@ -1113,6 +1176,7 @@
 <https://orcid.org/0009-0004-5814-5824>
     a schema:Person ;
     schema:name "Panayiotis Smeros" ;
+    schema:image <https://www.sib.swiss/fp/img/people/smerosp.jpg> ;
     schema:jobTitle "Research scientist" ;
     schema:url <https://www.sib.swiss/directory/person/panayiotis-smeros> ;
     schema:worksFor <https://ror.org/002n09z45> ;
@@ -1129,6 +1193,7 @@
 <https://orcid.org/0000-0003-1813-6857>
     a schema:Person ;
     schema:name "Pascale Gaudet" ;
+    schema:image <https://www.sib.swiss/fp/img/people/gaudetp.jpg> ;
     schema:jobTitle "Senior Project Manager" ;
     schema:url <https://www.sib.swiss/directory/person/pascale-gaudet> ;
     schema:worksFor <https://ror.org/002n09z45> ;
@@ -1137,6 +1202,7 @@
 <https://orcid.org/0009-0008-1334-9726>
     a schema:Person ;
     schema:name "Patricia Fernandez Pinilla" ;
+    schema:image <https://www.sib.swiss/fp/img/people/fernandp.jpg> ;
     schema:jobTitle "Technical Coordinator" ;
     schema:url <https://www.sib.swiss/directory/person/patricia-fernandezpinilla> ;
     schema:worksFor <https://ror.org/002n09z45> ;
@@ -1145,6 +1211,7 @@
 <https://orcid.org/0000-0001-7646-0052>
     a schema:Person ;
     schema:name "Patrick Masson" ;
+    schema:image <https://www.sib.swiss/fp/img/people/massonp.jpg> ;
     schema:jobTitle "Senior Biocurator" ;
     schema:url <https://www.sib.swiss/directory/person/patrick-masson> ;
     schema:worksFor <https://ror.org/002n09z45> ;
@@ -1153,6 +1220,7 @@
 <https://www.sib.swiss/directory/person/paul-thomas>
     a schema:Person ;
     schema:name "Paul Thomas" ;
+    schema:image <https://www.sib.swiss/fp/img/people/thomasp.jpg> ;
     schema:jobTitle "Co-Director, Swiss-Prot" ;
     schema:url <https://www.sib.swiss/directory/person/paul-thomas> ;
     schema:worksFor <https://ror.org/002n09z45> ;
@@ -1161,6 +1229,7 @@
 <https://www.sib.swiss/directory/person/philipp-bucher>
     a schema:Person ;
     schema:name "Philipp Bucher" ;
+    schema:image <https://www.sib.swiss/fp/img/people/bucherp.jpg> ;
     schema:jobTitle "SIB Member" ;
     schema:url <https://www.sib.swiss/directory/person/philipp-bucher> ;
     schema:worksFor <https://ror.org/002n09z45> ;
@@ -1169,6 +1238,7 @@
 <https://orcid.org/0000-0001-8528-090X>
     a schema:Person ;
     schema:name "Philippe Le Mercier" ;
+    schema:image <https://www.sib.swiss/fp/img/people/lemercip.jpg> ;
     schema:jobTitle "Resource Manager" ;
     schema:url <https://www.sib.swiss/directory/person/philippe-le-mercier> ;
     schema:worksFor <https://ror.org/002n09z45> ;
@@ -1177,6 +1247,7 @@
 <https://orcid.org/0000-0002-7490-0066>
     a schema:Person ;
     schema:name "Rainer Krug" ;
+    schema:image <https://www.sib.swiss/fp/img/people/krugr.jpg> ;
     schema:jobTitle "Senior Data Specialist" ;
     schema:url <https://www.sib.swiss/directory/person/rainer-krug> ;
     schema:worksFor <https://ror.org/002n09z45> ;
@@ -1193,6 +1264,7 @@
 <https://orcid.org/0000-0003-4199-9052>
     a schema:Person ;
     schema:name "Robert Waterhouse" ;
+    schema:image <https://www.sib.swiss/fp/img/people/waterhor.jpg> ;
     schema:jobTitle "Director Environmental Bioinformatics" ;
     schema:url <https://www.sib.swiss/directory/person/robert-waterhouse> ;
     schema:worksFor <https://ror.org/002n09z45> ;
@@ -1201,6 +1273,7 @@
 <https://orcid.org/0009-0001-7090-6196>
     a schema:Person ;
     schema:name "Robin Engler" ;
+    schema:image <https://www.sib.swiss/fp/img/people/englerr.jpg> ;
     schema:jobTitle "Senior Computational Biologist" ;
     schema:url <https://www.sib.swiss/directory/person/robin-engler> ;
     schema:worksFor <https://ror.org/002n09z45> ;
@@ -1209,6 +1282,7 @@
 <https://www.sib.swiss/directory/person/robin-liechti>
     a schema:Person ;
     schema:name "Robin Liechti" ;
+    schema:image <https://www.sib.swiss/fp/img/people/liechtir.jpg> ;
     schema:jobTitle "Team Lead, Computational Biology" ;
     schema:url <https://www.sib.swiss/directory/person/robin-liechti> ;
     schema:worksFor <https://ror.org/002n09z45> ;
@@ -1217,6 +1291,7 @@
 <https://www.sib.swiss/directory/person/roman-mylonas>
     a schema:Person ;
     schema:name "Roman Mylonas" ;
+    schema:image <https://www.sib.swiss/fp/img/people/mylonasr.jpg> ;
     schema:jobTitle "SIB Member" ;
     schema:url <https://www.sib.swiss/directory/person/roman-mylonas> ;
     schema:worksFor <https://ror.org/002n09z45> ;
@@ -1225,6 +1300,7 @@
 <https://www.sib.swiss/directory/person/ruijie-wang>
     a schema:Person ;
     schema:name "Ruijie Wang" ;
+    schema:image <https://www.sib.swiss/fp/img/people/wangr.jpg> ;
     schema:jobTitle "Research scientist" ;
     schema:url <https://www.sib.swiss/directory/person/ruijie-wang> ;
     schema:worksFor <https://ror.org/002n09z45> ;
@@ -1233,6 +1309,7 @@
 <https://orcid.org/0000-0003-3248-7899>
     a schema:Person ;
     schema:name "Sabine Österle" ;
+    schema:image <https://www.sib.swiss/fp/img/people/oesterls.jpg> ;
     schema:jobTitle "Lead, Semantic Interoperability Strategy and FAIR Data Team" ;
     schema:url <https://www.sib.swiss/directory/person/sabine-oesterle> ;
     schema:worksFor <https://ror.org/002n09z45> ;
@@ -1249,6 +1326,7 @@
 <https://orcid.org/0000-0002-4080-5546>
     a schema:Person ;
     schema:name "Samuel Neuenschwander" ;
+    schema:image <https://www.sib.swiss/fp/img/people/neuenscs.jpg> ;
     schema:jobTitle "Senior Computational Biologist" ;
     schema:url <https://www.sib.swiss/directory/person/samuel-neuenschwander> ;
     schema:worksFor <https://ror.org/002n09z45> ;
@@ -1257,6 +1335,7 @@
 <https://www.sib.swiss/directory/person/sandrine-pilbout>
     a schema:Person ;
     schema:name "Sandrine Pilbout" ;
+    schema:image <https://www.sib.swiss/fp/img/people/pilbouts.jpg> ;
     schema:jobTitle "Senior Biocurator" ;
     schema:url <https://www.sib.swiss/directory/person/sandrine-pilbout> ;
     schema:worksFor <https://ror.org/002n09z45> ;
@@ -1265,6 +1344,7 @@
 <https://www.sib.swiss/directory/person/sebastien-gehant>
     a schema:Person ;
     schema:name "Sebastien Gehant" ;
+    schema:image <https://www.sib.swiss/fp/img/people/gehants.jpg> ;
     schema:jobTitle "Senior Software Developer" ;
     schema:url <https://www.sib.swiss/directory/person/sebastien-gehant> ;
     schema:worksFor <https://ror.org/002n09z45> ;
@@ -1273,6 +1353,7 @@
 <https://www.sib.swiss/directory/person/sebastien-moretti>
     a schema:Person ;
     schema:name "Sebastien Moretti" ;
+    schema:image <https://www.sib.swiss/fp/img/people/morettis.jpg> ;
     schema:jobTitle "Senior Software Developer and System Administrator" ;
     schema:url <https://www.sib.swiss/directory/person/sebastien-moretti> ;
     schema:worksFor <https://ror.org/002n09z45> ;
@@ -1297,6 +1378,7 @@
 <https://orcid.org/0000-0003-4209-460X>
     a schema:Person ;
     schema:name "Shyamala Sundaram" ;
+    schema:image <https://www.sib.swiss/fp/img/people/sundaras.jpg> ;
     schema:jobTitle "Biocurator" ;
     schema:url <https://www.sib.swiss/directory/person/shyamala-sundaram> ;
     schema:worksFor <https://ror.org/002n09z45> ;
@@ -1321,6 +1403,7 @@
 <https://orcid.org/0000-0001-7299-6685>
     a schema:Person ;
     schema:name "Sylvain Poux" ;
+    schema:image <https://www.sib.swiss/fp/img/people/pouxs.jpg> ;
     schema:jobTitle "Lead Biocurator, Quality Assurance" ;
     schema:url <https://www.sib.swiss/directory/person/sylvain-poux> ;
     schema:worksFor <https://ror.org/002n09z45> ;
@@ -1329,6 +1412,7 @@
 <https://www.sib.swiss/directory/person/tarcisio-mendes>
     a schema:Person ;
     schema:name "Tarcisio Mendes de Farias" ;
+    schema:image <https://www.sib.swiss/fp/img/people/mendest.jpg> ;
     schema:jobTitle "Co-Team Lead, Knowledge Representation Unit" ;
     schema:url <https://www.sib.swiss/directory/person/tarcisio-mendes> ;
     schema:worksFor <https://ror.org/002n09z45> ;
@@ -1337,6 +1421,7 @@
 <https://www.sib.swiss/directory/person/teresa-neto>
     a schema:Person ;
     schema:name "Teresa Manuela Batista Neto" ;
+    schema:image <https://www.sib.swiss/fp/img/people/netot.jpg> ;
     schema:jobTitle "Senior Software Developer" ;
     schema:url <https://www.sib.swiss/directory/person/teresa-neto> ;
     schema:worksFor <https://ror.org/002n09z45> ;
@@ -1345,6 +1430,7 @@
 <https://orcid.org/0000-0002-4015-5969>
     a schema:Person ;
     schema:name "Thomas Junier" ;
+    schema:image <https://www.sib.swiss/fp/img/people/juniert.jpg> ;
     schema:jobTitle "Senior Computational Biologist" ;
     schema:url <https://www.sib.swiss/directory/person/thomas-junier> ;
     schema:worksFor <https://ror.org/002n09z45> ;
@@ -1353,6 +1439,7 @@
 <https://www.sib.swiss/directory/person/thuong-tran>
     a schema:Person ;
     schema:name "Thuong Van Du Tran" ;
+    schema:image <https://www.sib.swiss/fp/img/people/trant.jpg> ;
     schema:jobTitle "Senior Computational Biologist" ;
     schema:url <https://www.sib.swiss/directory/person/thuong-tran> ;
     schema:worksFor <https://ror.org/002n09z45> ;
@@ -1361,6 +1448,7 @@
 <https://orcid.org/0009-0006-8085-9393>
     a schema:Person ;
     schema:name "Valérie Barbié" ;
+    schema:image <https://www.sib.swiss/fp/img/people/barbiev.jpg> ;
     schema:jobTitle "Director, Clinical Bioinformatics" ;
     schema:url <https://www.sib.swiss/directory/person/valerie-barbie> ;
     schema:worksFor <https://ror.org/002n09z45> ;
@@ -1369,6 +1457,7 @@
 <https://orcid.org/0000-0002-4209-2578>
     a schema:Person ;
     schema:name "Vassilios Ioannidis" ;
+    schema:image <https://www.sib.swiss/fp/img/people/ioannidv.jpg> ;
     schema:jobTitle "Team Lead, Computational Biology" ;
     schema:url <https://www.sib.swiss/directory/person/vassilios-ioannidis> ;
     schema:worksFor <https://ror.org/002n09z45> ;
@@ -1377,6 +1466,7 @@
 <https://orcid.org/0000-0003-4639-4431>
     a schema:Person ;
     schema:name "Vasundra Touré" ;
+    schema:image <https://www.sib.swiss/fp/img/people/tourev.jpg> ;
     schema:jobTitle "Scientific Coordinator FAIR / RDF" ;
     schema:url <https://www.sib.swiss/directory/person/vasundra-toure> ;
     schema:worksFor <https://ror.org/002n09z45> ;
@@ -1385,6 +1475,7 @@
 <https://orcid.org/0000-0002-1501-1082>
     a schema:Person ;
     schema:name "Vincent Emonet" ;
+    schema:image <https://www.sib.swiss/fp/img/people/emonetv.jpg> ;
     schema:jobTitle "Data Scientist, Knowledge Representation Unit" ;
     schema:url <https://www.sib.swiss/directory/person/vincent-emonet> ;
     schema:worksFor <https://ror.org/002n09z45> ;
@@ -1393,6 +1484,7 @@
 <https://www.sib.swiss/directory/person/vivienne-gerritsen>
     a schema:Person ;
     schema:name "Vivienne Gerritsen" ;
+    schema:image <https://www.sib.swiss/fp/img/people/gerritsv.jpg> ;
     schema:jobTitle "Senior Scientific Writer" ;
     schema:url <https://www.sib.swiss/directory/person/vivienne-gerritsen> ;
     schema:worksFor <https://ror.org/002n09z45> ;

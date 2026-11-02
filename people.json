@@ -3,6 +3,7 @@
   "slug": "alan-james-bridge",
   "name": "Alan James Bridge",
   "jobTitle": "Director, Swiss-Prot",
+  "image": "https://www.sib.swiss/fp/img/people/bridgea.jpg",
   "groups": [
    "swiss-prot"
   ]
@@ -11,6 +12,7 @@
   "slug": "anaclaudia-sima",
   "name": "Ana-Claudia Sima",
   "jobTitle": "Co-Team Lead, Knowledge Representation Unit",
+  "image": "https://www.sib.swiss/fp/img/people/simaa.jpg",
   "groups": [
    "vital-it"
   ]
@@ -19,6 +21,7 @@
   "slug": "andrea-auchincloss",
   "name": "Andrea Auchincloss",
   "jobTitle": "Biocurator",
+  "image": "https://www.sib.swiss/fp/img/people/auchinca.jpg",
   "groups": [
    "swiss-prot"
   ]
@@ -27,6 +30,7 @@
   "slug": "andrea-brites-marto",
   "name": "Andrea Brites Marto",
   "jobTitle": "Software developer",
+  "image": "https://www.sib.swiss/fp/img/people/britesma.jpg",
   "groups": [
    "personalized-health-informatics"
   ]
@@ -35,6 +39,7 @@
   "slug": "anne-niknejad",
   "name": "Anne Niknejad",
   "jobTitle": "Senior Biocurator",
+  "image": "https://www.sib.swiss/fp/img/people/niknejaa.jpg",
   "groups": [
    "vital-it"
   ]
@@ -43,6 +48,7 @@
   "slug": "anthony-arrascue",
   "name": "Anthony Arrascue Ayala",
   "jobTitle": "Senior software developer",
+  "image": "https://www.sib.swiss/fp/img/people/arrascua.jpg",
   "groups": [
    "personalized-health-informatics"
   ]
@@ -51,6 +57,7 @@
   "slug": "arnaud-gos",
   "name": "Arnaud Gos",
   "jobTitle": "Biocurator",
+  "image": "https://www.sib.swiss/fp/img/people/rgosa.jpg",
   "groups": [
    "swiss-prot"
   ]
@@ -59,6 +66,7 @@
   "slug": "arnaud-kerhornou",
   "name": "Arnaud Kerhornou",
   "jobTitle": "Senior Software Developer",
+  "image": "https://www.sib.swiss/fp/img/people/kerhorna.jpg",
   "groups": [
    "swiss-prot"
   ]
@@ -67,6 +75,7 @@
   "slug": "beatrice-cuche",
   "name": "Béatrice Cuche",
   "jobTitle": "Software Developer",
+  "image": "https://www.sib.swiss/fp/img/people/cucheb.jpg",
   "groups": [
    "swiss-prot"
   ]
@@ -75,6 +84,7 @@
   "slug": "catherine-rivoire",
   "name": "Catherine Rivoire",
   "jobTitle": "Senior Biocurator",
+  "image": "https://www.sib.swiss/fp/img/people/rivoirec.jpg",
   "groups": [
    "swiss-prot"
   ]
@@ -83,6 +93,7 @@
   "slug": "chantal-hulo",
   "name": "Chantal Hulo",
   "jobTitle": "Senior Biocurator",
+  "image": "https://www.sib.swiss/fp/img/people/huloc.jpg",
   "groups": [
    "swiss-prot"
   ]
@@ -91,6 +102,7 @@
   "slug": "chiara-bortoluzzi",
   "name": "Chiara Bortoluzzi",
   "jobTitle": "Data manager",
+  "image": "https://www.sib.swiss/fp/img/people/bortoluc.jpg",
   "groups": [
    "environmental-bioinformatics"
   ]
@@ -99,6 +111,7 @@
   "slug": "christian-deguttry",
   "name": "Christian de Guttry",
   "jobTitle": "Scientific Project Manager",
+  "image": "",
   "groups": [
    "environmental-bioinformatics"
   ]
@@ -107,6 +120,7 @@
   "slug": "christian-sigrist",
   "name": "Christian Sigrist",
   "jobTitle": "Senior Biocurator",
+  "image": "https://www.sib.swiss/fp/img/people/sigristc.jpg",
   "groups": [
    "swiss-prot"
   ]
@@ -115,6 +129,7 @@
   "slug": "clara-roujeau",
   "name": "Clara Roujeau",
   "jobTitle": "Scientific Project Manager",
+  "image": "https://www.sib.swiss/fp/img/people/roujeauc.jpg",
   "groups": [
    "vital-it"
   ]
@@ -123,6 +138,7 @@
   "slug": "cristina-casals-casas",
   "name": "Cristina Casals Casas",
   "jobTitle": "Biocurator",
+  "image": "https://www.sib.swiss/fp/img/people/casalsc.jpg",
   "groups": [
    "swiss-prot"
   ]
@@ -131,6 +147,7 @@
   "slug": "daniel-walther",
   "name": "Daniel Walther",
   "jobTitle": "Team Lead, Software Development & Product Lead",
+  "image": "",
   "groups": [
    "clinical-bioinformatics"
   ]
@@ -139,6 +156,7 @@
   "slug": "davide-chiarugi",
   "name": "Davide Chiarugi",
   "jobTitle": "Director, Personalized Health Informatics",
+  "image": "https://www.sib.swiss/fp/img/people/chiarugd.jpg",
   "groups": [
    "personalized-health-informatics"
   ]
@@ -147,6 +165,7 @@
   "slug": "deepak-unni",
   "name": "Deepak Unni",
   "jobTitle": "Scientific coordinator fair / rdf",
+  "image": "",
   "groups": [
    "personalized-health-informatics"
   ]
@@ -155,6 +174,7 @@
   "slug": "delphine-baratin",
   "name": "Delphine Baratin",
   "jobTitle": "Senior Software Developer",
+  "image": "https://www.sib.swiss/fp/img/people/baratind.jpg",
   "groups": [
    "swiss-prot"
   ]
@@ -163,6 +183,7 @@
   "slug": "diana-marek",
   "name": "Diana Marek",
   "jobTitle": "Training Project Manager & Senior Computational Biologist",
+  "image": "https://www.sib.swiss/fp/img/people/marekd.jpg",
   "groups": [
    "vital-it"
   ]
@@ -171,6 +192,7 @@
   "slug": "dillenn-terumalai",
   "name": "Dillenn Terumalai",
   "jobTitle": "Senior Software Developer",
+  "image": "https://www.sib.swiss/fp/img/people/terumald.jpg",
   "groups": [
    "clinical-bioinformatics"
   ]
@@ -179,6 +201,7 @@
   "slug": "dmitry-kuznetsov",
   "name": "Dmitry Kuznetsov",
   "jobTitle": "Principal Database Architect",
+  "image": "https://www.sib.swiss/fp/img/people/kuznetsd.jpg",
   "groups": [
    "vital-it"
   ]
@@ -187,6 +210,7 @@
   "slug": "dolnide-dornevil",
   "name": "Dolnide Dornevil",
   "jobTitle": "Administrative Assistant",
+  "image": "https://www.sib.swiss/fp/img/people/dornevid.jpg",
   "groups": [
    "swiss-prot"
   ]
@@ -195,6 +219,7 @@
   "slug": "edouard-decastro",
   "name": "Edouard de Castro",
   "jobTitle": "Senior Software Developer",
+  "image": "https://www.sib.swiss/fp/img/people/castroe.jpg",
   "groups": [
    "swiss-prot"
   ]
@@ -203,6 +228,7 @@
   "slug": "elisabeth-coudert",
   "name": "Elisabeth Coudert",
   "jobTitle": "Team Lead, Biocuration",
+  "image": "https://www.sib.swiss/fp/img/people/couderte.jpg",
   "groups": [
    "swiss-prot"
   ]
@@ -211,6 +237,7 @@
   "slug": "elisabeth-gasteiger",
   "name": "Elisabeth Gasteiger",
   "jobTitle": "Senior User Experience and Support Manager",
+  "image": "https://www.sib.swiss/fp/img/people/gasteige.jpg",
   "groups": [
    "swiss-prot"
   ]
@@ -219,6 +246,7 @@
   "slug": "emmanuel-boutet",
   "name": "Emmanuel Boutet",
   "jobTitle": "Biocurator",
+  "image": "https://www.sib.swiss/fp/img/people/boutete.jpg",
   "groups": [
    "swiss-prot"
   ]
@@ -227,6 +255,7 @@
   "slug": "eneida-hatcher",
   "name": "Eneida Hatcher",
   "jobTitle": "Director, Centre for Pathogen Bioinformatics",
+  "image": "",
   "groups": [
    "centre-for-pathogen-bioinformatics"
   ]
@@ -235,6 +264,7 @@
   "slug": "erik-studer",
   "name": "Erik Studer",
   "jobTitle": "Senior Scientific Project Manager",
+  "image": "https://www.sib.swiss/fp/img/people/studere.jpg",
   "groups": [
    "clinical-bioinformatics"
   ]
@@ -243,6 +273,7 @@
   "slug": "etienne-derham",
   "name": "Etienne de Rham",
   "jobTitle": "Head of Finances & Vital-IT Operations",
+  "image": "https://www.sib.swiss/fp/img/people/derhame.jpg",
   "groups": [
    "vital-it"
   ]
@@ -251,6 +282,7 @@
   "slug": "flavia-marzetta",
   "name": "Flavia Marzetta",
   "jobTitle": "Senior Computational Biologist",
+  "image": "https://www.sib.swiss/fp/img/people/marzettf.jpg",
   "groups": [
    "vital-it"
   ]
@@ -259,6 +291,7 @@
   "slug": "florence-jungo",
   "name": "Florence Jungo",
   "jobTitle": "Senior Biocurator",
+  "image": "https://www.sib.swiss/fp/img/people/jungof.jpg",
   "groups": [
    "swiss-prot"
   ]
@@ -267,6 +300,7 @@
   "slug": "florence-mehl",
   "name": "Florence Mehl",
   "jobTitle": "Computational Biologist",
+  "image": "https://www.sib.swiss/fp/img/people/mehlf.jpg",
   "groups": [
    "vital-it"
   ]
@@ -275,6 +309,7 @@
   "slug": "florent-tassy",
   "name": "Florent Tassy",
   "jobTitle": "Software Developer",
+  "image": "https://www.sib.swiss/fp/img/people/tassyf.jpg",
   "groups": [
    "clinical-bioinformatics"
   ]
@@ -283,6 +318,7 @@
   "slug": "frederic-burdet",
   "name": "Frédéric Burdet",
   "jobTitle": "Senior Computational Biologist",
+  "image": "https://www.sib.swiss/fp/img/people/burdetf.jpg",
   "groups": [
    "vital-it"
   ]
@@ -291,6 +327,7 @@
   "slug": "gerard-bouchet",
   "name": "Gerard Bouchet",
   "jobTitle": "Product Lead and Senior Software Developer",
+  "image": "https://www.sib.swiss/fp/img/people/bouchetg.jpg",
   "groups": [
    "clinical-bioinformatics"
   ]
@@ -299,6 +336,7 @@
   "slug": "guilaine-argoud-puy",
   "name": "Guilaine Argoud-Puy",
   "jobTitle": "Biocurator",
+  "image": "https://www.sib.swiss/fp/img/people/argoudg.jpg",
   "groups": [
    "swiss-prot"
   ]
@@ -307,6 +345,7 @@
   "slug": "harald-witte",
   "name": "Harald Witte",
   "jobTitle": "Senior clinical data specialist",
+  "image": "https://www.sib.swiss/fp/img/people/witteh.jpg",
   "groups": [
    "personalized-health-informatics"
   ]
@@ -315,6 +354,7 @@
   "slug": "imane-lboukili",
   "name": "Imane Lboukili",
   "jobTitle": "Data Scientist",
+  "image": "",
   "groups": [
    "clinical-bioinformatics"
   ]
@@ -323,6 +363,7 @@
   "slug": "iulian-dragan",
   "name": "Iulian Dragan",
   "jobTitle": "Senior Database Administrator",
+  "image": "https://www.sib.swiss/fp/img/people/dragani.jpg",
   "groups": [
    "vital-it"
   ]
@@ -331,6 +372,7 @@
   "slug": "ivo-de-carvalho",
   "name": "Ivo de Carvalho",
   "jobTitle": "Software Developer",
+  "image": "https://www.sib.swiss/fp/img/people/decarvai.jpg",
   "groups": [
    "clinical-bioinformatics"
   ]
@@ -339,6 +381,7 @@
   "slug": "ivo-pedruzzi",
   "name": "Ivo Pedruzzi",
   "jobTitle": "Team Lead, Biocuration",
+  "image": "https://www.sib.swiss/fp/img/people/pedruzzi.jpg",
   "groups": [
    "swiss-prot"
   ]
@@ -347,6 +390,7 @@
   "slug": "jan-armida",
   "name": "Jan Armida",
   "jobTitle": "Scientific Project Coordinator (FAIR Health Related Data)",
+  "image": "https://www.sib.swiss/fp/img/people/armidaj.jpg",
   "groups": [
    "personalized-health-informatics"
   ]
@@ -355,6 +399,7 @@
   "slug": "jerven-tjalling-bolleman",
   "name": "Jerven Tjalling Bolleman",
   "jobTitle": "Principal Software Engineer",
+  "image": "https://www.sib.swiss/fp/img/people/bollemaj.jpg",
   "groups": [
    "swiss-prot"
   ]
@@ -363,6 +408,7 @@
   "slug": "josefina-lascanomaillard",
   "name": "Josefina Lascano Maillard",
   "jobTitle": "Computational Biologist",
+  "image": "https://www.sib.swiss/fp/img/people/lascanoj.jpg",
   "groups": [
    "vital-it"
   ]
@@ -371,6 +417,7 @@
   "slug": "judit-kissblind",
   "name": "Judit Kiss Blind",
   "jobTitle": "SIB Member",
+  "image": "",
   "groups": [
    "personalized-health-informatics"
   ]
@@ -379,6 +426,7 @@
   "slug": "julia-maurer",
   "name": "Julia Maurer",
   "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/maurerj.jpg",
   "groups": [
    "personalized-health-informatics"
   ]
@@ -387,6 +435,7 @@
   "slug": "julius-winter",
   "name": "Julius Winter",
   "jobTitle": "Computational biologist",
+  "image": "",
   "groups": [
    "clinical-bioinformatics"
   ]
@@ -395,6 +444,7 @@
   "slug": "kamal-chikh-echioukh",
   "name": "Kamal Chikh Echioukh",
   "jobTitle": "System Administrator",
+  "image": "",
   "groups": [
    "swiss-prot"
   ]
@@ -403,6 +453,7 @@
   "slug": "karin-sonesson",
   "name": "Karin Sonesson",
   "jobTitle": "Senior System Administrator",
+  "image": "",
   "groups": [
    "swiss-prot"
   ]
@@ -411,6 +462,7 @@
   "slug": "kristian-axelsen",
   "name": "Kristian Axelsen",
   "jobTitle": "Senior Biocurator",
+  "image": "https://www.sib.swiss/fp/img/people/axelsenk.jpg",
   "groups": [
    "swiss-prot"
   ]
@@ -419,6 +471,7 @@
   "slug": "kubilay-meydan",
   "name": "Kubilay Meydan",
   "jobTitle": "Data Analyst",
+  "image": "https://www.sib.swiss/fp/img/people/meydank.jpg",
   "groups": [
    "vital-it"
   ]
@@ -427,6 +480,7 @@
   "slug": "laure-verbregue",
   "name": "Laure Verbregue",
   "jobTitle": "Administrative Assistant",
+  "image": "",
   "groups": [
    "swiss-prot"
   ]
@@ -435,6 +489,7 @@
   "slug": "leonore-wigger",
   "name": "Leonore Wigger",
   "jobTitle": "Senior Computational Biologist",
+  "image": "https://www.sib.swiss/fp/img/people/wiggerl.jpg",
   "groups": [
    "vital-it"
   ]
@@ -443,6 +498,7 @@
   "slug": "lionel-breuza",
   "name": "Lionel Breuza",
   "jobTitle": "Team Lead, Biocuration",
+  "image": "https://www.sib.swiss/fp/img/people/breuzal.jpg",
   "groups": [
    "swiss-prot"
   ]
@@ -451,6 +507,7 @@
   "slug": "livia-famiglietti",
   "name": "Maria Livia Famiglietti",
   "jobTitle": "Senior Biocurator",
+  "image": "https://www.sib.swiss/fp/img/people/famiglil.jpg",
   "groups": [
    "swiss-prot"
   ]
@@ -459,6 +516,7 @@
   "slug": "lou-gotz",
   "name": "Lou Götz",
   "jobTitle": "Software Developer",
+  "image": "https://www.sib.swiss/fp/img/people/gotzl.jpg",
   "groups": [
    "vital-it"
   ]
@@ -467,6 +525,7 @@
   "slug": "lucila-aimo",
   "name": "Lucila Aimo",
   "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/aimol.jpg",
   "groups": [
    "swiss-prot"
   ]
@@ -475,6 +534,7 @@
   "slug": "lucille-pourcel",
   "name": "Lucille Pourcel",
   "jobTitle": "Biocurator",
+  "image": "https://www.sib.swiss/fp/img/people/pourcell.jpg",
   "groups": [
    "swiss-prot"
   ]
@@ -483,6 +543,7 @@
   "slug": "manuela-pruess",
   "name": "Manuela Pruess",
   "jobTitle": "Grant Coordinator",
+  "image": "https://www.sib.swiss/fp/img/people/pruessm.jpg",
   "groups": [
    "swiss-prot",
    "vital-it"
@@ -492,6 +553,7 @@
   "slug": "marc-feuermann",
   "name": "Marc Feuermann",
   "jobTitle": "Senior Biocurator",
+  "image": "https://www.sib.swiss/fp/img/people/feuermam.jpg",
   "groups": [
    "swiss-prot"
   ]
@@ -500,6 +562,7 @@
   "slug": "marco-pagni",
   "name": "Marco Pagni",
   "jobTitle": "Team Lead, Computational Biology",
+  "image": "https://www.sib.swiss/fp/img/people/pagnim.jpg",
   "groups": [
    "vital-it"
   ]
@@ -508,6 +571,7 @@
   "slug": "mark-ibberson",
   "name": "Mark Ibberson",
   "jobTitle": "Director, Vital-IT",
+  "image": "https://www.sib.swiss/fp/img/people/ibbersom.jpg",
   "groups": [
    "vital-it"
   ]
@@ -516,6 +580,7 @@
   "slug": "markus-mueller",
   "name": "Markus Mueller",
   "jobTitle": "Principal Computational Biologist",
+  "image": "https://www.sib.swiss/fp/img/people/muellerm.jpg",
   "groups": [
    "vital-it"
   ]
@@ -524,6 +589,7 @@
   "slug": "matthieu-fillon",
   "name": "Matthieu Fillon",
   "jobTitle": "Senior software developer",
+  "image": "https://www.sib.swiss/fp/img/people/fillonm.jpg",
   "groups": [
    "clinical-bioinformatics"
   ]
@@ -532,6 +598,7 @@
   "slug": "maya-zimmermann",
   "name": "Maya Zimmermann",
   "jobTitle": "SIB Member",
+  "image": "",
   "groups": [
    "personalized-health-informatics"
   ]
@@ -540,6 +607,7 @@
   "slug": "miriam-tesfai",
   "name": "Miriam Tesfai",
   "jobTitle": "Senior Administrative Assistant",
+  "image": "",
   "groups": [
    "clinical-bioinformatics"
   ]
@@ -548,6 +616,7 @@
   "slug": "monica-pozzato",
   "name": "Monica Pozzato",
   "jobTitle": "Database Administrator",
+  "image": "",
   "groups": [
    "swiss-prot"
   ]
@@ -556,6 +625,7 @@
   "slug": "muriel-metrailler-lenoir",
   "name": "Muriel Metrailler Lenoir",
   "jobTitle": "Senior Administrative Assistant",
+  "image": "https://www.sib.swiss/fp/img/people/metrailm.jpg",
   "groups": [
    "vital-it"
   ]
@@ -564,6 +634,7 @@
   "slug": "nadine-gruaz",
   "name": "Nadine Gruaz-Gumowski",
   "jobTitle": "Biocurator",
+  "image": "https://www.sib.swiss/fp/img/people/gruazn.jpg",
   "groups": [
    "swiss-prot"
   ]
@@ -572,6 +643,7 @@
   "slug": "nathan-kulling",
   "name": "Nathan Külling",
   "jobTitle": "Research scientist",
+  "image": "https://www.sib.swiss/fp/img/people/kullingn.jpg",
   "groups": [
    "environmental-bioinformatics"
   ]
@@ -580,6 +652,7 @@
   "slug": "nevila-nouspikel",
   "name": "Nevila Nouspikel",
   "jobTitle": "Biocurator",
+  "image": "https://www.sib.swiss/fp/img/people/nouspikn.jpg",
   "groups": [
    "swiss-prot"
   ]
@@ -588,6 +661,7 @@
   "slug": "nicole-redaschi",
   "name": "Nicole Redaschi",
   "jobTitle": "Head of Software Development, Swiss-Prot",
+  "image": "https://www.sib.swiss/fp/img/people/redaschn.jpg",
   "groups": [
    "swiss-prot"
   ]
@@ -596,6 +670,7 @@
   "slug": "olivier-martin",
   "name": "Olivier Martin",
   "jobTitle": "Software Developer",
+  "image": "https://www.sib.swiss/fp/img/people/martino.jpg",
   "groups": [
    "vital-it"
   ]
@@ -604,6 +679,7 @@
   "slug": "orlin-topalov",
   "name": "Orlin Topalov",
   "jobTitle": "Software Developer",
+  "image": "https://www.sib.swiss/fp/img/people/topalovo.jpg",
   "groups": [
    "vital-it"
   ]
@@ -612,6 +688,7 @@
   "slug": "owen-appleton",
   "name": "Owen Appleton",
   "jobTitle": "Senior IT Services Manager",
+  "image": "",
   "groups": [
    "personalized-health-informatics"
   ]
@@ -620,6 +697,7 @@
   "slug": "panayiotis-smeros",
   "name": "Panayiotis Smeros",
   "jobTitle": "Research scientist",
+  "image": "https://www.sib.swiss/fp/img/people/smerosp.jpg",
   "groups": [
    "vital-it"
   ]
@@ -628,6 +706,7 @@
   "slug": "parit-bansal",
   "name": "Parit Bansal",
   "jobTitle": "Senior Software Developer",
+  "image": "",
   "groups": [
    "swiss-prot"
   ]
@@ -636,6 +715,7 @@
   "slug": "pascale-gaudet",
   "name": "Pascale Gaudet",
   "jobTitle": "Senior Project Manager",
+  "image": "https://www.sib.swiss/fp/img/people/gaudetp.jpg",
   "groups": [
    "swiss-prot"
   ]
@@ -644,6 +724,7 @@
   "slug": "patricia-fernandezpinilla",
   "name": "Patricia Fernandez Pinilla",
   "jobTitle": "Technical Coordinator",
+  "image": "https://www.sib.swiss/fp/img/people/fernandp.jpg",
   "groups": [
    "personalized-health-informatics"
   ]
@@ -652,6 +733,7 @@
   "slug": "patrick-masson",
   "name": "Patrick Masson",
   "jobTitle": "Senior Biocurator",
+  "image": "https://www.sib.swiss/fp/img/people/massonp.jpg",
   "groups": [
    "swiss-prot"
   ]
@@ -660,6 +742,7 @@
   "slug": "paul-thomas",
   "name": "Paul Thomas",
   "jobTitle": "Co-Director, Swiss-Prot",
+  "image": "https://www.sib.swiss/fp/img/people/thomasp.jpg",
   "groups": [
    "swiss-prot"
   ]
@@ -668,6 +751,7 @@
   "slug": "philipp-bucher",
   "name": "Philipp Bucher",
   "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/bucherp.jpg",
   "groups": [
    "vital-it"
   ]
@@ -676,6 +760,7 @@
   "slug": "philippe-le-mercier",
   "name": "Philippe Le Mercier",
   "jobTitle": "Resource Manager",
+  "image": "https://www.sib.swiss/fp/img/people/lemercip.jpg",
   "groups": [
    "swiss-prot"
   ]
@@ -684,6 +769,7 @@
   "slug": "rainer-krug",
   "name": "Rainer Krug",
   "jobTitle": "Senior Data Specialist",
+  "image": "https://www.sib.swiss/fp/img/people/krugr.jpg",
   "groups": [
    "environmental-bioinformatics"
   ]
@@ -692,6 +778,7 @@
   "slug": "regan-geissmann",
   "name": "Regan Geissmann",
   "jobTitle": "Administrative assistant",
+  "image": "",
   "groups": [
    "personalized-health-informatics"
   ]
@@ -700,6 +787,7 @@
   "slug": "robert-waterhouse",
   "name": "Robert Waterhouse",
   "jobTitle": "Director Environmental Bioinformatics",
+  "image": "https://www.sib.swiss/fp/img/people/waterhor.jpg",
   "groups": [
    "environmental-bioinformatics"
   ]
@@ -708,6 +796,7 @@
   "slug": "robin-engler",
   "name": "Robin Engler",
   "jobTitle": "Senior Computational Biologist",
+  "image": "https://www.sib.swiss/fp/img/people/englerr.jpg",
   "groups": [
    "vital-it"
   ]
@@ -716,6 +805,7 @@
   "slug": "robin-liechti",
   "name": "Robin Liechti",
   "jobTitle": "Team Lead, Computational Biology",
+  "image": "https://www.sib.swiss/fp/img/people/liechtir.jpg",
   "groups": [
    "vital-it"
   ]
@@ -724,6 +814,7 @@
   "slug": "roman-mylonas",
   "name": "Roman Mylonas",
   "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/mylonasr.jpg",
   "groups": [
    "vital-it"
   ]
@@ -732,6 +823,7 @@
   "slug": "ruijie-wang",
   "name": "Ruijie Wang",
   "jobTitle": "Research scientist",
+  "image": "https://www.sib.swiss/fp/img/people/wangr.jpg",
   "groups": [
    "vital-it"
   ]
@@ -740,6 +832,7 @@
   "slug": "sabine-oesterle",
   "name": "Sabine Österle",
   "jobTitle": "Lead, Semantic Interoperability Strategy and FAIR Data Team",
+  "image": "https://www.sib.swiss/fp/img/people/oesterls.jpg",
   "groups": [
    "personalized-health-informatics"
   ]
@@ -748,6 +841,7 @@
   "slug": "salvo-paesano",
   "name": "Salvo Giacomo Paesano",
   "jobTitle": "Team Lead, System Administration",
+  "image": "",
   "groups": [
    "swiss-prot"
   ]
@@ -756,6 +850,7 @@
   "slug": "samuel-neuenschwander",
   "name": "Samuel Neuenschwander",
   "jobTitle": "Senior Computational Biologist",
+  "image": "https://www.sib.swiss/fp/img/people/neuenscs.jpg",
   "groups": [
    "vital-it"
   ]
@@ -764,6 +859,7 @@
   "slug": "sandrine-pilbout",
   "name": "Sandrine Pilbout",
   "jobTitle": "Senior Biocurator",
+  "image": "https://www.sib.swiss/fp/img/people/pilbouts.jpg",
   "groups": [
    "swiss-prot"
   ]
@@ -772,6 +868,7 @@
   "slug": "sebastien-gehant",
   "name": "Sebastien Gehant",
   "jobTitle": "Senior Software Developer",
+  "image": "https://www.sib.swiss/fp/img/people/gehants.jpg",
   "groups": [
    "swiss-prot"
   ]
@@ -780,6 +877,7 @@
   "slug": "sebastien-moretti",
   "name": "Sebastien Moretti",
   "jobTitle": "Senior Software Developer and System Administrator",
+  "image": "https://www.sib.swiss/fp/img/people/morettis.jpg",
   "groups": [
    "vital-it"
   ]
@@ -788,6 +886,7 @@
   "slug": "sergio-guarino",
   "name": "Sergio Guarino",
   "jobTitle": "Administrative and management position",
+  "image": "",
   "groups": [
    "personalized-health-informatics"
   ]
@@ -796,6 +895,7 @@
   "slug": "shubham-kapoor",
   "name": "Shubham Kapoor",
   "jobTitle": "Lead BioMedIT Research IT services and Team",
+  "image": "",
   "groups": [
    "personalized-health-informatics"
   ]
@@ -804,6 +904,7 @@
   "slug": "shyamala-sundaram",
   "name": "Shyamala Sundaram",
   "jobTitle": "Biocurator",
+  "image": "https://www.sib.swiss/fp/img/people/sundaras.jpg",
   "groups": [
    "swiss-prot"
   ]
@@ -812,6 +913,7 @@
   "slug": "simone-guzzi",
   "name": "Simone Guzzi",
   "jobTitle": "Software Developer",
+  "image": "",
   "groups": [
    "personalized-health-informatics"
   ]
@@ -820,6 +922,7 @@
   "slug": "sonja-voordijk",
   "name": "Sonja Voordijk",
   "jobTitle": "SIB Member",
+  "image": "",
   "groups": [
    "clinical-bioinformatics"
   ]
@@ -828,6 +931,7 @@
   "slug": "sylvain-poux",
   "name": "Sylvain Poux",
   "jobTitle": "Lead Biocurator, Quality Assurance",
+  "image": "https://www.sib.swiss/fp/img/people/pouxs.jpg",
   "groups": [
    "swiss-prot"
   ]
@@ -836,6 +940,7 @@
   "slug": "tarcisio-mendes",
   "name": "Tarcisio Mendes de Farias",
   "jobTitle": "Co-Team Lead, Knowledge Representation Unit",
+  "image": "https://www.sib.swiss/fp/img/people/mendest.jpg",
   "groups": [
    "vital-it"
   ]
@@ -844,6 +949,7 @@
   "slug": "teresa-neto",
   "name": "Teresa Manuela Batista Neto",
   "jobTitle": "Senior Software Developer",
+  "image": "https://www.sib.swiss/fp/img/people/netot.jpg",
   "groups": [
    "swiss-prot"
   ]
@@ -852,6 +958,7 @@
   "slug": "thomas-junier",
   "name": "Thomas Junier",
   "jobTitle": "Senior Computational Biologist",
+  "image": "https://www.sib.swiss/fp/img/people/juniert.jpg",
   "groups": [
    "vital-it"
   ]
@@ -860,6 +967,7 @@
   "slug": "thuong-tran",
   "name": "Thuong Van Du Tran",
   "jobTitle": "Senior Computational Biologist",
+  "image": "https://www.sib.swiss/fp/img/people/trant.jpg",
   "groups": [
    "vital-it"
   ]
@@ -868,6 +976,7 @@
   "slug": "valerie-barbie",
   "name": "Valérie Barbié",
   "jobTitle": "Director, Clinical Bioinformatics",
+  "image": "https://www.sib.swiss/fp/img/people/barbiev.jpg",
   "groups": [
    "clinical-bioinformatics"
   ]
@@ -876,6 +985,7 @@
   "slug": "vassilios-ioannidis",
   "name": "Vassilios Ioannidis",
   "jobTitle": "Team Lead, Computational Biology",
+  "image": "https://www.sib.swiss/fp/img/people/ioannidv.jpg",
   "groups": [
    "vital-it"
   ]
@@ -884,6 +994,7 @@
   "slug": "vasundra-toure",
   "name": "Vasundra Touré",
   "jobTitle": "Scientific Coordinator FAIR / RDF",
+  "image": "https://www.sib.swiss/fp/img/people/tourev.jpg",
   "groups": [
    "personalized-health-informatics"
   ]
@@ -892,6 +1003,7 @@
   "slug": "vincent-emonet",
   "name": "Vincent Emonet",
   "jobTitle": "Data Scientist, Knowledge Representation Unit",
+  "image": "https://www.sib.swiss/fp/img/people/emonetv.jpg",
   "groups": [
    "vital-it"
   ]
@@ -900,6 +1012,7 @@
   "slug": "vivienne-gerritsen",
   "name": "Vivienne Gerritsen",
   "jobTitle": "Senior Scientific Writer",
+  "image": "https://www.sib.swiss/fp/img/people/gerritsv.jpg",
   "groups": [
    "swiss-prot"
   ]

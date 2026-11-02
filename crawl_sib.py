@@ -23,7 +23,7 @@ import re
 import sys
 import time
 import unicodedata
-from urllib.parse import quote
+from urllib.parse import quote, urljoin
 
 import requests
 from lxml import html as lxml_html
@@ -155,7 +155,9 @@ def crawl_person(fetcher, slug):
     tree = lxml_html.fromstring(page)
     name = clean(tree.xpath('string((//div[contains(@class,"directory-person")]//h1)[1])'))
     job = clean(tree.xpath('string((//div[contains(@class,"person-job-title")])[1])'))
-    return {"slug": slug, "name": name, "jobTitle": job}
+    photo = tree.xpath('//img[starts-with(@alt,"Photo of")]/@src')
+    image = urljoin(BASE, photo[0]) if photo else ""
+    return {"slug": slug, "name": name, "jobTitle": job, "image": image}
 
 
 # ---------------------------------------------------------------- publications
@@ -393,6 +395,8 @@ def main():
         iri = person_iri(slug)
         graph.add(iri, "a", "schema:Person")
         graph.add(iri, "schema:name", lit(person["name"]))
+        if person["image"]:
+            graph.add(iri, "schema:image", ref(person["image"]))
         if person["jobTitle"]:
             graph.add(iri, "schema:jobTitle", lit(person["jobTitle"]))
         graph.add(iri, "schema:url", ref(directory_url(slug)))
