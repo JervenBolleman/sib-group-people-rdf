@@ -19,7 +19,6 @@ const CLIENT_BUNDLES = [
 const SCHEMA = 'https://schema.org/';
 const RDF_TYPE = 'http://www.w3.org/1999/02/22-rdf-syntax-ns#type';
 const ROR = 'https://ror.org/002n09z45';
-const INSTITUTION_PREFIX = 'https://www.sib.swiss/institution/';
 const TYPE_NAMES = { Person: 'person', Course: 'course', ScholarlyArticle: 'paper' };
 const LINK_KINDS = ['memberOf', 'parentOrganization', 'author', 'instructor'];
 
@@ -182,11 +181,16 @@ function buildGraphData(turtle) {
     if (q.predicate.value !== RDF_TYPE || !q.object.value.startsWith(SCHEMA)) continue;
     const kind = q.object.value.slice(SCHEMA.length);
     if (kind === 'Organization') {
-      if (q.subject.value === ROR) typeOf.set(q.subject.value, 'sib');
-      else if (q.subject.value.startsWith(INSTITUTION_PREFIX)) typeOf.set(q.subject.value, 'institution');
-      else typeOf.set(q.subject.value, 'group');
+      typeOf.set(q.subject.value, q.subject.value === ROR ? 'sib' : 'group');
     } else if (TYPE_NAMES[kind]) {
       typeOf.set(q.subject.value, TYPE_NAMES[kind]);
+    }
+  }
+  // An organization that a group sits inside, other than SIB itself, is an institution.
+  for (const q of quads) {
+    if (q.predicate.value !== SCHEMA + 'parentOrganization') continue;
+    if (typeOf.get(q.subject.value) === 'group' && q.object.value !== ROR) {
+      typeOf.set(q.object.value, 'institution');
     }
   }
 
