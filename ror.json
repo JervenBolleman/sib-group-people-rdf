@@ -1,0 +1,203 @@
+{
+ "Agroscope": {
+  "name": "Agroscope",
+  "ror": "https://ror.org/04d8ztx87",
+  "status": "auto"
+ },
+ "CHUV": {
+  "candidates": [
+   {
+    "names": [
+     "CHUV",
+     "Centre Hospitalier Universitaire Vaudois",
+     "Lausanne University Hospital",
+     "University Hospital of Lausanne"
+    ],
+    "ror": "https://ror.org/05a353079"
+   },
+   {
+    "names": [
+     "CHUV",
+     "HOSR",
+     "Hôpital Orthopédique de la Suisse Romande",
+     "Service de d'orthopédie et traumatologie CHUV"
+    ],
+    "ror": "https://ror.org/022vd9g66"
+   },
+   {
+    "names": [
+     "CHUV Institut de radiophysique",
+     "IRA",
+     "Institut de radiophysique",
+     "Institute of Radiation Physics"
+    ],
+    "ror": "https://ror.org/03ts7z477"
+   }
+  ],
+  "name": "CHUV",
+  "ror": "https://ror.org/05a353079",
+  "status": "override"
+ },
+ "Dalle Molle Institute for Artificial Intelligence Research": {
+  "name": "Dalle Molle Institute for Artificial Intelligence Research",
+  "ror": "https://ror.org/013355g38",
+  "status": "auto"
+ },
+ "EPFL": {
+  "name": "EPFL",
+  "ror": "https://ror.org/02s376052",
+  "status": "auto"
+ },
+ "ETH Zurich": {
+  "name": "ETH Zurich",
+  "ror": "https://ror.org/05a28rw58",
+  "status": "auto"
+ },
+ "FHNW": {
+  "name": "FHNW",
+  "ror": "https://ror.org/04mq2g308",
+  "status": "auto"
+ },
+ "Friedrich Miescher Institute": {
+  "name": "Friedrich Miescher Institute",
+  "ror": "https://ror.org/01bmjkv45",
+  "status": "auto"
+ },
+ "HEIG-VD": {
+  "candidates": [
+   {
+    "names": [
+     "HEIG-VD, HES-SO",
+     "Haute Ecole d'Ingénierie et de Gestion du Canton de Vaud",
+     "Haute école d'ingénierie et de gestion du canton de Vaud - HEIG-VD, HES-SO",
+     "Haute école d'ingénierie et de gestion du canton de Vaud, HES-SO Haute Ecole Spécialisée de Suisse Occidentale"
+    ],
+    "ror": "https://ror.org/02rzr3z90"
+   },
+   {
+    "names": [
+     "SRTS VD",
+     "Service Régional Vaudois de Transfusion Sanguine"
+    ],
+    "ror": "https://ror.org/02wkp0463"
+   }
+  ],
+  "name": "HEIG-VD",
+  "ror": "https://ror.org/02rzr3z90",
+  "status": "override"
+ },
+ "HES-SO": {
+  "name": "HES-SO",
+  "ror": "https://ror.org/01xkakk17",
+  "status": "auto"
+ },
+ "Institute for Research in Biomedicine": {
+  "name": "Institute for Research in Biomedicine",
+  "ror": "https://ror.org/05gfswd81",
+  "status": "auto"
+ },
+ "Institute of Oncology Research": {
+  "name": "Institute of Oncology Research",
+  "ror": "https://ror.org/01dpyn972",
+  "status": "auto"
+ },
+ "Paul Scherrer Institute": {
+  "name": "Paul Scherrer Institute",
+  "ror": "https://ror.org/03eh3y714",
+  "status": "auto"
+ },
+ "Swiss Federal Laboratories for Materials Science and Technology": {
+  "name": "Swiss Federal Laboratories for Materials Science and Technology",
+  "ror": "https://ror.org/02x681a42",
+  "status": "auto"
+ },
+ "Swiss Tropical and Public Health Institute": {
+  "name": "Swiss Tropical and Public Health Institute",
+  "ror": "https://ror.org/03adhka07",
+  "status": "auto"
+ },
+ "University of Basel": {
+  "name": "University of Basel",
+  "ror": "https://ror.org/02s6k3f65",
+  "status": "auto"
+ },
+ "University of Bern": {
+  "name": "University of Bern",
+  "ror": "https://ror.org/02k7v4d05",
+  "status": "auto"
+ },
+ "University of Fribourg": {
+  "name": "University of Fribourg",
+  "ror": "https://ror.org/022fs9h90",
+  "status": "auto"
+ },
+ "University of Geneva": {
+  "name": "University of Geneva",
+  "ror": "https://ror.org/01swzsf04",
+  "status": "auto"
+ },
+ "University of Lausanne": {
+  "name": "University of Lausanne",
+  "ror": "https://ror.org/019whta54",
+  "status": "auto"
+ },
+ "University of Zurich": {
+  "name": "University of Zurich",
+  "ror": "https://ror.org/02crff812",
+  "status": "auto"
+ },
+ "Università della Svizzera italiana": {
+  "name": "Università della Svizzera italiana",
+  "ror": "https://ror.org/03c4atk17",
+  "status": "auto"
+ },
+ "Zurich University of Applied Sciences": {
+  "candidates": [
+   {
+    "names": [
+     "ZHAW",
+     "ZHAW Zurich University of Applied Sciences",
+     "ZHAW Zürcher Hochschule für Angewandte Wissenschaften"
+    ],
+    "ror": "https://ror.org/05pmsvm27"
+   },
+   {
+    "names": [
+     "HWZ",
+     "Hochschule für Wirtschaft Zürich",
+     "Zurich University of Applied Sciences in Business Administration"
+    ],
+    "ror": "https://ror.org/02ejkey04"
+   },
+   {
+    "names": [
+     "UZH",
+     "University of Zurich",
+     "Università di Zurigo",
+     "Universität Zürich"
+    ],
+    "ror": "https://ror.org/02crff812"
+   },
+   {
+    "names": [
+     "Kalaidos Fachhochschule",
+     "Kalaidos UAS",
+     "Kalaidos University of Applied Sciences"
+    ],
+    "ror": "https://ror.org/049c2kr37"
+   },
+   {
+    "names": [
+     "BFH",
+     "Bern University of Applied Sciences",
+     "Berner Fachhochschule",
+     "Haute école spécialisée bernoise"
+    ],
+    "ror": "https://ror.org/02bnkt322"
+   }
+  ],
+  "name": "Zurich University of Applied Sciences",
+  "ror": "https://ror.org/05pmsvm27",
+  "status": "override"
+ }
+}

@@ -143,7 +143,7 @@ def crawl_groups(fetcher):
             groups[slug] = {
                 "name": clean(card.xpath("string(.//h5)")),
                 "kind": kind,
-                "institution": INSTITUTION_ALIASES.get(parts[1], parts[1]) if len(parts) > 2 else "",
+                "institution": INSTITUTION_ALIASES.get(parts[1], parts[1]) if kind == "affiliate" and len(parts) > 2 else "",
             }
     return groups
 
@@ -342,10 +342,41 @@ def group_iri(slug):
     return f"{BASE}/{slug}"
 
 
+INSTITUTION_IRI = {}  # institution name -> node IRI: its ROR id when known, else a minted IRI
+
+
 def institution_iri(name):
+    if name in INSTITUTION_IRI:
+        return INSTITUTION_IRI[name]
     ascii_name = unicodedata.normalize("NFKD", name).encode("ascii", "ignore").decode("ascii")
     slug = re.sub(r"[^a-z0-9]+", "-", ascii_name.lower()).strip("-")
     return f"{BASE}/institution/{slug}"
+
+
+def write_institutions(groups):
+    names = sorted({g["institution"] for g in groups.values() if g["institution"]})
+    with open(os.path.join(HERE, "institutions.json"), "w", encoding="utf-8") as f:
+        json.dump(names, f, ensure_ascii=False, indent=1)
+
+
+def load_rors():
+    """Use the ROR id as the node IRI for each institution that has one in ror.json."""
+    path = os.path.join(HERE, "ror.json")
+    if not os.path.exists(path):
+        return
+    with open(path, encoding="utf-8") as f:
+        records = json.load(f)
+    taken = {}
+    for name in sorted(records):
+        ror = records[name].get("ror")
+        if not ror:
+            continue
+        if ror in taken:
+            log(f"duplicate ROR {ror} for {name} and {taken[ror]}; keeping minted IRI for {name}")
+            continue
+        taken[ror] = name
+        INSTITUTION_IRI[name] = ror
+    log(f"institutions with a ROR node IRI: {len(INSTITUTION_IRI)}")
 
 
 def doi_iri(doi):
@@ -365,6 +396,8 @@ def main():
     groups = crawl_groups(fetcher)
     kinds = Counter(g["kind"] for g in groups.values())
     log(f"groups: {len(groups)} ({kinds['hub']} at the SIB hub, {kinds['affiliate']} affiliated, {kinds['other']} other)")
+    write_institutions(groups)
+    load_rors()
 
     # person slug -> set of group slugs they belong to
     memberships = {}
