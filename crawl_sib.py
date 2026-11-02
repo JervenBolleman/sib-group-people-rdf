@@ -2,7 +2,7 @@
 """Crawl SIB groups, group directories, people, publications and courses into schema.org Turtle.
 
 Sources:
-  - https://www.sib.swiss/groups?sib_hub        group list (data from the page's search endpoint)
+  - https://www.sib.swiss/groups                group list, all hub and partner groups (from the page's search endpoint)
   - https://www.sib.swiss/directory/group/<slug> group members
   - https://www.sib.swiss/directory/person/<slug> person name and job title
   - https://www.sib.swiss/community/publications[/scientific-publications-<year>]
@@ -16,6 +16,7 @@ Usage: python3 crawl_sib.py [--out data/sib.ttl] [--cache cache] [--refresh] [--
 """
 import argparse
 import hashlib
+from collections import Counter
 import html
 import json
 import os
@@ -96,9 +97,21 @@ def clean(text):
 
 # ---------------------------------------------------------------- groups
 
+# Partner groups sometimes spell an institution out in full, so map those to one name.
+INSTITUTION_ALIASES = {
+    "FHNW University of Applied Sciences and Arts Northwestern Switzerland": "FHNW",
+}
+
+
 def crawl_groups(fetcher):
-    """Return {slug: {"name": str, "hub": bool}} for every group on the groups page."""
-    page = fetcher.get(BASE + "/groups?sib_hub")
+    """Return {slug: {"name", "kind", "institution"}} for every group on the groups page.
+
+    kind is "hub" for groups at the SIB Hub, "affiliate" for groups from partner
+    institutions, and "other" for anything else. A partner group's leader line
+    reads "Name, Institution, City", so the institution is its second part. Some
+    lines only give "Name, City", and those get no institution.
+    """
+    page = fetcher.get(BASE + "/groups")
     # The listing is filled in by Alpine.js from /index-search-ajax/; its settings are
     # embedded (HTML-escaped) in the page as the argument of indexSearch('groups', ...).
     m = re.search(r"indexSearch\('groups', (\{.*?\})\)\"", page)
@@ -123,9 +136,14 @@ def crawl_groups(fetcher):
         for card in tree.xpath('//div[contains(@class,"group-search-result")]'):
             link = card.xpath('.//a[@href]')[0]
             slug = link.get("href").strip("/")
+            classes = card.get("class").split()
+            kind = "hub" if "sib-hub" in classes else "affiliate" if "sib-affiliate" in classes else "other"
+            leader = clean(card.xpath('string(.//div[contains(@class,"leader")])'))
+            parts = [p.strip() for p in leader.split(",")]
             groups[slug] = {
                 "name": clean(card.xpath("string(.//h5)")),
-                "hub": "sib-hub" in card.get("class").split(),
+                "kind": kind,
+                "institution": INSTITUTION_ALIASES.get(parts[1], parts[1]) if len(parts) > 2 else "",
             }
     return groups
 
@@ -324,6 +342,12 @@ def group_iri(slug):
     return f"{BASE}/{slug}"
 
 
+def institution_iri(name):
+    ascii_name = unicodedata.normalize("NFKD", name).encode("ascii", "ignore").decode("ascii")
+    slug = re.sub(r"[^a-z0-9]+", "-", ascii_name.lower()).strip("-")
+    return f"{BASE}/institution/{slug}"
+
+
 def doi_iri(doi):
     return "https://doi.org/" + quote(doi, safe="/:()-._;<>")
 
@@ -339,7 +363,8 @@ def main():
     fetcher = Fetcher(args.cache, args.refresh)
 
     groups = crawl_groups(fetcher)
-    log(f"groups: {len(groups)} ({sum(g['hub'] for g in groups.values())} at the SIB hub)")
+    kinds = Counter(g["kind"] for g in groups.values())
+    log(f"groups: {len(groups)} ({kinds['hub']} at the SIB hub, {kinds['affiliate']} affiliated, {kinds['other']} other)")
 
     # person slug -> set of group slugs they belong to
     memberships = {}
@@ -388,8 +413,17 @@ def main():
         graph.add(iri, "a", "schema:Organization")
         graph.add(iri, "schema:name", lit(group["name"]))
         graph.add(iri, "schema:url", ref(iri))
-        if group["hub"]:
+        if group["kind"] == "hub":
+            # A SIB Hub group is part of SIB.
             graph.add(iri, "schema:parentOrganization", ref(ROR))
+        elif group["kind"] == "affiliate":
+            # A partner group belongs to the SIB network, and sits inside its own institution.
+            graph.add(iri, "schema:memberOf", ref(ROR))
+            if group["institution"]:
+                org = institution_iri(group["institution"])
+                graph.add(iri, "schema:parentOrganization", ref(org))
+                graph.add(org, "a", "schema:Organization")
+                graph.add(org, "schema:name", lit(group["institution"]))
 
     for slug, person in people.items():
         iri = person_iri(slug)

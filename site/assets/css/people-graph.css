@@ -36,6 +36,10 @@
   background: var(--wikidata-fg);
 }
 
+.people-graph .people-graph-filter.institution::before {
+  background: var(--orcid-fg);
+}
+
 .people-graph .people-graph-filter.group::before {
   background: var(--syn-function);
 }
@@ -156,6 +160,10 @@
 
 .people-graph svg .node.group rect.base {
   fill: var(--syn-function);
+}
+
+.people-graph svg .node.institution circle.base {
+  fill: var(--orcid-fg);
 }
 
 .people-graph svg .node.sib circle.base {

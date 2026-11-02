@@ -51,447 +51,701 @@
 <https://www.sib.swiss/christian-ahrens-group>
     a schema:Organization ;
     schema:name "Bioinformatics and Proteogenomics" ;
-    schema:url <https://www.sib.swiss/christian-ahrens-group> .
+    schema:url <https://www.sib.swiss/christian-ahrens-group> ;
+    schema:memberOf <https://ror.org/002n09z45> ;
+    schema:parentOrganization <https://www.sib.swiss/institution/agroscope> .
+
+<https://www.sib.swiss/institution/agroscope>
+    a schema:Organization ;
+    schema:name "Agroscope" .
 
 <https://www.sib.swiss/pierre-marie-allard-group>
     a schema:Organization ;
     schema:name "COMMONS Lab" ;
-    schema:url <https://www.sib.swiss/pierre-marie-allard-group> .
+    schema:url <https://www.sib.swiss/pierre-marie-allard-group> ;
+    schema:memberOf <https://ror.org/002n09z45> .
 
 <https://www.sib.swiss/maria-anisimova-group>
     a schema:Organization ;
     schema:name "Applied Computational Genomics Team" ;
-    schema:url <https://www.sib.swiss/maria-anisimova-group> .
+    schema:url <https://www.sib.swiss/maria-anisimova-group> ;
+    schema:memberOf <https://ror.org/002n09z45> ;
+    schema:parentOrganization <https://www.sib.swiss/institution/zurich-university-of-applied-sciences> .
+
+<https://www.sib.swiss/institution/zurich-university-of-applied-sciences>
+    a schema:Organization ;
+    schema:name "Zurich University of Applied Sciences" .
 
 <https://www.sib.swiss/laura-azzimonti-group>
     a schema:Organization ;
     schema:name "Machine Learning for Bioinformatics and Personalised Medicine" ;
-    schema:url <https://www.sib.swiss/laura-azzimonti-group> .
+    schema:url <https://www.sib.swiss/laura-azzimonti-group> ;
+    schema:memberOf <https://ror.org/002n09z45> ;
+    schema:parentOrganization <https://www.sib.swiss/institution/dalle-molle-institute-for-artificial-intelligence-research> .
+
+<https://www.sib.swiss/institution/dalle-molle-institute-for-artificial-intelligence-research>
+    a schema:Organization ;
+    schema:name "Dalle Molle Institute for Artificial Intelligence Research" .
 
 <https://www.sib.swiss/claudia-bank-group>
     a schema:Organization ;
     schema:name "Theoretical Ecology and Evolution" ;
-    schema:url <https://www.sib.swiss/claudia-bank-group> .
+    schema:url <https://www.sib.swiss/claudia-bank-group> ;
+    schema:memberOf <https://ror.org/002n09z45> ;
+    schema:parentOrganization <https://www.sib.swiss/institution/university-of-bern> .
+
+<https://www.sib.swiss/institution/university-of-bern>
+    a schema:Organization ;
+    schema:name "University of Bern" .
 
 <https://www.sib.swiss/michael-baudis-group>
     a schema:Organization ;
     schema:name "Theoretical Oncogenomics" ;
-    schema:url <https://www.sib.swiss/michael-baudis-group> .
+    schema:url <https://www.sib.swiss/michael-baudis-group> ;
+    schema:memberOf <https://ror.org/002n09z45> ;
+    schema:parentOrganization <https://www.sib.swiss/institution/university-of-zurich> .
+
+<https://www.sib.swiss/institution/university-of-zurich>
+    a schema:Organization ;
+    schema:name "University of Zurich" .
 
 <https://www.sib.swiss/katja-barenfaller-group>
     a schema:Organization ;
     schema:name "Molecular Allergology" ;
-    schema:url <https://www.sib.swiss/katja-barenfaller-group> .
+    schema:url <https://www.sib.swiss/katja-barenfaller-group> ;
+    schema:memberOf <https://ror.org/002n09z45> ;
+    schema:parentOrganization <https://www.sib.swiss/institution/university-of-zurich> .
 
 <https://www.sib.swiss/niko-beerenwinkel-group>
     a schema:Organization ;
     schema:name "Computational Biology Group" ;
-    schema:url <https://www.sib.swiss/niko-beerenwinkel-group> .
+    schema:url <https://www.sib.swiss/niko-beerenwinkel-group> ;
+    schema:memberOf <https://ror.org/002n09z45> ;
+    schema:parentOrganization <https://www.sib.swiss/institution/eth-zurich> .
+
+<https://www.sib.swiss/institution/eth-zurich>
+    a schema:Organization ;
+    schema:name "ETH Zurich" .
 
 <https://www.sib.swiss/pedro-beltrao-group>
     a schema:Organization ;
     schema:name "Cellular consequences of genetic variation" ;
-    schema:url <https://www.sib.swiss/pedro-beltrao-group> .
+    schema:url <https://www.sib.swiss/pedro-beltrao-group> ;
+    schema:memberOf <https://ror.org/002n09z45> ;
+    schema:parentOrganization <https://www.sib.swiss/institution/eth-zurich> .
 
 <https://www.sib.swiss/sven-bergmann-group>
     a schema:Organization ;
     schema:name "Computational Biology" ;
-    schema:url <https://www.sib.swiss/sven-bergmann-group> .
+    schema:url <https://www.sib.swiss/sven-bergmann-group> ;
+    schema:memberOf <https://ror.org/002n09z45> ;
+    schema:parentOrganization <https://www.sib.swiss/institution/university-of-lausanne> .
+
+<https://www.sib.swiss/institution/university-of-lausanne>
+    a schema:Organization ;
+    schema:name "University of Lausanne" .
 
 <https://www.sib.swiss/anne-florence-bitbol-group>
     a schema:Organization ;
     schema:name "Laboratory of Computational Biology and Theoretical Biophysics" ;
-    schema:url <https://www.sib.swiss/anne-florence-bitbol-group> .
+    schema:url <https://www.sib.swiss/anne-florence-bitbol-group> ;
+    schema:memberOf <https://ror.org/002n09z45> ;
+    schema:parentOrganization <https://www.sib.swiss/institution/epfl> .
+
+<https://www.sib.swiss/institution/epfl>
+    a schema:Organization ;
+    schema:name "EPFL" .
 
 <https://www.sib.swiss/valentina-boeva-group>
     a schema:Organization ;
     schema:name "Computational Cancer Genomics" ;
-    schema:url <https://www.sib.swiss/valentina-boeva-group> .
+    schema:url <https://www.sib.swiss/valentina-boeva-group> ;
+    schema:memberOf <https://ror.org/002n09z45> ;
+    schema:parentOrganization <https://www.sib.swiss/institution/eth-zurich> .
 
 <https://www.sib.swiss/maria-brbic-group>
     a schema:Organization ;
     schema:name "Machine Learning for Biomedicine" ;
-    schema:url <https://www.sib.swiss/maria-brbic-group> .
+    schema:url <https://www.sib.swiss/maria-brbic-group> ;
+    schema:memberOf <https://ror.org/002n09z45> ;
+    schema:parentOrganization <https://www.sib.swiss/institution/epfl> .
 
 <https://www.sib.swiss/remy-bruggmann-group>
     a schema:Organization ;
     schema:name "Interfaculty Bioinformatics Unit" ;
-    schema:url <https://www.sib.swiss/remy-bruggmann-group> .
+    schema:url <https://www.sib.swiss/remy-bruggmann-group> ;
+    schema:memberOf <https://ror.org/002n09z45> ;
+    schema:parentOrganization <https://www.sib.swiss/institution/university-of-bern> .
 
 <https://www.sib.swiss/marija-buljan-group>
     a schema:Organization ;
     schema:name "Multi-omics for healthcare materials" ;
-    schema:url <https://www.sib.swiss/marija-buljan-group> .
+    schema:url <https://www.sib.swiss/marija-buljan-group> ;
+    schema:memberOf <https://ror.org/002n09z45> ;
+    schema:parentOrganization <https://www.sib.swiss/institution/swiss-federal-laboratories-for-materials-science-and-technology> .
+
+<https://www.sib.swiss/institution/swiss-federal-laboratories-for-materials-science-and-technology>
+    a schema:Organization ;
+    schema:name "Swiss Federal Laboratories for Materials Science and Technology" .
 
 <https://www.sib.swiss/santiago-carmona-group>
     a schema:Organization ;
     schema:name "Cancer Systems Immunology" ;
-    schema:url <https://www.sib.swiss/santiago-carmona-group> .
+    schema:url <https://www.sib.swiss/santiago-carmona-group> ;
+    schema:memberOf <https://ror.org/002n09z45> ;
+    schema:parentOrganization <https://www.sib.swiss/institution/university-of-geneva> .
+
+<https://www.sib.swiss/institution/university-of-geneva>
+    a schema:Organization ;
+    schema:name "University of Geneva" .
 
 <https://www.sib.swiss/luciano-cascione-group>
     a schema:Organization ;
     schema:name "IOR Bioinformatics Core Unit" ;
-    schema:url <https://www.sib.swiss/luciano-cascione-group> .
+    schema:url <https://www.sib.swiss/luciano-cascione-group> ;
+    schema:memberOf <https://ror.org/002n09z45> ;
+    schema:parentOrganization <https://www.sib.swiss/institution/institute-of-oncology-research> .
+
+<https://www.sib.swiss/institution/institute-of-oncology-research>
+    a schema:Organization ;
+    schema:name "Institute of Oncology Research" .
 
 <https://www.sib.swiss/andrea-cavalli-group>
     a schema:Organization ;
     schema:name "Computational Structural Biology IRB" ;
-    schema:url <https://www.sib.swiss/andrea-cavalli-group> .
+    schema:url <https://www.sib.swiss/andrea-cavalli-group> ;
+    schema:memberOf <https://ror.org/002n09z45> ;
+    schema:parentOrganization <https://www.sib.swiss/institution/institute-for-research-in-biomedicine> .
+
+<https://www.sib.swiss/institution/institute-for-research-in-biomedicine>
+    a schema:Organization ;
+    schema:name "Institute for Research in Biomedicine" .
 
 <https://www.sib.swiss/bastien-chopard-group>
     a schema:Organization ;
     schema:name "Scientific and Parallel Computing" ;
-    schema:url <https://www.sib.swiss/bastien-chopard-group> .
+    schema:url <https://www.sib.swiss/bastien-chopard-group> ;
+    schema:memberOf <https://ror.org/002n09z45> ;
+    schema:parentOrganization <https://www.sib.swiss/institution/university-of-geneva> .
 
 <https://www.sib.swiss/giovanni-ciriello-group>
     a schema:Organization ;
     schema:name "Computational Systems Oncology" ;
-    schema:url <https://www.sib.swiss/giovanni-ciriello-group> .
+    schema:url <https://www.sib.swiss/giovanni-ciriello-group> ;
+    schema:memberOf <https://ror.org/002n09z45> ;
+    schema:parentOrganization <https://www.sib.swiss/institution/university-of-lausanne> .
 
 <https://www.sib.swiss/bruno-correia-group>
     a schema:Organization ;
     schema:name "Laboratory of Protein Design and Immunoengineering" ;
-    schema:url <https://www.sib.swiss/bruno-correia-group> .
+    schema:url <https://www.sib.swiss/bruno-correia-group> ;
+    schema:memberOf <https://ror.org/002n09z45> ;
+    schema:parentOrganization <https://www.sib.swiss/institution/epfl> .
 
 <https://www.sib.swiss/matteo-dal-peraro-group>
     a schema:Organization ;
     schema:name "Laboratory for Biomolecular Modeling" ;
-    schema:url <https://www.sib.swiss/matteo-dal-peraro-group> .
+    schema:url <https://www.sib.swiss/matteo-dal-peraro-group> ;
+    schema:memberOf <https://ror.org/002n09z45> ;
+    schema:parentOrganization <https://www.sib.swiss/institution/epfl> .
 
 <https://www.sib.swiss/bart-deplancke-group>
     a schema:Organization ;
     schema:name "Laboratory of Systems Biology and Genetics" ;
-    schema:url <https://www.sib.swiss/bart-deplancke-group> .
+    schema:url <https://www.sib.swiss/bart-deplancke-group> ;
+    schema:memberOf <https://ror.org/002n09z45> ;
+    schema:parentOrganization <https://www.sib.swiss/institution/epfl> .
 
 <https://www.sib.swiss/christophe-dessimoz-natasha-glover-group>
     a schema:Organization ;
     schema:name "Comparative Genomics" ;
-    schema:url <https://www.sib.swiss/christophe-dessimoz-natasha-glover-group> .
+    schema:url <https://www.sib.swiss/christophe-dessimoz-natasha-glover-group> ;
+    schema:memberOf <https://ror.org/002n09z45> ;
+    schema:parentOrganization <https://www.sib.swiss/institution/university-of-lausanne> .
 
 <https://www.sib.swiss/xavier-deupi-group>
     a schema:Organization ;
     schema:name "Computational Structural Biology of Signaling Proteins" ;
-    schema:url <https://www.sib.swiss/xavier-deupi-group> .
+    schema:url <https://www.sib.swiss/xavier-deupi-group> ;
+    schema:memberOf <https://ror.org/002n09z45> ;
+    schema:parentOrganization <https://www.sib.swiss/institution/paul-scherrer-institute> .
+
+<https://www.sib.swiss/institution/paul-scherrer-institute>
+    a schema:Organization ;
+    schema:name "Paul Scherrer Institute" .
 
 <https://www.sib.swiss/laurent-falquet-group>
     a schema:Organization ;
     schema:name "BUGFri" ;
-    schema:url <https://www.sib.swiss/laurent-falquet-group> .
+    schema:url <https://www.sib.swiss/laurent-falquet-group> ;
+    schema:memberOf <https://ror.org/002n09z45> ;
+    schema:parentOrganization <https://www.sib.swiss/institution/university-of-fribourg> .
+
+<https://www.sib.swiss/institution/university-of-fribourg>
+    a schema:Organization ;
+    schema:name "University of Fribourg" .
 
 <https://www.sib.swiss/jacques-fellay-group>
     a schema:Organization ;
     schema:name "Host-Pathogen Genomics" ;
-    schema:url <https://www.sib.swiss/jacques-fellay-group> .
+    schema:url <https://www.sib.swiss/jacques-fellay-group> ;
+    schema:memberOf <https://ror.org/002n09z45> ;
+    schema:parentOrganization <https://www.sib.swiss/institution/epfl> .
 
 <https://www.sib.swiss/nadine-fournier-group>
     a schema:Organization ;
     schema:name "Biomedical Data Science Facility" ;
-    schema:url <https://www.sib.swiss/nadine-fournier-group> .
+    schema:url <https://www.sib.swiss/nadine-fournier-group> ;
+    schema:memberOf <https://ror.org/002n09z45> .
 
 <https://www.sib.swiss/francesco-gervasio-group>
     a schema:Organization ;
     schema:name "Biomolecular and Pharmaceutical Modelling" ;
-    schema:url <https://www.sib.swiss/francesco-gervasio-group> .
+    schema:url <https://www.sib.swiss/francesco-gervasio-group> ;
+    schema:memberOf <https://ror.org/002n09z45> ;
+    schema:parentOrganization <https://www.sib.swiss/institution/university-of-geneva> .
 
 <https://www.sib.swiss/david-gfeller-group>
     a schema:Organization ;
     schema:name "Cancer Immune Recognition" ;
-    schema:url <https://www.sib.swiss/david-gfeller-group> .
+    schema:url <https://www.sib.swiss/david-gfeller-group> ;
+    schema:memberOf <https://ror.org/002n09z45> ;
+    schema:parentOrganization <https://www.sib.swiss/institution/university-of-lausanne> .
 
 <https://www.sib.swiss/raphael-gottardo-group>
     a schema:Organization ;
     schema:name "Translational Data Science" ;
-    schema:url <https://www.sib.swiss/raphael-gottardo-group> .
+    schema:url <https://www.sib.swiss/raphael-gottardo-group> ;
+    schema:memberOf <https://ror.org/002n09z45> ;
+    schema:parentOrganization <https://www.sib.swiss/institution/chuv> .
+
+<https://www.sib.swiss/institution/chuv>
+    a schema:Organization ;
+    schema:name "CHUV" .
 
 <https://www.sib.swiss/jerome-goudet-group>
     a schema:Organization ;
     schema:name "Population Genetics and Genomics" ;
-    schema:url <https://www.sib.swiss/jerome-goudet-group> .
+    schema:url <https://www.sib.swiss/jerome-goudet-group> ;
+    schema:memberOf <https://ror.org/002n09z45> ;
+    schema:parentOrganization <https://www.sib.swiss/institution/university-of-lausanne> .
 
 <https://www.sib.swiss/janna-hastings-group>
     a schema:Organization ;
     schema:name "Human-Centered Health AI" ;
-    schema:url <https://www.sib.swiss/janna-hastings-group> .
+    schema:url <https://www.sib.swiss/janna-hastings-group> ;
+    schema:memberOf <https://ror.org/002n09z45> .
 
 <https://www.sib.swiss/emma-hodcroft-group>
     a schema:Organization ;
     schema:name "EVE Epidemiology and Virus Evolution" ;
-    schema:url <https://www.sib.swiss/emma-hodcroft-group> .
+    schema:url <https://www.sib.swiss/emma-hodcroft-group> ;
+    schema:memberOf <https://ror.org/002n09z45> ;
+    schema:parentOrganization <https://www.sib.swiss/institution/swiss-tropical-and-public-health-institute> .
+
+<https://www.sib.swiss/institution/swiss-tropical-and-public-health-institute>
+    a schema:Organization ;
+    schema:name "Swiss Tropical and Public Health Institute" .
 
 <https://www.sib.swiss/dagmar-iber-group>
     a schema:Organization ;
     schema:name "Computational Biology CoBi" ;
-    schema:url <https://www.sib.swiss/dagmar-iber-group> .
+    schema:url <https://www.sib.swiss/dagmar-iber-group> ;
+    schema:memberOf <https://ror.org/002n09z45> ;
+    schema:parentOrganization <https://www.sib.swiss/institution/eth-zurich> .
 
 <https://www.sib.swiss/robert-ivanek-group>
     a schema:Organization ;
     schema:name "DBM Bioinformatics Core Facility" ;
-    schema:url <https://www.sib.swiss/robert-ivanek-group> .
+    schema:url <https://www.sib.swiss/robert-ivanek-group> ;
+    schema:memberOf <https://ror.org/002n09z45> ;
+    schema:parentOrganization <https://www.sib.swiss/institution/university-of-basel> .
+
+<https://www.sib.swiss/institution/university-of-basel>
+    a schema:Organization ;
+    schema:name "University of Basel" .
 
 <https://www.sib.swiss/catherine-jutzeler-group>
     a schema:Organization ;
     schema:name "Biomedical Data Science Lab" ;
-    schema:url <https://www.sib.swiss/catherine-jutzeler-group> .
+    schema:url <https://www.sib.swiss/catherine-jutzeler-group> ;
+    schema:memberOf <https://ror.org/002n09z45> ;
+    schema:parentOrganization <https://www.sib.swiss/institution/eth-zurich> .
 
 <https://www.sib.swiss/abdullah-kahraman-group>
     a schema:Organization ;
     schema:name "Data Science in Life Sciences" ;
-    schema:url <https://www.sib.swiss/abdullah-kahraman-group> .
+    schema:url <https://www.sib.swiss/abdullah-kahraman-group> ;
+    schema:memberOf <https://ror.org/002n09z45> ;
+    schema:parentOrganization <https://www.sib.swiss/institution/fhnw> .
+
+<https://www.sib.swiss/institution/fhnw>
+    a schema:Organization ;
+    schema:name "FHNW" .
 
 <https://www.sib.swiss/zoltan-kutalik-group>
     a schema:Organization ;
     schema:name "Statistical Genetics" ;
-    schema:url <https://www.sib.swiss/zoltan-kutalik-group> .
+    schema:url <https://www.sib.swiss/zoltan-kutalik-group> ;
+    schema:memberOf <https://ror.org/002n09z45> ;
+    schema:parentOrganization <https://www.sib.swiss/institution/university-of-lausanne> .
 
 <https://www.sib.swiss/sonja-lehtinen-group>
     a schema:Organization ;
     schema:name "Evolutionary Epidemiology" ;
-    schema:url <https://www.sib.swiss/sonja-lehtinen-group> .
+    schema:url <https://www.sib.swiss/sonja-lehtinen-group> ;
+    schema:memberOf <https://ror.org/002n09z45> .
 
 <https://www.sib.swiss/thomas-lemmin-group>
     a schema:Organization ;
     schema:name "Laboratory for Molecular Learning" ;
-    schema:url <https://www.sib.swiss/thomas-lemmin-group> .
+    schema:url <https://www.sib.swiss/thomas-lemmin-group> ;
+    schema:memberOf <https://ror.org/002n09z45> .
 
 <https://www.sib.swiss/emmanuel-levy-group>
     a schema:Organization ;
     schema:name "Structural Systems Biology" ;
-    schema:url <https://www.sib.swiss/emmanuel-levy-group> .
+    schema:url <https://www.sib.swiss/emmanuel-levy-group> ;
+    schema:memberOf <https://ror.org/002n09z45> ;
+    schema:parentOrganization <https://www.sib.swiss/institution/university-of-geneva> .
 
 <https://www.sib.swiss/markus-lill-group>
     a schema:Organization ;
     schema:name "Computational Pharmacy" ;
-    schema:url <https://www.sib.swiss/markus-lill-group> .
+    schema:url <https://www.sib.swiss/markus-lill-group> ;
+    schema:memberOf <https://ror.org/002n09z45> ;
+    schema:parentOrganization <https://www.sib.swiss/institution/university-of-basel> .
 
 <https://www.sib.swiss/frederique-lisacek-group>
     a schema:Organization ;
     schema:name "Proteome Informatics" ;
-    schema:url <https://www.sib.swiss/frederique-lisacek-group> .
+    schema:url <https://www.sib.swiss/frederique-lisacek-group> ;
+    schema:memberOf <https://ror.org/002n09z45> .
 
 <https://www.sib.swiss/raphaelle-luisier-group>
     a schema:Organization ;
     schema:name "AI and data science for RNA biology" ;
-    schema:url <https://www.sib.swiss/raphaelle-luisier-group> .
+    schema:url <https://www.sib.swiss/raphaelle-luisier-group> ;
+    schema:memberOf <https://ror.org/002n09z45> .
 
 <https://www.sib.swiss/timothy-frayling-group>
     a schema:Organization ;
     schema:name "Common Disease Genetics and Genomics" ;
-    schema:url <https://www.sib.swiss/timothy-frayling-group> .
+    schema:url <https://www.sib.swiss/timothy-frayling-group> ;
+    schema:memberOf <https://ror.org/002n09z45> ;
+    schema:parentOrganization <https://www.sib.swiss/institution/university-of-geneva> .
 
 <https://www.sib.swiss/anna-sapfo-malaspinas-group>
     a schema:Organization ;
     schema:name "Evolutionary Genomics" ;
-    schema:url <https://www.sib.swiss/anna-sapfo-malaspinas-group> .
+    schema:url <https://www.sib.swiss/anna-sapfo-malaspinas-group> ;
+    schema:memberOf <https://ror.org/002n09z45> ;
+    schema:parentOrganization <https://www.sib.swiss/institution/university-of-lausanne> .
 
 <https://www.sib.swiss/christian-mazza-group>
     a schema:Organization ;
     schema:name "Biomathematics and Computational Biology" ;
-    schema:url <https://www.sib.swiss/christian-mazza-group> .
+    schema:url <https://www.sib.swiss/christian-mazza-group> ;
+    schema:memberOf <https://ror.org/002n09z45> ;
+    schema:parentOrganization <https://www.sib.swiss/institution/university-of-fribourg> .
 
 <https://www.sib.swiss/christoph-messner-group>
     a schema:Organization ;
     schema:name "Precision Proteomics" ;
-    schema:url <https://www.sib.swiss/christoph-messner-group> .
+    schema:url <https://www.sib.swiss/christoph-messner-group> ;
+    schema:memberOf <https://ror.org/002n09z45> ;
+    schema:parentOrganization <https://www.sib.swiss/institution/university-of-zurich> .
 
 <https://www.sib.swiss/olivier-michielin-vincent-zoete-group>
     a schema:Organization ;
     schema:name "Molecular Modelling" ;
-    schema:url <https://www.sib.swiss/olivier-michielin-vincent-zoete-group> .
+    schema:url <https://www.sib.swiss/olivier-michielin-vincent-zoete-group> ;
+    schema:memberOf <https://ror.org/002n09z45> ;
+    schema:parentOrganization <https://www.sib.swiss/institution/university-of-geneva> .
 
 <https://www.sib.swiss/enkelejda-miho-group>
     a schema:Organization ;
     schema:name "Artificial Intelligence in Health" ;
-    schema:url <https://www.sib.swiss/enkelejda-miho-group> .
+    schema:url <https://www.sib.swiss/enkelejda-miho-group> ;
+    schema:memberOf <https://ror.org/002n09z45> ;
+    schema:parentOrganization <https://www.sib.swiss/institution/fhnw> .
 
 <https://www.sib.swiss/michel-milinkovitch-group>
     a schema:Organization ;
     schema:name "Artificial and Natural Evolutionary Development of Complexity" ;
-    schema:url <https://www.sib.swiss/michel-milinkovitch-group> .
+    schema:url <https://www.sib.swiss/michel-milinkovitch-group> ;
+    schema:memberOf <https://ror.org/002n09z45> ;
+    schema:parentOrganization <https://www.sib.swiss/institution/university-of-geneva> .
 
 <https://www.sib.swiss/microbial-evolution-richard-neher-group>
     a schema:Organization ;
     schema:name "Microbial Evolution" ;
-    schema:url <https://www.sib.swiss/microbial-evolution-richard-neher-group> .
+    schema:url <https://www.sib.swiss/microbial-evolution-richard-neher-group> ;
+    schema:memberOf <https://ror.org/002n09z45> ;
+    schema:parentOrganization <https://www.sib.swiss/institution/university-of-basel> .
 
 <https://www.sib.swiss/scicore-richard-neher-group>
     a schema:Organization ;
     schema:name "sciCORE" ;
-    schema:url <https://www.sib.swiss/scicore-richard-neher-group> .
+    schema:url <https://www.sib.swiss/scicore-richard-neher-group> ;
+    schema:memberOf <https://ror.org/002n09z45> ;
+    schema:parentOrganization <https://www.sib.swiss/institution/university-of-basel> .
 
 <https://www.sib.swiss/martin-pacesa-group>
     a schema:Organization ;
     schema:name "Institute of Pharmacology" ;
-    schema:url <https://www.sib.swiss/martin-pacesa-group> .
+    schema:url <https://www.sib.swiss/martin-pacesa-group> ;
+    schema:memberOf <https://ror.org/002n09z45> .
 
 <https://www.sib.swiss/alan-pacheco-group>
     a schema:Organization ;
     schema:name "Systems and Synthetic Ecology" ;
-    schema:url <https://www.sib.swiss/alan-pacheco-group> .
+    schema:url <https://www.sib.swiss/alan-pacheco-group> ;
+    schema:memberOf <https://ror.org/002n09z45> .
 
 <https://www.sib.swiss/christian-panse-group>
     a schema:Organization ;
     schema:name "Proteome Informatics FGCZ" ;
-    schema:url <https://www.sib.swiss/christian-panse-group> .
+    schema:url <https://www.sib.swiss/christian-panse-group> ;
+    schema:memberOf <https://ror.org/002n09z45> ;
+    schema:parentOrganization <https://www.sib.swiss/institution/eth-zurich> .
 
 <https://www.sib.swiss/patrick-pedrioli-bernd-wollscheid-group>
     a schema:Organization ;
     schema:name "PHRT Clinical Proteotype Analysis Center" ;
-    schema:url <https://www.sib.swiss/patrick-pedrioli-bernd-wollscheid-group> .
+    schema:url <https://www.sib.swiss/patrick-pedrioli-bernd-wollscheid-group> ;
+    schema:memberOf <https://ror.org/002n09z45> ;
+    schema:parentOrganization <https://www.sib.swiss/institution/eth-zurich> .
 
 <https://www.sib.swiss/carlos-pena-reyes-group>
     a schema:Organization ;
     schema:name "Computational Intelligence for Computational Biology" ;
-    schema:url <https://www.sib.swiss/carlos-pena-reyes-group> .
+    schema:url <https://www.sib.swiss/carlos-pena-reyes-group> ;
+    schema:memberOf <https://ror.org/002n09z45> ;
+    schema:parentOrganization <https://www.sib.swiss/institution/heig-vd> .
+
+<https://www.sib.swiss/institution/heig-vd>
+    a schema:Organization ;
+    schema:name "HEIG-VD" .
 
 <https://www.sib.swiss/igor-pivkin-group>
     a schema:Organization ;
     schema:name "Scientific Computing" ;
-    schema:url <https://www.sib.swiss/igor-pivkin-group> .
+    schema:url <https://www.sib.swiss/igor-pivkin-group> ;
+    schema:memberOf <https://ror.org/002n09z45> ;
+    schema:parentOrganization <https://www.sib.swiss/institution/universita-della-svizzera-italiana> .
+
+<https://www.sib.swiss/institution/universita-della-svizzera-italiana>
+    a schema:Organization ;
+    schema:name "Università della Svizzera italiana" .
 
 <https://www.sib.swiss/marianna-rapsomaniki-group>
     a schema:Organization ;
     schema:name "AI/ML for Biomedicine" ;
-    schema:url <https://www.sib.swiss/marianna-rapsomaniki-group> .
+    schema:url <https://www.sib.swiss/marianna-rapsomaniki-group> ;
+    schema:memberOf <https://ror.org/002n09z45> ;
+    schema:parentOrganization <https://www.sib.swiss/institution/university-of-lausanne> .
 
 <https://www.sib.swiss/gunnar-ratsch-group>
     a schema:Organization ;
     schema:name "Biomedical Informatics" ;
-    schema:url <https://www.sib.swiss/gunnar-ratsch-group> .
+    schema:url <https://www.sib.swiss/gunnar-ratsch-group> ;
+    schema:memberOf <https://ror.org/002n09z45> ;
+    schema:parentOrganization <https://www.sib.swiss/institution/eth-zurich> .
 
 <https://www.sib.swiss/hubert-rehrauer-group>
     a schema:Organization ;
     schema:name "Functional Genomics Center Zurich" ;
-    schema:url <https://www.sib.swiss/hubert-rehrauer-group> .
+    schema:url <https://www.sib.swiss/hubert-rehrauer-group> ;
+    schema:memberOf <https://ror.org/002n09z45> ;
+    schema:parentOrganization <https://www.sib.swiss/institution/eth-zurich> .
 
 <https://www.sib.swiss/fabio-rinaldi-group>
     a schema:Organization ;
     schema:name "BioMeXT Biomedical Information Extraction" ;
-    schema:url <https://www.sib.swiss/fabio-rinaldi-group> .
+    schema:url <https://www.sib.swiss/fabio-rinaldi-group> ;
+    schema:memberOf <https://ror.org/002n09z45> ;
+    schema:parentOrganization <https://www.sib.swiss/institution/dalle-molle-institute-for-artificial-intelligence-research> .
 
 <https://www.sib.swiss/bernd-rinn-group>
     a schema:Organization ;
     schema:name "Scientific IT Services" ;
-    schema:url <https://www.sib.swiss/bernd-rinn-group> .
+    schema:url <https://www.sib.swiss/bernd-rinn-group> ;
+    schema:memberOf <https://ror.org/002n09z45> ;
+    schema:parentOrganization <https://www.sib.swiss/institution/eth-zurich> .
 
 <https://www.sib.swiss/mark-robinson-group>
     a schema:Organization ;
     schema:name "Statistical Bioinformatics" ;
-    schema:url <https://www.sib.swiss/mark-robinson-group> .
+    schema:url <https://www.sib.swiss/mark-robinson-group> ;
+    schema:memberOf <https://ror.org/002n09z45> ;
+    schema:parentOrganization <https://www.sib.swiss/institution/university-of-zurich> .
 
 <https://www.sib.swiss/marc-robinson-rechavi-frederic-bastian-group>
     a schema:Organization ;
     schema:name "Evolutionary Bioinformatics" ;
-    schema:url <https://www.sib.swiss/marc-robinson-rechavi-frederic-bastian-group> .
+    schema:url <https://www.sib.swiss/marc-robinson-rechavi-frederic-bastian-group> ;
+    schema:memberOf <https://ror.org/002n09z45> ;
+    schema:parentOrganization <https://www.sib.swiss/institution/university-of-lausanne> .
 
 <https://www.sib.swiss/helena-seth-tim-roloff-group>
     a schema:Organization ;
     schema:name "Microbial Genomics" ;
-    schema:url <https://www.sib.swiss/helena-seth-tim-roloff-group> .
+    schema:url <https://www.sib.swiss/helena-seth-tim-roloff-group> ;
+    schema:memberOf <https://ror.org/002n09z45> ;
+    schema:parentOrganization <https://www.sib.swiss/institution/university-of-zurich> .
 
 <https://www.sib.swiss/patrick-ruch-group>
     a schema:Organization ;
     schema:name "SIB Text Mining" ;
-    schema:url <https://www.sib.swiss/patrick-ruch-group> .
+    schema:url <https://www.sib.swiss/patrick-ruch-group> ;
+    schema:memberOf <https://ror.org/002n09z45> ;
+    schema:parentOrganization <https://www.sib.swiss/institution/hes-so> .
+
+<https://www.sib.swiss/institution/hes-so>
+    a schema:Organization ;
+    schema:name "HES-SO" .
 
 <https://www.sib.swiss/frederic-schutz-group>
     a schema:Organization ;
     schema:name "Biostatistics platform" ;
-    schema:url <https://www.sib.swiss/frederic-schutz-group> .
+    schema:url <https://www.sib.swiss/frederic-schutz-group> ;
+    schema:memberOf <https://ror.org/002n09z45> ;
+    schema:parentOrganization <https://www.sib.swiss/institution/university-of-lausanne> .
 
 <https://www.sib.swiss/torsten-schwede-group>
     a schema:Organization ;
     schema:name "Computational Structural Biology" ;
-    schema:url <https://www.sib.swiss/torsten-schwede-group> .
+    schema:url <https://www.sib.swiss/torsten-schwede-group> ;
+    schema:memberOf <https://ror.org/002n09z45> ;
+    schema:parentOrganization <https://www.sib.swiss/institution/university-of-basel> .
 
 <https://www.sib.swiss/berend-snijder-group>
     a schema:Organization ;
     schema:name "Snijder Lab" ;
-    schema:url <https://www.sib.swiss/berend-snijder-group> .
+    schema:url <https://www.sib.swiss/berend-snijder-group> ;
+    schema:memberOf <https://ror.org/002n09z45> ;
+    schema:parentOrganization <https://www.sib.swiss/institution/eth-zurich> .
 
 <https://www.sib.swiss/tanja-stadler-group>
     a schema:Organization ;
     schema:name "Computational Evolution" ;
-    schema:url <https://www.sib.swiss/tanja-stadler-group> .
+    schema:url <https://www.sib.swiss/tanja-stadler-group> ;
+    schema:memberOf <https://ror.org/002n09z45> ;
+    schema:parentOrganization <https://www.sib.swiss/institution/eth-zurich> .
 
 <https://www.sib.swiss/michael-stadler-group>
     a schema:Organization ;
     schema:name "FMI Computational Biology" ;
-    schema:url <https://www.sib.swiss/michael-stadler-group> .
+    schema:url <https://www.sib.swiss/michael-stadler-group> ;
+    schema:memberOf <https://ror.org/002n09z45> ;
+    schema:parentOrganization <https://www.sib.swiss/institution/friedrich-miescher-institute> .
+
+<https://www.sib.swiss/institution/friedrich-miescher-institute>
+    a schema:Organization ;
+    schema:name "Friedrich Miescher Institute" .
 
 <https://www.sib.swiss/daniel-stekhoven-group>
     a schema:Organization ;
     schema:name "NEXUS Personalized Health" ;
-    schema:url <https://www.sib.swiss/daniel-stekhoven-group> .
+    schema:url <https://www.sib.swiss/daniel-stekhoven-group> ;
+    schema:memberOf <https://ror.org/002n09z45> ;
+    schema:parentOrganization <https://www.sib.swiss/institution/eth-zurich> .
 
 <https://www.sib.swiss/jorg-stelling-group>
     a schema:Organization ;
     schema:name "Computational Systems Biology" ;
-    schema:url <https://www.sib.swiss/jorg-stelling-group> .
+    schema:url <https://www.sib.swiss/jorg-stelling-group> ;
+    schema:memberOf <https://ror.org/002n09z45> ;
+    schema:parentOrganization <https://www.sib.swiss/institution/eth-zurich> .
 
 <https://www.sib.swiss/shinichi-sunagawa-group>
     a schema:Organization ;
     schema:name "Microbiome Research" ;
-    schema:url <https://www.sib.swiss/shinichi-sunagawa-group> .
+    schema:url <https://www.sib.swiss/shinichi-sunagawa-group> ;
+    schema:memberOf <https://ror.org/002n09z45> ;
+    schema:parentOrganization <https://www.sib.swiss/institution/eth-zurich> .
 
 <https://www.sib.swiss/virginie-uhlmann-group>
     a schema:Organization ;
     schema:name "Bioimaging and data analysis" ;
-    schema:url <https://www.sib.swiss/virginie-uhlmann-group> .
+    schema:url <https://www.sib.swiss/virginie-uhlmann-group> ;
+    schema:memberOf <https://ror.org/002n09z45> .
 
 <https://www.sib.swiss/erik-van-nimwegen-group>
     a schema:Organization ;
     schema:name "Genome Systems Biology" ;
-    schema:url <https://www.sib.swiss/erik-van-nimwegen-group> .
+    schema:url <https://www.sib.swiss/erik-van-nimwegen-group> ;
+    schema:memberOf <https://ror.org/002n09z45> ;
+    schema:parentOrganization <https://www.sib.swiss/institution/university-of-basel> .
 
 <https://www.sib.swiss/julia-vogt-group>
     a schema:Organization ;
     schema:name "Medical Data Science" ;
-    schema:url <https://www.sib.swiss/julia-vogt-group> .
+    schema:url <https://www.sib.swiss/julia-vogt-group> ;
+    schema:memberOf <https://ror.org/002n09z45> ;
+    schema:parentOrganization <https://www.sib.swiss/institution/eth-zurich> .
 
 <https://www.sib.swiss/christian-von-mering-group>
     a schema:Organization ;
     schema:name "Bioinformatics Systems Biology" ;
-    schema:url <https://www.sib.swiss/christian-von-mering-group> .
+    schema:url <https://www.sib.swiss/christian-von-mering-group> ;
+    schema:memberOf <https://ror.org/002n09z45> ;
+    schema:parentOrganization <https://www.sib.swiss/institution/university-of-zurich> .
 
 <https://www.sib.swiss/andreas-wagner-group>
     a schema:Organization ;
     schema:name "Evolutionary Systems Biology" ;
-    schema:url <https://www.sib.swiss/andreas-wagner-group> .
+    schema:url <https://www.sib.swiss/andreas-wagner-group> ;
+    schema:memberOf <https://ror.org/002n09z45> ;
+    schema:parentOrganization <https://www.sib.swiss/institution/university-of-zurich> .
 
 <https://www.sib.swiss/daniel-wegmann-group>
     a schema:Organization ;
     schema:name "Statistical and Computational Evolutionary Biology" ;
-    schema:url <https://www.sib.swiss/daniel-wegmann-group> .
+    schema:url <https://www.sib.swiss/daniel-wegmann-group> ;
+    schema:memberOf <https://ror.org/002n09z45> ;
+    schema:parentOrganization <https://www.sib.swiss/institution/university-of-fribourg> .
 
 <https://www.sib.swiss/basile-wicky-group>
     a schema:Organization ;
     schema:name "Laboratory for Biomolecular Design" ;
-    schema:url <https://www.sib.swiss/basile-wicky-group> .
+    schema:url <https://www.sib.swiss/basile-wicky-group> ;
+    schema:memberOf <https://ror.org/002n09z45> .
 
 <https://www.sib.swiss/judith-zaugg-group>
     a schema:Organization ;
     schema:name "Molecular and Computational Hematology-Immunology" ;
-    schema:url <https://www.sib.swiss/judith-zaugg-group> .
+    schema:url <https://www.sib.swiss/judith-zaugg-group> ;
+    schema:memberOf <https://ror.org/002n09z45> ;
+    schema:parentOrganization <https://www.sib.swiss/institution/university-of-basel> .
 
 <https://www.sib.swiss/mihaela-zavolan-group>
     a schema:Organization ;
     schema:name "RNA Regulatory Networks" ;
-    schema:url <https://www.sib.swiss/mihaela-zavolan-group> .
+    schema:url <https://www.sib.swiss/mihaela-zavolan-group> ;
+    schema:memberOf <https://ror.org/002n09z45> ;
+    schema:parentOrganization <https://www.sib.swiss/institution/university-of-basel> .
 
 <https://www.sib.swiss/evgeny-zdobnov-evgenia-kriventseva-group>
     a schema:Organization ;
     schema:name "Computational Evolutionary Genomics" ;
-    schema:url <https://www.sib.swiss/evgeny-zdobnov-evgenia-kriventseva-group> .
+    schema:url <https://www.sib.swiss/evgeny-zdobnov-evgenia-kriventseva-group> ;
+    schema:memberOf <https://ror.org/002n09z45> ;
+    schema:parentOrganization <https://www.sib.swiss/institution/university-of-geneva> .
 
 <https://www.sib.swiss/andreas-ziegler-group>
     a schema:Organization ;
     schema:name "Cardio-CARE" ;
-    schema:url <https://www.sib.swiss/andreas-ziegler-group> .
+    schema:url <https://www.sib.swiss/andreas-ziegler-group> ;
+    schema:memberOf <https://ror.org/002n09z45> .
 
 <https://www.sib.swiss/vincent-zoete-group>
     a schema:Organization ;
     schema:name "Computer-aided Molecular Engineering" ;
-    schema:url <https://www.sib.swiss/vincent-zoete-group> .
+    schema:url <https://www.sib.swiss/vincent-zoete-group> ;
+    schema:memberOf <https://ror.org/002n09z45> ;
+    schema:parentOrganization <https://www.sib.swiss/institution/university-of-lausanne> .
 
 <https://orcid.org/0000-0003-2148-9135>
     a schema:Person ;

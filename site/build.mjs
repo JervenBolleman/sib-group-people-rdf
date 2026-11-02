@@ -19,6 +19,7 @@ const CLIENT_BUNDLES = [
 const SCHEMA = 'https://schema.org/';
 const RDF_TYPE = 'http://www.w3.org/1999/02/22-rdf-syntax-ns#type';
 const ROR = 'https://ror.org/002n09z45';
+const INSTITUTION_PREFIX = 'https://www.sib.swiss/institution/';
 const TYPE_NAMES = { Person: 'person', Course: 'course', ScholarlyArticle: 'paper' };
 const LINK_KINDS = ['memberOf', 'parentOrganization', 'author', 'instructor'];
 
@@ -181,7 +182,9 @@ function buildGraphData(turtle) {
     if (q.predicate.value !== RDF_TYPE || !q.object.value.startsWith(SCHEMA)) continue;
     const kind = q.object.value.slice(SCHEMA.length);
     if (kind === 'Organization') {
-      typeOf.set(q.subject.value, q.subject.value === ROR ? 'sib' : 'group');
+      if (q.subject.value === ROR) typeOf.set(q.subject.value, 'sib');
+      else if (q.subject.value.startsWith(INSTITUTION_PREFIX)) typeOf.set(q.subject.value, 'institution');
+      else typeOf.set(q.subject.value, 'group');
     } else if (TYPE_NAMES[kind]) {
       typeOf.set(q.subject.value, TYPE_NAMES[kind]);
     }
@@ -202,9 +205,11 @@ function buildGraphData(turtle) {
   const links = [];
   for (const q of quads) {
     if (!q.predicate.value.startsWith(SCHEMA)) continue;
-    const kind = q.predicate.value.slice(SCHEMA.length);
+    let kind = q.predicate.value.slice(SCHEMA.length);
     if (!LINK_KINDS.includes(kind)) continue;
     if (!nodes.has(q.subject.value) || !nodes.has(q.object.value)) continue;
+    // A group's membership of SIB is kept apart from a person's membership of a group.
+    if (kind === 'memberOf' && nodes.get(q.object.value).type === 'sib') kind = 'sibMember';
     links.push({ source: q.subject.value, target: q.object.value, kind });
   }
 

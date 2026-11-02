@@ -8,10 +8,24 @@
 
   var data = JSON.parse(dataEl.textContent);
   var SIB_LOGO = 'https://www.sib.swiss/themes/custom/sib/logo_emblem.svg';
-  var TYPE_ORDER = ['sib', 'group', 'person', 'course', 'paper'];
-  var TYPE_LABELS = { sib: 'SIB', group: 'Groups', person: 'People', course: 'Courses', paper: 'Papers' };
-  var TYPE_NAMES = { sib: 'SIB', group: 'Group', person: 'Person', course: 'Course', paper: 'Paper' };
-  var RADIUS = { sib: 26, group: 14, person: 16, course: 6, paper: 4 };
+  var TYPE_ORDER = ['sib', 'institution', 'group', 'person', 'course', 'paper'];
+  var TYPE_LABELS = {
+    sib: 'SIB',
+    institution: 'Institutions',
+    group: 'Groups',
+    person: 'People',
+    course: 'Courses',
+    paper: 'Papers',
+  };
+  var TYPE_NAMES = {
+    sib: 'SIB',
+    institution: 'Institution',
+    group: 'Group',
+    person: 'Person',
+    course: 'Course',
+    paper: 'Paper',
+  };
+  var RADIUS = { sib: 26, institution: 9, group: 14, person: 16, course: 6, paper: 4 };
   var LIST_LIMIT = 20;
 
   var byId = new Map(data.nodes.map(function (n) { return [n.id, n]; }));
@@ -233,7 +247,7 @@
           .text(initials(d.label));
       }
 
-      if (d.type === 'sib' || d.type === 'group' || d.type === 'person') {
+      if (d.type === 'sib' || d.type === 'institution' || d.type === 'group' || d.type === 'person') {
         g.append('text')
           .attr('class', 'label')
           .attr('y', r + 11)
@@ -290,15 +304,30 @@
 
   // Everything linked to a node, grouped by the relation that links them.
   function relatedNodes(d) {
-    var rel = { groups: [], members: [], parents: [], papers: [], courses: [], authors: [], instructors: [] };
+    var rel = {
+      groups: [],
+      members: [],
+      parents: [],
+      children: [],
+      memberOf: [],
+      affiliates: [],
+      papers: [],
+      courses: [],
+      authors: [],
+      instructors: [],
+    };
     data.links.forEach(function (l) {
       var s = byId.get(l.source);
       var t = byId.get(l.target);
       if (l.kind === 'memberOf') {
         if (l.source === d.id) rel.groups.push(t);
         if (l.target === d.id) rel.members.push(s);
+      } else if (l.kind === 'sibMember') {
+        if (l.source === d.id) rel.memberOf.push(t);
+        if (l.target === d.id) rel.affiliates.push(s);
       } else if (l.kind === 'parentOrganization') {
         if (l.source === d.id) rel.parents.push(t);
+        if (l.target === d.id) rel.children.push(s);
       } else if (l.kind === 'author') {
         if (l.source === d.id) rel.authors.push(t);
         if (l.target === d.id) rel.papers.push(s);
@@ -374,6 +403,9 @@
     var rel = relatedNodes(d);
     addSection('Groups', rel.groups);
     addSection('Part of', rel.parents);
+    addSection('Member of', rel.memberOf);
+    addSection('Contains', rel.children);
+    addSection('Affiliated groups', rel.affiliates);
     addSection('Members', rel.members);
     addSection('Papers', rel.papers);
     addSection('Courses taught', rel.courses);
