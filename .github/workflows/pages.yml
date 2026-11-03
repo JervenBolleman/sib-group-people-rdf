@@ -2,7 +2,7 @@ name: Build and deploy training site
 
 on:
   push:
-    branches: [master]
+    branches: [main]
   workflow_dispatch:
 
 permissions:
