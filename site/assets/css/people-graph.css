@@ -163,7 +163,7 @@
 }
 
 .people-graph svg .node.institution circle.base {
-  fill: var(--orcid-fg);
+  fill: #ffffff;
 }
 
 .people-graph svg .node.sib circle.base {

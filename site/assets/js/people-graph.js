@@ -24,7 +24,7 @@
     course: 'Course',
     paper: 'Paper',
   };
-  var RADIUS = { sib: 26, institution: 9, group: 14, person: 16, course: 6, paper: 4 };
+  var RADIUS = { sib: 26, institution: 13, group: 14, person: 16, course: 6, paper: 4 };
   var LIST_LIMIT = 20;
 
   var byId = new Map(data.nodes.map(function (n) { return [n.id, n]; }));
@@ -228,7 +228,16 @@
         g.append('circle').attr('class', 'base').attr('r', r);
       }
 
-      if (d.image) {
+      if (d.image && d.type === 'institution') {
+        // Logos are drawn whole, on the white circle, rather than cropped to a circle.
+        g.append('image')
+          .attr('href', d.image)
+          .attr('x', -r * 0.8)
+          .attr('y', -r * 0.8)
+          .attr('width', r * 1.6)
+          .attr('height', r * 1.6)
+          .attr('preserveAspectRatio', 'xMidYMid meet');
+      } else if (d.image) {
         var clipId = 'people-graph-clip-' + i;
         defs.append('clipPath').attr('id', clipId).append('circle').attr('r', r);
         g.append('image')
