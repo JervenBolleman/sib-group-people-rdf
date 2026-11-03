@@ -25,6 +25,7 @@ HERE = os.path.dirname(os.path.abspath(__file__))
 SEARCH = "https://pub.orcid.org/v3.0/expanded-search/"
 SIB_INSTITUTION = "swiss institute of bioinformatics"  # lowercase, matched case-insensitively
 DELAY = 0.5  # seconds between requests
+RETRIES = 4  # attempts per request before a person is recorded as "error"
 
 
 def log(msg):
@@ -52,6 +53,20 @@ def at_sib(hit):
     return any(SIB_INSTITUTION in inst.lower() for inst in hit.get("institution-name") or [])
 
 
+def get_hits(session, q):
+    """Run one ORCID search, retrying with a growing pause when the service is slow or down."""
+    for attempt in range(RETRIES):
+        time.sleep(DELAY)
+        try:
+            r = session.get(SEARCH, params={"q": q, "rows": 50}, headers={"Accept": "application/json"}, timeout=120)
+            r.raise_for_status()
+            return r.json().get("expanded-result") or []
+        except requests.RequestException:
+            if attempt == RETRIES - 1:
+                raise
+            time.sleep(10 * 2 ** attempt)
+
+
 def search(session, name):
     """Search ORCID for each surname form of the person (e.g. "de Carvalho" and "Carvalho")."""
     tokens = name.split()
@@ -60,10 +75,7 @@ def search(session, name):
     hits = {}
     for surname in sorted(surnames):
         q = f'family-name:"{surname}" AND given-names:"{given}"'
-        time.sleep(DELAY)
-        r = session.get(SEARCH, params={"q": q, "rows": 50}, headers={"Accept": "application/json"}, timeout=60)
-        r.raise_for_status()
-        for hit in r.json().get("expanded-result") or []:
+        for hit in get_hits(session, q):
             hits[hit["orcid-id"]] = hit
     return list(hits.values())
 
@@ -93,29 +105,51 @@ def main():
         with open(override_path, encoding="utf-8") as f:
             overrides = json.load(f)
 
+    # Decisions from an earlier run are reused, so a rerun only searches people who
+    # are new, changed name, or failed last time.
+    previous = {}
+    if os.path.exists(args.out):
+        with open(args.out, encoding="utf-8") as f:
+            previous = json.load(f)
+
+    def save(records):
+        with open(args.out, "w", encoding="utf-8") as f:
+            json.dump(records, f, ensure_ascii=False, indent=1, sort_keys=True)
+
     session = requests.Session()
     records = {}
-    for person in people:
+    for i, person in enumerate(people, 1):
         slug, name = person["slug"], person["name"]
-        hits = search(session, name)
-        record, candidates = decide(name, hits)
-        record["name"] = name
-        if not record["orcid"] and candidates:
-            record["candidates"] = [
-                {
-                    "orcid": c["orcid-id"],
-                    "name": f"{c.get('given-names')} {c.get('family-names')}",
-                    "institutions": c.get("institution-name") or [],
-                }
-                for c in candidates
-            ]
+        old = previous.get(slug)
+        if old and old["name"] == name and old["status"] != "error":
+            record = dict(old)
+        else:
+            try:
+                hits = search(session, name)
+            except requests.RequestException as e:
+                record = {"orcid": None, "status": "error", "name": name, "error": str(e)}
+                log(f"search failed for {name}: {e}")
+            else:
+                record, candidates = decide(name, hits)
+                record["name"] = name
+                if not record["orcid"] and candidates:
+                    record["candidates"] = [
+                        {
+                            "orcid": c["orcid-id"],
+                            "name": f"{c.get('given-names')} {c.get('family-names')}",
+                            "institutions": c.get("institution-name") or [],
+                        }
+                        for c in candidates
+                    ]
         if slug in overrides:
             record["orcid"] = overrides[slug]
             record["status"] = "override" if overrides[slug] else "excluded"
         records[slug] = record
+        if i % 25 == 0:
+            save(records)
+            log(f"{i}/{len(people)} done")
 
-    with open(args.out, "w", encoding="utf-8") as f:
-        json.dump(records, f, ensure_ascii=False, indent=1, sort_keys=True)
+    save(records)
 
     counts = {}
     for record in records.values():

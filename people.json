@@ -1,5 +1,140 @@
 [
  {
+  "slug": "aayush-grover",
+  "name": "Aayush Grover",
+  "jobTitle": "SIB Member",
+  "image": "",
+  "groups": [
+   "valentina-boeva-group"
+  ]
+ },
+ {
+  "slug": "abdullah-kahraman",
+  "name": "Abdullah Kahraman",
+  "jobTitle": "Group Leader",
+  "image": "https://www.sib.swiss/fp/img/people/kahramaa.jpg",
+  "groups": [
+   "abdullah-kahraman-group"
+  ]
+ },
+ {
+  "slug": "adamantia-kapopoulou",
+  "name": "Adamantia Kapopoulou",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/kapopoua.jpg",
+  "groups": [
+   "claudia-bank-group"
+  ]
+ },
+ {
+  "slug": "adhideb-ghosh",
+  "name": "Adhideb Ghosh",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/ghosha.jpg",
+  "groups": [
+   "hubert-rehrauer-group"
+  ]
+ },
+ {
+  "slug": "adriaan-vandergraaf",
+  "name": "Adriaan van der Graaf",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/vanderga.jpg",
+  "groups": [
+   "zoltan-kutalik-group"
+  ]
+ },
+ {
+  "slug": "adrian-altenhoff",
+  "name": "Adrian Altenhoff",
+  "jobTitle": "Senior Resource Manager",
+  "image": "https://www.sib.swiss/fp/img/people/altenhoa.jpg",
+  "groups": [
+   "christophe-dessimoz-natasha-glover-group"
+  ]
+ },
+ {
+  "slug": "adrian-arellano-davin",
+  "name": "Adrian Arellano Davin",
+  "jobTitle": "SIB Member",
+  "image": "",
+  "groups": [
+   "shinichi-sunagawa-group"
+  ]
+ },
+ {
+  "slug": "adrian-lison",
+  "name": "Adrian Lison",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/lisona.jpg",
+  "groups": [
+   "tanja-stadler-group"
+  ]
+ },
+ {
+  "slug": "adriano-martinelli",
+  "name": "Adriano Martinelli",
+  "jobTitle": "SIB Member",
+  "image": "",
+  "groups": [
+   "marianna-rapsomaniki-group"
+  ]
+ },
+ {
+  "slug": "agneesh-barua",
+  "name": "Agneesh Barua",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/baruaa.jpg",
+  "groups": [
+   "marc-robinson-rechavi-frederic-bastian-group"
+  ]
+ },
+ {
+  "slug": "ahmad-aghaebrahimian",
+  "name": "Ahmad Aghaebrahimian",
+  "jobTitle": "SIB Member",
+  "image": "",
+  "groups": [
+   "maria-anisimova-group"
+  ]
+ },
+ {
+  "slug": "ahrmad-annan",
+  "name": "Ahrmad Annan",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/annana.jpg",
+  "groups": [
+   "giovanni-ciriello-group"
+  ]
+ },
+ {
+  "slug": "aimeenaomi-freiberg",
+  "name": "Aimee Naomi Freiberg",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/freibera.jpg",
+  "groups": [
+   "daniel-wegmann-group"
+  ]
+ },
+ {
+  "slug": "aisha-shah",
+  "name": "Aisha Shah",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/shaha.jpg",
+  "groups": [
+   "david-gfeller-group"
+  ]
+ },
+ {
+  "slug": "akay-akbiyik",
+  "name": "Akay Akbiyik",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/akbiyika.jpg",
+  "groups": [
+   "daniel-stekhoven-group"
+  ]
+ },
+ {
   "slug": "alan-james-bridge",
   "name": "Alan James Bridge",
   "jobTitle": "Director, Swiss-Prot",
@@ -9,12 +144,345 @@
   ]
  },
  {
+  "slug": "alan-pacheco",
+  "name": "Alan Pacheco",
+  "jobTitle": "Group Leader",
+  "image": "https://www.sib.swiss/fp/img/people/pachecoa.jpg",
+  "groups": [
+   "alan-pacheco-group"
+  ]
+ },
+ {
+  "slug": "alberto-arribas",
+  "name": "Alberto Arribas",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/arribasa.jpg",
+  "groups": [
+   "luciano-cascione-group"
+  ]
+ },
+ {
+  "slug": "alberto-borsatto",
+  "name": "Alberto Borsatto",
+  "jobTitle": "SIB Member",
+  "image": "",
+  "groups": [
+   "francesco-gervasio-group"
+  ]
+ },
+ {
+  "slug": "alberto-peruzzi",
+  "name": "Alberto Peruzzi",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/peruzzia.jpg",
+  "groups": [
+   "erik-van-nimwegen-group"
+  ]
+ },
+ {
+  "slug": "aleksandar-bobic",
+  "name": "Aleksandar Bobic",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/bobica.jpg",
+  "groups": [
+   "daniel-stekhoven-group"
+  ]
+ },
+ {
+  "slug": "aleksandr-kuznetsov",
+  "name": "Aleksandr Kuznetsov",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/kuznetsa.jpg",
+  "groups": [
+   "microbial-evolution-richard-neher-group"
+  ]
+ },
+ {
+  "slug": "aleksandra-ardaseva",
+  "name": "Aleksandra Ardaseva",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/ardaseva.jpg",
+  "groups": [
+   "anne-florence-bitbol-group"
+  ]
+ },
+ {
+  "slug": "aleksandra-nivina",
+  "name": "Aleksandra Nivina",
+  "jobTitle": "SIB Member",
+  "image": "",
+  "groups": [
+   "andreas-wagner-group"
+  ]
+ },
+ {
+  "slug": "aleksei-mironov",
+  "name": "Aleksei Mironov",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/mironova.jpg",
+  "groups": [
+   "mihaela-zavolan-group"
+  ]
+ },
+ {
+  "slug": "alessandro-brandulascammarata",
+  "name": "Alessandro Brandulas Cammarata",
+  "jobTitle": "SIB Member",
+  "image": "",
+  "groups": [
+   "marc-robinson-rechavi-frederic-bastian-group"
+  ]
+ },
+ {
+  "slug": "alessandro-cuozzo",
+  "name": "Alessandro Cuozzo",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/cuozzoa.jpg",
+  "groups": [
+   "vincent-zoete-group"
+  ]
+ },
+ {
+  "slug": "alessio-murgia",
+  "name": "Alessio Murgia",
+  "jobTitle": "SIB Member",
+  "image": "",
+  "groups": [
+   "igor-pivkin-group"
+  ]
+ },
+ {
+  "slug": "alex-lederer",
+  "name": "Alex Lederer",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/lederera.jpg",
+  "groups": [
+   "raphael-gottardo-group"
+  ]
+ },
+ {
+  "slug": "alex-warwick",
+  "name": "Alex Warwick Vesztrocy",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/warwicka.jpg",
+  "groups": [
+   "christophe-dessimoz-natasha-glover-group"
+  ]
+ },
+ {
+  "slug": "alexander-blood",
+  "name": "Alexander Blood",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/blooda.jpg",
+  "groups": [
+   "pierre-marie-allard-group"
+  ]
+ },
+ {
+  "slug": "alexander-kanitz",
+  "name": "Alexander Kanitz",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/kanitza.jpg",
+  "groups": [
+   "mihaela-zavolan-group"
+  ]
+ },
+ {
+  "slug": "alexander-nater",
+  "name": "Alexander Nater",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/natera.jpg",
+  "groups": [
+   "remy-bruggmann-group"
+  ]
+ },
+ {
+  "slug": "alexander-taepper",
+  "name": "Alexander Taepper",
+  "jobTitle": "Software Developer",
+  "image": "",
+  "groups": [
+   "tanja-stadler-group"
+  ]
+ },
+ {
+  "slug": "alexander-wolfgang-jung",
+  "name": "Alexander Wolfgang Jung",
+  "jobTitle": "SIB Member",
+  "image": "",
+  "groups": [
+   "niko-beerenwinkel-group"
+  ]
+ },
+ {
+  "slug": "alexandre-flament",
+  "name": "Alexandre Flament",
+  "jobTitle": "SIB Member",
+  "image": "",
+  "groups": [
+   "patrick-ruch-group"
+  ]
+ },
+ {
+  "slug": "alexandre-littiere",
+  "name": "Alexandre Littiere",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/littiera.jpg",
+  "groups": [
+   "anne-florence-bitbol-group"
+  ]
+ },
+ {
+  "slug": "alexandros-topaloudis",
+  "name": "Alexandros Topaloudis",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/topaloua.jpg",
+  "groups": [
+   "jerome-goudet-group"
+  ]
+ },
+ {
+  "slug": "alexis-villars",
+  "name": "Alexis Villars",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/villarsa.jpg",
+  "groups": [
+   "dagmar-iber-group"
+  ]
+ },
+ {
+  "slug": "ali-movasati",
+  "name": "Ali Movasati",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/movasata.jpg",
+  "groups": [
+   "niko-beerenwinkel-group"
+  ]
+ },
+ {
+  "slug": "ali-saadat",
+  "name": "Ali Saadat",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/saadata.jpg",
+  "groups": [
+   "jacques-fellay-group"
+  ]
+ },
+ {
+  "slug": "ali-yazdizadeh-kharrazi",
+  "name": "Ali Yazdizadeh Kharrazi",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/yazdizaa.jpg",
+  "groups": [
+   "christophe-dessimoz-natasha-glover-group"
+  ]
+ },
+ {
+  "slug": "alissa-agerova",
+  "name": "Alissa Agerova",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/agerovaa.jpg",
+  "groups": [
+   "matteo-dal-peraro-group"
+  ]
+ },
+ {
+  "slug": "alix-moawad",
+  "name": "Alix Moawad",
+  "jobTitle": "SIB Member",
+  "image": "",
+  "groups": [
+   "jorg-stelling-group"
+  ]
+ },
+ {
+  "slug": "alois-thomas",
+  "name": "Alois Thomas",
+  "jobTitle": "SIB Member",
+  "image": "",
+  "groups": [
+   "raphaelle-luisier-group"
+  ]
+ },
+ {
+  "slug": "amrei-grund",
+  "name": "Amrei Grund",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/grunda.jpg",
+  "groups": [
+   "erik-van-nimwegen-group"
+  ]
+ },
+ {
+  "slug": "ana-daria-laslo",
+  "name": "Ana Daria Laslo",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/lasloa.jpg",
+  "groups": [
+   "catherine-jutzeler-group"
+  ]
+ },
+ {
   "slug": "anaclaudia-sima",
   "name": "Ana-Claudia Sima",
   "jobTitle": "Co-Team Lead, Knowledge Representation Unit",
   "image": "https://www.sib.swiss/fp/img/people/simaa.jpg",
   "groups": [
    "vital-it"
+  ]
+ },
+ {
+  "slug": "anacristina-guerradesouza",
+  "name": "Ana Cristina Guerra de Souza",
+  "jobTitle": "Bioinformatician",
+  "image": "https://www.sib.swiss/fp/img/people/guerrada.jpg",
+  "groups": [
+   "nadine-fournier-group"
+  ]
+ },
+ {
+  "slug": "anais-mottaz",
+  "name": "Anaïs Mottaz",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/mottaza.jpg",
+  "groups": [
+   "patrick-ruch-group"
+  ]
+ },
+ {
+  "slug": "anamay-samant",
+  "name": "Anamay Samant",
+  "jobTitle": "SIB Member",
+  "image": "",
+  "groups": [
+   "anne-florence-bitbol-group"
+  ]
+ },
+ {
+  "slug": "anastasia-escher",
+  "name": "Anastasia Escher",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/eschera.jpg",
+  "groups": [
+   "daniel-stekhoven-group"
+  ]
+ },
+ {
+  "slug": "anastasiya-borsch",
+  "name": "Anastasiya Börsch",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/borscha.jpg",
+  "groups": [
+   "robert-ivanek-group"
+  ]
+ },
+ {
+  "slug": "andre-kahles",
+  "name": "Andre Kahles",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/kahlesa.jpg",
+  "groups": [
+   "gunnar-ratsch-group"
   ]
  },
  {
@@ -36,12 +504,274 @@
   ]
  },
  {
+  "slug": "andrea-cavalli",
+  "name": "Andrea Cavalli",
+  "jobTitle": "Group Leader",
+  "image": "https://www.sib.swiss/fp/img/people/cavallia.jpg",
+  "groups": [
+   "andrea-cavalli-group"
+  ]
+ },
+ {
+  "slug": "andrea-cina",
+  "name": "Andrea Cina",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/cinaa.jpg",
+  "groups": [
+   "catherine-jutzeler-group"
+  ]
+ },
+ {
+  "slug": "andrea-franchini",
+  "name": "Andrea Franchini",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/franchia.jpg",
+  "groups": [
+   "fabio-rinaldi-group"
+  ]
+ },
+ {
+  "slug": "andrea-mock",
+  "name": "Andrea Mock",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/mocka.jpg",
+  "groups": [
+   "robert-ivanek-group"
+  ]
+ },
+ {
+  "slug": "andrea-stallvik",
+  "name": "Andrea Stallvik",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/stallvia.jpg",
+  "groups": [
+   "jorg-stelling-group"
+  ]
+ },
+ {
+  "slug": "andreas-cuny",
+  "name": "Andreas Cuny",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/cunya.jpg",
+  "groups": [
+   "jorg-stelling-group"
+  ]
+ },
+ {
+  "slug": "andreas-fueglistaler",
+  "name": "Andreas Füglistaler",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/fueglisa.jpg",
+  "groups": [
+   "daniel-wegmann-group"
+  ]
+ },
+ {
+  "slug": "andreas-wagner",
+  "name": "Andreas Wagner",
+  "jobTitle": "Group Leader",
+  "image": "https://www.sib.swiss/fp/img/people/wagnera.jpg",
+  "groups": [
+   "andreas-wagner-group"
+  ]
+ },
+ {
+  "slug": "andreas-ziegler",
+  "name": "Andreas Ziegler",
+  "jobTitle": "Group Leader",
+  "image": "https://www.sib.swiss/fp/img/people/zieglera.jpg",
+  "groups": [
+   "andreas-ziegler-group"
+  ]
+ },
+ {
+  "slug": "andrew-waterhouse",
+  "name": "Andrew Waterhouse",
+  "jobTitle": "Senior Software Developer",
+  "image": "https://www.sib.swiss/fp/img/people/waterhoa.jpg",
+  "groups": [
+   "torsten-schwede-group"
+  ]
+ },
+ {
+  "slug": "angel-garciacasillasdelriego",
+  "name": "Angel Garcia-Casillas del Riego",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/garciaa.jpg",
+  "groups": [
+   "andreas-wagner-group"
+  ]
+ },
+ {
+  "slug": "angelica-pulido",
+  "name": "Angelica Pulido",
+  "jobTitle": "SIB Member",
+  "image": "",
+  "groups": [
+   "jerome-goudet-group"
+  ]
+ },
+ {
+  "slug": "angelika-gebhart",
+  "name": "Angelika Gebhart",
+  "jobTitle": "SIB Member",
+  "image": "",
+  "groups": [
+   "bart-deplancke-group"
+  ]
+ },
+ {
+  "slug": "angeliki-karalia",
+  "name": "Angeliki Karalia",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/karaliaa.jpg",
+  "groups": [
+   "scicore-richard-neher-group"
+  ]
+ },
+ {
+  "slug": "angelos-kollias",
+  "name": "Angelos Kollias",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/kolliasa.jpg",
+  "groups": [
+   "vincent-zoete-group"
+  ]
+ },
+ {
+  "slug": "anika-john",
+  "name": "Anika John",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/johna.jpg",
+  "groups": [
+   "niko-beerenwinkel-group"
+  ]
+ },
+ {
+  "slug": "anja-adamov",
+  "name": "Anja Adamov",
+  "jobTitle": "SIB Member",
+  "image": "",
+  "groups": [
+   "niko-beerenwinkel-group"
+  ]
+ },
+ {
+  "slug": "anke-gabel",
+  "name": "Anke Gabel",
+  "jobTitle": "SIB Member",
+  "image": "",
+  "groups": [
+   "daniel-stekhoven-group"
+  ]
+ },
+ {
+  "slug": "ankit-izardar",
+  "name": "Ankit Izardar",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/izardara.jpg",
+  "groups": [
+   "scicore-richard-neher-group"
+  ]
+ },
+ {
+  "slug": "anna-hewett",
+  "name": "Anna Hewett",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/hewetta.jpg",
+  "groups": [
+   "jerome-goudet-group"
+  ]
+ },
+ {
+  "slug": "anna-letko",
+  "name": "Anna Letko",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/letkoa.jpg",
+  "groups": [
+   "remy-bruggmann-group"
+  ]
+ },
+ {
+  "slug": "anna-parker",
+  "name": "Anna Parker",
+  "jobTitle": "Software Developer",
+  "image": "",
+  "groups": [
+   "emma-hodcroft-group"
+  ]
+ },
+ {
+  "slug": "anna-sapfo-malaspinas",
+  "name": "Anna-Sapfo Malaspinas",
+  "jobTitle": "Group Leader",
+  "image": "https://www.sib.swiss/fp/img/people/malaspia.jpg",
+  "groups": [
+   "anna-sapfo-malaspinas-group"
+  ]
+ },
+ {
+  "slug": "anna-schuster",
+  "name": "Anna Schuster",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/schustea.jpg",
+  "groups": [
+   "andreas-ziegler-group"
+  ]
+ },
+ {
+  "slug": "anna-seres",
+  "name": "Anna Seres",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/seresa.jpg",
+  "groups": [
+   "raphael-gottardo-group"
+  ]
+ },
+ {
+  "slug": "anna-sintsova",
+  "name": "Anna Sintsova",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/sintsova.jpg",
+  "groups": [
+   "shinichi-sunagawa-group"
+  ]
+ },
+ {
   "slug": "anne-niknejad",
   "name": "Anne Niknejad",
   "jobTitle": "Senior Biocurator",
   "image": "https://www.sib.swiss/fp/img/people/niknejaa.jpg",
   "groups": [
+   "marc-robinson-rechavi-frederic-bastian-group",
    "vital-it"
+  ]
+ },
+ {
+  "slug": "anne-richter",
+  "name": "Anne Bertolini",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/richtera.jpg",
+  "groups": [
+   "daniel-stekhoven-group"
+  ]
+ },
+ {
+  "slug": "anneflorence-bitbol",
+  "name": "Anne-Florence Bitbol",
+  "jobTitle": "Group Leader",
+  "image": "https://www.sib.swiss/fp/img/people/bitbola.jpg",
+  "groups": [
+   "anne-florence-bitbol-group"
+  ]
+ },
+ {
+  "slug": "annette-schmid",
+  "name": "Annette Schmid",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/schmida.jpg",
+  "groups": [
+   "andreas-wagner-group"
   ]
  },
  {
@@ -51,6 +781,150 @@
   "image": "https://www.sib.swiss/fp/img/people/arrascua.jpg",
   "groups": [
    "personalized-health-informatics"
+  ]
+ },
+ {
+  "slug": "anthony-sonrel",
+  "name": "Anthony Sonrel",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/sonrela.jpg",
+  "groups": [
+   "robert-ivanek-group"
+  ]
+ },
+ {
+  "slug": "antoine-daina",
+  "name": "Antoine Daina",
+  "jobTitle": "Senior Research Scientist",
+  "image": "https://www.sib.swiss/fp/img/people/dainaa.jpg",
+  "groups": [
+   "olivier-michielin-vincent-zoete-group"
+  ]
+ },
+ {
+  "slug": "antoine-girardin",
+  "name": "Antoine Girardin",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/girardia.jpg",
+  "groups": [
+   "raphael-gottardo-group"
+  ]
+ },
+ {
+  "slug": "antoine-zwaans",
+  "name": "Antoine Zwaans",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/zwaansa.jpg",
+  "groups": [
+   "tanja-stadler-group"
+  ]
+ },
+ {
+  "slug": "anton-hanke",
+  "name": "Anton Hanke",
+  "jobTitle": "SIB Member",
+  "image": "",
+  "groups": [
+   "francesco-gervasio-group"
+  ]
+ },
+ {
+  "slug": "antoni-gralak",
+  "name": "Antoni Gralak",
+  "jobTitle": "SIB Member",
+  "image": "",
+  "groups": [
+   "bart-deplancke-group"
+  ]
+ },
+ {
+  "slug": "antonin-thiebaut",
+  "name": "Antonin Thiébaut",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/thiebaua.jpg",
+  "groups": [
+   "raphael-gottardo-group"
+  ]
+ },
+ {
+  "slug": "antti-luomi",
+  "name": "Antti Olavi Luomi",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/luomia.jpg",
+  "groups": [
+   "bernd-rinn-group"
+  ]
+ },
+ {
+  "slug": "anuradha-mukherjee",
+  "name": "Anuradha Mukherjee",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/mukherja.jpg",
+  "groups": [
+   "andreas-wagner-group"
+  ]
+ },
+ {
+  "slug": "anurag-ranjak",
+  "name": "Anurag Ranjak",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/ranjaka.jpg",
+  "groups": [
+   "erik-van-nimwegen-group"
+  ]
+ },
+ {
+  "slug": "aparna-pandey",
+  "name": "Aparna Pandey",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/pandeya.jpg",
+  "groups": [
+   "remy-bruggmann-group"
+  ]
+ },
+ {
+  "slug": "ariadna-acedo-terrades",
+  "name": "Ariadna Acedo Terrades",
+  "jobTitle": "SIB Member",
+  "image": "",
+  "groups": [
+   "marija-buljan-group"
+  ]
+ },
+ {
+  "slug": "arianna-candreva",
+  "name": "Arianna Candreva",
+  "jobTitle": "SIB Member",
+  "image": "",
+  "groups": [
+   "jorg-stelling-group"
+  ]
+ },
+ {
+  "slug": "arion-foertsch",
+  "name": "Arion Foertsch",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/foertsca.jpg",
+  "groups": [
+   "hubert-rehrauer-group"
+  ]
+ },
+ {
+  "slug": "arka-banerjee",
+  "name": "Arka Banerjee",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/banerjea.jpg",
+  "groups": [
+   "mihaela-zavolan-group"
+  ]
+ },
+ {
+  "slug": "arnaud-gaudinat",
+  "name": "Arnaud Gaudinat",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/gaudinaa.jpg",
+  "groups": [
+   "patrick-ruch-group"
   ]
  },
  {
@@ -72,12 +946,417 @@
   ]
  },
  {
+  "slug": "arsh-shaikh",
+  "name": "Arsh Shaikh",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/shaikha.jpg",
+  "groups": [
+   "raphael-gottardo-group"
+  ]
+ },
+ {
+  "slug": "arthur-alexandre",
+  "name": "Arthur Alexandre",
+  "jobTitle": "SIB Member",
+  "image": "",
+  "groups": [
+   "anne-florence-bitbol-group"
+  ]
+ },
+ {
+  "slug": "arthur-babey",
+  "name": "Arthur Babey",
+  "jobTitle": "SIB Member",
+  "image": "",
+  "groups": [
+   "carlos-pena-reyes-group"
+  ]
+ },
+ {
+  "slug": "aspasia-vozi",
+  "name": "Aspasia Vozi",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/vozia.jpg",
+  "groups": [
+   "catherine-jutzeler-group"
+  ]
+ },
+ {
+  "slug": "aswin-krishna",
+  "name": "Aswin Krishna",
+  "jobTitle": "SIB Member",
+  "image": "",
+  "groups": [
+   "sonja-lehtinen-group"
+  ]
+ },
+ {
+  "slug": "athanasia-tzika",
+  "name": "Athanasia Tzika",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/tzikaa.jpg",
+  "groups": [
+   "michel-milinkovitch-group"
+  ]
+ },
+ {
+  "slug": "athimed-eltaher",
+  "name": "Athimed El Taher",
+  "jobTitle": "SIB Member",
+  "image": "",
+  "groups": [
+   "robert-ivanek-group"
+  ]
+ },
+ {
+  "slug": "athina-gavriilidou",
+  "name": "Athina Gavriilidou",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/gavriila.jpg",
+  "groups": [
+   "christophe-dessimoz-natasha-glover-group"
+  ]
+ },
+ {
+  "slug": "atilla-schreiber",
+  "name": "Atilla Schreiber",
+  "jobTitle": "SIB Member",
+  "image": "",
+  "groups": [
+   "maria-anisimova-group"
+  ]
+ },
+ {
+  "slug": "atreya-choudhury",
+  "name": "Atreya Choudhury",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/choudhua.jpg",
+  "groups": [
+   "mark-robinson-group"
+  ]
+ },
+ {
+  "slug": "augoustinamaria-economou",
+  "name": "Augoustina Maria Economou",
+  "jobTitle": "SIB Member",
+  "image": "",
+  "groups": [
+   "bart-deplancke-group"
+  ]
+ },
+ {
+  "slug": "auguste-rimaite",
+  "name": "Auguste Rimaite",
+  "jobTitle": "SIB Member",
+  "image": "",
+  "groups": [
+   "niko-beerenwinkel-group"
+  ]
+ },
+ {
+  "slug": "aurelie-kamoun",
+  "name": "Aurelie Kamoun",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/kamouna.jpg",
+  "groups": [
+   "timothy-frayling-group"
+  ]
+ },
+ {
+  "slug": "aurelien-cavelan",
+  "name": "Aurélien Cavelan",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/cavelana.jpg",
+  "groups": [
+   "scicore-richard-neher-group"
+  ]
+ },
+ {
+  "slug": "axel-giottonini",
+  "name": "Axel Giottonini",
+  "jobTitle": "SIB Member",
+  "image": "",
+  "groups": [
+   "thomas-lemmin-group"
+  ]
+ },
+ {
+  "slug": "aya-iizuka",
+  "name": "Aya Iizuka",
+  "jobTitle": "SIB Member",
+  "image": "",
+  "groups": [
+   "robert-ivanek-group"
+  ]
+ },
+ {
+  "slug": "barbara-da-mota",
+  "name": "Bárbara Da Mota",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/damotab.jpg",
+  "groups": [
+   "anna-sapfo-malaspinas-group"
+  ]
+ },
+ {
+  "slug": "barbara-muehlemann",
+  "name": "Barbara Muehlemann",
+  "jobTitle": "SIB Member",
+  "image": "",
+  "groups": [
+   "tanja-stadler-group"
+  ]
+ },
+ {
+  "slug": "barry-ryan",
+  "name": "Barry Ryan",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/ryanb.jpg",
+  "groups": [
+   "jacques-fellay-group"
+  ]
+ },
+ {
+  "slug": "bart-deplancke",
+  "name": "Bart Deplancke",
+  "jobTitle": "Group Leader",
+  "image": "https://www.sib.swiss/fp/img/people/deplancb.jpg",
+  "groups": [
+   "bart-deplancke-group"
+  ]
+ },
+ {
+  "slug": "basile-wicky",
+  "name": "Basile Wicky",
+  "jobTitle": "Group Leader",
+  "image": "https://www.sib.swiss/fp/img/people/wickyb.jpg",
+  "groups": [
+   "basile-wicky-group"
+  ]
+ },
+ {
+  "slug": "bastien-chopard",
+  "name": "Bastien Chopard",
+  "jobTitle": "Group Leader",
+  "image": "https://www.sib.swiss/fp/img/people/chopardb.jpg",
+  "groups": [
+   "bastien-chopard-group"
+  ]
+ },
+ {
   "slug": "beatrice-cuche",
   "name": "Béatrice Cuche",
   "jobTitle": "Software Developer",
   "image": "https://www.sib.swiss/fp/img/people/cucheb.jpg",
   "groups": [
    "swiss-prot"
+  ]
+ },
+ {
+  "slug": "ben-carrillo",
+  "name": "Ben Carrillo",
+  "jobTitle": "SIB Member",
+  "image": "",
+  "groups": [
+   "mark-robinson-group"
+  ]
+ },
+ {
+  "slug": "benjamin-heiniger",
+  "name": "Benjamin Heiniger",
+  "jobTitle": "SIB Member",
+  "image": "",
+  "groups": [
+   "christian-ahrens-group"
+  ]
+ },
+ {
+  "slug": "benyiming-xu",
+  "name": "Ben (Yiming) Xu",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/xub.jpg",
+  "groups": [
+   "santiago-carmona-group"
+  ]
+ },
+ {
+  "slug": "berend-snijder",
+  "name": "Berend Snijder",
+  "jobTitle": "Group Leader",
+  "image": "https://www.sib.swiss/fp/img/people/snijderb.jpg",
+  "groups": [
+   "berend-snijder-group"
+  ]
+ },
+ {
+  "slug": "bernd-illing",
+  "name": "Bernd Illing",
+  "jobTitle": "SIB Member",
+  "image": "",
+  "groups": [
+   "raphael-gottardo-group"
+  ]
+ },
+ {
+  "slug": "bernd-rinn",
+  "name": "Bernd Rinn",
+  "jobTitle": "Group Leader",
+  "image": "https://www.sib.swiss/fp/img/people/rinnb.jpg",
+  "groups": [
+   "bernd-rinn-group"
+  ]
+ },
+ {
+  "slug": "bernd-wollscheid",
+  "name": "Bernd Wollscheid",
+  "jobTitle": "Group Leader",
+  "image": "https://www.sib.swiss/fp/img/people/wollschb.jpg",
+  "groups": [
+   "patrick-pedrioli-bernd-wollscheid-group"
+  ]
+ },
+ {
+  "slug": "boris-schnider",
+  "name": "Boris Schnider",
+  "jobTitle": "Bioinformatician",
+  "image": "https://www.sib.swiss/fp/img/people/schnideb.jpg",
+  "groups": [
+   "frederique-lisacek-group"
+  ]
+ },
+ {
+  "slug": "boris-simic",
+  "name": "Boris Simic",
+  "jobTitle": "SIB Member",
+  "image": "",
+  "groups": [
+   "daniel-stekhoven-group"
+  ]
+ },
+ {
+  "slug": "brigitta-elhadj",
+  "name": "Brigitta Elhadj",
+  "jobTitle": "SIB Member",
+  "image": "",
+  "groups": [
+   "niko-beerenwinkel-group"
+  ]
+ },
+ {
+  "slug": "brummer-anneke",
+  "name": "Brümmer Anneke",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/annekeb.jpg",
+  "groups": [
+   "sven-bergmann-group"
+  ]
+ },
+ {
+  "slug": "bruno-correia",
+  "name": "Bruno Correia",
+  "jobTitle": "Group Leader",
+  "image": "https://www.sib.swiss/fp/img/people/correiab.jpg",
+  "groups": [
+   "bruno-correia-group"
+  ]
+ },
+ {
+  "slug": "calvin-klein",
+  "name": "Calvin Klein",
+  "jobTitle": "SIB Member",
+  "image": "",
+  "groups": [
+   "thomas-lemmin-group"
+  ]
+ },
+ {
+  "slug": "camilla-sarra",
+  "name": "Camilla Sarra",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/sarrac.jpg",
+  "groups": [
+   "anne-florence-bitbol-group"
+  ]
+ },
+ {
+  "slug": "camille-lambert",
+  "name": "Camille Lambert",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/lambertc.jpg",
+  "groups": [
+   "bart-deplancke-group"
+  ]
+ },
+ {
+  "slug": "caner-ercan",
+  "name": "Caner Ercan",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/ercanc.jpg",
+  "groups": [
+   "marianna-rapsomaniki-group"
+  ]
+ },
+ {
+  "slug": "carlos-pena-reyes",
+  "name": "Carlos Peña-Reyes",
+  "jobTitle": "Group Leader",
+  "image": "https://www.sib.swiss/fp/img/people/penareyc.jpg",
+  "groups": [
+   "carlos-pena-reyes-group"
+  ]
+ },
+ {
+  "slug": "caroline-eigenmann",
+  "name": "Caroline Eigenmann",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/eigenmac.jpg",
+  "groups": [
+   "shinichi-sunagawa-group"
+  ]
+ },
+ {
+  "slug": "catalina-ciobanescu",
+  "name": "Catalina Ciobanescu",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/ciobanec.jpg",
+  "groups": [
+   "zoltan-kutalik-group"
+  ]
+ },
+ {
+  "slug": "caterina-barillari",
+  "name": "Caterina Barillari",
+  "jobTitle": "SIB Member",
+  "image": "",
+  "groups": [
+   "bernd-rinn-group"
+  ]
+ },
+ {
+  "slug": "caterina-cevallos",
+  "name": "Caterina Cevallos",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/cevalloc.jpg",
+  "groups": [
+   "zoltan-kutalik-group"
+  ]
+ },
+ {
+  "slug": "caterina-fuster-barcelo",
+  "name": "Caterina Fuster Barcelo",
+  "jobTitle": "SIB Member",
+  "image": "",
+  "groups": [
+   "virginie-uhlmann-group"
+  ]
+ },
+ {
+  "slug": "catherine-jutzeler",
+  "name": "Catherine Jutzeler",
+  "jobTitle": "Group Leader",
+  "image": "",
+  "groups": [
+   "catherine-jutzeler-group"
   ]
  },
  {
@@ -90,12 +1369,111 @@
   ]
  },
  {
+  "slug": "cecilia-fruet",
+  "name": "Cecilia Fruet",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/fruetc.jpg",
+  "groups": [
+   "anne-florence-bitbol-group"
+  ]
+ },
+ {
+  "slug": "cedric-vincentcuaz",
+  "name": "Cedric Vincent-Cuaz",
+  "jobTitle": "SIB Member",
+  "image": "",
+  "groups": [
+   "raphaelle-luisier-group"
+  ]
+ },
+ {
+  "slug": "chaimae-elhoujjaji",
+  "name": "Chaimae El Houjjaji",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/elhoujjc.jpg",
+  "groups": [
+   "jacques-fellay-group"
+  ]
+ },
+ {
+  "slug": "chan-cao",
+  "name": "Chan cao",
+  "jobTitle": "SIB Member",
+  "image": "",
+  "groups": [
+   "matteo-dal-peraro-group"
+  ]
+ },
+ {
   "slug": "chantal-hulo",
   "name": "Chantal Hulo",
   "jobTitle": "Senior Biocurator",
   "image": "https://www.sib.swiss/fp/img/people/huloc.jpg",
   "groups": [
    "swiss-prot"
+  ]
+ },
+ {
+  "slug": "chantal-quiblier",
+  "name": "Chantal Quiblier",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/quibliec.jpg",
+  "groups": [
+   "helena-seth-tim-roloff-group"
+  ]
+ },
+ {
+  "slug": "chaoran-chen",
+  "name": "Chaoran Chen",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/chenc.jpg",
+  "groups": [
+   "tanja-stadler-group"
+  ]
+ },
+ {
+  "slug": "charlotte-carlstroem",
+  "name": "Charlotte Carlström",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/carlstrc.jpg",
+  "groups": [
+   "shinichi-sunagawa-group"
+  ]
+ },
+ {
+  "slug": "charlotte-soneson",
+  "name": "Charlotte Soneson",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/sonesonc.jpg",
+  "groups": [
+   "michael-stadler-group"
+  ]
+ },
+ {
+  "slug": "charlotte-tumescheit",
+  "name": "Charlotte Tumescheit",
+  "jobTitle": "SIB Member",
+  "image": "",
+  "groups": [
+   "janna-hastings-group"
+  ]
+ },
+ {
+  "slug": "charlyne-buerki",
+  "name": "Charlyne Buerki",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/buerkic.jpg",
+  "groups": [
+   "tanja-stadler-group"
+  ]
+ },
+ {
+  "slug": "chiara-auwerx",
+  "name": "Chiara Auwerx",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/auwerxc.jpg",
+  "groups": [
+   "zoltan-kutalik-group"
   ]
  },
  {
@@ -108,12 +1486,66 @@
   ]
  },
  {
+  "slug": "chloe-sui-ting-hui",
+  "name": "Chloe Sui-Ting Hui",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/huic.jpg",
+  "groups": [
+   "christophe-dessimoz-natasha-glover-group"
+  ]
+ },
+ {
+  "slug": "christian-ahrens",
+  "name": "Christian Ahrens",
+  "jobTitle": "Group Leader",
+  "image": "https://www.sib.swiss/fp/img/people/ahrensc.jpg",
+  "groups": [
+   "christian-ahrens-group"
+  ]
+ },
+ {
+  "slug": "christian-bolliger",
+  "name": "Christian Bolliger",
+  "jobTitle": "SIB Member",
+  "image": "",
+  "groups": [
+   "bernd-rinn-group"
+  ]
+ },
+ {
   "slug": "christian-deguttry",
   "name": "Christian de Guttry",
   "jobTitle": "Scientific Project Manager",
   "image": "",
   "groups": [
    "environmental-bioinformatics"
+  ]
+ },
+ {
+  "slug": "christian-halter",
+  "name": "Christian Halter",
+  "jobTitle": "SIB Member",
+  "image": "",
+  "groups": [
+   "santiago-carmona-group"
+  ]
+ },
+ {
+  "slug": "christian-mazza",
+  "name": "Christian Mazza",
+  "jobTitle": "Group Leader",
+  "image": "https://www.sib.swiss/fp/img/people/mazzac.jpg",
+  "groups": [
+   "christian-mazza-group"
+  ]
+ },
+ {
+  "slug": "christian-panse",
+  "name": "Christian Panse",
+  "jobTitle": "Group Leader",
+  "image": "https://www.sib.swiss/fp/img/people/pansec.jpg",
+  "groups": [
+   "christian-panse-group"
   ]
  },
  {
@@ -126,12 +1558,138 @@
   ]
  },
  {
+  "slug": "christian-von-mering",
+  "name": "Christian von Mering",
+  "jobTitle": "Group Leader",
+  "image": "https://www.sib.swiss/fp/img/people/meringc.jpg",
+  "groups": [
+   "christian-von-mering-group"
+  ]
+ },
+ {
+  "slug": "christianandres-ramosuria",
+  "name": "Christian Andres Ramos Uria",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/ramosurc.jpg",
+  "groups": [
+   "andreas-wagner-group"
+  ]
+ },
+ {
+  "slug": "christina-herrmann",
+  "name": "Christina Herrmann",
+  "jobTitle": "SIB Member",
+  "image": "",
+  "groups": [
+   "mihaela-zavolan-group"
+  ]
+ },
+ {
+  "slug": "christoph-messner",
+  "name": "Christoph Messner",
+  "jobTitle": "Group Leader",
+  "image": "https://www.sib.swiss/fp/img/people/messnerc.jpg",
+  "groups": [
+   "christoph-messner-group"
+  ]
+ },
+ {
+  "slug": "christophe-dessimoz",
+  "name": "Christophe Dessimoz",
+  "jobTitle": "Executive Director",
+  "image": "https://www.sib.swiss/fp/img/people/dessimoc.jpg",
+  "groups": [
+   "christophe-dessimoz-natasha-glover-group"
+  ]
+ },
+ {
+  "slug": "cindy-malnasi",
+  "name": "Cindy Malnasi",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/malnasic.jpg",
+  "groups": [
+   "jorg-stelling-group"
+  ]
+ },
+ {
   "slug": "clara-roujeau",
   "name": "Clara Roujeau",
   "jobTitle": "Scientific Project Manager",
   "image": "https://www.sib.swiss/fp/img/people/roujeauc.jpg",
   "groups": [
    "vital-it"
+  ]
+ },
+ {
+  "slug": "claudia-bank",
+  "name": "Claudia Bank",
+  "jobTitle": "Group Leader",
+  "image": "https://www.sib.swiss/fp/img/people/bankc.jpg",
+  "groups": [
+   "claudia-bank-group"
+  ]
+ },
+ {
+  "slug": "claudia-wecker",
+  "name": "Claudia Wecker",
+  "jobTitle": "SIB Member",
+  "image": "",
+  "groups": [
+   "daniel-stekhoven-group"
+  ]
+ },
+ {
+  "slug": "clement-train",
+  "name": "Clément Train",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/trainc.jpg",
+  "groups": [
+   "christophe-dessimoz-natasha-glover-group"
+  ]
+ },
+ {
+  "slug": "concetta-guerra",
+  "name": "Concetta Guerra",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/guerra2c.jpg",
+  "groups": [
+   "andrea-cavalli-group"
+  ]
+ },
+ {
+  "slug": "constance-legac",
+  "name": "Constance Le Gac",
+  "jobTitle": "SIB Member",
+  "image": "",
+  "groups": [
+   "jorg-stelling-group"
+  ]
+ },
+ {
+  "slug": "cornelius-roemer",
+  "name": "Cornelius Römer",
+  "jobTitle": "Software Developer",
+  "image": "https://www.sib.swiss/fp/img/people/roemerc.jpg",
+  "groups": [
+   "microbial-evolution-richard-neher-group"
+  ]
+ },
+ {
+  "slug": "criccio",
+  "name": "Cristian Riccio",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/riccioc.jpg",
+  "groups": [
+   "andreas-ziegler-group"
+  ]
+ },
+ {
+  "slug": "cristian-bovino",
+  "name": "Cristian Bovino",
+  "jobTitle": "SIB Member",
+  "image": "",
+  "groups": [
+   "bernd-rinn-group"
   ]
  },
  {
@@ -144,12 +1702,228 @@
   ]
  },
  {
+  "slug": "cyril-malbranke",
+  "name": "Cyril Malbranke",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/malbranc.jpg",
+  "groups": [
+   "anne-florence-bitbol-group"
+  ]
+ },
+ {
+  "slug": "dagmar-iber",
+  "name": "Dagmar Iber",
+  "jobTitle": "Group Leader",
+  "image": "https://www.sib.swiss/fp/img/people/iberd.jpg",
+  "groups": [
+   "dagmar-iber-group"
+  ]
+ },
+ {
+  "slug": "damian-szklarczyk",
+  "name": "Damian Szklarczyk",
+  "jobTitle": "Senior Resource Manager",
+  "image": "https://www.sib.swiss/fp/img/people/szklarcd.jpg",
+  "groups": [
+   "christian-von-mering-group"
+  ]
+ },
+ {
+  "slug": "dana-moreno",
+  "name": "Dana Moreno",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/morenod.jpg",
+  "groups": [
+   "david-gfeller-group"
+  ]
+ },
+ {
+  "slug": "dana-zimmermann",
+  "name": "Dana Zimmermann",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/zimmermd.jpg",
+  "groups": [
+   "jorg-stelling-group"
+  ]
+ },
+ {
+  "slug": "daniel-stekhoven",
+  "name": "Daniel Stekhoven",
+  "jobTitle": "Group Leader",
+  "image": "https://www.sib.swiss/fp/img/people/stekhovd.jpg",
+  "groups": [
+   "daniel-stekhoven-group"
+  ]
+ },
+ {
+  "slug": "daniel-tadros",
+  "name": "Daniel Tadros",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/tadrosd.jpg",
+  "groups": [
+   "david-gfeller-group"
+  ]
+ },
+ {
   "slug": "daniel-walther",
   "name": "Daniel Walther",
   "jobTitle": "Team Lead, Software Development & Product Lead",
   "image": "",
   "groups": [
    "clinical-bioinformatics"
+  ]
+ },
+ {
+  "slug": "daniel-wegmann",
+  "name": "Daniel Wegmann",
+  "jobTitle": "Group Leader",
+  "image": "https://www.sib.swiss/fp/img/people/wegmannd.jpg",
+  "groups": [
+   "daniel-wegmann-group"
+  ]
+ },
+ {
+  "slug": "daniele-braga",
+  "name": "Daniele Braga",
+  "jobTitle": "SIB Member",
+  "image": "",
+  "groups": [
+   "luciano-cascione-group"
+  ]
+ },
+ {
+  "slug": "daniele-malpetti",
+  "name": "Daniele Malpetti",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/malpettd.jpg",
+  "groups": [
+   "laura-azzimonti-group"
+  ]
+ },
+ {
+  "slug": "daniele-silvestro",
+  "name": "Daniele Silvestro",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/silvestd.jpg",
+  "groups": [
+   "tanja-stadler-group"
+  ]
+ },
+ {
+  "slug": "daniele-tavernari",
+  "name": "Daniele Tavernari",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/tavernad.jpg",
+  "groups": [
+   "giovanni-ciriello-group"
+  ]
+ },
+ {
+  "slug": "daniil-litvinov",
+  "name": "Daniil Litvinov",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/litvinod.jpg",
+  "groups": [
+   "torsten-schwede-group"
+  ]
+ },
+ {
+  "slug": "daria-buszta",
+  "name": "Daria Buszta",
+  "jobTitle": "SIB Member",
+  "image": "",
+  "groups": [
+   "raphael-gottardo-group"
+  ]
+ },
+ {
+  "slug": "david-ferreira",
+  "name": "David Miguel Ferreira Francisco",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/ferreird.jpg",
+  "groups": [
+   "remy-bruggmann-group"
+  ]
+ },
+ {
+  "slug": "david-gfeller",
+  "name": "David Gfeller",
+  "jobTitle": "Group Leader",
+  "image": "https://www.sib.swiss/fp/img/people/gfellerd.jpg",
+  "groups": [
+   "david-gfeller-group"
+  ]
+ },
+ {
+  "slug": "david-keller",
+  "name": "David Keller",
+  "jobTitle": "SIB Member",
+  "image": "",
+  "groups": [
+   "daniel-stekhoven-group"
+  ]
+ },
+ {
+  "slug": "david-kletz",
+  "name": "David Kletz",
+  "jobTitle": "SIB Member",
+  "image": "",
+  "groups": [
+   "fabio-rinaldi-group"
+  ]
+ },
+ {
+  "slug": "david-meyer",
+  "name": "David Meyer",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/meyerd.jpg",
+  "groups": [
+   "daniel-stekhoven-group"
+  ]
+ },
+ {
+  "slug": "david-moi",
+  "name": "David Moi",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/avidmoid.jpg",
+  "groups": [
+   "christophe-dessimoz-natasha-glover-group"
+  ]
+ },
+ {
+  "slug": "david-presby",
+  "name": "David Presby",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/presbyd.jpg",
+  "groups": [
+   "sven-bergmann-group"
+  ]
+ },
+ {
+  "slug": "david-schreiner",
+  "name": "David Schreiner",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/schreind.jpg",
+  "groups": [
+   "robert-ivanek-group"
+  ]
+ },
+ {
+  "slug": "david-wissel",
+  "name": "David Wissel",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/wisseld.jpg",
+  "groups": [
+   "valentina-boeva-group"
+  ]
+ },
+ {
+  "slug": "davide-bozzi",
+  "name": "Davide Bozzi",
+  "jobTitle": "SIB Member",
+  "image": "",
+  "groups": [
+   "anna-sapfo-malaspinas-group"
   ]
  },
  {
@@ -162,12 +1936,48 @@
   ]
  },
  {
+  "slug": "davide-paltrinieri",
+  "name": "Davide Paltrinieri",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/paltrind.jpg",
+  "groups": [
+   "raphaelle-luisier-group"
+  ]
+ },
+ {
+  "slug": "debora-sesia",
+  "name": "Debora Sesia",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/sesiad.jpg",
+  "groups": [
+   "giovanni-ciriello-group"
+  ]
+ },
+ {
+  "slug": "deepak-tanwar",
+  "name": "Deepak Tanwar",
+  "jobTitle": "Bioinformatics Specialist and Trainer",
+  "image": "https://www.sib.swiss/fp/img/people/tanward.jpg",
+  "groups": [
+   "training-group"
+  ]
+ },
+ {
   "slug": "deepak-unni",
   "name": "Deepak Unni",
   "jobTitle": "Scientific coordinator fair / rdf",
   "image": "",
   "groups": [
    "personalized-health-informatics"
+  ]
+ },
+ {
+  "slug": "deepak-yadav",
+  "name": "Deepak Yadav",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/yadavd.jpg",
+  "groups": [
+   "christophe-dessimoz-natasha-glover-group"
   ]
  },
  {
@@ -180,12 +1990,103 @@
   ]
  },
  {
+  "slug": "denisa-sufaj",
+  "name": "Denisa Sufaj",
+  "jobTitle": "SIB Member",
+  "image": "",
+  "groups": [
+   "luciano-cascione-group"
+  ]
+ },
+ {
+  "slug": "dennis-bontempi",
+  "name": "Dennis Bontempi",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/bontempd.jpg",
+  "groups": [
+   "sven-bergmann-group"
+  ]
+ },
+ {
+  "slug": "dennis-gankin",
+  "name": "Dennis Gankin",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/gankind.jpg",
+  "groups": [
+   "pedro-beltrao-group"
+  ]
+ },
+ {
+  "slug": "desiree-bruttin",
+  "name": "Desiree Bruttin",
+  "jobTitle": "SIB Member",
+  "image": "",
+  "groups": [
+   "mihaela-zavolan-group"
+  ]
+ },
+ {
+  "slug": "dhruva-rajwade",
+  "name": "Dhruva Rajwade",
+  "jobTitle": "SIB Member",
+  "image": "",
+  "groups": [
+   "marianna-rapsomaniki-group"
+  ]
+ },
+ {
   "slug": "diana-marek",
   "name": "Diana Marek",
   "jobTitle": "Training Project Manager & Senior Computational Biologist",
   "image": "https://www.sib.swiss/fp/img/people/marekd.jpg",
   "groups": [
+   "training-group",
    "vital-it"
+  ]
+ },
+ {
+  "slug": "diana-morzy",
+  "name": "Diana Morzy",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/morzyd.jpg",
+  "groups": [
+   "erik-van-nimwegen-group"
+  ]
+ },
+ {
+  "slug": "diana-rapota",
+  "name": "Diana Rapota",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/rapotad.jpg",
+  "groups": [
+   "torsten-schwede-group"
+  ]
+ },
+ {
+  "slug": "diane-duroux",
+  "name": "Diane Duroux",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/durouxd.jpg",
+  "groups": [
+   "niko-beerenwinkel-group"
+  ]
+ },
+ {
+  "slug": "diederik-lamantrip",
+  "name": "Diederik Laman Trip",
+  "jobTitle": "SIB Member",
+  "image": "",
+  "groups": [
+   "pedro-beltrao-group"
+  ]
+ },
+ {
+  "slug": "dilek-koptekin",
+  "name": "Dilek Koptekin",
+  "jobTitle": "SIB Member",
+  "image": "",
+  "groups": [
+   "anna-sapfo-malaspinas-group"
   ]
  },
  {
@@ -198,12 +2099,40 @@
   ]
  },
  {
+  "slug": "dimos-gaidatzis",
+  "name": "Dimos Gaidatzis",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/gaidatzd.jpg",
+  "groups": [
+   "michael-stadler-group"
+  ]
+ },
+ {
+  "slug": "divyanshu-srivastava",
+  "name": "Divyanshu Srivastava",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/srivastd.jpg",
+  "groups": [
+   "giovanni-ciriello-group"
+  ]
+ },
+ {
   "slug": "dmitry-kuznetsov",
   "name": "Dmitry Kuznetsov",
   "jobTitle": "Principal Database Architect",
   "image": "https://www.sib.swiss/fp/img/people/kuznetsd.jpg",
   "groups": [
+   "evgeny-zdobnov-evgenia-kriventseva-group",
    "vital-it"
+  ]
+ },
+ {
+  "slug": "dolly-metha",
+  "name": "Dolly Metha",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/methad.jpg",
+  "groups": [
+   "raphaelle-luisier-group"
   ]
  },
  {
@@ -212,7 +2141,44 @@
   "jobTitle": "Administrative Assistant",
   "image": "https://www.sib.swiss/fp/img/people/dornevid.jpg",
   "groups": [
+   "frederique-lisacek-group",
    "swiss-prot"
+  ]
+ },
+ {
+  "slug": "dominik-burri",
+  "name": "Dominik Burri",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/burrid.jpg",
+  "groups": [
+   "daniel-stekhoven-group"
+  ]
+ },
+ {
+  "slug": "dominique-zuni",
+  "name": "Dominique Zuni",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/zunid.jpg",
+  "groups": [
+   "evgeny-zdobnov-evgenia-kriventseva-group"
+  ]
+ },
+ {
+  "slug": "dongwook-kim",
+  "name": "Dongwook Kim",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/kimd.jpg",
+  "groups": [
+   "christophe-dessimoz-natasha-glover-group"
+  ]
+ },
+ {
+  "slug": "ebrahim-jahanbakhsh",
+  "name": "Ebrahim Jahanbakhsh",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/jahanbae.jpg",
+  "groups": [
+   "michel-milinkovitch-group"
   ]
  },
  {
@@ -222,6 +2188,114 @@
   "image": "https://www.sib.swiss/fp/img/people/castroe.jpg",
   "groups": [
    "swiss-prot"
+  ]
+ },
+ {
+  "slug": "edurne-solabarrieta-larranaga",
+  "name": "Edurne Solabarrieta Larranaga",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/solabare.jpg",
+  "groups": [
+   "bart-deplancke-group"
+  ]
+ },
+ {
+  "slug": "eftychia-kormari",
+  "name": "Eftychia Kormari",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/kormarie.jpg",
+  "groups": [
+   "judith-zaugg-group"
+  ]
+ },
+ {
+  "slug": "ekaterina-noskova",
+  "name": "Ekaterina Noskova",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/noskovae.jpg",
+  "groups": [
+   "daniel-wegmann-group"
+  ]
+ },
+ {
+  "slug": "ekaterina-pyatova",
+  "name": "Ekaterina Pyatova",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/pyatovae.jpg",
+  "groups": [
+   "matteo-dal-peraro-group"
+  ]
+ },
+ {
+  "slug": "ekaterina-stepanova",
+  "name": "Ekaterina Stepanova",
+  "jobTitle": "SIB Member",
+  "image": "",
+  "groups": [
+   "scicore-richard-neher-group"
+  ]
+ },
+ {
+  "slug": "ekaterine-kikodze",
+  "name": "Ekaterine Kikodze",
+  "jobTitle": "SIB Member",
+  "image": "",
+  "groups": [
+   "sonja-lehtinen-group"
+  ]
+ },
+ {
+  "slug": "elena-barletta",
+  "name": "Elena Barletta",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/barlette.jpg",
+  "groups": [
+   "katja-barenfaller-group"
+  ]
+ },
+ {
+  "slug": "elena-neshevska",
+  "name": "Elena Neshevska",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/neshevse.jpg",
+  "groups": [
+   "judith-zaugg-group"
+  ]
+ },
+ {
+  "slug": "eleonora-dicarluccio",
+  "name": "Eleonora Di Carluccio",
+  "jobTitle": "SIB Member",
+  "image": "",
+  "groups": [
+   "andreas-ziegler-group"
+  ]
+ },
+ {
+  "slug": "eleonore-de-guttry",
+  "name": "Eleonore de Guttry",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/deguttre.jpg",
+  "groups": [
+   "jerome-goudet-group"
+  ]
+ },
+ {
+  "slug": "elisa-bugani",
+  "name": "Elisa Bugani",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/buganie.jpg",
+  "groups": [
+   "bart-deplancke-group"
+  ]
+ },
+ {
+  "slug": "elisa-messori",
+  "name": "Elisa Messori",
+  "jobTitle": "SIB Member",
+  "image": "",
+  "groups": [
+   "raphaelle-luisier-group"
   ]
  },
  {
@@ -243,12 +2317,84 @@
   ]
  },
  {
+  "slug": "elisabetta-cacace",
+  "name": "Elisabetta Cacace",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/cacacee.jpg",
+  "groups": [
+   "shinichi-sunagawa-group"
+  ]
+ },
+ {
+  "slug": "ellen-aarts",
+  "name": "Ellen Aarts",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/aartse.jpg",
+  "groups": [
+   "pedro-beltrao-group"
+  ]
+ },
+ {
+  "slug": "emanuel-schmid",
+  "name": "Emanuel Schmid",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/mschmide.jpg",
+  "groups": [
+   "bernd-rinn-group"
+  ]
+ },
+ {
+  "slug": "emanuel-sonder",
+  "name": "Emanuel Sonder",
+  "jobTitle": "SIB Member",
+  "image": "",
+  "groups": [
+   "robert-ivanek-group"
+  ]
+ },
+ {
+  "slug": "emma-hodcroft",
+  "name": "Emma Hodcroft",
+  "jobTitle": "Group Leader",
+  "image": "https://www.sib.swiss/fp/img/people/hodcrofe.jpg",
+  "groups": [
+   "emma-hodcroft-group"
+  ]
+ },
+ {
+  "slug": "emma-luteijn",
+  "name": "Emma Luteijn",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/luteijne.jpg",
+  "groups": [
+   "remy-bruggmann-group"
+  ]
+ },
+ {
   "slug": "emmanuel-boutet",
   "name": "Emmanuel Boutet",
   "jobTitle": "Biocurator",
   "image": "https://www.sib.swiss/fp/img/people/boutete.jpg",
   "groups": [
    "swiss-prot"
+  ]
+ },
+ {
+  "slug": "emmanuel-levy",
+  "name": "Emmanuel Levy",
+  "jobTitle": "Group Leader",
+  "image": "https://www.sib.swiss/fp/img/people/levye.jpg",
+  "groups": [
+   "emmanuel-levy-group"
+  ]
+ },
+ {
+  "slug": "emmanuelle-mohbat",
+  "name": "Emmanuelle Mohbat",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/mohbate.jpg",
+  "groups": [
+   "jacques-fellay-group"
   ]
  },
  {
@@ -261,6 +2407,15 @@
   ]
  },
  {
+  "slug": "enkelejda-miho",
+  "name": "Enkelejda Miho",
+  "jobTitle": "Group Leader",
+  "image": "https://www.sib.swiss/fp/img/people/mihoe.jpg",
+  "groups": [
+   "enkelejda-miho-group"
+  ]
+ },
+ {
   "slug": "erik-studer",
   "name": "Erik Studer",
   "jobTitle": "Senior Scientific Project Manager",
@@ -270,12 +2425,210 @@
   ]
  },
  {
+  "slug": "erik-van-nimwegen",
+  "name": "Erik van Nimwegen",
+  "jobTitle": "Group Leader",
+  "image": "https://www.sib.swiss/fp/img/people/vannimwe.jpg",
+  "groups": [
+   "erik-van-nimwegen-group"
+  ]
+ },
+ {
+  "slug": "ernestdadisbush-fotsing",
+  "name": "Ernest Dadis Bush Fotsing",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/fotsinge.jpg",
+  "groups": [
+   "daniel-wegmann-group"
+  ]
+ },
+ {
+  "slug": "esteban-gaillac",
+  "name": "Esteban Gaillac",
+  "jobTitle": "SIB Member",
+  "image": "",
+  "groups": [
+   "patrick-ruch-group"
+  ]
+ },
+ {
   "slug": "etienne-derham",
   "name": "Etienne de Rham",
   "jobTitle": "Head of Finances & Vital-IT Operations",
   "image": "https://www.sib.swiss/fp/img/people/derhame.jpg",
   "groups": [
    "vital-it"
+  ]
+ },
+ {
+  "slug": "eva-pujadas",
+  "name": "Eva Pujadas",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/pujadase.jpg",
+  "groups": [
+   "scicore-richard-neher-group"
+  ]
+ },
+ {
+  "slug": "eva-riegler",
+  "name": "Eva Riegler",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/rieglere.jpg",
+  "groups": [
+   "daniel-stekhoven-group"
+  ]
+ },
+ {
+  "slug": "evgenia-kriventseva",
+  "name": "Evgenia Kriventseva",
+  "jobTitle": "Group Leader",
+  "image": "https://www.sib.swiss/fp/img/people/krivente.jpg",
+  "groups": [
+   "evgeny-zdobnov-evgenia-kriventseva-group"
+  ]
+ },
+ {
+  "slug": "evgeniy-ozonov",
+  "name": "Evgeniy Ozonov",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/ozonove.jpg",
+  "groups": [
+   "michael-stadler-group"
+  ]
+ },
+ {
+  "slug": "evgeny-zdobnov",
+  "name": "Evgeny Zdobnov",
+  "jobTitle": "Group Leader",
+  "image": "https://www.sib.swiss/fp/img/people/zdobnove.jpg",
+  "groups": [
+   "evgeny-zdobnov-evgenia-kriventseva-group"
+  ]
+ },
+ {
+  "slug": "ewan-ciuffi",
+  "name": "Ewan Ciuffi",
+  "jobTitle": "SIB Member",
+  "image": "",
+  "groups": [
+   "tanja-stadler-group"
+  ]
+ },
+ {
+  "slug": "fabienne-rudin",
+  "name": "Fabienne Rudin",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/rudinf.jpg",
+  "groups": [
+   "bruno-correia-group"
+  ]
+ },
+ {
+  "slug": "fabienne-wiederkehr",
+  "name": "Fabienne Wiederkehr",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/wiederkf.jpg",
+  "groups": [
+   "shinichi-sunagawa-group"
+  ]
+ },
+ {
+  "slug": "fabio-rinaldi",
+  "name": "Fabio Rinaldi",
+  "jobTitle": "Group Leader",
+  "image": "https://www.sib.swiss/fp/img/people/rinaldif.jpg",
+  "groups": [
+   "fabio-rinaldi-group"
+  ]
+ },
+ {
+  "slug": "fabrice-david",
+  "name": "Fabrice David",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/davidf.jpg",
+  "groups": [
+   "bart-deplancke-group"
+  ]
+ },
+ {
+  "slug": "faiza-noreen",
+  "name": "Faiza Noreen",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/noreenf.jpg",
+  "groups": [
+   "robert-ivanek-group"
+  ]
+ },
+ {
+  "slug": "falko-noe",
+  "name": "Falko Noé",
+  "jobTitle": "SIB Member",
+  "image": "",
+  "groups": [
+   "hubert-rehrauer-group"
+  ]
+ },
+ {
+  "slug": "fanny-krebs",
+  "name": "Fanny Krebs",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/krebsf.jpg",
+  "groups": [
+   "vincent-zoete-group"
+  ]
+ },
+ {
+  "slug": "federica-palmisano",
+  "name": "Federica Palmisano",
+  "jobTitle": "SIB Member",
+  "image": "",
+  "groups": [
+   "marianna-rapsomaniki-group"
+  ]
+ },
+ {
+  "slug": "federico-studer-silva-gutierrez",
+  "name": "Federico Studer Silva Gutierrez",
+  "jobTitle": "SIB Member",
+  "image": "",
+  "groups": [
+   "zoltan-kutalik-group"
+  ]
+ },
+ {
+  "slug": "fedor-sergeev",
+  "name": "Fedor Sergeev",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/sergeevf.jpg",
+  "groups": [
+   "gunnar-ratsch-group"
+  ]
+ },
+ {
+  "slug": "feifei-xia",
+  "name": "Feifei Xia",
+  "jobTitle": "SIB Member",
+  "image": "",
+  "groups": [
+   "maria-anisimova-group"
+  ]
+ },
+ {
+  "slug": "finn-weikert",
+  "name": "Finn Weikert",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/weikertf.jpg",
+  "groups": [
+   "christophe-dessimoz-natasha-glover-group"
+  ]
+ },
+ {
+  "slug": "fiona-ross",
+  "name": "Fiona Ross",
+  "jobTitle": "SIB Member",
+  "image": "",
+  "groups": [
+   "michael-stadler-group"
   ]
  },
  {
@@ -315,12 +2668,237 @@
   ]
  },
  {
+  "slug": "florian-geier",
+  "name": "Florian Geier",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/geierf.jpg",
+  "groups": [
+   "robert-ivanek-group"
+  ]
+ },
+ {
+  "slug": "florian-hugi",
+  "name": "Florian Hugi",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/hugif.jpg",
+  "groups": [
+   "gunnar-ratsch-group"
+  ]
+ },
+ {
+  "slug": "floriana-misceo",
+  "name": "Floriana Misceo",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/misceof.jpg",
+  "groups": [
+   "raphael-gottardo-group"
+  ]
+ },
+ {
+  "slug": "flurin-hidber",
+  "name": "Flurin Hidber",
+  "jobTitle": "SIB Member",
+  "image": "",
+  "groups": [
+   "xavier-deupi-group"
+  ]
+ },
+ {
+  "slug": "francesca-mangili",
+  "name": "Francesca Mangili",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/mangilif.jpg",
+  "groups": [
+   "laura-azzimonti-group"
+  ]
+ },
+ {
+  "slug": "francesca-mayolrullan",
+  "name": "Francesca Mayol Rullan",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/mayolruf.jpg",
+  "groups": [
+   "vincent-zoete-group"
+  ]
+ },
+ {
+  "slug": "francesco-gervasio",
+  "name": "Francesco Gervasio",
+  "jobTitle": "Group Leader",
+  "image": "https://www.sib.swiss/fp/img/people/gervasif.jpg",
+  "groups": [
+   "francesco-gervasio-group"
+  ]
+ },
+ {
+  "slug": "francesco-gualdi",
+  "name": "Francesco Gualdi",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/gualdif.jpg",
+  "groups": [
+   "laura-azzimonti-group"
+  ]
+ },
+ {
+  "slug": "francisco-zorrilla",
+  "name": "Francisco Zorrilla",
+  "jobTitle": "SIB Member",
+  "image": "",
+  "groups": [
+   "shinichi-sunagawa-group"
+  ]
+ },
+ {
+  "slug": "franz-josef-elmer",
+  "name": "Franz-Josef Elmer",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/elmerf.jpg",
+  "groups": [
+   "bernd-rinn-group"
+  ]
+ },
+ {
+  "slug": "franziska-singer",
+  "name": "Franziska Singer",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/singerf.jpg",
+  "groups": [
+   "daniel-stekhoven-group"
+  ]
+ },
+ {
+  "slug": "frederic-bastian",
+  "name": "Frederic Bastian",
+  "jobTitle": "Associate Director, Evolutionary Bioinformatics",
+  "image": "https://www.sib.swiss/fp/img/people/bastianf.jpg",
+  "groups": [
+   "marc-robinson-rechavi-frederic-bastian-group"
+  ]
+ },
+ {
   "slug": "frederic-burdet",
   "name": "Frédéric Burdet",
   "jobTitle": "Senior Computational Biologist",
   "image": "https://www.sib.swiss/fp/img/people/burdetf.jpg",
   "groups": [
    "vital-it"
+  ]
+ },
+ {
+  "slug": "frederic-nikitin",
+  "name": "Frederic Nikitin",
+  "jobTitle": "Senior software developer",
+  "image": "https://www.sib.swiss/fp/img/people/nikitinf.jpg",
+  "groups": [
+   "frederique-lisacek-group"
+  ]
+ },
+ {
+  "slug": "frederic-schutz",
+  "name": "Frédéric Schütz",
+  "jobTitle": "Head of Biostatistics, BIOS",
+  "image": "https://www.sib.swiss/fp/img/people/schutzf.jpg",
+  "groups": [
+   "frederic-schutz-group"
+  ]
+ },
+ {
+  "slug": "frederique-lisacek",
+  "name": "Frédérique Lisacek",
+  "jobTitle": "Group Leader",
+  "image": "https://www.sib.swiss/fp/img/people/lisacekf.jpg",
+  "groups": [
+   "frederique-lisacek-group"
+  ]
+ },
+ {
+  "slug": "fredrik-tegenfeldt",
+  "name": "Fredrik Tegenfeldt",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/tegenfef.jpg",
+  "groups": [
+   "evgeny-zdobnov-evgenia-kriventseva-group"
+  ]
+ },
+ {
+  "slug": "gabriel-studer",
+  "name": "Gabriel Studer",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/studerg.jpg",
+  "groups": [
+   "torsten-schwede-group"
+  ]
+ },
+ {
+  "slug": "gabriele-marino",
+  "name": "Gabriele Marino",
+  "jobTitle": "SIB Member",
+  "image": "",
+  "groups": [
+   "tanja-stadler-group"
+  ]
+ },
+ {
+  "slug": "geert-vangeest",
+  "name": "Geert van Geest",
+  "jobTitle": "Training Project Manager",
+  "image": "https://www.sib.swiss/fp/img/people/vangeesg.jpg",
+  "groups": [
+   "training-group"
+  ]
+ },
+ {
+  "slug": "geoffray-mariedevillard",
+  "name": "Geoffray Marie-Devillard",
+  "jobTitle": "SIB Member",
+  "image": "",
+  "groups": [
+   "bart-deplancke-group"
+  ]
+ },
+ {
+  "slug": "geoffrey-fucile",
+  "name": "Geoffrey Fucile",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/fucileg.jpg",
+  "groups": [
+   "scicore-richard-neher-group"
+  ]
+ },
+ {
+  "slug": "georg-angehrn",
+  "name": "Georg Angehrn",
+  "jobTitle": "SIB Member",
+  "image": "",
+  "groups": [
+   "erik-van-nimwegen-group"
+  ]
+ },
+ {
+  "slug": "george-allen",
+  "name": "George Allen",
+  "jobTitle": "SIB Member",
+  "image": "",
+  "groups": [
+   "nadine-fournier-group"
+  ]
+ },
+ {
+  "slug": "georgios-kalogiannis",
+  "name": "Georgios Kalogiannis",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/kalogiag.jpg",
+  "groups": [
+   "andreas-wagner-group"
+  ]
+ },
+ {
+  "slug": "georgios-koliopanos",
+  "name": "Georgios Koliopanos",
+  "jobTitle": "SIB Member",
+  "image": "",
+  "groups": [
+   "andreas-ziegler-group"
   ]
  },
  {
@@ -333,12 +2911,210 @@
   ]
  },
  {
+  "slug": "gerardo-tauriello",
+  "name": "Gerardo Tauriello",
+  "jobTitle": "Team Lead, Software Development",
+  "image": "https://www.sib.swiss/fp/img/people/taurielg.jpg",
+  "groups": [
+   "torsten-schwede-group"
+  ]
+ },
+ {
+  "slug": "german-bonillarosso",
+  "name": "German Bonilla-Rosso",
+  "jobTitle": "SIB Member",
+  "image": "",
+  "groups": [
+   "christian-ahrens-group"
+  ]
+ },
+ {
+  "slug": "giada-sandrini",
+  "name": "Giada Sandrini",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/sandring.jpg",
+  "groups": [
+   "luciano-cascione-group"
+  ]
+ },
+ {
+  "slug": "giadaandrea-cassanmagnago",
+  "name": "Giada Andrea Cassanmagnago",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/cassanmg.jpg",
+  "groups": [
+   "luciano-cascione-group"
+  ]
+ },
+ {
+  "slug": "gianmarco-franceschini",
+  "name": "Gian Marco Franceschini",
+  "jobTitle": "SIB Member",
+  "image": "",
+  "groups": [
+   "giovanni-ciriello-group"
+  ]
+ },
+ {
+  "slug": "gilles-cohen",
+  "name": "Gilles Cohen",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/coheng.jpg",
+  "groups": [
+   "patrick-ruch-group"
+  ]
+ },
+ {
+  "slug": "giovanni-angelotti",
+  "name": "Giovanni Angelotti",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/angelotg.jpg",
+  "groups": [
+   "laura-azzimonti-group"
+  ]
+ },
+ {
+  "slug": "giovanni-ciriello",
+  "name": "Giovanni Ciriello",
+  "jobTitle": "Group Leader",
+  "image": "https://www.sib.swiss/fp/img/people/ciriellg.jpg",
+  "groups": [
+   "giovanni-ciriello-group"
+  ]
+ },
+ {
+  "slug": "giulia-carradori",
+  "name": "Giulia Carradori",
+  "jobTitle": "SIB Member",
+  "image": "",
+  "groups": [
+   "raphael-gottardo-group"
+  ]
+ },
+ {
+  "slug": "gleb-turchinovich",
+  "name": "Gleb Turchinovich",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/turching.jpg",
+  "groups": [
+   "robert-ivanek-group"
+  ]
+ },
+ {
+  "slug": "gopinath-chattopadhyay",
+  "name": "Gopinath Chattopadhyay",
+  "jobTitle": "SIB Member",
+  "image": "",
+  "groups": [
+   "andreas-wagner-group"
+  ]
+ },
+ {
+  "slug": "gregoire-rossier",
+  "name": "Gregoire Rossier",
+  "jobTitle": "Training Manager",
+  "image": "https://www.sib.swiss/fp/img/people/rossierg.jpg",
+  "groups": [
+   "training-group"
+  ]
+ },
+ {
+  "slug": "greta-bordin",
+  "name": "Greta Bordin",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/bording.jpg",
+  "groups": [
+   "santiago-carmona-group"
+  ]
+ },
+ {
+  "slug": "greta-brenna",
+  "name": "Greta Brenna",
+  "jobTitle": "SIB Member",
+  "image": "",
+  "groups": [
+   "microbial-evolution-richard-neher-group"
+  ]
+ },
+ {
+  "slug": "guelsen-eymen-dediler",
+  "name": "Guelsen Eymen Dediler",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/dedilerg.jpg",
+  "groups": [
+   "abdullah-kahraman-group"
+  ]
+ },
+ {
   "slug": "guilaine-argoud-puy",
   "name": "Guilaine Argoud-Puy",
   "jobTitle": "Biocurator",
   "image": "https://www.sib.swiss/fp/img/people/argoudg.jpg",
   "groups": [
    "swiss-prot"
+  ]
+ },
+ {
+  "slug": "guillermo-losilla-anadon",
+  "name": "Guillermo Losilla Anadón",
+  "jobTitle": "SIB Member",
+  "image": "",
+  "groups": [
+   "scicore-richard-neher-group"
+  ]
+ },
+ {
+  "slug": "gunnar-ratsch",
+  "name": "Gunnar Rätsch",
+  "jobTitle": "Group Leader",
+  "image": "",
+  "groups": [
+   "gunnar-ratsch-group"
+  ]
+ },
+ {
+  "slug": "gustavo-ruizbuendia",
+  "name": "Gustavo Ruiz Buendia",
+  "jobTitle": "Bioinformatician",
+  "image": "https://www.sib.swiss/fp/img/people/ruizbueg.jpg",
+  "groups": [
+   "nadine-fournier-group"
+  ]
+ },
+ {
+  "slug": "hans-joachim-ruscheweyh",
+  "name": "Hans-Joachim Ruscheweyh",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/ruschewh.jpg",
+  "groups": [
+   "shinichi-sunagawa-group"
+  ]
+ },
+ {
+  "slug": "hans-rudolf-hotz",
+  "name": "Hans-Rudolf Hotz",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/rhotzh.jpg",
+  "groups": [
+   "michael-stadler-group"
+  ]
+ },
+ {
+  "slug": "haobao-yuan",
+  "name": "Haobao Yuan",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/yuanh.jpg",
+  "groups": [
+   "tanja-stadler-group"
+  ]
+ },
+ {
+  "slug": "harald-detering",
+  "name": "Harald Detering",
+  "jobTitle": "SIB Member",
+  "image": "",
+  "groups": [
+   "marc-robinson-rechavi-frederic-bastian-group"
   ]
  },
  {
@@ -351,6 +3127,168 @@
   ]
  },
  {
+  "slug": "harun-mustafa",
+  "name": "Harun Mustafa",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/mustafah.jpg",
+  "groups": [
+   "gunnar-ratsch-group"
+  ]
+ },
+ {
+  "slug": "harvey-bowen",
+  "name": "Harvey Bowen",
+  "jobTitle": "SIB Member",
+  "image": "",
+  "groups": [
+   "scicore-richard-neher-group"
+  ]
+ },
+ {
+  "slug": "heidi-tschanz-lischer",
+  "name": "Heidi Tschanz-Lischer",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/tschanzh.jpg",
+  "groups": [
+   "remy-bruggmann-group"
+  ]
+ },
+ {
+  "slug": "helena-crowell",
+  "name": "Helena Crowell",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/crowellh.jpg",
+  "groups": [
+   "raphael-gottardo-group"
+  ]
+ },
+ {
+  "slug": "helena-seth",
+  "name": "Helena Seth-Smith",
+  "jobTitle": "Group Leader",
+  "image": "https://www.sib.swiss/fp/img/people/sethh.jpg",
+  "groups": [
+   "helena-seth-tim-roloff-group"
+  ]
+ },
+ {
+  "slug": "hengdong-lu",
+  "name": "Hengdong Lu",
+  "jobTitle": "SIB Member",
+  "image": "",
+  "groups": [
+   "anne-florence-bitbol-group"
+  ]
+ },
+ {
+  "slug": "horia-hashimi",
+  "name": "Horia Hashimi",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/hashimih.jpg",
+  "groups": [
+   "bart-deplancke-group"
+  ]
+ },
+ {
+  "slug": "hubert-rehrauer",
+  "name": "Hubert Rehrauer",
+  "jobTitle": "Group Leader",
+  "image": "https://www.sib.swiss/fp/img/people/rehraueh.jpg",
+  "groups": [
+   "hubert-rehrauer-group"
+  ]
+ },
+ {
+  "slug": "hugo-corval",
+  "name": "Hugo Corval",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/corvalh.jpg",
+  "groups": [
+   "jerome-goudet-group"
+  ]
+ },
+ {
+  "slug": "huijeong-jung",
+  "name": "Hui Jeong Jung",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/jungh.jpg",
+  "groups": [
+   "catherine-jutzeler-group"
+  ]
+ },
+ {
+  "slug": "ian-quintas",
+  "name": "Ian Quintas",
+  "jobTitle": "SIB Member",
+  "image": "",
+  "groups": [
+   "sven-bergmann-group"
+  ]
+ },
+ {
+  "slug": "ianis-vilela",
+  "name": "Ianis Vilela",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/vilelai.jpg",
+  "groups": [
+   "claudia-bank-group"
+  ]
+ },
+ {
+  "slug": "iara-de-schoenmacker",
+  "name": "Iara De Schoenmacker",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/deschoei.jpg",
+  "groups": [
+   "catherine-jutzeler-group"
+  ]
+ },
+ {
+  "slug": "ieva-pudziuvelyte",
+  "name": "Ieva Pudziuvelyte",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/pudziuvi.jpg",
+  "groups": [
+   "torsten-schwede-group"
+  ]
+ },
+ {
+  "slug": "igor-cervenka",
+  "name": "Igor Cervenka",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/cervenki.jpg",
+  "groups": [
+   "robert-ivanek-group"
+  ]
+ },
+ {
+  "slug": "igor-pivkin",
+  "name": "Igor Pivkin",
+  "jobTitle": "Group Leader",
+  "image": "https://www.sib.swiss/fp/img/people/pivkini.jpg",
+  "groups": [
+   "igor-pivkin-group"
+  ]
+ },
+ {
+  "slug": "ilaria-iuliani",
+  "name": "Ilaria Iuliani",
+  "jobTitle": "SIB Member",
+  "image": "",
+  "groups": [
+   "sven-bergmann-group"
+  ]
+ },
+ {
+  "slug": "ilya-carey",
+  "name": "Ilya Carey",
+  "jobTitle": "SIB Member",
+  "image": "",
+  "groups": [
+   "andreas-wagner-group"
+  ]
+ },
+ {
   "slug": "imane-lboukili",
   "name": "Imane Lboukili",
   "jobTitle": "Data Scientist",
@@ -360,12 +3298,102 @@
   ]
  },
  {
+  "slug": "inayat-ullah-irshad",
+  "name": "Inayat Ullah Irshad",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/irshadi.jpg",
+  "groups": [
+   "mihaela-zavolan-group"
+  ]
+ },
+ {
+  "slug": "ines-mora",
+  "name": "Ines Mora",
+  "jobTitle": "SIB Member",
+  "image": "",
+  "groups": [
+   "andreas-ziegler-group"
+  ]
+ },
+ {
+  "slug": "inken-fender",
+  "name": "Inken Fender",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/fenderi.jpg",
+  "groups": [
+   "thomas-lemmin-group"
+  ]
+ },
+ {
+  "slug": "irene-julca",
+  "name": "Irene Julca",
+  "jobTitle": "SIB Member",
+  "image": "",
+  "groups": [
+   "christophe-dessimoz-natasha-glover-group"
+  ]
+ },
+ {
+  "slug": "isabel-montejanomontelongo",
+  "name": "Isabel Montejano Montelongo",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/montejai.jpg",
+  "groups": [
+   "giovanni-ciriello-group"
+  ]
+ },
+ {
+  "slug": "isabela-doo",
+  "name": "Isabela do O",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/dooi.jpg",
+  "groups": [
+   "jerome-goudet-group"
+  ]
+ },
+ {
+  "slug": "ishani-sharma",
+  "name": "Ishani Sharma",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/sharmai.jpg",
+  "groups": [
+   "timothy-frayling-group"
+  ]
+ },
+ {
+  "slug": "isinsu-katircioglu",
+  "name": "Isinsu Katircioglu",
+  "jobTitle": "SIB Member",
+  "image": "",
+  "groups": [
+   "marianna-rapsomaniki-group"
+  ]
+ },
+ {
   "slug": "iulian-dragan",
   "name": "Iulian Dragan",
   "jobTitle": "Senior Database Administrator",
   "image": "https://www.sib.swiss/fp/img/people/dragani.jpg",
   "groups": [
    "vital-it"
+  ]
+ },
+ {
+  "slug": "ivan-aksamentov",
+  "name": "Ivan Aksamentov",
+  "jobTitle": "SIB Member",
+  "image": "",
+  "groups": [
+   "microbial-evolution-richard-neher-group"
+  ]
+ },
+ {
+  "slug": "ivan-topolsky",
+  "name": "Ivan Topolsky",
+  "jobTitle": "Lead, Software Development",
+  "image": "https://www.sib.swiss/fp/img/people/topolski.jpg",
+  "groups": [
+   "niko-beerenwinkel-group"
   ]
  },
  {
@@ -387,12 +3415,192 @@
   ]
  },
  {
+  "slug": "izaskun-mallona",
+  "name": "Izaskun Mallona",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/mallonai.jpg",
+  "groups": [
+   "mark-robinson-group"
+  ]
+ },
+ {
+  "slug": "jacek-kedzierski",
+  "name": "Jacek Kedzierski",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/kedzierj.jpg",
+  "groups": [
+   "torsten-schwede-group"
+  ]
+ },
+ {
+  "slug": "jack-kuipers",
+  "name": "Jack Kuipers",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/kuipersj.jpg",
+  "groups": [
+   "niko-beerenwinkel-group"
+  ]
+ },
+ {
+  "slug": "jacob-riina",
+  "name": "Jacob Riina",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/riinaj.jpg",
+  "groups": [
+   "alan-pacheco-group"
+  ]
+ },
+ {
+  "slug": "jacopo-pasqualini",
+  "name": "Jacopo Pasqualini",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/pasqualj.jpg",
+  "groups": [
+   "torsten-schwede-group"
+  ]
+ },
+ {
+  "slug": "jacopo-sgrignani",
+  "name": "Jacopo Sgrignani",
+  "jobTitle": "SIB Member",
+  "image": "",
+  "groups": [
+   "andrea-cavalli-group"
+  ]
+ },
+ {
+  "slug": "jacques-fellay",
+  "name": "Jacques Fellay",
+  "jobTitle": "Group Leader",
+  "image": "https://www.sib.swiss/fp/img/people/fellayj.jpg",
+  "groups": [
+   "jacques-fellay-group"
+  ]
+ },
+ {
+  "slug": "jahn-nitschke",
+  "name": "Jahn Nitschke",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/nitschkj.jpg",
+  "groups": [
+   "niko-beerenwinkel-group"
+  ]
+ },
+ {
+  "slug": "jakob-jonas-rien",
+  "name": "Jakob Jonas Rien",
+  "jobTitle": "SIB Member",
+  "image": "",
+  "groups": [
+   "mihaela-zavolan-group"
+  ]
+ },
+ {
+  "slug": "jakob-steuer",
+  "name": "Jakob Steuer",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/steuerj.jpg",
+  "groups": [
+   "abdullah-kahraman-group"
+  ]
+ },
+ {
+  "slug": "james-obrien",
+  "name": "James O'Brien",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/obrienj.jpg",
+  "groups": [
+   "shinichi-sunagawa-group"
+  ]
+ },
+ {
+  "slug": "jan-adelmann",
+  "name": "Jan Adelmann",
+  "jobTitle": "SIB Member",
+  "image": "",
+  "groups": [
+   "dagmar-iber-group"
+  ]
+ },
+ {
   "slug": "jan-armida",
   "name": "Jan Armida",
   "jobTitle": "Scientific Project Coordinator (FAIR Health Related Data)",
   "image": "https://www.sib.swiss/fp/img/people/armidaj.jpg",
   "groups": [
    "personalized-health-informatics"
+  ]
+ },
+ {
+  "slug": "janani-durairaj",
+  "name": "Janani Durairaj",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/durairaj.jpg",
+  "groups": [
+   "torsten-schwede-group"
+  ]
+ },
+ {
+  "slug": "janko-tackmann",
+  "name": "Janko Tackmann",
+  "jobTitle": "SIB Member",
+  "image": "",
+  "groups": [
+   "christian-von-mering-group"
+  ]
+ },
+ {
+  "slug": "janosraphael-winkler",
+  "name": "János Raphael Winkler",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/winklerj.jpg",
+  "groups": [
+   "microbial-evolution-richard-neher-group"
+  ]
+ },
+ {
+  "slug": "jean-luc-falcone",
+  "name": "Jean-Luc Falcone",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/falconej.jpg",
+  "groups": [
+   "bastien-chopard-group"
+  ]
+ },
+ {
+  "slug": "jeferyd-yepesgarcia",
+  "name": "Jeferyd Yepes-Garcia",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/yepesj.jpg",
+  "groups": [
+   "laurent-falquet-group"
+  ]
+ },
+ {
+  "slug": "jelena-cuklina",
+  "name": "Jelena Cuklina",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/cuklinaj.jpg",
+  "groups": [
+   "daniel-stekhoven-group"
+  ]
+ },
+ {
+  "slug": "jerome-goudet",
+  "name": "Jérôme Goudet",
+  "jobTitle": "Group Leader",
+  "image": "https://www.sib.swiss/fp/img/people/goudetj.jpg",
+  "groups": [
+   "jerome-goudet-group"
+  ]
+ },
+ {
+  "slug": "jerome-pasquier",
+  "name": "Jerome Pasquier",
+  "jobTitle": "SIB Member",
+  "image": "",
+  "groups": [
+   "daniel-stekhoven-group"
   ]
  },
  {
@@ -405,12 +3613,229 @@
   ]
  },
  {
+  "slug": "jhasting",
+  "name": "Janna Hastings",
+  "jobTitle": "Group Leader",
+  "image": "https://www.sib.swiss/fp/img/people/hastingj.jpg",
+  "groups": [
+   "janna-hastings-group"
+  ]
+ },
+ {
+  "slug": "ji-wang",
+  "name": "Ji Wang",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/iwangj.jpg",
+  "groups": [
+   "evgeny-zdobnov-evgenia-kriventseva-group"
+  ]
+ },
+ {
+  "slug": "jiahui-yu",
+  "name": "Jiahui Yu",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/iahuiyuj.jpg",
+  "groups": [
+   "michael-baudis-group"
+  ]
+ },
+ {
+  "slug": "jianbo-fu",
+  "name": "Jianbo Fu",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/ianbofuj.jpg",
+  "groups": [
+   "patrick-pedrioli-bernd-wollscheid-group"
+  ]
+ },
+ {
+  "slug": "jiayi-wang",
+  "name": "Jiayi Wang",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/wang2j.jpg",
+  "groups": [
+   "mark-robinson-group"
+  ]
+ },
+ {
+  "slug": "jichang-zhang",
+  "name": "Jichang Zhang",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/zhangj.jpg",
+  "groups": [
+   "luciano-cascione-group"
+  ]
+ },
+ {
+  "slug": "jieran-sun",
+  "name": "Jieran Sun",
+  "jobTitle": "SIB Member",
+  "image": "",
+  "groups": [
+   "raphael-gottardo-group"
+  ]
+ },
+ {
+  "slug": "joana-carlevaro-fita",
+  "name": "Joana Carlevaro Fita",
+  "jobTitle": "Bioinformatics Trainer",
+  "image": "https://www.sib.swiss/fp/img/people/carlevaj.jpg",
+  "groups": [
+   "remy-bruggmann-group",
+   "training-group"
+  ]
+ },
+ {
+  "slug": "joanna-rusnok",
+  "name": "Joanna Rusnok",
+  "jobTitle": "SIB Member",
+  "image": "",
+  "groups": [
+   "bart-deplancke-group"
+  ]
+ },
+ {
+  "slug": "joao-lourenco",
+  "name": "Joao Lourenço",
+  "jobTitle": "Bioinformatician",
+  "image": "https://www.sib.swiss/fp/img/people/lourencj.jpg",
+  "groups": [
+   "nadine-fournier-group"
+  ]
+ },
+ {
+  "slug": "joao-souto",
+  "name": "Joao Souto",
+  "jobTitle": "SIB Member",
+  "image": "",
+  "groups": [
+   "jerome-goudet-group"
+  ]
+ },
+ {
+  "slug": "joerg-stelling",
+  "name": "Jörg Stelling",
+  "jobTitle": "Group Leader",
+  "image": "https://www.sib.swiss/fp/img/people/stellinj.jpg",
+  "groups": [
+   "jorg-stelling-group"
+  ]
+ },
+ {
+  "slug": "joern-pezoldt",
+  "name": "Jörn Pezoldt",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/pezoldtj.jpg",
+  "groups": [
+   "bart-deplancke-group"
+  ]
+ },
+ {
+  "slug": "johanna-haffner",
+  "name": "Johanna Haffner",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/haffnerj.jpg",
+  "groups": [
+   "jorg-stelling-group"
+  ]
+ },
+ {
+  "slug": "johannes-bues",
+  "name": "Johannes Bues",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/buesj.jpg",
+  "groups": [
+   "bart-deplancke-group"
+  ]
+ },
+ {
+  "slug": "johannes-gawron",
+  "name": "Johannes Gawron",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/gawronj.jpg",
+  "groups": [
+   "niko-beerenwinkel-group"
+  ]
+ },
+ {
+  "slug": "jonas-grossmann",
+  "name": "Jonas Grossmann",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/grossmaj.jpg",
+  "groups": [
+   "christian-panse-group"
+  ]
+ },
+ {
+  "slug": "jonathan-seguin",
+  "name": "Jonathan Seguin",
+  "jobTitle": "SIB Member",
+  "image": "",
+  "groups": [
+   "robert-ivanek-group"
+  ]
+ },
+ {
+  "slug": "jonathan-waehrer",
+  "name": "Jonathan Währer",
+  "jobTitle": "SIB Member",
+  "image": "",
+  "groups": [
+   "niko-beerenwinkel-group"
+  ]
+ },
+ {
+  "slug": "jose-escartin",
+  "name": "Jose Escartin",
+  "jobTitle": "SIB Member",
+  "image": "",
+  "groups": [
+   "scicore-richard-neher-group"
+  ]
+ },
+ {
   "slug": "josefina-lascanomaillard",
   "name": "Josefina Lascano Maillard",
   "jobTitle": "Computational Biologist",
   "image": "https://www.sib.swiss/fp/img/people/lascanoj.jpg",
   "groups": [
    "vital-it"
+  ]
+ },
+ {
+  "slug": "joseluis-ruiz",
+  "name": "Jose Luis Ruiz",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/ruizj.jpg",
+  "groups": [
+   "hubert-rehrauer-group"
+  ]
+ },
+ {
+  "slug": "josep-garnica",
+  "name": "Josep Garnica",
+  "jobTitle": "Bioinformatician",
+  "image": "https://www.sib.swiss/fp/img/people/garnicaj.jpg",
+  "groups": [
+   "santiago-carmona-group"
+  ]
+ },
+ {
+  "slug": "joseph-cornelius",
+  "name": "Joseph Cornelius",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/cornelij.jpg",
+  "groups": [
+   "fabio-rinaldi-group"
+  ]
+ },
+ {
+  "slug": "juan-fuentes",
+  "name": "Juan Fuentes",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/fuentesj.jpg",
+  "groups": [
+   "bernd-rinn-group"
   ]
  },
  {
@@ -423,12 +3848,147 @@
   ]
  },
  {
+  "slug": "judith-zaugg",
+  "name": "Judith Zaugg",
+  "jobTitle": "Group Leader",
+  "image": "https://www.sib.swiss/fp/img/people/zauggj.jpg",
+  "groups": [
+   "judith-zaugg-group"
+  ]
+ },
+ {
+  "slug": "juergen-jaenes",
+  "name": "Jürgen Jänes",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/jaenesj.jpg",
+  "groups": [
+   "pedro-beltrao-group"
+  ]
+ },
+ {
   "slug": "julia-maurer",
   "name": "Julia Maurer",
   "jobTitle": "SIB Member",
   "image": "https://www.sib.swiss/fp/img/people/maurerj.jpg",
   "groups": [
    "personalized-health-informatics"
+  ]
+ },
+ {
+  "slug": "julia-pilarski",
+  "name": "Julia Pilarski",
+  "jobTitle": "SIB Member",
+  "image": "",
+  "groups": [
+   "tanja-stadler-group"
+  ]
+ },
+ {
+  "slug": "julia-vogt",
+  "name": "Julia Vogt",
+  "jobTitle": "Group Leader",
+  "image": "",
+  "groups": [
+   "julia-vogt-group"
+  ]
+ },
+ {
+  "slug": "julian-vangerwen",
+  "name": "Julian van Gerwen",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/vangerwj.jpg",
+  "groups": [
+   "pedro-beltrao-group"
+  ]
+ },
+ {
+  "slug": "julie-papet",
+  "name": "Julie Papet",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/papetj.jpg",
+  "groups": [
+   "christophe-dessimoz-natasha-glover-group"
+  ]
+ },
+ {
+  "slug": "julie-russeil",
+  "name": "Julie Russeil",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/russeilj.jpg",
+  "groups": [
+   "bart-deplancke-group"
+  ]
+ },
+ {
+  "slug": "julien-gobeill",
+  "name": "Julien Gobeill",
+  "jobTitle": "Research Scientist",
+  "image": "",
+  "groups": [
+   "patrick-ruch-group"
+  ]
+ },
+ {
+  "slug": "julien-knafou",
+  "name": "Julien Knafou",
+  "jobTitle": "Data Analyst",
+  "image": "https://www.sib.swiss/fp/img/people/knafouj.jpg",
+  "groups": [
+   "patrick-ruch-group"
+  ]
+ },
+ {
+  "slug": "julien-racle",
+  "name": "Julien Racle",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/raclej.jpg",
+  "groups": [
+   "david-gfeller-group"
+  ]
+ },
+ {
+  "slug": "julien-roux",
+  "name": "Julien Roux",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/rouxj.jpg",
+  "groups": [
+   "robert-ivanek-group"
+  ]
+ },
+ {
+  "slug": "julien-stpierre",
+  "name": "Julien St-Pierre",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/ulienstj.jpg",
+  "groups": [
+   "zoltan-kutalik-group"
+  ]
+ },
+ {
+  "slug": "julien-wollbrett",
+  "name": "Julien Wollbrett",
+  "jobTitle": "Senior Software Developer",
+  "image": "https://www.sib.swiss/fp/img/people/wollbrej.jpg",
+  "groups": [
+   "marc-robinson-rechavi-frederic-bastian-group"
+  ]
+ },
+ {
+  "slug": "julija-pecerska",
+  "name": "Jūlija Pečerska",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/pecerskj.jpg",
+  "groups": [
+   "maria-anisimova-group"
+  ]
+ },
+ {
+  "slug": "julio-ayalalopez",
+  "name": "Julio Ayala Lopez",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/ayalaloj.jpg",
+  "groups": [
+   "claudia-bank-group"
   ]
  },
  {
@@ -441,12 +4001,67 @@
   ]
  },
  {
+  "slug": "justin-diamond",
+  "name": "Justin Diamond",
+  "jobTitle": "SIB Member",
+  "image": "",
+  "groups": [
+   "markus-lill-group"
+  ]
+ },
+ {
+  "slug": "justine-leclerc",
+  "name": "Justine Leclerc",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/leclercj.jpg",
+  "groups": [
+   "mark-robinson-group"
+  ]
+ },
+ {
+  "slug": "justyna-iwaszkiewicz",
+  "name": "Justyna Iwaszkiewicz",
+  "jobTitle": "Research Scientist",
+  "image": "https://www.sib.swiss/fp/img/people/iwaszkij.jpg",
+  "groups": [
+   "olivier-michielin-vincent-zoete-group"
+  ]
+ },
+ {
+  "slug": "kalin-nonchev",
+  "name": "Kalin Nonchev",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/nonchevk.jpg",
+  "groups": [
+   "gunnar-ratsch-group"
+  ]
+ },
+ {
   "slug": "kamal-chikh-echioukh",
   "name": "Kamal Chikh Echioukh",
   "jobTitle": "System Administrator",
   "image": "",
   "groups": [
+   "frederique-lisacek-group",
    "swiss-prot"
+  ]
+ },
+ {
+  "slug": "karel-van-damme",
+  "name": "Karel Van Damme",
+  "jobTitle": "SIB Member",
+  "image": "",
+  "groups": [
+   "bart-deplancke-group"
+  ]
+ },
+ {
+  "slug": "karin-fava",
+  "name": "Karin Fava",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/favak.jpg",
+  "groups": [
+   "judith-zaugg-group"
   ]
  },
  {
@@ -455,7 +4070,116 @@
   "jobTitle": "Senior System Administrator",
   "image": "",
   "groups": [
+   "frederique-lisacek-group",
    "swiss-prot"
+  ]
+ },
+ {
+  "slug": "karina-andrea-buettner",
+  "name": "Karina Andrea Buettner",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/buettnek.jpg",
+  "groups": [
+   "helena-seth-tim-roloff-group"
+  ]
+ },
+ {
+  "slug": "karol-piera",
+  "name": "Karol Piera",
+  "jobTitle": "SIB Member",
+  "image": "",
+  "groups": [
+   "giovanni-ciriello-group"
+  ]
+ },
+ {
+  "slug": "karolina-wachala",
+  "name": "Karolina Wachala",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/wachalak.jpg",
+  "groups": [
+   "remy-bruggmann-group"
+  ]
+ },
+ {
+  "slug": "kasun-samarasinghe",
+  "name": "Kasun Samarasinghe",
+  "jobTitle": "Bioinformatician",
+  "image": "https://www.sib.swiss/fp/img/people/samarask.jpg",
+  "groups": [
+   "frederique-lisacek-group"
+  ]
+ },
+ {
+  "slug": "katja-baerenfaller",
+  "name": "Katja Bärenfaller",
+  "jobTitle": "Group Leader",
+  "image": "https://www.sib.swiss/fp/img/people/baerenfk.jpg",
+  "groups": [
+   "katja-barenfaller-group"
+  ]
+ },
+ {
+  "slug": "katrin-singvogel",
+  "name": "Katrin Singvogel",
+  "jobTitle": "SIB Member",
+  "image": "",
+  "groups": [
+   "niko-beerenwinkel-group"
+  ]
+ },
+ {
+  "slug": "keigo-shibata",
+  "name": "Keigo Shibata",
+  "jobTitle": "SIB Member",
+  "image": "",
+  "groups": [
+   "raphaelle-luisier-group"
+  ]
+ },
+ {
+  "slug": "keno-strotjohann",
+  "name": "Keno Strotjohann",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/strotjok.jpg",
+  "groups": [
+   "emma-hodcroft-group"
+  ]
+ },
+ {
+  "slug": "kevin-perez",
+  "name": "Kevin Perez",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/perezk.jpg",
+  "groups": [
+   "luciano-cascione-group"
+  ]
+ },
+ {
+  "slug": "kevin-rupp",
+  "name": "Kevin Rupp",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/ruppk.jpg",
+  "groups": [
+   "niko-beerenwinkel-group"
+  ]
+ },
+ {
+  "slug": "kieran-chincheong",
+  "name": "Kieran Chin-Cheong",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/chink.jpg",
+  "groups": [
+   "julia-vogt-group"
+  ]
+ },
+ {
+  "slug": "konstantinos-ntemos",
+  "name": "Konstantinos Ntemos",
+  "jobTitle": "SIB Member",
+  "image": "",
+  "groups": [
+   "scicore-richard-neher-group"
   ]
  },
  {
@@ -477,12 +4201,229 @@
   ]
  },
  {
+  "slug": "kyra-kirschenbuehler",
+  "name": "Kyra Kirschenbuehler",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/kirschek.jpg",
+  "groups": [
+   "daniel-stekhoven-group"
+  ]
+ },
+ {
+  "slug": "laetitia-britschgi",
+  "name": "Laetitia Britschgi",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/britschl.jpg",
+  "groups": [
+   "andreas-wagner-group"
+  ]
+ },
+ {
+  "slug": "larissa-imhof",
+  "name": "Larissa Imhof",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/imhofl.jpg",
+  "groups": [
+   "raphaelle-luisier-group"
+  ]
+ },
+ {
+  "slug": "laszlo-pecze",
+  "name": "Laszlo Pecze",
+  "jobTitle": "SIB Member",
+  "image": "",
+  "groups": [
+   "andreas-ziegler-group"
+  ]
+ },
+ {
+  "slug": "laura-azzimonti",
+  "name": "Laura Azzimonti",
+  "jobTitle": "Group Leader",
+  "image": "https://www.sib.swiss/fp/img/people/azzimonl.jpg",
+  "groups": [
+   "laura-azzimonti-group"
+  ]
+ },
+ {
+  "slug": "laura-kramps",
+  "name": "Laura Kramps",
+  "jobTitle": "SIB Member",
+  "image": "",
+  "groups": [
+   "dagmar-iber-group"
+  ]
+ },
+ {
+  "slug": "laura-triginer-llabres",
+  "name": "Laura Triginer-Llabres",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/triginel.jpg",
+  "groups": [
+   "remy-bruggmann-group"
+  ]
+ },
+ {
+  "slug": "laura-urbanska",
+  "name": "Laura Urbanska",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/urbanskl.jpg",
+  "groups": [
+   "remy-bruggmann-group"
+  ]
+ },
+ {
   "slug": "laure-verbregue",
   "name": "Laure Verbregue",
   "jobTitle": "Administrative Assistant",
   "image": "",
   "groups": [
+   "frederique-lisacek-group",
    "swiss-prot"
+  ]
+ },
+ {
+  "slug": "laurent-falquet",
+  "name": "Laurent Falquet",
+  "jobTitle": "Group Leader",
+  "image": "https://www.sib.swiss/fp/img/people/falquetl.jpg",
+  "groups": [
+   "laurent-falquet-group"
+  ]
+ },
+ {
+  "slug": "lauric-ferrat",
+  "name": "Lauric Ferrat",
+  "jobTitle": "SIB Member",
+  "image": "",
+  "groups": [
+   "timothy-frayling-group"
+  ]
+ },
+ {
+  "slug": "laurie-prelot",
+  "name": "Laurie Prélot",
+  "jobTitle": "SIB Member",
+  "image": "",
+  "groups": [
+   "gunnar-ratsch-group"
+  ]
+ },
+ {
+  "slug": "laurine-vangijn",
+  "name": "Laurine Van Gijn",
+  "jobTitle": "SIB Member",
+  "image": "",
+  "groups": [
+   "bart-deplancke-group"
+  ]
+ },
+ {
+  "slug": "lea-broennimann",
+  "name": "Lea Broennimann",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/broennil.jpg",
+  "groups": [
+   "thomas-lemmin-group"
+  ]
+ },
+ {
+  "slug": "lea-multerer",
+  "name": "Lea Multerer",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/multerel.jpg",
+  "groups": [
+   "laura-azzimonti-group"
+  ]
+ },
+ {
+  "slug": "lea-taylor",
+  "name": "Lea Taylor",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/pohlmeil.jpg",
+  "groups": [
+   "remy-bruggmann-group"
+  ]
+ },
+ {
+  "slug": "leah-bottger",
+  "name": "Leah Bottger",
+  "jobTitle": "SIB Member",
+  "image": "",
+  "groups": [
+   "sven-bergmann-group"
+  ]
+ },
+ {
+  "slug": "leander-goldbach",
+  "name": "Leander Goldbach",
+  "jobTitle": "SIB Member",
+  "image": "",
+  "groups": [
+   "andreas-wagner-group"
+  ]
+ },
+ {
+  "slug": "leander-waddell",
+  "name": "Leander Waddell",
+  "jobTitle": "SIB Member",
+  "image": "",
+  "groups": [
+   "maria-anisimova-group"
+  ]
+ },
+ {
+  "slug": "leila-alexander",
+  "name": "Leila Tamara Alexander",
+  "jobTitle": "Senior Scientific Grant Manager",
+  "image": "https://www.sib.swiss/fp/img/people/alexandl.jpg",
+  "groups": [
+   "torsten-schwede-group"
+  ]
+ },
+ {
+  "slug": "leman-nur-nehri",
+  "name": "Leman Nur Nehri",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/nehril.jpg",
+  "groups": [
+   "abdullah-kahraman-group"
+  ]
+ },
+ {
+  "slug": "lennart-opitz",
+  "name": "Lennart Opitz",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/opitzl.jpg",
+  "groups": [
+   "hubert-rehrauer-group"
+  ]
+ },
+ {
+  "slug": "leon-kersting",
+  "name": "Leon Kersting",
+  "jobTitle": "SIB Member",
+  "image": "",
+  "groups": [
+   "dagmar-iber-group"
+  ]
+ },
+ {
+  "slug": "leona-knuesel",
+  "name": "Leona Knüsel",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/knuesell.jpg",
+  "groups": [
+   "zoltan-kutalik-group"
+  ]
+ },
+ {
+  "slug": "leonardo-schwarz",
+  "name": "Leonardo Schwarz",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/schwarzl.jpg",
+  "groups": [
+   "christian-panse-group"
   ]
  },
  {
@@ -495,12 +4436,30 @@
   ]
  },
  {
+  "slug": "leopold-franz",
+  "name": "Leopold Franz",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/franzl.jpg",
+  "groups": [
+   "dagmar-iber-group"
+  ]
+ },
+ {
   "slug": "lionel-breuza",
   "name": "Lionel Breuza",
   "jobTitle": "Team Lead, Biocuration",
   "image": "https://www.sib.swiss/fp/img/people/breuzal.jpg",
   "groups": [
    "swiss-prot"
+  ]
+ },
+ {
+  "slug": "lisa-fournier",
+  "name": "Lisa Fournier",
+  "jobTitle": "SIB Member",
+  "image": "",
+  "groups": [
+   "raphaelle-luisier-group"
   ]
  },
  {
@@ -513,12 +4472,192 @@
   ]
  },
  {
+  "slug": "loane-ruiz",
+  "name": "Loane Ruiz",
+  "jobTitle": "SIB Member",
+  "image": "",
+  "groups": [
+   "raphaelle-luisier-group"
+  ]
+ },
+ {
+  "slug": "lodovico-terzi-di-bergamo",
+  "name": "Lodovico Terzi di Bergamo",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/terzil.jpg",
+  "groups": [
+   "luciano-cascione-group"
+  ]
+ },
+ {
+  "slug": "loic-david",
+  "name": "Loic David",
+  "jobTitle": "SIB Member",
+  "image": "",
+  "groups": [
+   "bart-deplancke-group"
+  ]
+ },
+ {
+  "slug": "loic-marrec",
+  "name": "Loic Marrec",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/marrecl.jpg",
+  "groups": [
+   "sonja-lehtinen-group"
+  ]
+ },
+ {
+  "slug": "lopamudra-chatterjee",
+  "name": "Lopamudra Chatterjee",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/chatterl.jpg",
+  "groups": [
+   "christoph-messner-group"
+  ]
+ },
+ {
+  "slug": "loraine-habluetzel",
+  "name": "Loraine Hablützel",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/habluetl.jpg",
+  "groups": [
+   "claudia-bank-group"
+  ]
+ },
+ {
+  "slug": "lorenza-bordoli",
+  "name": "Lorenza Bordoli",
+  "jobTitle": "",
+  "image": "https://www.sib.swiss/fp/img/people/bordolil.jpg",
+  "groups": [
+   "scicore-richard-neher-group"
+  ]
+ },
+ {
+  "slug": "lorenzo-pantolini",
+  "name": "Lorenzo Pantolini",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/pantolil.jpg",
+  "groups": [
+   "torsten-schwede-group"
+  ]
+ },
+ {
   "slug": "lou-gotz",
   "name": "Lou Götz",
   "jobTitle": "Software Developer",
   "image": "https://www.sib.swiss/fp/img/people/gotzl.jpg",
   "groups": [
    "vital-it"
+  ]
+ },
+ {
+  "slug": "louis-duplessis",
+  "name": "Louis du Plessis",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/duplessl.jpg",
+  "groups": [
+   "tanja-stadler-group"
+  ]
+ },
+ {
+  "slug": "louis-faul",
+  "name": "Louis Faul",
+  "jobTitle": "SIB Member",
+  "image": "",
+  "groups": [
+   "christian-mazza-group"
+  ]
+ },
+ {
+  "slug": "louis-kunz",
+  "name": "Louis Kunz",
+  "jobTitle": "SIB Member",
+  "image": "",
+  "groups": [
+   "olivier-michielin-vincent-zoete-group"
+  ]
+ },
+ {
+  "slug": "louis-lukas",
+  "name": "Louis Lukas",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/lukasl.jpg",
+  "groups": [
+   "catherine-jutzeler-group"
+  ]
+ },
+ {
+  "slug": "luca-cappelletti",
+  "name": "Luca Cappelletti",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/cappelll.jpg",
+  "groups": [
+   "pierre-marie-allard-group"
+  ]
+ },
+ {
+  "slug": "luca-santuari",
+  "name": "Luca Santuari",
+  "jobTitle": "Bioinformatician",
+  "image": "https://www.sib.swiss/fp/img/people/usantual.jpg",
+  "groups": [
+   "nadine-fournier-group"
+  ]
+ },
+ {
+  "slug": "luca-schnepp-pesch",
+  "name": "Luca Schnepp-Pesch",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/schneppl.jpg",
+  "groups": [
+   "shinichi-sunagawa-group"
+  ]
+ },
+ {
+  "slug": "luca-sesta",
+  "name": "Luca Sesta",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/sestal.jpg",
+  "groups": [
+   "microbial-evolution-richard-neher-group"
+  ]
+ },
+ {
+  "slug": "lucas-anchieri",
+  "name": "Lucas Anchieri",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/anchierl.jpg",
+  "groups": [
+   "anna-sapfo-malaspinas-group"
+  ]
+ },
+ {
+  "slug": "luciano-abriata",
+  "name": "Luciano Abriata",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/abriatal.jpg",
+  "groups": [
+   "matteo-dal-peraro-group"
+  ]
+ },
+ {
+  "slug": "luciano-cascione",
+  "name": "Luciano Cascione",
+  "jobTitle": "Group Leader",
+  "image": "https://www.sib.swiss/fp/img/people/cascionl.jpg",
+  "groups": [
+   "luciano-cascione-group"
+  ]
+ },
+ {
+  "slug": "lucien-krapp",
+  "name": "Lucien Krapp",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/krappl.jpg",
+  "groups": [
+   "matteo-dal-peraro-group"
   ]
  },
  {
@@ -537,6 +4676,105 @@
   "image": "https://www.sib.swiss/fp/img/people/pourcell.jpg",
   "groups": [
    "swiss-prot"
+  ]
+ },
+ {
+  "slug": "ludovico-calabrese",
+  "name": "Ludovico Calabrese",
+  "jobTitle": "SIB Member",
+  "image": "",
+  "groups": [
+   "erik-van-nimwegen-group"
+  ]
+ },
+ {
+  "slug": "lukas-burger",
+  "name": "Lukas Burger",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/burgerl.jpg",
+  "groups": [
+   "michael-stadler-group"
+  ]
+ },
+ {
+  "slug": "lukas-haeuser",
+  "name": "Lukas Haeuser",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/haeuserl.jpg",
+  "groups": [
+   "marija-buljan-group"
+  ]
+ },
+ {
+  "slug": "lukas-malfertheiner",
+  "name": "Lukas Malfertheiner",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/malfertl.jpg",
+  "groups": [
+   "christian-von-mering-group"
+  ]
+ },
+ {
+  "slug": "maciej-smialek",
+  "name": "Maciej Smialek",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/smialekm.jpg",
+  "groups": [
+   "mihaela-zavolan-group"
+  ]
+ },
+ {
+  "slug": "madleina-caduff",
+  "name": "Madleina Caduff",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/caduffm.jpg",
+  "groups": [
+   "daniel-wegmann-group"
+  ]
+ },
+ {
+  "slug": "maksim-kholmatov",
+  "name": "Maksim Kholmatov",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/kholmatm.jpg",
+  "groups": [
+   "judith-zaugg-group"
+  ]
+ },
+ {
+  "slug": "malgorzata-maciukiewicz",
+  "name": "Malgorzata Maciukiewicz",
+  "jobTitle": "SIB Member",
+  "image": "",
+  "groups": [
+   "andreas-ziegler-group"
+  ]
+ },
+ {
+  "slug": "malte-mederacke",
+  "name": "Malte Mederacke",
+  "jobTitle": "SIB Member",
+  "image": "",
+  "groups": [
+   "dagmar-iber-group"
+  ]
+ },
+ {
+  "slug": "manuel-burger",
+  "name": "Manuel Burger",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/burgerm.jpg",
+  "groups": [
+   "gunnar-ratsch-group"
+  ]
+ },
+ {
+  "slug": "manuel-gil",
+  "name": "Manuel Gil",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/agilm.jpg",
+  "groups": [
+   "maria-anisimova-group"
   ]
  },
  {
@@ -559,12 +4797,300 @@
   ]
  },
  {
+  "slug": "marc-robinson-rechavi",
+  "name": "Marc Robinson-Rechavi",
+  "jobTitle": "Group Leader",
+  "image": "https://www.sib.swiss/fp/img/people/robinsom.jpg",
+  "groups": [
+   "marc-robinson-rechavi-frederic-bastian-group"
+  ]
+ },
+ {
+  "slug": "marco-bolis",
+  "name": "Marco Bolis",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/bolism.jpg",
+  "groups": [
+   "luciano-cascione-group"
+  ]
+ },
+ {
+  "slug": "marco-geigges",
+  "name": "Marco Geigges",
+  "jobTitle": "SIB Member",
+  "image": "",
+  "groups": [
+   "michael-stadler-group"
+  ]
+ },
+ {
+  "slug": "marco-kreuzer",
+  "name": "Marco Kreuzer",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/kreuzerm.jpg",
+  "groups": [
+   "remy-bruggmann-group"
+  ]
+ },
+ {
+  "slug": "marco-molari",
+  "name": "Marco Molari",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/molarim.jpg",
+  "groups": [
+   "microbial-evolution-richard-neher-group"
+  ]
+ },
+ {
   "slug": "marco-pagni",
   "name": "Marco Pagni",
   "jobTitle": "Team Lead, Computational Biology",
   "image": "https://www.sib.swiss/fp/img/people/pagnim.jpg",
   "groups": [
    "vital-it"
+  ]
+ },
+ {
+  "slug": "marco-varrone",
+  "name": "Marco Varrone",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/varronem.jpg",
+  "groups": [
+   "giovanni-ciriello-group"
+  ]
+ },
+ {
+  "slug": "marco-visani",
+  "name": "Marco Visani",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/visanim.jpg",
+  "groups": [
+   "pierre-marie-allard-group"
+  ]
+ },
+ {
+  "slug": "marcus-overwater",
+  "name": "Marcus Overwater",
+  "jobTitle": "SIB Member",
+  "image": "",
+  "groups": [
+   "tanja-stadler-group"
+  ]
+ },
+ {
+  "slug": "margaret-ryan",
+  "name": "Margaret Ryan",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/ryanm.jpg",
+  "groups": [
+   "maria-anisimova-group"
+  ]
+ },
+ {
+  "slug": "maria-anisimova",
+  "name": "Maria Anisimova",
+  "jobTitle": "Group Leader",
+  "image": "https://www.sib.swiss/fp/img/people/anisimom.jpg",
+  "groups": [
+   "maria-anisimova-group"
+  ]
+ },
+ {
+  "slug": "maria-brbic",
+  "name": "Maria Brbic",
+  "jobTitle": "Group Leader",
+  "image": "https://www.sib.swiss/fp/img/people/brbicm.jpg",
+  "groups": [
+   "maria-brbic-group"
+  ]
+ },
+ {
+  "slug": "maria-bzowka",
+  "name": "Maria Bzowka",
+  "jobTitle": "SIB Member",
+  "image": "",
+  "groups": [
+   "francesco-gervasio-group"
+  ]
+ },
+ {
+  "slug": "maria-cristina-carbajo-garcia",
+  "name": "Maria Cristina Carbajo Garcia",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/carbajom.jpg",
+  "groups": [
+   "santiago-carmona-group"
+  ]
+ },
+ {
+  "slug": "maria-marcaida",
+  "name": "Maria Josefina Marcaida Lopez",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/marcaidm.jpg",
+  "groups": [
+   "matteo-dal-peraro-group"
+  ]
+ },
+ {
+  "slug": "maria-monzonronda",
+  "name": "Maria Monzon Ronda",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/monzonrm.jpg",
+  "groups": [
+   "catherine-jutzeler-group"
+  ]
+ },
+ {
+  "slug": "mariam-aitoumelloul",
+  "name": "Mariam Ait Oumelloul",
+  "jobTitle": "SIB Member",
+  "image": "",
+  "groups": [
+   "jacques-fellay-group"
+  ]
+ },
+ {
+  "slug": "marianna-rapsomaniki",
+  "name": "Marianna Rapsomaniki",
+  "jobTitle": "Group Leader",
+  "image": "",
+  "groups": [
+   "marianna-rapsomaniki-group"
+  ]
+ },
+ {
+  "slug": "marianne-bachmann-salvy",
+  "name": "Marianne Bachmann Salvy",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/bachmanm.jpg",
+  "groups": [
+   "jerome-goudet-group"
+  ]
+ },
+ {
+  "slug": "marie-rumpler",
+  "name": "Marie Rumpler",
+  "jobTitle": "SIB Member",
+  "image": "",
+  "groups": [
+   "bart-deplancke-group"
+  ]
+ },
+ {
+  "slug": "marielle-girardin",
+  "name": "Marielle Girardin",
+  "jobTitle": "SIB Member",
+  "image": "",
+  "groups": [
+   "raphael-gottardo-group"
+  ]
+ },
+ {
+  "slug": "mariia-bilous",
+  "name": "Mariia Bilous",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/bilousm.jpg",
+  "groups": [
+   "raphael-gottardo-group"
+  ]
+ },
+ {
+  "slug": "marija-buljan",
+  "name": "Marija Buljan",
+  "jobTitle": "Group Leader",
+  "image": "https://www.sib.swiss/fp/img/people/buljanm.jpg",
+  "groups": [
+   "marija-buljan-group"
+  ]
+ },
+ {
+  "slug": "marija-dmitrijeva",
+  "name": "Marija Dmitrijeva",
+  "jobTitle": "Computational Biologist",
+  "image": "https://www.sib.swiss/fp/img/people/dmitrijm.jpg",
+  "groups": [
+   "shinichi-sunagawa-group"
+  ]
+ },
+ {
+  "slug": "marina-esteban-medina",
+  "name": "Marina Esteban Medina",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/estebanm.jpg",
+  "groups": [
+   "niko-beerenwinkel-group"
+  ]
+ },
+ {
+  "slug": "marine-bugnon",
+  "name": "Marine Bugnon",
+  "jobTitle": "Phd student",
+  "image": "https://www.sib.swiss/fp/img/people/bugnonm.jpg",
+  "groups": [
+   "olivier-michielin-vincent-zoete-group"
+  ]
+ },
+ {
+  "slug": "mario-capobianco",
+  "name": "Mario Capobianco",
+  "jobTitle": "SIB Member",
+  "image": "",
+  "groups": [
+   "tanja-stadler-group"
+  ]
+ },
+ {
+  "slug": "marion-nyaboke-nyamari",
+  "name": "Marion Nyaboke Nyamari",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/nyamarim.jpg",
+  "groups": [
+   "marc-robinson-rechavi-frederic-bastian-group"
+  ]
+ },
+ {
+  "slug": "marion-vaucher",
+  "name": "Marion Vaucher",
+  "jobTitle": "Administrative assistant",
+  "image": "",
+  "groups": [
+   "training-group"
+  ]
+ },
+ {
+  "slug": "mariona-lopezgil",
+  "name": "Mariona Lòpez Gil",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/lopezgim.jpg",
+  "groups": [
+   "christophe-dessimoz-natasha-glover-group"
+  ]
+ },
+ {
+  "slug": "marisa-marciano-wynn",
+  "name": "Marisa Marciano Wynn",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/marcianm.jpg",
+  "groups": [
+   "jacques-fellay-group"
+  ]
+ },
+ {
+  "slug": "marius-alexandru-botos-rogozsan",
+  "name": "Marius Alexandru Botos Rogozsan",
+  "jobTitle": "SIB Member",
+  "image": "",
+  "groups": [
+   "santiago-carmona-group"
+  ]
+ },
+ {
+  "slug": "marius-meylan",
+  "name": "Marius Meylan",
+  "jobTitle": "SIB Member",
+  "image": "",
+  "groups": [
+   "christophe-dessimoz-natasha-glover-group"
   ]
  },
  {
@@ -577,12 +5103,255 @@
   ]
  },
  {
+  "slug": "mark-robinson",
+  "name": "Mark Robinson",
+  "jobTitle": "Group Leader",
+  "image": "https://www.sib.swiss/fp/img/people/arobinsm.jpg",
+  "groups": [
+   "mark-robinson-group"
+  ]
+ },
+ {
+  "slug": "markus-lill",
+  "name": "Markus Lill",
+  "jobTitle": "Group Leader",
+  "image": "https://www.sib.swiss/fp/img/people/lillm.jpg",
+  "groups": [
+   "markus-lill-group"
+  ]
+ },
+ {
   "slug": "markus-mueller",
   "name": "Markus Mueller",
   "jobTitle": "Principal Computational Biologist",
   "image": "https://www.sib.swiss/fp/img/people/muellerm.jpg",
   "groups": [
    "vital-it"
+  ]
+ },
+ {
+  "slug": "markus-schroeder",
+  "name": "Markus Schröder",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/schroedm.jpg",
+  "groups": [
+   "hubert-rehrauer-group"
+  ]
+ },
+ {
+  "slug": "marta-andreia-da-silva-perez-gomes",
+  "name": "Marta Andreia Da Silva Perez Gomes",
+  "jobTitle": "Senior Research Scientist",
+  "image": "https://www.sib.swiss/fp/img/people/perezm.jpg",
+  "groups": [
+   "olivier-michielin-vincent-zoete-group"
+  ]
+ },
+ {
+  "slug": "martin-emons",
+  "name": "Martin Emons",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/emonsm.jpg",
+  "groups": [
+   "mark-robinson-group"
+  ]
+ },
+ {
+  "slug": "martin-guillemet",
+  "name": "Martin Guillemet",
+  "jobTitle": "SIB Member",
+  "image": "",
+  "groups": [
+   "sonja-lehtinen-group"
+  ]
+ },
+ {
+  "slug": "martin-pacesa",
+  "name": "Martin Pacesa",
+  "jobTitle": "Group Leader",
+  "image": "https://www.sib.swiss/fp/img/people/pacesam.jpg",
+  "groups": [
+   "martin-pacesa-group"
+  ]
+ },
+ {
+  "slug": "martin-quintas",
+  "name": "Martin Quintas",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/quintasm.jpg",
+  "groups": [
+   "zoltan-kutalik-group"
+  ]
+ },
+ {
+  "slug": "martin-sperfeld",
+  "name": "Martin Sperfeld",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/sperfelm.jpg",
+  "groups": [
+   "shinichi-sunagawa-group"
+  ]
+ },
+ {
+  "slug": "martina-baumann",
+  "name": "Martina Baumann",
+  "jobTitle": "SIB Member",
+  "image": "",
+  "groups": [
+   "gunnar-ratsch-group"
+  ]
+ },
+ {
+  "slug": "martina-troiani",
+  "name": "Martina Troiani",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/troianim.jpg",
+  "groups": [
+   "luciano-cascione-group"
+  ]
+ },
+ {
+  "slug": "marusa-koderman",
+  "name": "Marusa Koderman",
+  "jobTitle": "SIB Member",
+  "image": "",
+  "groups": [
+   "mark-robinson-group"
+  ]
+ },
+ {
+  "slug": "marvin-wyss",
+  "name": "Marvin Wyss",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/wyssm.jpg",
+  "groups": [
+   "dagmar-iber-group"
+  ]
+ },
+ {
+  "slug": "masaomi-hatakeyama",
+  "name": "Masaomi Hatakeyama",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/hatakeym.jpg",
+  "groups": [
+   "hubert-rehrauer-group"
+  ]
+ },
+ {
+  "slug": "massimo-andreatta",
+  "name": "Massimo Andreatta",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/andreatm.jpg",
+  "groups": [
+   "santiago-carmona-group"
+  ]
+ },
+ {
+  "slug": "mataman",
+  "name": "Meric Ataman",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/atamanm.jpg",
+  "groups": [
+   "mihaela-zavolan-group"
+  ]
+ },
+ {
+  "slug": "mate-balajti",
+  "name": "Mate Balajti",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/balajtim.jpg",
+  "groups": [
+   "mihaela-zavolan-group"
+  ]
+ },
+ {
+  "slug": "matei-teleman",
+  "name": "Matei Teleman",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/telemanm.jpg",
+  "groups": [
+   "david-gfeller-group"
+  ]
+ },
+ {
+  "slug": "mathilde-foglierini",
+  "name": "Mathilde Foglierini Perez",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/foglierm.jpg",
+  "groups": [
+   "raphael-gottardo-group"
+  ]
+ },
+ {
+  "slug": "matija-trickovic",
+  "name": "Matija Trickovic",
+  "jobTitle": "Software developer",
+  "image": "https://www.sib.swiss/fp/img/people/trickovm.jpg",
+  "groups": [
+   "evgeny-zdobnov-evgenia-kriventseva-group"
+  ]
+ },
+ {
+  "slug": "matin-salehi",
+  "name": "Matin Salehi",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/salehim.jpg",
+  "groups": [
+   "luciano-cascione-group"
+  ]
+ },
+ {
+  "slug": "matteo-dal-peraro",
+  "name": "Matteo Dal Peraro",
+  "jobTitle": "Group Leader",
+  "image": "https://www.sib.swiss/fp/img/people/dalperam.jpg",
+  "groups": [
+   "matteo-dal-peraro-group"
+  ]
+ },
+ {
+  "slug": "mattes-mrzik",
+  "name": "Mattes Mrzik",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/mrzikm.jpg",
+  "groups": [
+   "maria-anisimova-group"
+  ]
+ },
+ {
+  "slug": "matthew-baker",
+  "name": "Matthew Baker",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/bakerm.jpg",
+  "groups": [
+   "bernd-rinn-group"
+  ]
+ },
+ {
+  "slug": "matthew-berkeley",
+  "name": "Matthew Berkeley",
+  "jobTitle": "Software Developer",
+  "image": "https://www.sib.swiss/fp/img/people/berkelem.jpg",
+  "groups": [
+   "evgeny-zdobnov-evgenia-kriventseva-group"
+  ]
+ },
+ {
+  "slug": "matthias-klimek",
+  "name": "Matthias Klimek",
+  "jobTitle": "SIB Member",
+  "image": "",
+  "groups": [
+   "andreas-ziegler-group"
+  ]
+ },
+ {
+  "slug": "matthias-lienhard",
+  "name": "Matthias Lienhard",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/lienharm.jpg",
+  "groups": [
+   "daniel-stekhoven-group"
   ]
  },
  {
@@ -595,12 +5364,229 @@
   ]
  },
  {
+  "slug": "max-verbiest",
+  "name": "Max Verbiest",
+  "jobTitle": "Software developer",
+  "image": "https://www.sib.swiss/fp/img/people/verbiesm.jpg",
+  "groups": [
+   "emma-hodcroft-group"
+  ]
+ },
+ {
   "slug": "maya-zimmermann",
   "name": "Maya Zimmermann",
   "jobTitle": "SIB Member",
   "image": "",
   "groups": [
    "personalized-health-informatics"
+  ]
+ },
+ {
+  "slug": "melina-giagiozis",
+  "name": "Melina Giagiozis",
+  "jobTitle": "SIB Member",
+  "image": "",
+  "groups": [
+   "catherine-jutzeler-group"
+  ]
+ },
+ {
+  "slug": "melinda-mischler",
+  "name": "Melinda Mischler",
+  "jobTitle": "SIB Member",
+  "image": "",
+  "groups": [
+   "sven-bergmann-group"
+  ]
+ },
+ {
+  "slug": "melissa-ensmenger",
+  "name": "Melissa Ensmenger",
+  "jobTitle": "SIB Member",
+  "image": "",
+  "groups": [
+   "marianna-rapsomaniki-group"
+  ]
+ },
+ {
+  "slug": "menghan-wang",
+  "name": "Menghan Wang",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/ewangm.jpg",
+  "groups": [
+   "robert-ivanek-group"
+  ]
+ },
+ {
+  "slug": "michael-baudis",
+  "name": "Michael Baudis",
+  "jobTitle": "Group Leader",
+  "image": "https://www.sib.swiss/fp/img/people/baudism.jpg",
+  "groups": [
+   "michael-baudis-group"
+  ]
+ },
+ {
+  "slug": "michael-beyeler",
+  "name": "Michael Beyeler",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/beyelerm.jpg",
+  "groups": [
+   "sven-bergmann-group"
+  ]
+ },
+ {
+  "slug": "michael-jopiti",
+  "name": "Michael Jopiti",
+  "jobTitle": "SIB Member",
+  "image": "",
+  "groups": [
+   "raphaelle-luisier-group"
+  ]
+ },
+ {
+  "slug": "michael-prummer",
+  "name": "Michael Prummer",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/prummerm.jpg",
+  "groups": [
+   "daniel-stekhoven-group"
+  ]
+ },
+ {
+  "slug": "michael-schneider",
+  "name": "Michael Schneider",
+  "jobTitle": "SIB Member",
+  "image": "",
+  "groups": [
+   "niko-beerenwinkel-group"
+  ]
+ },
+ {
+  "slug": "michael-stadler",
+  "name": "Michael Stadler",
+  "jobTitle": "Group Leader",
+  "image": "https://www.sib.swiss/fp/img/people/stadlerm.jpg",
+  "groups": [
+   "michael-stadler-group"
+  ]
+ },
+ {
+  "slug": "michaela-schwaiger",
+  "name": "Michaela Schwaiger",
+  "jobTitle": "SIB Member",
+  "image": "",
+  "groups": [
+   "michael-stadler-group"
+  ]
+ },
+ {
+  "slug": "michal-okoniewski",
+  "name": "Michal Okoniewski",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/okoniewm.jpg",
+  "groups": [
+   "bernd-rinn-group"
+  ]
+ },
+ {
+  "slug": "michel-cuendet",
+  "name": "Michel Cuendet",
+  "jobTitle": "Senior Research Scientist",
+  "image": "https://www.sib.swiss/fp/img/people/cuendetm.jpg",
+  "groups": [
+   "olivier-michielin-vincent-zoete-group"
+  ]
+ },
+ {
+  "slug": "michel-milinkovitch",
+  "name": "Michel Milinkovitch",
+  "jobTitle": "Group Leader",
+  "image": "https://www.sib.swiss/fp/img/people/milinkom.jpg",
+  "groups": [
+   "michel-milinkovitch-group"
+  ]
+ },
+ {
+  "slug": "michela-dallangelo",
+  "name": "Michela DallAngelo",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/dallangm.jpg",
+  "groups": [
+   "christophe-dessimoz-natasha-glover-group"
+  ]
+ },
+ {
+  "slug": "michele-knol",
+  "name": "Michele Knol",
+  "jobTitle": "SIB Member",
+  "image": "",
+  "groups": [
+   "olivier-michielin-vincent-zoete-group"
+  ]
+ },
+ {
+  "slug": "michelle-ncho",
+  "name": "Michelle N'Cho",
+  "jobTitle": "SIB Member",
+  "image": "",
+  "groups": [
+   "anna-sapfo-malaspinas-group",
+   "giovanni-ciriello-group"
+  ]
+ },
+ {
+  "slug": "mihaela-zavolan",
+  "name": "Mihaela Zavolan",
+  "jobTitle": "Group Leader",
+  "image": "https://www.sib.swiss/fp/img/people/zavolanm.jpg",
+  "groups": [
+   "mihaela-zavolan-group"
+  ]
+ },
+ {
+  "slug": "mihaeladiana-zanoaga",
+  "name": "Mihaela-Diana Zanoaga",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/zanoagam.jpg",
+  "groups": [
+   "zoltan-kutalik-group"
+  ]
+ },
+ {
+  "slug": "mikhail-pachkov",
+  "name": "Mikhail Pachkov",
+  "jobTitle": "Bioinformatician",
+  "image": "https://www.sib.swiss/fp/img/people/pachkovm.jpg",
+  "groups": [
+   "erik-van-nimwegen-group"
+  ]
+ },
+ {
+  "slug": "miklovana-tuci",
+  "name": "Miklovana Tuci",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/tucim.jpg",
+  "groups": [
+   "catherine-jutzeler-group"
+  ]
+ },
+ {
+  "slug": "miljan-petrovic",
+  "name": "Miljan Petrovic",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/petrovim.jpg",
+  "groups": [
+   "giovanni-ciriello-group"
+  ]
+ },
+ {
+  "slug": "miranda-carlsson",
+  "name": "Miranda Carlsson",
+  "jobTitle": "SIB Member",
+  "image": "",
+  "groups": [
+   "janna-hastings-group"
   ]
  },
  {
@@ -613,12 +5599,57 @@
   ]
  },
  {
+  "slug": "mohammad-hossein-pakdel",
+  "name": "Mohammad Hossein Pakdel",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/pakdelm.jpg",
+  "groups": [
+   "maria-anisimova-group"
+  ]
+ },
+ {
   "slug": "monica-pozzato",
   "name": "Monica Pozzato",
   "jobTitle": "Database Administrator",
   "image": "",
   "groups": [
    "swiss-prot"
+  ]
+ },
+ {
+  "slug": "monique-zahn",
+  "name": "Monique Zahn",
+  "jobTitle": "Biodata Resources Support Manager & Training Manager",
+  "image": "",
+  "groups": [
+   "training-group"
+  ]
+ },
+ {
+  "slug": "morgane-fournier",
+  "name": "Morgane Fournier",
+  "jobTitle": "Bioinformatician",
+  "image": "https://www.sib.swiss/fp/img/people/fourniem.jpg",
+  "groups": [
+   "nadine-fournier-group"
+  ]
+ },
+ {
+  "slug": "mose-manni",
+  "name": "Mosé Manni",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/mannim.jpg",
+  "groups": [
+   "evgeny-zdobnov-evgenia-kriventseva-group"
+  ]
+ },
+ {
+  "slug": "moya-lieffering",
+  "name": "Moya Lieffering",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/liefferm.jpg",
+  "groups": [
+   "claudia-bank-group"
   ]
  },
  {
@@ -631,12 +5662,48 @@
   ]
  },
  {
+  "slug": "nadia-neuner-jehle",
+  "name": "Nadia Neuner-Jehle",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/neunern.jpg",
+  "groups": [
+   "emma-hodcroft-group"
+  ]
+ },
+ {
   "slug": "nadine-gruaz",
   "name": "Nadine Gruaz-Gumowski",
   "jobTitle": "Biocurator",
   "image": "https://www.sib.swiss/fp/img/people/gruazn.jpg",
   "groups": [
    "swiss-prot"
+  ]
+ },
+ {
+  "slug": "nadine-iberl",
+  "name": "Nadine Iberl",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/iberln.jpg",
+  "groups": [
+   "microbial-evolution-richard-neher-group"
+  ]
+ },
+ {
+  "slug": "nadine-zangger",
+  "name": "Nadine Fournier",
+  "jobTitle": "Group Leader",
+  "image": "https://www.sib.swiss/fp/img/people/zanggern.jpg",
+  "groups": [
+   "nadine-fournier-group"
+  ]
+ },
+ {
+  "slug": "natasha-glover",
+  "name": "Natasha Glover",
+  "jobTitle": "Associate Director, Computational Evolutionary Biology and Genomics",
+  "image": "https://www.sib.swiss/fp/img/people/glovern.jpg",
+  "groups": [
+   "christophe-dessimoz-natasha-glover-group"
   ]
  },
  {
@@ -649,12 +5716,93 @@
   ]
  },
  {
+  "slug": "nchicher",
+  "name": "Natalia Chicherova",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/chichern.jpg",
+  "groups": [
+   "daniel-stekhoven-group"
+  ]
+ },
+ {
+  "slug": "neala-rohner",
+  "name": "Neala Rohner",
+  "jobTitle": "SIB Member",
+  "image": "",
+  "groups": [
+   "daniel-stekhoven-group"
+  ]
+ },
+ {
+  "slug": "neda-davoudi",
+  "name": "Neda Davoudi",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/davoudin.jpg",
+  "groups": [
+   "gunnar-ratsch-group"
+  ]
+ },
+ {
   "slug": "nevila-nouspikel",
   "name": "Nevila Nouspikel",
   "jobTitle": "Biocurator",
   "image": "https://www.sib.swiss/fp/img/people/nouspikn.jpg",
   "groups": [
    "swiss-prot"
+  ]
+ },
+ {
+  "slug": "nicholas-toda",
+  "name": "Nicholas Toda",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/todan.jpg",
+  "groups": [
+   "andreas-ziegler-group"
+  ]
+ },
+ {
+  "slug": "nico-giger",
+  "name": "Nico Giger",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/gigern.jpg",
+  "groups": [
+   "mark-robinson-group"
+  ]
+ },
+ {
+  "slug": "nico-neureiter",
+  "name": "Nico Neureiter",
+  "jobTitle": "Software Developer",
+  "image": "https://www.sib.swiss/fp/img/people/neureitn.jpg",
+  "groups": [
+   "tanja-stadler-group"
+  ]
+ },
+ {
+  "slug": "nicola-mulberry",
+  "name": "Nicola Mulberry",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/mulberrn.jpg",
+  "groups": [
+   "tanja-stadler-group"
+  ]
+ },
+ {
+  "slug": "nicola-piasentin",
+  "name": "Nicola Piasentin",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/piasentn.jpg",
+  "groups": [
+   "francesco-gervasio-group"
+  ]
+ },
+ {
+  "slug": "nicolas-goss",
+  "name": "Nicolas Goss",
+  "jobTitle": "SIB Member",
+  "image": "",
+  "groups": [
+   "zoltan-kutalik-group"
   ]
  },
  {
@@ -667,12 +5815,156 @@
   ]
  },
  {
+  "slug": "nikhil-mahtani",
+  "name": "Nikhil Mahtani",
+  "jobTitle": "Bioinformatician",
+  "image": "https://www.sib.swiss/fp/img/people/mahtanin.jpg",
+  "groups": [
+   "nadine-fournier-group"
+  ]
+ },
+ {
+  "slug": "niko-beerenwinkel",
+  "name": "Niko Beerenwinkel",
+  "jobTitle": "Group Leader",
+  "image": "https://www.sib.swiss/fp/img/people/beerenwn.jpg",
+  "groups": [
+   "niko-beerenwinkel-group"
+  ]
+ },
+ {
+  "slug": "nikolai-romashchenko",
+  "name": "Nikolai Romashchenko",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/romashcn.jpg",
+  "groups": [
+   "christophe-dessimoz-natasha-glover-group"
+  ]
+ },
+ {
+  "slug": "nikolaos-doumpas",
+  "name": "Nikolaos Doumpas",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/doumpasn.jpg",
+  "groups": [
+   "dagmar-iber-group"
+  ]
+ },
+ {
+  "slug": "nina-liuta",
+  "name": "Nina Liuta",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/liutan.jpg",
+  "groups": [
+   "helena-seth-tim-roloff-group"
+  ]
+ },
+ {
+  "slug": "nitish-mittal",
+  "name": "Nitish Mittal",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/mittaln.jpg",
+  "groups": [
+   "mihaela-zavolan-group"
+  ]
+ },
+ {
+  "slug": "noah-kleinschmidt",
+  "name": "Noah Kleinschmidt",
+  "jobTitle": "SIB Member",
+  "image": "",
+  "groups": [
+   "thomas-lemmin-group"
+  ]
+ },
+ {
+  "slug": "noemie-lefrancq",
+  "name": "Noemie Lefrancq",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/lefrancn.jpg",
+  "groups": [
+   "tanja-stadler-group"
+  ]
+ },
+ {
+  "slug": "norio-zimmermann",
+  "name": "Norio Zimmermann",
+  "jobTitle": "SIB Member",
+  "image": "",
+  "groups": [
+   "niko-beerenwinkel-group"
+  ]
+ },
+ {
+  "slug": "nosihle-msomi",
+  "name": "Nosihle Msomi",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/msomin.jpg",
+  "groups": [
+   "emma-hodcroft-group"
+  ]
+ },
+ {
+  "slug": "oceane-follonier",
+  "name": "Océane Follonier",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/follonio.jpg",
+  "groups": [
+   "torsten-schwede-group"
+  ]
+ },
+ {
+  "slug": "olesia-kondrateva",
+  "name": "Olesia Kondrateva",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/kondrat1o.jpg",
+  "groups": [
+   "maria-anisimova-group"
+  ]
+ },
+ {
+  "slug": "olga-mineeva",
+  "name": "Olga Mineeva",
+  "jobTitle": "SIB Member",
+  "image": "",
+  "groups": [
+   "daniel-stekhoven-group"
+  ]
+ },
+ {
+  "slug": "olga-trofimova",
+  "name": "Olga Trofimova",
+  "jobTitle": "SIB Member",
+  "image": "",
+  "groups": [
+   "sven-bergmann-group"
+  ]
+ },
+ {
   "slug": "olivier-martin",
   "name": "Olivier Martin",
   "jobTitle": "Software Developer",
   "image": "https://www.sib.swiss/fp/img/people/martino.jpg",
   "groups": [
    "vital-it"
+  ]
+ },
+ {
+  "slug": "olivier-michielin",
+  "name": "Olivier Michielin",
+  "jobTitle": "Group Leader",
+  "image": "https://www.sib.swiss/fp/img/people/michielo.jpg",
+  "groups": [
+   "olivier-michielin-vincent-zoete-group"
+  ]
+ },
+ {
+  "slug": "orane-guillaumegentil",
+  "name": "Orane Guillaume-Gentil",
+  "jobTitle": "SIB Member",
+  "image": "",
+  "groups": [
+   "bart-deplancke-group"
   ]
  },
  {
@@ -685,12 +5977,39 @@
   ]
  },
  {
+  "slug": "oscarwilliam-lithgowserrano",
+  "name": "Oscar William Lithgow Serrano",
+  "jobTitle": "SIB Member",
+  "image": "",
+  "groups": [
+   "fabio-rinaldi-group"
+  ]
+ },
+ {
   "slug": "owen-appleton",
   "name": "Owen Appleton",
   "jobTitle": "Senior IT Services Manager",
   "image": "",
   "groups": [
    "personalized-health-informatics"
+  ]
+ },
+ {
+  "slug": "pablo-escobar",
+  "name": "Pablo Escobar López",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/escobarp.jpg",
+  "groups": [
+   "scicore-richard-neher-group"
+  ]
+ },
+ {
+  "slug": "panagiotis-papasaikas",
+  "name": "Panagiotis Papasaikas",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/papasaip.jpg",
+  "groups": [
+   "michael-stadler-group"
   ]
  },
  {
@@ -703,12 +6022,48 @@
   ]
  },
  {
+  "slug": "paola-malsot",
+  "name": "Paola Malsot",
+  "jobTitle": "SIB Member",
+  "image": "",
+  "groups": [
+   "gunnar-ratsch-group"
+  ]
+ },
+ {
+  "slug": "paolo-angelino",
+  "name": "Paolo Angelino",
+  "jobTitle": "Senior Bioinformatician",
+  "image": "https://www.sib.swiss/fp/img/people/angelinp.jpg",
+  "groups": [
+   "nadine-fournier-group"
+  ]
+ },
+ {
+  "slug": "parisa-aghagolzadeh",
+  "name": "Parisa Aghagolzadeh",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/aghagolp.jpg",
+  "groups": [
+   "robert-ivanek-group"
+  ]
+ },
+ {
   "slug": "parit-bansal",
   "name": "Parit Bansal",
   "jobTitle": "Senior Software Developer",
   "image": "",
   "groups": [
    "swiss-prot"
+  ]
+ },
+ {
+  "slug": "pascal-schlaepfer",
+  "name": "Pascal Schläpfer",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/schlaepp.jpg",
+  "groups": [
+   "robert-ivanek-group"
   ]
  },
  {
@@ -721,12 +6076,39 @@
   ]
  },
  {
+  "slug": "pascalpeter-ender",
+  "name": "Pascal Peter Ender",
+  "jobTitle": "SIB Member",
+  "image": "",
+  "groups": [
+   "erik-van-nimwegen-group"
+  ]
+ },
+ {
   "slug": "patricia-fernandezpinilla",
   "name": "Patricia Fernandez Pinilla",
   "jobTitle": "Technical Coordinator",
   "image": "https://www.sib.swiss/fp/img/people/fernandp.jpg",
   "groups": [
    "personalized-health-informatics"
+  ]
+ },
+ {
+  "slug": "patricia-kilchhofer",
+  "name": "Patricia Kilchhofer",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/kilchhop.jpg",
+  "groups": [
+   "gunnar-ratsch-group"
+  ]
+ },
+ {
+  "slug": "patricia-palagi",
+  "name": "Patricia Palagi",
+  "jobTitle": "Director, Training",
+  "image": "https://www.sib.swiss/fp/img/people/palagip.jpg",
+  "groups": [
+   "training-group"
   ]
  },
  {
@@ -739,12 +6121,165 @@
   ]
  },
  {
+  "slug": "patrick-pedrioli",
+  "name": "Patrick Pedrioli",
+  "jobTitle": "Group Leader",
+  "image": "https://www.sib.swiss/fp/img/people/pedriolp.jpg",
+  "groups": [
+   "patrick-pedrioli-bernd-wollscheid-group"
+  ]
+ },
+ {
+  "slug": "patrick-ruch",
+  "name": "Patrick Ruch",
+  "jobTitle": "Group Leader",
+  "image": "https://www.sib.swiss/fp/img/people/ruchp.jpg",
+  "groups": [
+   "patrick-ruch-group"
+  ]
+ },
+ {
+  "slug": "patrick-turko",
+  "name": "Patrick Turko",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/turkop.jpg",
+  "groups": [
+   "daniel-stekhoven-group"
+  ]
+ },
+ {
+  "slug": "patrick-westermann",
+  "name": "Patrick Westermann",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/westermp.jpg",
+  "groups": [
+   "christoph-messner-group"
+  ]
+ },
+ {
+  "slug": "paul-gueguen",
+  "name": "Paul Gueguen",
+  "jobTitle": "SIB Member",
+  "image": "",
+  "groups": [
+   "hubert-rehrauer-group"
+  ]
+ },
+ {
+  "slug": "paul-ochs",
+  "name": "Paul Ochs",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/aulochsp.jpg",
+  "groups": [
+   "jorg-stelling-group"
+  ]
+ },
+ {
   "slug": "paul-thomas",
   "name": "Paul Thomas",
   "jobTitle": "Co-Director, Swiss-Prot",
   "image": "https://www.sib.swiss/fp/img/people/thomasp.jpg",
   "groups": [
    "swiss-prot"
+  ]
+ },
+ {
+  "slug": "paul-van-rijen",
+  "name": "Paul van Rijen",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/vanrijep.jpg",
+  "groups": [
+   "patrick-ruch-group"
+  ]
+ },
+ {
+  "slug": "paula-thielpizarro",
+  "name": "Paula Thiel Pizarro",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/thielpip.jpg",
+  "groups": [
+   "andreas-wagner-group"
+  ]
+ },
+ {
+  "slug": "pauline-rogg",
+  "name": "Pauline Rogg",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/roggp.jpg",
+  "groups": [
+   "anna-sapfo-malaspinas-group"
+  ]
+ },
+ {
+  "slug": "pavel-kos",
+  "name": "Pavel Kos",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/avelkosp.jpg",
+  "groups": [
+   "judith-zaugg-group"
+  ]
+ },
+ {
+  "slug": "pedro-beltrao",
+  "name": "Pedro Beltrao",
+  "jobTitle": "Group Leader",
+  "image": "https://www.sib.swiss/fp/img/people/beltraop.jpg",
+  "groups": [
+   "pedro-beltrao-group"
+  ]
+ },
+ {
+  "slug": "pedro-febrermartinez",
+  "name": "Pedro Febrer Martinez",
+  "jobTitle": "SIB Member",
+  "image": "",
+  "groups": [
+   "francesco-gervasio-group"
+  ]
+ },
+ {
+  "slug": "peiying-cai",
+  "name": "Peiying Cai",
+  "jobTitle": "SIB Member",
+  "image": "",
+  "groups": [
+   "mark-robinson-group"
+  ]
+ },
+ {
+  "slug": "pelin-burcak-icer-baykal",
+  "name": "Pelin Burcak Icer Baykal",
+  "jobTitle": "Software developer",
+  "image": "https://www.sib.swiss/fp/img/people/icerbayp.jpg",
+  "groups": [
+   "niko-beerenwinkel-group"
+  ]
+ },
+ {
+  "slug": "peter-leary",
+  "name": "Peter Leary",
+  "jobTitle": "SIB Member",
+  "image": "",
+  "groups": [
+   "hubert-rehrauer-group"
+  ]
+ },
+ {
+  "slug": "peter-ruethemann",
+  "name": "Peter Ruethemann",
+  "jobTitle": "SIB Member",
+  "image": "",
+  "groups": [
+   "markus-lill-group"
+  ]
+ },
+ {
+  "slug": "peter-skrinjar",
+  "name": "Peter Skrinjar",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/skrinjap.jpg",
+  "groups": [
+   "torsten-schwede-group"
   ]
  },
  {
@@ -757,12 +6292,120 @@
   ]
  },
  {
+  "slug": "philipp-gessner",
+  "name": "Philipp Gessner",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/gessnerp.jpg",
+  "groups": [
+   "christoph-messner-group"
+  ]
+ },
+ {
   "slug": "philippe-le-mercier",
   "name": "Philippe Le Mercier",
   "jobTitle": "Resource Manager",
   "image": "https://www.sib.swiss/fp/img/people/lemercip.jpg",
   "groups": [
    "swiss-prot"
+  ]
+ },
+ {
+  "slug": "pierre-andre-michel",
+  "name": "Pierre-André Michel",
+  "jobTitle": "Head of Software Development, CALIPHO",
+  "image": "https://www.sib.swiss/fp/img/people/michelp.jpg",
+  "groups": [
+   "patrick-ruch-group"
+  ]
+ },
+ {
+  "slug": "pierre-berthier",
+  "name": "Pierre Berthier",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/berthiep.jpg",
+  "groups": [
+   "remy-bruggmann-group"
+  ]
+ },
+ {
+  "slug": "pierremarie-allard",
+  "name": "Pierre-Marie Allard",
+  "jobTitle": "Group Leader",
+  "image": "https://www.sib.swiss/fp/img/people/allardp.jpg",
+  "groups": [
+   "pierre-marie-allard-group"
+  ]
+ },
+ {
+  "slug": "pietro-miotti",
+  "name": "Pietro Miotti",
+  "jobTitle": "SIB Member",
+  "image": "",
+  "groups": [
+   "igor-pivkin-group"
+  ]
+ },
+ {
+  "slug": "pietro-sartori",
+  "name": "Pietro Sartori",
+  "jobTitle": "SIB Member",
+  "image": "",
+  "groups": [
+   "andreas-ziegler-group"
+  ]
+ },
+ {
+  "slug": "piotr-kupczyk",
+  "name": "Piotr Kupczyk",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/kupczykp.jpg",
+  "groups": [
+   "bernd-rinn-group"
+  ]
+ },
+ {
+  "slug": "priya-rani",
+  "name": "Priya Rani",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/ranip.jpg",
+  "groups": [
+   "mihaela-zavolan-group"
+  ]
+ },
+ {
+  "slug": "qingyao-huang",
+  "name": "Qingyao Huang",
+  "jobTitle": "Bioinformatician",
+  "image": "https://www.sib.swiss/fp/img/people/huangq.jpg",
+  "groups": [
+   "christian-von-mering-group"
+  ]
+ },
+ {
+  "slug": "qiuxia-zhou",
+  "name": "Qiuxia ZHOU",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/zhouq.jpg",
+  "groups": [
+   "bart-deplancke-group"
+  ]
+ },
+ {
+  "slug": "quinnalexander-coxon",
+  "name": "Quinn Alexander Coxon",
+  "jobTitle": "SIB Member",
+  "image": "",
+  "groups": [
+   "remy-bruggmann-group"
+  ]
+ },
+ {
+  "slug": "rachel-jeitziner",
+  "name": "Rachel Jeitziner Marcone",
+  "jobTitle": "Bioinformatician",
+  "image": "https://www.sib.swiss/fp/img/people/jeitzinr.jpg",
+  "groups": [
+   "nadine-fournier-group"
   ]
  },
  {
@@ -775,12 +6418,132 @@
   ]
  },
  {
+  "slug": "rana-tabashiri",
+  "name": "Rana Tabashiri",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/tabashir.jpg",
+  "groups": [
+   "maria-anisimova-group"
+  ]
+ },
+ {
+  "slug": "ranran-tao",
+  "name": "Ranran Tao",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/taor.jpg",
+  "groups": [
+   "santiago-carmona-group"
+  ]
+ },
+ {
+  "slug": "raphael-betschart",
+  "name": "Raphael Betschart",
+  "jobTitle": "SIB Member",
+  "image": "",
+  "groups": [
+   "andreas-ziegler-group"
+  ]
+ },
+ {
+  "slug": "raphael-feser",
+  "name": "Raphael Feser",
+  "jobTitle": "SIB Member",
+  "image": "",
+  "groups": [
+   "francesco-gervasio-group"
+  ]
+ },
+ {
+  "slug": "raphael-gottardo",
+  "name": "Raphael Gottardo",
+  "jobTitle": "Group Leader",
+  "image": "",
+  "groups": [
+   "raphael-gottardo-group"
+  ]
+ },
+ {
   "slug": "regan-geissmann",
   "name": "Regan Geissmann",
   "jobTitle": "Administrative assistant",
   "image": "",
   "groups": [
    "personalized-health-informatics"
+  ]
+ },
+ {
+  "slug": "remy-bruggmann",
+  "name": "Rémy Bruggmann",
+  "jobTitle": "Group Leader",
+  "image": "https://www.sib.swiss/fp/img/people/bruggmar.jpg",
+  "groups": [
+   "remy-bruggmann-group"
+  ]
+ },
+ {
+  "slug": "renata-magallonterrazas",
+  "name": "Renata Magallon Terrazas",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/magallor.jpg",
+  "groups": [
+   "judith-zaugg-group"
+  ]
+ },
+ {
+  "slug": "reto-gerber",
+  "name": "Reto Gerber",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/gerberr.jpg",
+  "groups": [
+   "michael-stadler-group"
+  ]
+ },
+ {
+  "slug": "richard-neher",
+  "name": "Richard Neher",
+  "jobTitle": "Group Leader",
+  "image": "https://www.sib.swiss/fp/img/people/neherr.jpg",
+  "groups": [
+   "microbial-evolution-richard-neher-group",
+   "scicore-richard-neher-group"
+  ]
+ },
+ {
+  "slug": "rita-ruppen",
+  "name": "Rita Ruppen",
+  "jobTitle": "SIB Member",
+  "image": "",
+  "groups": [
+   "erik-van-nimwegen-group",
+   "mihaela-zavolan-group",
+   "torsten-schwede-group"
+  ]
+ },
+ {
+  "slug": "ritaann-roessner",
+  "name": "Rita Ann Roessner",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/roessner.jpg",
+  "groups": [
+   "david-gfeller-group"
+  ]
+ },
+ {
+  "slug": "rluisier",
+  "name": "Raphaëlle Luisier",
+  "jobTitle": "Group Leader",
+  "image": "https://www.sib.swiss/fp/img/people/luisierr.jpg",
+  "groups": [
+   "raphaelle-luisier-group"
+  ]
+ },
+ {
+  "slug": "robert-ivanek",
+  "name": "Robert Ivanek",
+  "jobTitle": "Group Leader",
+  "image": "https://www.sib.swiss/fp/img/people/ivanekr.jpg",
+  "groups": [
+   "robert-ivanek-group"
   ]
  },
  {
@@ -793,12 +6556,30 @@
   ]
  },
  {
+  "slug": "roberto-colotti",
+  "name": "Roberto Colotti",
+  "jobTitle": "SIB Member",
+  "image": "",
+  "groups": [
+   "raphael-gottardo-group"
+  ]
+ },
+ {
   "slug": "robin-engler",
   "name": "Robin Engler",
   "jobTitle": "Senior Computational Biologist",
   "image": "https://www.sib.swiss/fp/img/people/englerr.jpg",
   "groups": [
    "vital-it"
+  ]
+ },
+ {
+  "slug": "robin-hofmeister",
+  "name": "Robin Hofmeister",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/hofmeisr.jpg",
+  "groups": [
+   "zoltan-kutalik-group"
   ]
  },
  {
@@ -811,12 +6592,75 @@
   ]
  },
  {
+  "slug": "rodrigo-cerqueiragonzalezpena",
+  "name": "Rodrigo Cerqueira Gonzalez Pena",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/cerqueir.jpg",
+  "groups": [
+   "scicore-richard-neher-group"
+  ]
+ },
+ {
+  "slug": "rok-breznikar",
+  "name": "Rok Breznikar",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/breznikr.jpg",
+  "groups": [
+   "torsten-schwede-group"
+  ]
+ },
+ {
+  "slug": "roman-aschwanden",
+  "name": "Roman Aschwanden",
+  "jobTitle": "SIB Member",
+  "image": "",
+  "groups": [
+   "markus-lill-group"
+  ]
+ },
+ {
   "slug": "roman-mylonas",
   "name": "Roman Mylonas",
   "jobTitle": "SIB Member",
   "image": "https://www.sib.swiss/fp/img/people/mylonasr.jpg",
   "groups": [
    "vital-it"
+  ]
+ },
+ {
+  "slug": "roman-vetter",
+  "name": "Roman Vetter",
+  "jobTitle": "SIB Member",
+  "image": "",
+  "groups": [
+   "dagmar-iber-group"
+  ]
+ },
+ {
+  "slug": "rose-evard",
+  "name": "Rose Evard",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/evardr.jpg",
+  "groups": [
+   "alan-pacheco-group"
+  ]
+ },
+ {
+  "slug": "ruben-cabezon",
+  "name": "Ruben Martin Cabezon Gomez",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/cabezonr.jpg",
+  "groups": [
+   "scicore-richard-neher-group"
+  ]
+ },
+ {
+  "slug": "ruchuta-ardkhean",
+  "name": "Ruchuta Ardkhean",
+  "jobTitle": "SIB Member",
+  "image": "",
+  "groups": [
+   "dagmar-iber-group"
   ]
  },
  {
@@ -829,6 +6673,24 @@
   ]
  },
  {
+  "slug": "russ-jasper",
+  "name": "Russ Jasper",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/jasperr.jpg",
+  "groups": [
+   "claudia-bank-group"
+  ]
+ },
+ {
+  "slug": "saadia-ismail",
+  "name": "Saadia Ismail",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/ismails.jpg",
+  "groups": [
+   "scicore-richard-neher-group"
+  ]
+ },
+ {
   "slug": "sabine-oesterle",
   "name": "Sabine Österle",
   "jobTitle": "Lead, Semantic Interoperability Strategy and FAIR Data Team",
@@ -838,12 +6700,76 @@
   ]
  },
  {
+  "slug": "sacha-bors",
+  "name": "Sacha Bors",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/borss.jpg",
+  "groups": [
+   "sven-bergmann-group"
+  ]
+ },
+ {
+  "slug": "salome-lochmann",
+  "name": "Salome Lochmann",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/lochmans.jpg",
+  "groups": [
+   "emma-hodcroft-group"
+  ]
+ },
+ {
   "slug": "salvo-paesano",
   "name": "Salvo Giacomo Paesano",
   "jobTitle": "Team Lead, System Administration",
   "image": "",
   "groups": [
+   "frederique-lisacek-group",
    "swiss-prot"
+  ]
+ },
+ {
+  "slug": "samantha-smith",
+  "name": "Samantha Smith",
+  "jobTitle": "SIB Member",
+  "image": "",
+  "groups": [
+   "marc-robinson-rechavi-frederic-bastian-group"
+  ]
+ },
+ {
+  "slug": "samuel-gunz",
+  "name": "Samuel Gunz",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/gunzs.jpg",
+  "groups": [
+   "mark-robinson-group"
+  ]
+ },
+ {
+  "slug": "samuel-huerlemann",
+  "name": "Samuel Huerlemann",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/huerlems.jpg",
+  "groups": [
+   "daniel-stekhoven-group"
+  ]
+ },
+ {
+  "slug": "samuel-miravetverde",
+  "name": "Samuel Miravet-Verde",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/miravets.jpg",
+  "groups": [
+   "shinichi-sunagawa-group"
+  ]
+ },
+ {
+  "slug": "samuel-moix",
+  "name": "Samuel Moix",
+  "jobTitle": "SIB Member",
+  "image": "",
+  "groups": [
+   "zoltan-kutalik-group"
   ]
  },
  {
@@ -852,7 +6778,35 @@
   "jobTitle": "Senior Computational Biologist",
   "image": "https://www.sib.swiss/fp/img/people/neuenscs.jpg",
   "groups": [
+   "anna-sapfo-malaspinas-group",
    "vital-it"
+  ]
+ },
+ {
+  "slug": "sandra-goetze",
+  "name": "Sandra Goetze",
+  "jobTitle": "SIB Member",
+  "image": "",
+  "groups": [
+   "patrick-pedrioli-bernd-wollscheid-group"
+  ]
+ },
+ {
+  "slug": "sandra-mitrovic",
+  "name": "Sandra Mitrovic",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/mitrovis.jpg",
+  "groups": [
+   "laura-azzimonti-group"
+  ]
+ },
+ {
+  "slug": "sandra-valero",
+  "name": "Sandra Valero",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/valeros.jpg",
+  "groups": [
+   "alan-pacheco-group"
   ]
  },
  {
@@ -862,6 +6816,107 @@
   "image": "https://www.sib.swiss/fp/img/people/pilbouts.jpg",
   "groups": [
    "swiss-prot"
+  ]
+ },
+ {
+  "slug": "santiago-carmona",
+  "name": "Santiago Carmona",
+  "jobTitle": "Group Leader",
+  "image": "https://www.sib.swiss/fp/img/people/carmonas.jpg",
+  "groups": [
+   "santiago-carmona-group"
+  ]
+ },
+ {
+  "slug": "sara-carsanaro",
+  "name": "Sara Carsanaro",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/carsanas.jpg",
+  "groups": [
+   "marc-robinson-rechavi-frederic-bastian-group"
+  ]
+ },
+ {
+  "slug": "sara-gerber",
+  "name": "Sara Gerber",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/gerbers.jpg",
+  "groups": [
+   "daniel-stekhoven-group"
+  ]
+ },
+ {
+  "slug": "sara-kraettli",
+  "name": "Sara Kraettli",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/kraettls.jpg",
+  "groups": [
+   "remy-bruggmann-group"
+  ]
+ },
+ {
+  "slug": "sara-michel",
+  "name": "Sara Michel",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/michels.jpg",
+  "groups": [
+   "luciano-cascione-group"
+  ]
+ },
+ {
+  "slug": "sara-ometto",
+  "name": "Sara Ometto",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/omettos.jpg",
+  "groups": [
+   "raphael-gottardo-group"
+  ]
+ },
+ {
+  "slug": "sarah-guethe",
+  "name": "Sarah Guethe",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/guethes.jpg",
+  "groups": [
+   "erik-van-nimwegen-group",
+   "mihaela-zavolan-group",
+   "torsten-schwede-group"
+  ]
+ },
+ {
+  "slug": "sarah-martinson",
+  "name": "Sarah Martinson",
+  "jobTitle": "SIB Member",
+  "image": "",
+  "groups": [
+   "niko-beerenwinkel-group"
+  ]
+ },
+ {
+  "slug": "sarah-morilloleandro",
+  "name": "Sarah Morillo Leandro",
+  "jobTitle": "SIB Member",
+  "image": "",
+  "groups": [
+   "erik-van-nimwegen-group"
+  ]
+ },
+ {
+  "slug": "saumik-sen",
+  "name": "Saumik Sen",
+  "jobTitle": "SIB Member",
+  "image": "",
+  "groups": [
+   "xavier-deupi-group"
+  ]
+ },
+ {
+  "slug": "sebastian-sosacarrillo",
+  "name": "Sebastian Sosa Carrillo",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/sosacars.jpg",
+  "groups": [
+   "jorg-stelling-group"
   ]
  },
  {
@@ -879,7 +6934,35 @@
   "jobTitle": "Senior Software Developer and System Administrator",
   "image": "https://www.sib.swiss/fp/img/people/morettis.jpg",
   "groups": [
+   "marc-robinson-rechavi-frederic-bastian-group",
    "vital-it"
+  ]
+ },
+ {
+  "slug": "senbai-kang",
+  "name": "Senbai Kang",
+  "jobTitle": "SIB Member",
+  "image": "",
+  "groups": [
+   "raphael-gottardo-group"
+  ]
+ },
+ {
+  "slug": "seorim-park",
+  "name": "Seorim Park",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/parks.jpg",
+  "groups": [
+   "evgeny-zdobnov-evgenia-kriventseva-group"
+  ]
+ },
+ {
+  "slug": "sergi-beneyto-calabuig",
+  "name": "Sergi Beneyto Calabuig",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/beneytos.jpg",
+  "groups": [
+   "raphael-gottardo-group"
   ]
  },
  {
@@ -889,6 +6972,51 @@
   "image": "",
   "groups": [
    "personalized-health-informatics"
+  ]
+ },
+ {
+  "slug": "severin-olloz",
+  "name": "Severin Olloz",
+  "jobTitle": "SIB Member",
+  "image": "",
+  "groups": [
+   "daniel-stekhoven-group"
+  ]
+ },
+ {
+  "slug": "shabnam-ataee",
+  "name": "Shabnam Ataee",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/ataees.jpg",
+  "groups": [
+   "carlos-pena-reyes-group"
+  ]
+ },
+ {
+  "slug": "shakiba-fadaei",
+  "name": "Shakiba Fadaei",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/fadaeis.jpg",
+  "groups": [
+   "vincent-zoete-group"
+  ]
+ },
+ {
+  "slug": "shaoqing-chen",
+  "name": "Shaoqing Chen",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/chens.jpg",
+  "groups": [
+   "niko-beerenwinkel-group"
+  ]
+ },
+ {
+  "slug": "shinichi-sunagawa",
+  "name": "Shinichi Sunagawa",
+  "jobTitle": "Group Leader",
+  "image": "https://www.sib.swiss/fp/img/people/sunagaws.jpg",
+  "groups": [
+   "shinichi-sunagawa-group"
   ]
  },
  {
@@ -910,12 +7038,120 @@
   ]
  },
  {
+  "slug": "silvia-prietobanos",
+  "name": "Silvia Prieto Banos",
+  "jobTitle": "SIB Member",
+  "image": "",
+  "groups": [
+   "christophe-dessimoz-natasha-glover-group"
+  ]
+ },
+ {
+  "slug": "simon-boutry",
+  "name": "Simon Boutry",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/boutrys.jpg",
+  "groups": [
+   "jacques-fellay-group"
+  ]
+ },
+ {
+  "slug": "simon-tang",
+  "name": "Simon Tang",
+  "jobTitle": "SIB Member",
+  "image": "",
+  "groups": [
+   "jacques-fellay-group"
+  ]
+ },
+ {
+  "slug": "simone-aureli",
+  "name": "Simone Aureli",
+  "jobTitle": "SIB Member",
+  "image": "",
+  "groups": [
+   "francesco-gervasio-group"
+  ]
+ },
+ {
   "slug": "simone-guzzi",
   "name": "Simone Guzzi",
   "jobTitle": "Software Developer",
   "image": "",
   "groups": [
    "personalized-health-informatics"
+  ]
+ },
+ {
+  "slug": "simone-nicastri",
+  "name": "Simone Nicastri",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/nicastrs.jpg",
+  "groups": [
+   "luciano-cascione-group"
+  ]
+ },
+ {
+  "slug": "sina-majidian",
+  "name": "Sina Majidian",
+  "jobTitle": "SIB Member",
+  "image": "",
+  "groups": [
+   "christophe-dessimoz-natasha-glover-group"
+  ]
+ },
+ {
+  "slug": "sofia-georgakopoulou",
+  "name": "Sofia Georgakopoulou",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/georgaks.jpg",
+  "groups": [
+   "scicore-richard-neher-group"
+  ]
+ },
+ {
+  "slug": "sofia-ortinvela",
+  "name": "Sofia Ortin Vela",
+  "jobTitle": "SIB Member",
+  "image": "",
+  "groups": [
+   "sven-bergmann-group"
+  ]
+ },
+ {
+  "slug": "sonali-andani",
+  "name": "Sonali Andani",
+  "jobTitle": "SIB Member",
+  "image": "",
+  "groups": [
+   "gunnar-ratsch-group"
+  ]
+ },
+ {
+  "slug": "sonia-cruciani",
+  "name": "Sonia Cruciani",
+  "jobTitle": "SIB Member",
+  "image": "",
+  "groups": [
+   "bart-deplancke-group"
+  ]
+ },
+ {
+  "slug": "sonia-strangio",
+  "name": "Sonia Strangio",
+  "jobTitle": "SIB Member",
+  "image": "",
+  "groups": [
+   "daniel-stekhoven-group"
+  ]
+ },
+ {
+  "slug": "sonja-lehtinen",
+  "name": "Sonja Lehtinen",
+  "jobTitle": "Group Leader",
+  "image": "https://www.sib.swiss/fp/img/people/lehtines.jpg",
+  "groups": [
+   "sonja-lehtinen-group"
   ]
  },
  {
@@ -928,12 +7164,201 @@
   ]
  },
  {
+  "slug": "soraya-rey",
+  "name": "Soraya Rey",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/reys.jpg",
+  "groups": [
+   "marija-buljan-group"
+  ]
+ },
+ {
+  "slug": "spencer-bliven",
+  "name": "Spencer Bliven",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/blivens.jpg",
+  "groups": [
+   "xavier-deupi-group"
+  ]
+ },
+ {
+  "slug": "stefan-bienert",
+  "name": "Stefan Bienert",
+  "jobTitle": "Senior Software developer",
+  "image": "https://www.sib.swiss/fp/img/people/bienerts.jpg",
+  "groups": [
+   "torsten-schwede-group"
+  ]
+ },
+ {
+  "slug": "stefan-daniel",
+  "name": "Stefan Daniel",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/daniels.jpg",
+  "groups": [
+   "remy-bruggmann-group"
+  ]
+ },
+ {
+  "slug": "stefanie-holz",
+  "name": "Stefanie Holz",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/holzs.jpg",
+  "groups": [
+   "daniel-stekhoven-group"
+  ]
+ },
+ {
+  "slug": "stefano-pascarelli",
+  "name": "Stefano Pascarelli",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/pascares.jpg",
+  "groups": [
+   "christophe-dessimoz-natasha-glover-group"
+  ]
+ },
+ {
+  "slug": "stephan-peischl",
+  "name": "Stephan Peischl",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/peischls.jpg",
+  "groups": [
+   "remy-bruggmann-group"
+  ]
+ },
+ {
+  "slug": "stephanie-huber",
+  "name": "Stephanie Huber",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/hubers.jpg",
+  "groups": [
+   "daniel-stekhoven-group"
+  ]
+ },
+ {
+  "slug": "sudharshan-ravi",
+  "name": "Sudharshan Ravi",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/ravis.jpg",
+  "groups": [
+   "alan-pacheco-group"
+  ]
+ },
+ {
+  "slug": "suman-das",
+  "name": "Suman Das",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/umandass.jpg",
+  "groups": [
+   "claudia-bank-group"
+  ]
+ },
+ {
+  "slug": "sven-bergmann",
+  "name": "Sven Bergmann",
+  "jobTitle": "Group Leader",
+  "image": "https://www.sib.swiss/fp/img/people/bergmans.jpg",
+  "groups": [
+   "sven-bergmann-group"
+  ]
+ },
+ {
   "slug": "sylvain-poux",
   "name": "Sylvain Poux",
   "jobTitle": "Lead Biocurator, Quality Assurance",
   "image": "https://www.sib.swiss/fp/img/people/pouxs.jpg",
   "groups": [
    "swiss-prot"
+  ]
+ },
+ {
+  "slug": "symela-lazaridi",
+  "name": "Symela Lazaridi",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/lazarids.jpg",
+  "groups": [
+   "thomas-lemmin-group"
+  ]
+ },
+ {
+  "slug": "szabolcs-zakany",
+  "name": "Szabolcs Zakany",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/zakanys.jpg",
+  "groups": [
+   "michel-milinkovitch-group"
+  ]
+ },
+ {
+  "slug": "tabea-schoeler",
+  "name": "Tabea Schoeler",
+  "jobTitle": "SIB Member",
+  "image": "",
+  "groups": [
+   "zoltan-kutalik-group"
+  ]
+ },
+ {
+  "slug": "taehan-lim",
+  "name": "Taehan Lim",
+  "jobTitle": "SIB Member",
+  "image": "",
+  "groups": [
+   "olivier-michielin-vincent-zoete-group"
+  ]
+ },
+ {
+  "slug": "tamara-bojanic",
+  "name": "Tamara Bojanic",
+  "jobTitle": "SIB Member",
+  "image": "",
+  "groups": [
+   "erik-van-nimwegen-group"
+  ]
+ },
+ {
+  "slug": "tania-wyss",
+  "name": "Tania Wyss Lozano Hoyos",
+  "jobTitle": "Bioinformatician",
+  "image": "https://www.sib.swiss/fp/img/people/wysst.jpg",
+  "groups": [
+   "nadine-fournier-group"
+  ]
+ },
+ {
+  "slug": "tanja-stadler",
+  "name": "Tanja Stadler",
+  "jobTitle": "Group Leader",
+  "image": "https://www.sib.swiss/fp/img/people/stadlert.jpg",
+  "groups": [
+   "tanja-stadler-group"
+  ]
+ },
+ {
+  "slug": "tanmay-tanna",
+  "name": "Tanmay Tanna",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/tannat.jpg",
+  "groups": [
+   "gunnar-ratsch-group"
+  ]
+ },
+ {
+  "slug": "tanuj-kafle",
+  "name": "Tane Kafle",
+  "jobTitle": "Bioinformatician",
+  "image": "https://www.sib.swiss/fp/img/people/kaflet.jpg",
+  "groups": [
+   "nadine-fournier-group"
+  ]
+ },
+ {
+  "slug": "tao-fang",
+  "name": "Tao Fang",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/aofangt.jpg",
+  "groups": [
+   "christian-von-mering-group"
   ]
  },
  {
@@ -946,12 +7371,84 @@
   ]
  },
  {
+  "slug": "taylor-priest",
+  "name": "Taylor Priest",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/priestt.jpg",
+  "groups": [
+   "shinichi-sunagawa-group"
+  ]
+ },
+ {
   "slug": "teresa-neto",
   "name": "Teresa Manuela Batista Neto",
   "jobTitle": "Senior Software Developer",
   "image": "https://www.sib.swiss/fp/img/people/netot.jpg",
   "groups": [
    "swiss-prot"
+  ]
+ },
+ {
+  "slug": "tereza-kubatova",
+  "name": "Tereza Kubatova",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/kubatovt.jpg",
+  "groups": [
+   "torsten-schwede-group"
+  ]
+ },
+ {
+  "slug": "theo-maffei",
+  "name": "Theo Maffei",
+  "jobTitle": "SIB Member",
+  "image": "",
+  "groups": [
+   "marianna-rapsomaniki-group"
+  ]
+ },
+ {
+  "slug": "theo-nass",
+  "name": "Theo Nass",
+  "jobTitle": "SIB Member",
+  "image": "",
+  "groups": [
+   "bart-deplancke-group"
+  ]
+ },
+ {
+  "slug": "thibault-schowing",
+  "name": "Thibault Schowing",
+  "jobTitle": "SIB Member",
+  "image": "",
+  "groups": [
+   "carlos-pena-reyes-group"
+  ]
+ },
+ {
+  "slug": "thibault-vatter",
+  "name": "Thibault Vatter",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/vattert.jpg",
+  "groups": [
+   "patrick-ruch-group"
+  ]
+ },
+ {
+  "slug": "thierry-sengstag",
+  "name": "Thierry Sengstag",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/sengstat.jpg",
+  "groups": [
+   "scicore-richard-neher-group"
+  ]
+ },
+ {
+  "slug": "thomas-julou",
+  "name": "Thomas Julou",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/julout.jpg",
+  "groups": [
+   "erik-van-nimwegen-group"
   ]
  },
  {
@@ -964,6 +7461,51 @@
   ]
  },
  {
+  "slug": "thomas-lemmin",
+  "name": "Thomas Lemmin",
+  "jobTitle": "Group Leader",
+  "image": "https://www.sib.swiss/fp/img/people/lemmint.jpg",
+  "groups": [
+   "thomas-lemmin-group"
+  ]
+ },
+ {
+  "slug": "thomas-roder",
+  "name": "Thomas Roder",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/rodert.jpg",
+  "groups": [
+   "remy-bruggmann-group"
+  ]
+ },
+ {
+  "slug": "thomas-sutter",
+  "name": "Thomas Sutter",
+  "jobTitle": "SIB Member",
+  "image": "",
+  "groups": [
+   "julia-vogt-group"
+  ]
+ },
+ {
+  "slug": "thomas-wuest",
+  "name": "Thomas Wüst",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/wuestt.jpg",
+  "groups": [
+   "bernd-rinn-group"
+  ]
+ },
+ {
+  "slug": "thomas-zwahlen",
+  "name": "Thomas Zwahlen",
+  "jobTitle": "Bioinformatician",
+  "image": "https://www.sib.swiss/fp/img/people/zwahlent.jpg",
+  "groups": [
+   "nadine-fournier-group"
+  ]
+ },
+ {
   "slug": "thuong-tran",
   "name": "Thuong Van Du Tran",
   "jobTitle": "Senior Computational Biologist",
@@ -973,12 +7515,210 @@
   ]
  },
  {
+  "slug": "tiberiu-totu",
+  "name": "Tiberiu Totu",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/totut.jpg",
+  "groups": [
+   "christian-ahrens-group"
+  ]
+ },
+ {
+  "slug": "tim-christoph-roloff-handschin",
+  "name": "Tim-Christoph Roloff Handschin",
+  "jobTitle": "Group Leader",
+  "image": "https://www.sib.swiss/fp/img/people/rolofft.jpg",
+  "groups": [
+   "helena-seth-tim-roloff-group"
+  ]
+ },
+ {
+  "slug": "timothee-ferrari",
+  "name": "Timothée Ferrari",
+  "jobTitle": "SIB Member",
+  "image": "",
+  "groups": [
+   "bart-deplancke-group"
+  ]
+ },
+ {
+  "slug": "timothy-fuqua",
+  "name": "Timothy Fuqua",
+  "jobTitle": "SIB Member",
+  "image": "",
+  "groups": [
+   "claudia-bank-group"
+  ]
+ },
+ {
+  "slug": "timothy-m-frayling",
+  "name": "Timothy M Frayling",
+  "jobTitle": "Group Leader",
+  "image": "https://www.sib.swiss/fp/img/people/mfraylit.jpg",
+  "groups": [
+   "timothy-frayling-group"
+  ]
+ },
+ {
+  "slug": "timothy-vaughan",
+  "name": "Timothy Vaughan",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/vaughant.jpg",
+  "groups": [
+   "tanja-stadler-group"
+  ]
+ },
+ {
+  "slug": "tobia-ochsner",
+  "name": "Tobia Ochsner",
+  "jobTitle": "SIB Member",
+  "image": "",
+  "groups": [
+   "tanja-stadler-group"
+  ]
+ },
+ {
+  "slug": "tobias-dieselhorst",
+  "name": "Tobias Dieselhorst",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/dieselht.jpg",
+  "groups": [
+   "tanja-stadler-group"
+  ]
+ },
+ {
+  "slug": "tom-kitak",
+  "name": "Tom Kitak",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/omkitakt.jpg",
+  "groups": [
+   "mark-robinson-group"
+  ]
+ },
+ {
+  "slug": "torsten-schwede",
+  "name": "Torsten Schwede",
+  "jobTitle": "Group Leader",
+  "image": "https://www.sib.swiss/fp/img/people/schwedet.jpg",
+  "groups": [
+   "torsten-schwede-group"
+  ]
+ },
+ {
+  "slug": "tristan-cumer",
+  "name": "Tristan Cumer",
+  "jobTitle": "SIB Member",
+  "image": "",
+  "groups": [
+   "jerome-goudet-group"
+  ]
+ },
+ {
+  "slug": "tugce-bilginsonay",
+  "name": "Tugce Bilgin Sonay",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/bilginst.jpg",
+  "groups": [
+   "maria-anisimova-group"
+  ]
+ },
+ {
+  "slug": "ugne-stolz",
+  "name": "Ugne Stolz",
+  "jobTitle": "Software developer",
+  "image": "https://www.sib.swiss/fp/img/people/stolzu.jpg",
+  "groups": [
+   "tanja-stadler-group"
+  ]
+ },
+ {
+  "slug": "ute-roehrig",
+  "name": "Ute Roehrig",
+  "jobTitle": "Senior Research Scientist",
+  "image": "https://www.sib.swiss/fp/img/people/roehrigu.jpg",
+  "groups": [
+   "olivier-michielin-vincent-zoete-group"
+  ]
+ },
+ {
+  "slug": "valentina-boeva",
+  "name": "Valentina Boeva",
+  "jobTitle": "Group Leader",
+  "image": "",
+  "groups": [
+   "valentina-boeva-group"
+  ]
+ },
+ {
+  "slug": "valentine-rech-de-laval",
+  "name": "Valentine Rech de Laval",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/rechdelv.jpg",
+  "groups": [
+   "marc-robinson-rechavi-frederic-bastian-group"
+  ]
+ },
+ {
+  "slug": "valentyn-bezshapkin",
+  "name": "Valentyn Bezshapkin",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/bezshapv.jpg",
+  "groups": [
+   "shinichi-sunagawa-group"
+  ]
+ },
+ {
+  "slug": "valeria-dicola",
+  "name": "Valeria Di Cola",
+  "jobTitle": "Training Manager",
+  "image": "https://www.sib.swiss/fp/img/people/dicolav.jpg",
+  "groups": [
+   "training-group"
+  ]
+ },
+ {
   "slug": "valerie-barbie",
   "name": "Valérie Barbié",
   "jobTitle": "Director, Clinical Bioinformatics",
   "image": "https://www.sib.swiss/fp/img/people/barbiev.jpg",
   "groups": [
    "clinical-bioinformatics"
+  ]
+ },
+ {
+  "slug": "valeriia-timonina",
+  "name": "Valeriia Timonina",
+  "jobTitle": "SIB Member",
+  "image": "",
+  "groups": [
+   "jacques-fellay-group"
+  ]
+ },
+ {
+  "slug": "valerio-rizzi",
+  "name": "Valerio Rizzi",
+  "jobTitle": "SIB Member",
+  "image": "",
+  "groups": [
+   "francesco-gervasio-group"
+  ]
+ },
+ {
+  "slug": "vani-kanjirangat",
+  "name": "Vani Kanjirangat",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/kanjirav.jpg",
+  "groups": [
+   "fabio-rinaldi-group"
+  ]
+ },
+ {
+  "slug": "vanni-benvenga",
+  "name": "Vanni Benvenga",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/benvengv.jpg",
+  "groups": [
+   "helena-seth-tim-roloff-group"
   ]
  },
  {
@@ -1000,6 +7740,24 @@
   ]
  },
  {
+  "slug": "verena-rukes",
+  "name": "Verena Rukes",
+  "jobTitle": "SIB Member",
+  "image": "",
+  "groups": [
+   "matteo-dal-peraro-group"
+  ]
+ },
+ {
+  "slug": "victor-garcia",
+  "name": "Victor Garcia",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/garciav.jpg",
+  "groups": [
+   "maria-anisimova-group"
+  ]
+ },
+ {
   "slug": "vincent-emonet",
   "name": "Vincent Emonet",
   "jobTitle": "Data Scientist, Knowledge Representation Unit",
@@ -1009,12 +7767,338 @@
   ]
  },
  {
+  "slug": "vincent-gardeux",
+  "name": "Vincent Gardeux",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/gardeuxv.jpg",
+  "groups": [
+   "bart-deplancke-group"
+  ]
+ },
+ {
+  "slug": "vincent-jung",
+  "name": "Vincent Jung",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/jungv.jpg",
+  "groups": [
+   "raphaelle-luisier-group"
+  ]
+ },
+ {
+  "slug": "vincent-roh",
+  "name": "Vincent Roh",
+  "jobTitle": "Bioinformatician",
+  "image": "https://www.sib.swiss/fp/img/people/irohv.jpg",
+  "groups": [
+   "nadine-fournier-group"
+  ]
+ },
+ {
+  "slug": "vincent-zoete",
+  "name": "Vincent Zoete",
+  "jobTitle": "Group Leader",
+  "image": "https://www.sib.swiss/fp/img/people/zoetev.jpg",
+  "groups": [
+   "olivier-michielin-vincent-zoete-group",
+   "vincent-zoete-group"
+  ]
+ },
+ {
+  "slug": "virginie-uhlmann",
+  "name": "Virginie Uhlmann",
+  "jobTitle": "Group Leader",
+  "image": "https://www.sib.swiss/fp/img/people/uhlmannv.jpg",
+  "groups": [
+   "virginie-uhlmann-group"
+  ]
+ },
+ {
+  "slug": "vittoria-ossanna",
+  "name": "Vittoria Ossanna",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/ossannav.jpg",
+  "groups": [
+   "catherine-jutzeler-group"
+  ]
+ },
+ {
+  "slug": "vivian-link",
+  "name": "Vivian Link",
+  "jobTitle": "SIB Member",
+  "image": "",
+  "groups": [
+   "andreas-ziegler-group"
+  ]
+ },
+ {
+  "slug": "vivien-pichon",
+  "name": "Vivien Pichon",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/pichonv.jpg",
+  "groups": [
+   "laurent-falquet-group"
+  ]
+ },
+ {
   "slug": "vivienne-gerritsen",
   "name": "Vivienne Gerritsen",
   "jobTitle": "Senior Scientific Writer",
   "image": "https://www.sib.swiss/fp/img/people/gerritsv.jpg",
   "groups": [
    "swiss-prot"
+  ]
+ },
+ {
+  "slug": "vladyslav-korobeynyk",
+  "name": "Vladyslav Korobeynyk",
+  "jobTitle": "SIB Member",
+  "image": "",
+  "groups": [
+   "mark-robinson-group"
+  ]
+ },
+ {
+  "slug": "wandrille-duchemin",
+  "name": "Wandrille Duchemin",
+  "jobTitle": "Bioinformatics Trainer & Computational Biologist",
+  "image": "https://www.sib.swiss/fp/img/people/duchemiw.jpg",
+  "groups": [
+   "scicore-richard-neher-group",
+   "training-group"
+  ]
+ },
+ {
+  "slug": "wangjie-liu",
+  "name": "Wangjie Liu",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/liuw.jpg",
+  "groups": [
+   "bart-deplancke-group"
+  ]
+ },
+ {
+  "slug": "wei-liu",
+  "name": "Wei Liu",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/eiliuw.jpg",
+  "groups": [
+   "evgeny-zdobnov-evgenia-kriventseva-group"
+  ]
+ },
+ {
+  "slug": "wei-wei",
+  "name": "Wei Wei",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/eiweiw.jpg",
+  "groups": [
+   "torsten-schwede-group"
+  ]
+ },
+ {
+  "slug": "weihong-qi",
+  "name": "Weihong Qi",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/qiw.jpg",
+  "groups": [
+   "hubert-rehrauer-group"
+  ]
+ },
+ {
+  "slug": "witold-wolski",
+  "name": "Witold Wolski",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/wolskiw.jpg",
+  "groups": [
+   "christian-panse-group"
+  ]
+ },
+ {
+  "slug": "worawich-phornsiricharoenphant",
+  "name": "Worawich Phornsiricharoenphant",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/phornsiw.jpg",
+  "groups": [
+   "michael-baudis-group"
+  ]
+ },
+ {
+  "slug": "xabier-vergara",
+  "name": "Xabier Vergara",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/vergarax.jpg",
+  "groups": [
+   "bart-deplancke-group"
+  ]
+ },
+ {
+  "slug": "xavier-brochet",
+  "name": "Xavier Brochet",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/brochetx.jpg",
+  "groups": [
+   "carlos-pena-reyes-group"
+  ]
+ },
+ {
+  "slug": "xavier-deupi",
+  "name": "Xavier Deupi",
+  "jobTitle": "Group Leader",
+  "image": "",
+  "groups": [
+   "xavier-deupi-group"
+  ]
+ },
+ {
+  "slug": "xavier-robin",
+  "name": "Xavier Robin",
+  "jobTitle": "Senior Software Developer",
+  "image": "https://www.sib.swiss/fp/img/people/robinx.jpg",
+  "groups": [
+   "torsten-schwede-group"
+  ]
+ },
+ {
+  "slug": "xenia-wietlisbach",
+  "name": "Xenia Wietlisbach",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/wietlisx.jpg",
+  "groups": [
+   "daniel-wegmann-group"
+  ]
+ },
+ {
+  "slug": "xiaorou-guo",
+  "name": "Xiaorou Guo",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/guox.jpg",
+  "groups": [
+   "mark-robinson-group"
+  ]
+ },
+ {
+  "slug": "xindong-sun",
+  "name": "Xindong Sun",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/sunx.jpg",
+  "groups": [
+   "christoph-messner-group"
+  ]
+ },
+ {
+  "slug": "xue-he",
+  "name": "Xue He",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/uehex.jpg",
+  "groups": [
+   "patrick-ruch-group"
+  ]
+ },
+ {
+  "slug": "yalda-yaghooti",
+  "name": "Yalda Yaghooti",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/yaghooty.jpg",
+  "groups": [
+   "santiago-carmona-group"
+  ]
+ },
+ {
+  "slug": "yan-liu",
+  "name": "Yan Liu",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/anliuy.jpg",
+  "groups": [
+   "david-gfeller-group"
+  ]
+ },
+ {
+  "slug": "yannis-nevers",
+  "name": "Yannis Nevers",
+  "jobTitle": "SIB Member",
+  "image": "",
+  "groups": [
+   "christophe-dessimoz-natasha-glover-group"
+  ]
+ },
+ {
+  "slug": "yavuzhan-cakir",
+  "name": "Yavuzhan Cakir",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/cakiry.jpg",
+  "groups": [
+   "abdullah-kahraman-group"
+  ]
+ },
+ {
+  "slug": "yiqiao-sun",
+  "name": "Yiqiao Sun",
+  "jobTitle": "SIB Member",
+  "image": "",
+  "groups": [
+   "andreas-wagner-group"
+  ]
+ },
+ {
+  "slug": "yixing-dong",
+  "name": "Yixing Dong",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/dongy.jpg",
+  "groups": [
+   "raphael-gottardo-group"
+  ]
+ },
+ {
+  "slug": "youngbin-moon",
+  "name": "Youngbin Moon",
+  "jobTitle": "SIB Member",
+  "image": "",
+  "groups": [
+   "mihaela-zavolan-group"
+  ]
+ },
+ {
+  "slug": "yueheng-zhang",
+  "name": "Yueheng Zhang",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/uzhangy.jpg",
+  "groups": [
+   "niko-beerenwinkel-group"
+  ]
+ },
+ {
+  "slug": "yuqiu-zhou",
+  "name": "Yuqiu Zhou",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/zhouy.jpg",
+  "groups": [
+   "timothy-frayling-group"
+  ]
+ },
+ {
+  "slug": "zachary-bailey",
+  "name": "Zachary Bailey",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/baileyz.jpg",
+  "groups": [
+   "claudia-bank-group"
+  ]
+ },
+ {
+  "slug": "zoltan-kutalik",
+  "name": "Zoltán Kutalik",
+  "jobTitle": "Group Leader",
+  "image": "https://www.sib.swiss/fp/img/people/kutalikz.jpg",
+  "groups": [
+   "zoltan-kutalik-group"
+  ]
+ },
+ {
+  "slug": "zuzanna-blocka",
+  "name": "Zuzanna Blocka",
+  "jobTitle": "SIB Member",
+  "image": "https://www.sib.swiss/fp/img/people/blockaz.jpg",
+  "groups": [
+   "shinichi-sunagawa-group"
   ]
  }
 ]

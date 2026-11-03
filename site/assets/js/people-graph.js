@@ -34,7 +34,8 @@
     counts[n.type] = (counts[n.type] || 0) + 1;
   });
 
-  var hiddenTypes = {};
+  // Papers are hidden at first, since there are many of them and they crowd the view.
+  var hiddenTypes = { paper: true };
   var focusId = null;
   var query = '';
   var simulation = null;
@@ -76,7 +77,7 @@
       var label = el('label', 'people-graph-filter ' + type);
       var box = el('input');
       box.type = 'checkbox';
-      box.checked = true;
+      box.checked = !hiddenTypes[type];
       box.addEventListener('change', function () {
         hiddenTypes[type] = !box.checked;
         draw();

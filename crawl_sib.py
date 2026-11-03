@@ -148,9 +148,23 @@ def crawl_groups(fetcher):
     return groups
 
 
+def directory_slug(fetcher, group_slug):
+    """Return the slug of the group's directory page.
+
+    Partner groups have a directory page under a different slug from their group
+    page, and the group page links to it. Under the group's own slug the directory
+    page is an empty people search.
+    """
+    page = fetcher.get(f"{BASE}/{group_slug}")
+    if page is None:
+        return group_slug
+    hrefs = lxml_html.fromstring(page).xpath('//a[contains(@href,"/directory/group/")]/@href')
+    return hrefs[0].rstrip("/").rsplit("/", 1)[-1] if hrefs else group_slug
+
+
 def group_member_slugs(fetcher, group_slug):
     """Return (leader slugs, member slugs) from the group directory page."""
-    page = fetcher.get(f"{BASE}/directory/group/{group_slug}")
+    page = fetcher.get(f"{BASE}/directory/group/{directory_slug(fetcher, group_slug)}")
     if page is None:
         return [], []
     tree = lxml_html.fromstring(page)
