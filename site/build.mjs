@@ -1,4 +1,4 @@
-import { readFileSync, writeFileSync, mkdirSync, rmSync, cpSync } from 'node:fs';
+import { readFileSync, writeFileSync, mkdirSync, rmSync, cpSync, copyFileSync, existsSync } from 'node:fs';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 import esbuild from 'esbuild';
@@ -15,6 +15,10 @@ const CLIENT_BUNDLES = [
   ['src/graph-entry.js', 'assets/js/graph-bundle.js'],
   ['src/prism-entry.js', 'assets/js/prism-bundle.js'],
 ];
+
+const PHOTO_DIR = 'photos';
+const PHOTO_SOURCE = path.join(ROOT, 'data', 'photos');
+const SIB_LOGO = 'https://www.sib.swiss/themes/custom/sib/logo_emblem.svg';
 
 const SCHEMA = 'https://schema.org/';
 const RDF_TYPE = 'http://www.w3.org/1999/02/22-rdf-syntax-ns#type';
@@ -267,7 +271,7 @@ function graphBlock(graph) {
   );
 }
 
-function renderContent(turtle) {
+function renderContent(turtle, graph) {
   return [
     '<h1>SIB people and groups</h1>',
     '<p>This page holds a graph of SIB groups, the people in them, their papers and the courses they gave. ' +
@@ -277,13 +281,13 @@ function renderContent(turtle) {
       'Papers and courses are linked to people by name, so a few links may be wrong.</p>',
     '<h2>Data</h2>',
     fixtureBlock(turtle),
-    graphBlock(buildGraphData(turtle)),
+    graphBlock(graph),
     '<h2>Questions</h2>',
     ...EXAMPLES.map(exampleBlock),
   ].join('\n');
 }
 
-function renderPage(turtle) {
+function renderPage(turtle, graph) {
   const layout = readFileSync(path.join(__dirname, 'templates/layout.html'), 'utf8');
   const values = {
     TITLE: 'SIB people and groups',
@@ -291,18 +295,49 @@ function renderPage(turtle) {
     NAV: '',
     NOTEBOOK: '',
     TOC: '',
-    CONTENT: renderContent(turtle),
+    CONTENT: renderContent(turtle, graph),
   };
   return layout.replace(/\{\{(\w+)\}\}/g, (_, key) => values[key]);
 }
 
+// sib.swiss sends Cross-Origin-Resource-Policy: same-site on its photos, so the
+// page cannot show them directly from GitHub Pages. fetch_photos.py keeps a copy
+// of each one in data/photos/, and the build copies those into the site.
+function copyImages(graph) {
+  const photoOut = path.join(OUT, PHOTO_DIR);
+  mkdirSync(photoOut, { recursive: true });
+
+  const jobs = graph.nodes.filter((n) => n.image).map((node) => ({ node, url: node.image }));
+  const sib = graph.nodes.find((n) => n.type === 'sib');
+  if (sib) jobs.push({ node: sib, url: SIB_LOGO });
+
+  let copied = 0;
+  let missing = 0;
+  for (const { node, url } of jobs) {
+    const file = new URL(url).pathname.split('/').pop();
+    const source = path.join(PHOTO_SOURCE, file);
+    if (!existsSync(source)) {
+      console.warn(`no photo file for ${node.id}: run fetch_photos.py`);
+      delete node.image;
+      missing++;
+      continue;
+    }
+    copyFileSync(source, path.join(photoOut, file));
+    node.image = `${PHOTO_DIR}/${file}`;
+    copied++;
+  }
+  console.log(`images: ${copied} copied, ${missing} missing`);
+}
+
 function main() {
   const turtle = readFileSync(path.join(ROOT, 'data/sib.ttl'), 'utf8');
+  const graph = buildGraphData(turtle);
   rmSync(OUT, { recursive: true, force: true });
   mkdirSync(OUT, { recursive: true });
   buildClientBundles();
   copyStaticAssets();
-  writeFileSync(path.join(OUT, 'index.html'), renderPage(turtle));
+  copyImages(graph);
+  writeFileSync(path.join(OUT, 'index.html'), renderPage(turtle, graph));
 }
 
 main();

@@ -7,7 +7,6 @@
   if (!G || !root || !dataEl) return;
 
   var data = JSON.parse(dataEl.textContent);
-  var SIB_LOGO = 'https://www.sib.swiss/themes/custom/sib/logo_emblem.svg';
   var TYPE_ORDER = ['sib', 'institution', 'group', 'person', 'course', 'paper'];
   var TYPE_LABELS = {
     sib: 'SIB',
@@ -229,11 +228,11 @@
         g.append('circle').attr('class', 'base').attr('r', r);
       }
 
-      if (d.image || d.type === 'sib') {
+      if (d.image) {
         var clipId = 'people-graph-clip-' + i;
         defs.append('clipPath').attr('id', clipId).append('circle').attr('r', r);
         g.append('image')
-          .attr('href', d.type === 'sib' ? SIB_LOGO : d.image)
+          .attr('href', d.image)
           .attr('x', -r)
           .attr('y', -r)
           .attr('width', 2 * r)
