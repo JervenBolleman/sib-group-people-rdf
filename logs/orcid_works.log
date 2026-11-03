@@ -1,0 +1,605 @@
+ORCID works check, 2026-11-03
+people: 898, with an ORCID iD: 107
+
+Adrian Altenhoff (0000-0001-7492-1273) - verified
+  ORCID works: 44, sib.swiss papers: 13, shared: 10
+  SIB employment on record: yes
+  only on ORCID (34): OMA orthology in 2027: orthology, ancestral genomes and comparative genomics at scale [2026] 10.1093/nar/gkag1229; PhytClust: Efficient and Optimal Monophyletic Partitioning of Rooted Phylogenetic Trees [2025] 10.64898/2025.12.11.693738; EdgeHOG: fine-grained ancestral gene order inference at tree-of-life scale [2024] 10.1101/2024.08.28.610045; Orthology inference at scale with FastOMA [2024] 10.1101/2024.01.29.577392; DrosOMA: the Drosophila Orthologous Matrix browser [version 2; peer review: 4 approved] [2024] 10.12688/f1000research.135250.2 (+29 more)
+  only on sib.swiss (3): OMA orthology in 2021: website overhaul, conserved isoforms, ancestral gene order and more. [] 10.1093/nar/gkaa1007; New developments for the Quest for Orthologs benchmark service. [] 10.1093/nargab/lqae167; Annotation matters: the effect of structural gene annotation on orthology inference. [] 10.1093/bioinformatics/btaf365
+
+Alan James Bridge (0000-0003-2148-9135) - verified
+  ORCID works: 89, sib.swiss papers: 21, shared: 21
+  SIB employment on record: yes
+  only on ORCID (68): The UniProt website API: facilitating programmatic access to protein knowledge. [2025] 10.1093/nar/gkaf394; Perspectives on tracking data reuse across biodata resources. [2024] 10.1093/bioadv/vbae057; EnzChemRED, a rich enzyme chemistry relation extraction dataset [2024]; The SIB Swiss Institute of Bioinformatics Semantic Web of data [2024] 10.1093/nar/gkad902; MBDBMetrics: an online metrics tool to measure the impact of biological data resources. [2023] 10.1093/bioadv/vbad180 (+63 more)
+
+Andrea Auchincloss (0000-0002-5297-5390) - verified
+  ORCID works: 16, sib.swiss papers: 4, shared: 3
+  SIB employment on record: yes
+  only on ORCID (13): HAMAP rules as SPARQL A portable annotation pipeline for genomes and proteomes [2019] 10.1101/615294; Bacterial Virus Ontology; Coordinating across Databases. [2017] 10.3390/v9060126; HAMAP in 2015: updates to the protein family classification and annotation system. [2014] 10.1093/nar/gku1002; HAMAP in 2013, new developments in the protein family classification and annotation system. [2012] 10.1093/nar/gks1157; HAMAP: a database of completely sequenced microbial proteome sets and manually curated microbial protein families in UniProtKB/Swiss-Prot. [2008] 10.1093/nar/gkn661 (+8 more)
+  only on sib.swiss (1): UniRule: a unified rule resource for automatic annotation in the UniProt Knowledgebase. [] 10.1093/bioinformatics/btaa485
+
+Andrea Brites Marto (0009-0005-4104-256X) - unverified
+  ORCID works: 1, sib.swiss papers: 1, shared: 0
+  SIB employment on record: yes
+  only on ORCID (1): Efficient Querying of Federated Large-Scale Clinical RDF Knowledge Graphs in the Swiss Personalized Health Network [] 10.20944/preprints202512.1909.v1
+  only on sib.swiss (1): SPHN Connector - a scalable pipeline for generating validated knowledge graphs from federated and semantically enriched health data. [] 10.1186/s12911-026-03383-7
+
+Andrea Cavalli (0000-0003-4063-4502) - likely
+  ORCID works: 111, sib.swiss papers: 33, shared: 29
+  SIB employment on record: no
+  only on ORCID (82): Structure of ATTRv-F64S fibrils isolated from skin tissue of a living patient [2025] 10.1038/s41467-025-67457-2; Structure of ATTRv-F64S fibrils isolated from skin tissue of a living patient [2025] 10.1101/2025.07.29.667442; FYCO1 Peptide Analogs: Design and Characterization of Autophagy Inhibitors as Co-Adjuvants in Taxane Chemotherapy of Prostate Cancer [2025] 10.3390/ijms26115365; An integrated proteomic portrait of prostate cancer progression [2025] 10.1016/j.celrep.2025.115828; EXO1 promotes the meiotic MLH1-MLH3 endonuclease through conserved interactions with MLH1, MSH4 and DNA [2025] 10.1038/s41467-025-59470-2 (+77 more)
+  only on sib.swiss (4): Human neutralizing antibodies to cold linear epitopes and to subdomain 1 of SARS-CoV-2 [] 10.1101/2022.11.24.515932; A critical view on autoantibodies in lupus nephritis: Concrete knowledge based on evidence. [] 10.1016/j.autrev.2024.103535; Machine learning for precision diagnostics of autoimmunity. [] 10.1038/s41598-024-76093-7; ModelCIF Update: Supporting Emerging Classes of Computational Macromolecular Models. [] 10.1016/j.jmb.2026.169658
+
+Anne Niknejad (0000-0003-3308-6245) - verified
+  ORCID works: 32, sib.swiss papers: 8, shared: 4
+  SIB employment on record: yes
+  only on ORCID (28): ReconXKG: an open workspace for human metabolic network reconstruction [2026] 10.5281/zenodo.22769005; The Bgee suite: integrated curated expression atlas and comparative transcriptomics in animals [2020] 10.1101/2020.05.28.119560; Updates in Rhea - an expert curated resource of biochemical reactions. [2017] 10.1093/nar/gkw1299; Bgee database: creating knowledge from gene expression [2017] 10.7490/f1000research.1114845.1; Identification of a RAI1-associated disease network through integration of exome sequencing, transcriptomics, and 3D genomics. [2016] 10.1186/s13073-016-0359-z (+23 more)
+  only on sib.swiss (4): Contribution of exome sequencing to the identification of genes involved in the response to clopidogrel in cardiovascular patients. [] 10.1111/jth.14776; Eleven grand challenges in single-cell data science. [] 10.1186/s13059-020-1926-6; The Minimum Information about a Molecular Interaction Causal Statement (MI2CAST). [] 10.1093/bioinformatics/btaa622; Identification of biomarkers for glycaemic deterioration in type 2 diabetes. [] 10.1038/s41467-023-38148-7
+
+Arnaud Kerhornou (0000-0002-2890-295X) - verified
+  ORCID works: 33, sib.swiss papers: 1, shared: 1
+  SIB employment on record: yes
+  only on ORCID (32): UniProt: the Universal Protein Knowledgebase in 2023. [2023] 10.1093/nar/gkac1052; UniProt: the universal protein knowledgebase in 2021. [2021] 10.1093/nar/gkaa1100; UniProt: a worldwide hub of protein knowledge [2019] 10.1093/nar/gky1049; An improved assembly and annotation of the allohexaploid wheat genome identifies complete families of agronomic genes and provides genomic evidence for chromosomal translocations. [2017] 10.1101/gr.217117.116; UniProt: the universal protein knowledgebase. [2016] 10.1093/nar/gkw1099 (+27 more)
+
+Athina Gavriilidou (0000-0002-6805-3868) - likely
+  ORCID works: 15, sib.swiss papers: 4, shared: 3
+  SIB employment on record: no
+  only on ORCID (12): OMA orthology in 2027: orthology, ancestral genomes and comparative genomics at scale [2026] 10.1093/nar/gkag1229; Unveiling the substrate specificity of the ABC transporter Tba and its role in glycopeptide biosynthesis [2025] 10.1016/j.isci.2025.112135; PanBGC: a pangenome-inspired framework for comparative analysis of biosynthetic gene clusters [2025] 10.1093/ismeco/ycaf225; Animating insights into the biosynthesis of glycopeptide antibiotics [2024] 10.1016/j.mib.2024.102561; Evolutionary investigation of bacterial biosynthetic gene clusters at multiple scales [2024] 10.15496/publikation-95476 (+7 more)
+  only on sib.swiss (1): Exploring shikimate pathway enzyme diversity for engineering of glycopeptide antibiotic biosynthesis. [] 10.1016/j.ymben.2026.03.019
+
+Boris Schnider (0009-0008-6151-1214) - unverified
+  ORCID works: 1, sib.swiss papers: 4, shared: 0
+  SIB employment on record: yes
+  only on ORCID (1): PathoLec: A curated database of lectins from pathogenic agents and their host-glycan interactions [2026] 10.2139/ssrn.7549383
+  only on sib.swiss (4): BiotechLec: an interactive guide of commercial lectins for glycobiology and biomedical research applications. [] 10.1093/glycob/cwad034; HumanLectome, an update of UniLectin for the annotation and prediction of human lectins. [] 10.1093/nar/gkad905; Tools for structural lectinomics: From structures to lectomes. [] 10.1016/j.bbadva.2025.100154; Microbial Lectin-Targeting Mucus: A Glycobioinformatic Approach. [] 10.1007/978-1-0716-4627-4_11
+
+Catherine Rivoire (0000-0002-5979-8382) - verified
+  ORCID works: 39, sib.swiss papers: 7, shared: 7
+  SIB employment on record: yes
+  only on ORCID (32): UniProt: the Universal Protein Knowledgebase in 2025 [2025] 10.1093/nar/gkae1010; Annotation of biologically relevant ligands in UniProtKB using ChEBI. [2023] 10.1093/bioinformatics/btac793; UniProt: the Universal Protein Knowledgebase in 2023. [2023] 10.1093/nar/gkac1052; UniRule: a unified rule resource for automatic annotation in the UniProt Knowledgebase. [2021] 10.1093/bioinformatics/btaa663; The Gene Ontology resource: enriching a GOld mine. [2021] 10.1093/nar/gkaa1113 (+27 more)
+
+Charlotte Soneson (0000-0003-3833-2169) - verified
+  ORCID works: 96, sib.swiss papers: 33, shared: 16
+  SIB employment on record: yes
+  only on ORCID (80): The Journal of Open Source Software (JOSS): An open community and platform providing credit to software developers in the time of GenAI [2026] 10.14279/eceasst.v86.2818; Interactive exploration of benchmarking results with bettr [2026] 10.21105/joss.10333; Cleavage of MEP-1 by DPF-3 Reveals Novel Substrate Specificity and Its Impact on Reproductive Fitness [2025] 10.1101/2025.09.26.678732; An organoid model of the menstrual cycle reveals the role of the luminal epithelium in regeneration of the human endometrium [2025] 10.1101/2025.07.03.663000; ez-zarr: A Python package for easy access and visualisation of OME-Zarr filesets [2025] 10.21105/joss.07882 (+75 more)
+  only on sib.swiss (17): muscat detects subpopulation-specific state transitions from multi-sample multi-condition single-cell transcriptomics data. [] 10.1038/s41467-020-19894-4; Alignment and mapping methodology influence transcript abundance estimation. [] 10.1186/s13059-020-02151-8; MiR-CLIP reveals iso-miR selective regulation in the miR-124 targetome. [] 10.1093/nar/gkaa1117; treeclimbR pinpoints the data-dependent resolution of hierarchical hypotheses. [] 10.1186/s13059-021-02368-1; A unique bipartite Polycomb signature regulates stimulus-response transcription during development. [] 10.1038/s41588-021-00789-z (+12 more)
+
+Chiara Auwerx (0000-0003-3613-8450) - likely
+  ORCID works: 24, sib.swiss papers: 26, shared: 16
+  SIB employment on record: no
+  only on ORCID (8): Large language model classifies prior evidence in gene-phenotype associations [2026] 10.64898/2026.10.17.26365766; Rare variation illuminates the distinct and pleiotropic genetic architecture of autism across neuropsychiatric traits [2026] 10.64898/2026.08.24.26360398; Compounding of rare pathogenic copy-number variants and polygenic background is consistent with assortative mating [2025] 10.1101/2025.09.08.25335316; Mendelian randomization linking metabolites with enzymes reveals known and novel pathway regulation and therapeutic avenues [2025] 10.1101/2025.07.29.25332349; MR-link-2: pleiotropy robustcisMendelian randomization validated in four independent gold-standard datasets of causality [2024] 10.1101/2024.01.22.24301400 (+3 more)
+  only on sib.swiss (10): Composite trait Mendelian randomization reveals distinct metabolic and lifestyle consequences of differences in body shape. [] 10.1038/s42003-021-02550-y; Exploiting the mediating role of the metabolome to unravel transcript-to-phenotype associations [] 10.1101/2022.06.08.495285; Possible association of 16p11.2 copy number variation with altered lymphocyte and neutrophil counts. [] 10.1038/s41525-022-00308-x; Quantifying the role of transcript levels in mediating DNA methylation effects on complex traits and diseases. [] 10.1038/s41467-022-35196-3; The impact of 22q11.2 copy number variants on human traits in the general population [] 10.1101/2022.09.21.22280207 (+5 more)
+
+Chiara Bortoluzzi (0000-0001-6589-6635) - verified
+  ORCID works: 49, sib.swiss papers: 11, shared: 6
+  SIB employment on record: yes
+  only on ORCID (43): ERGA-BGE reference genome of Osmylus fulvicephalus, the giant stream lacewing, Europe's representative of the family Osmylidae [2026] 10.12688/openreseurope.23457.1; ERGA-BGE reference genome of the Eurasian Woodcock (Scolopax rusticola), a game bird species with isolated populations of conservation interest [2026] 10.12688/openreseurope.23370.1; ERGA-BGE reference genome of the forest-restricted Cretan subspecies of Hanak's bat (Pipistrellus hanaki creticus), an IUCN Vulnerable species [2026] 10.12688/openreseurope.20937.3; ERGA-BGE reference genome of Lewinskya acuminata, a common epiphytic Mediterranean moss with disjunct populations in California and Ethiopia [2026] 10.12688/openreseurope.21670.2; ERGA-BGE reference genome of Phorcus turbinatus - a water quality biomarker and species distributed along the Mediterranean coast [2026] 10.12688/openreseurope.23162.1 (+38 more)
+  only on sib.swiss (5): ERGA-BGE reference genome of Hanak's bat ( <i>Pipistrellus hanaki</i>), an IUCN Vulnerable species restricted to forest-like biotopes. [] 10.12688/openreseurope.20937.2; ERGA-BGE reference genome of the Eurasian Woodcock ( <i>Scolopax rusticola</i>), a game bird species with isolated populations of conservation interest. [] 10.12688/openreseurope.23370.2; ERGA-BGE reference genome of <i>Gambusia holbrooki</i>, a globally invasive freshwater fish. [] 10.12688/openreseurope.22693.2; ERGA-BGE reference genome of the Mediterranean monk seal ( <i>Monachus monachus</i>), an IUCN Vulnerable species. [] 10.12688/openreseurope.23936.1; ERGA-BGE chromosome-level genome assembly of the giant stream lacewing <i>Osmylus fulvicephalus</i> (Scopoli, 1763). [] 10.12688/openreseurope.23457.3
+
+Christian Sigrist (0000-0002-4348-0070) - verified
+  ORCID works: 39, sib.swiss papers: 7, shared: 4
+  SIB employment on record: yes
+  only on ORCID (35): FAIR adoption, assessment and challenges at UniProt. [2019] 10.1038/s41597-019-0180-9; InterPro in 2019: improving coverage, classification and access to protein sequence annotations. [2019] 10.1093/nar/gky1100; InterPro in 2017-beyond protein family and domain annotations. [2016] 10.1093/nar/gkw1107; The SIB Swiss Institute of Bioinformatics' resources: focus on curated databases. [2015] 10.1093/nar/gkv1310; The InterPro protein families database: the classification resource after 15 years. [2014] 10.1093/nar/gku1243 (+30 more)
+  only on sib.swiss (3): The InterPro protein families and domains database: 20 years on. [] 10.1093/nar/gkaa977; InterPro in 2022. [] 10.1093/nar/gkac993; InterPro: the protein sequence classification resource in 2025. [] 10.1093/nar/gkae1082
+
+Christoph Messner (0000-0001-7217-0867) - likely
+  ORCID works: 39, sib.swiss papers: 3, shared: 2
+  SIB employment on record: no
+  only on ORCID (37): Postbiotics and Nicotinamide Utilize Distinct Mechanisms to Improve Skin Barrier Integrity, Inflammation, and Keratinocyte Differentiation [2026] 10.1111/all.70225; Distinct Roles of IL‐4, IL‐13, and IL‐22 in Human Skin Barrier Dysfunction and Atopic Dermatitis [2026] 10.1111/all.70060; Performance Characteristics of Zeno Trap Scanning DIA for Sensitive and Quantitative Proteomics at High Throughput [2026] 10.1002/pmic.70093; Methylome-wide association studies and epigenetic biomarker development for 133 mass spectrometry-assessed circulating proteins in 14,671 Generation Scotland participants [2025] 10.1186/s13059-025-03892-0; Tuft cell IL-17RB restrains IL-25 bioavailability and reveals context-dependent ILC2 hypoproliferation [2025] 10.1038/s41590-025-02104-y (+32 more)
+  only on sib.swiss (1): Single Cell Gene Expression Analysis in a 3D Microtissue Liver Model Reveals Cell Type-Specific Responses to Pro-Fibrotic TGF-β1 Stimulation. [] 10.3390/ijms22094372
+
+Christophe Dessimoz (0000-0002-2170-853X) - verified
+  ORCID works: 290, sib.swiss papers: 48, shared: 47
+  SIB employment on record: yes
+  only on ORCID (243): BioMedIT: Swiss National TRE Network for Health Data - Requirements and Comparison to other European Frameworks [2026] 10.5281/zenodo.23890725; Dataset associated to: "Reconstruction of gene content evolution reveals funcitonal turnover across tomato evolution and domestication" [2026] 10.5281/zenodo.23736513; ELIXIR AI Strategy: Ten priorities for Life Sciences research [2026] 10.5281/zenodo.21242439; OMA Browser Datasets [2026] 10.5281/zenodo.20816668; On the state of protein function prediction: a report on the fourth CAFA challenge. [2026] 10.64898/2026.05.06.722942 (+238 more)
+  only on sib.swiss (1): NGS-Based S. aureus Typing and Outbreak Analysis in Clinical Microbiology Laboratories: Lessons Learned From a Swiss-Wide Proficiency Test []
+
+Cristina Casals Casas (0000-0001-8769-177X) - verified
+  ORCID works: 9, sib.swiss papers: 3, shared: 1
+  SIB employment on record: yes
+  only on ORCID (8): System analysis of cross-talk between nuclear receptors reveals an opposite regulation of the cell cycle by LXR and FXR in human HepaRG liver cells [2019] 10.1101/514976; Expert curation for building network-based dynamical models: a case study on atherosclerotic plaque formation. [2018] 10.1093/database/bay031; Endocrine disruptors: from endocrine to metabolic disruption. [2011] 10.1146/annurev-physiol-012110-142200; The pollutant diethylhexyl phthalate regulates hepatic energy metabolism via species-specific PPARalpha-dependent mechanisms. [2010] 10.1289/ehp.0901217; CREB and AP-1 activation regulates MKP-1 induction by LPS or M-CSF and their kinetics correlate with macrophage activation versus proliferation. [2009] 10.1002/eji.200839037 (+3 more)
+  only on sib.swiss (2): A Coordinated Approach by Public Domain Bioinformatics Resources to Aid the Fight Against Alzheimer's Disease Through Expert Curation of Key Protein Targets. [] 10.3233/jad-200206; The Minimum Information about a Molecular Interaction Causal Statement (MI2CAST). [] 10.1093/bioinformatics/btaa622
+
+Deepak Tanwar (0000-0001-8036-1989) - verified
+  ORCID works: 20, sib.swiss papers: 2, shared: 2
+  SIB employment on record: yes
+  only on ORCID (18): Characterization of heterogeneous bioinformatics training needs in the AI era [2026] 10.64898/2026.10.22.761024; SIB training survey 2026 - data and analysis [2026] 10.5281/zenodo.20446694; Dynamics of transcriptional programs and chromatin accessibility in mouse spermatogonial cells from early postnatal to adult life [2025] 10.5167/uzh-253252; Dynamics of transcriptional programs and chromatin accessibility in mouse spermatogonial cells from early postnatal to adult life [2025] 10.7554/elife.91528.3; Methylator: A Modular Framework for DNA Methylation Analysis in Mammals and Plants Using Galaxy [2025] 10.48550/arxiv.2510.23783 (+13 more)
+
+Deepak Unni (0000-0002-3583-7340) - verified
+  ORCID works: 33, sib.swiss papers: 14, shared: 5
+  SIB employment on record: yes
+  only on ORCID (28): Comparison of Metadata Catalog Schemas for Cross-Border Health Dataset Discovery [2026] 10.20944/preprints202609.2357.v1; Five Years of the SPHN RDF Journey: FAIR Enough? [2026] 10.20944/preprints202510.1783.v2; The SPHN Metadata Catalog: A platform for health data discovery and exploration based on FAIR principles (Preprint) [2025] 10.2196/preprints.90146; Efficient Querying of Federated Large-Scale Clinical RDF Knowledge Graphs in the Swiss Personalized Health Network [2025] 10.20944/preprints202512.1909.v1; Semantic Interoperability at National Scale: The SPHN Federated Clinical Routine Dataset [2025] 10.21203/rs.3.rs-8250886/v2 (+23 more)
+  only on sib.swiss (9): KG-Hub -- Building and Exchanging Biological Knowledge Graphs []; KG-Hub-building and exchanging biological knowledge graphs. [] 10.1093/bioinformatics/btad418; BOSC 2023, the 24th annual Bioinformatics Open Source Conference [version 1; peer review: not peer reviewed] []; FAIRification of health-related data using semantic web technologies in the Swiss Personalized Health Network. [] 10.1038/s41597-023-02028-y; An open source knowledge graph ecosystem for the life sciences. [] 10.1038/s41597-024-03171-w (+4 more)
+
+Diana Marek (0000-0002-9812-6351) - verified
+  ORCID works: 2, sib.swiss papers: 5, shared: 1
+  SIB employment on record: yes
+  only on ORCID (1): Characterization of heterogeneous bioinformatics training needs in the AI era [2026] 10.64898/2026.10.22.761024
+  only on sib.swiss (4): A framework to assess the quality and impact of bioinformatics training across ELIXIR. [] 10.1371/journal.pcbi.1007976; Genome-wide association study of circulating interleukin 6 levels identifies novel loci. [] 10.1093/hmg/ddab023; Identification of biomarkers for glycaemic deterioration in type 2 diabetes. [] 10.1038/s41467-023-38148-7; Definition of the terms used to describe psoriatic disease datasets: a HIPPOCRATES initiative. [] 10.1177/1759720x261424371
+
+Dillenn Terumalai (0009-0000-0629-8870) - unverified
+  ORCID works: 0, sib.swiss papers: 2, shared: 0
+  SIB employment on record: yes
+  only on sib.swiss (2): The Swiss Pathogen Surveillance Platform - towards a nation-wide One Health data exchange platform for bacterial, viral and fungal genomics and associated metadata. [] 10.1099/mgen.0.001001; SwissGenVar: A Platform for Clinical-Grade Interpretation of Genetic Variants to Foster Personalized Healthcare in Switzerland. [] 10.3390/jpm14060648
+
+Dmitry Kuznetsov (0000-0002-9972-947X) - verified
+  ORCID works: 48, sib.swiss papers: 14, shared: 13
+  SIB employment on record: yes
+  only on ORCID (35): The SIB Swiss Institute of Bioinformatics Semantic Web of data [2024] 10.1093/nar/gkad902; 364-OR: Unsupervised Approach Systematically Analyzes the Multiomics Profiles Associated with T2D Insulin Insensitivity—An IMI-RHAPSODY Study [2023] 10.2337/db23-364-or; OrthoDB v10: sampling the diversity of animal, plant, fungal, protist, bacterial and viral genomes for evolutionary and functional annotations of orthologs [2019] 10.1093/nar/gky1053; Molecular phenotyping of multiple mouse strains under metabolic challenge uncovers a role for Elovl2 in glucose-induced insulin secretion [2017] 10.1016/j.molmet.2017.01.009; OrthoDB v9.1: cataloging evolutionary and functional annotations for animal, fungal, plant, archaeal, bacterial and viral orthologs. [2017] 10.1093/nar/gkw1119 (+30 more)
+  only on sib.swiss (1): Novel subgroups of type 2 diabetes based on multi-Omics profiling: an IMI-RHAPSODY Study [] 10.1101/2022.09.03.22279563
+
+Edouard de Castro (0000-0001-5436-7383) - verified
+  ORCID works: 39, sib.swiss papers: 10, shared: 7
+  SIB employment on record: yes
+  only on ORCID (32): Enzyme annotation in UniProtKB using Rhea [2019] 10.1101/709899; HAMAP rules as SPARQL - A portable annotation pipeline for genomes and proteomes [2019] 10.1101/615294; Bacterial Virus Ontology; Coordinating across Databases. [2017] 10.3390/v9060126; The ins and outs of eukaryotic viruses: Knowledge base and ontology of a viral infection. [2017] 10.1371/journal.pone.0171746; The SIB Swiss Institute of Bioinformatics' resources: focus on curated databases. [2015] 10.1093/nar/gkv1310 (+27 more)
+  only on sib.swiss (3): UniRule: a unified rule resource for automatic annotation in the UniProt Knowledgebase. [] 10.1093/bioinformatics/btaa485; Enzyme annotation in UniProtKB using Rhea. [] 10.1093/bioinformatics/btz817; Diverse Taxonomies for Diverse Chemistries: Enhanced Representation of Natural Product Metabolism in UniProtKB. [] 10.3390/metabo11010048
+
+Elisabeth Coudert (0000-0001-8314-404X) - verified
+  ORCID works: 35, sib.swiss papers: 9, shared: 6
+  SIB employment on record: yes
+  only on ORCID (29): Gene Ontology annotations and resources. [2020] 10.17863/cam.52144; Enzyme annotation in UniProtKB using Rhea [2019] 10.1101/709899; HAMAP rules as SPARQL A portable annotation pipeline for genomes and proteomes [2019] 10.1101/615294; Updates in Rhea - an expert curated resource of biochemical reactions. [2017] 10.1093/nar/gkw1299; Updates in Rhea - an expert curated resource of biochemical reactions. [2016] 10.1093/nar/gkw990 (+24 more)
+  only on sib.swiss (3): UniRule: a unified rule resource for automatic annotation in the UniProt Knowledgebase. [] 10.1093/bioinformatics/btaa485; Enzyme annotation in UniProtKB using Rhea. [] 10.1093/bioinformatics/btz817; Diverse Taxonomies for Diverse Chemistries: Enhanced Representation of Natural Product Metabolism in UniProtKB. [] 10.3390/metabo11010048
+
+Elisabeth Gasteiger (0000-0003-1829-162X) - verified
+  ORCID works: 62, sib.swiss papers: 7, shared: 3
+  SIB employment on record: yes
+  only on ORCID (59): Enzyme annotation in UniProtKB using Rhea [2019] 10.1101/709899; The ELIXIR Core Data Resources: fundamental infrastructure for the life sciences [2019] 10.1101/598318; GlyConnect: glycoproteomics goes visual, interactive and analytical. [2018] 10.1021/acs.jproteome.8b00766; Glycomics@ExPASy: Bridging the Gap. [2018] 10.1074/mcp.ra118.000799; Navigating the Glycome Space and Connecting the Glycoproteome. [2017] 10.1007/978-1-4939-6783-4_7 (+54 more)
+  only on sib.swiss (4): The ELIXIR Core Data Resources: fundamental infrastructure for the life sciences. [] 10.1093/bioinformatics/btz959; The ABCD database: a repository for chemically defined antibodies. [] 10.1093/nar/gkz714; Enzyme annotation in UniProtKB using Rhea. [] 10.1093/bioinformatics/btz817; Diverse Taxonomies for Diverse Chemistries: Enhanced Representation of Natural Product Metabolism in UniProtKB. [] 10.3390/metabo11010048
+
+Emmanuel Boutet (0000-0002-3743-4203) - verified
+  ORCID works: 34, sib.swiss papers: 2, shared: 2
+  SIB employment on record: yes
+  only on ORCID (32): UniProt: the universal protein knowledgebase in 2021. [2021]; UniRule: a unified rule resource for automatic annotation in the UniProt Knowledgebase. [2020]; FAIR adoption, assessment and challenges at UniProt. [2019]; UniProt: the universal protein knowledgebase. [2018]; On expert curation and scalability: UniProtKB/Swiss-Prot as a case study. [2017] (+27 more)
+
+Florence Jungo (0000-0002-7456-8390) - verified
+  ORCID works: 19, sib.swiss papers: 4, shared: 2
+  SIB employment on record: yes
+  only on ORCID (17): FAIR adoption, assessment and challenges at UniProt. [2019] 10.1038/s41597-019-0180-9; The SIB Swiss Institute of Bioinformatics' resources: focus on curated databases. [2015] 10.1093/nar/gkv1310; UniProt: a hub for protein information. [2014] 10.1093/nar/gku989; Expert curation in UniProtKB: a case study on dealing with conflicting and erroneous data. [2014] 10.1093/database/bau016; Activities at the Universal Protein Resource (UniProt). [2013] 10.1093/nar/gkt1140 (+12 more)
+  only on sib.swiss (2): "From Protein Toxins to Applied Toxicological Testing" virtual workshop identifies the need for a bioinformatic framework to assess novel food protein safety. [] 10.1016/j.yrtph.2022.105146; A Proposed Unified, Scalable Platform for Integrative Research on Venomous Species. [] 10.1093/gigascience/giaf153
+
+Florence Mehl (0000-0002-9619-1707) - verified
+  ORCID works: 50, sib.swiss papers: 14, shared: 11
+  SIB employment on record: yes
+  only on ORCID (39): SIB course "Multiomics Data Analysis and Integration" [2026] 10.5281/zenodo.22917906; kgsteward: a tool for building, reproducing and maintaining distributed knowledge graphs [2026] 10.48550/arxiv.2609.21564; ReconXKG: an open workspace for human metabolic network reconstruction [2026] 10.5281/zenodo.22769006; MetaboT: an LLM-based multi-agent framework for interactive analysis of mass spectrometry metabolomics knowledge graphs [2026] 10.48550/arxiv.2510.01724; The case for primary prevention of obesity in the era of GLP-1 therapies [2026] 10.1016/j.lanepe.2026.101679 (+34 more)
+  only on sib.swiss (3): A Sample-Centric and Knowledge-Driven Computational Framework for Natural Products Drug Discovery. [] 10.1021/acscentsci.3c00800; Prioritization of novel anti-infective stilbene derivatives by combining metabolomic data organization and a stringent 3R-infection model in a knowledge graph. [] 10.1039/d4ra08421g; MetaboT: an LLM-based multi-agent framework for interactive analysis of mass spectrometry metabolomics knowledge graphs. [] 10.1186/s13321-026-01257-8
+
+Florent Tassy (0009-0007-1142-4617) - unverified
+  ORCID works: 0, sib.swiss papers: 0, shared: 0
+  SIB employment on record: yes
+
+Frederic Bastian (0000-0002-9415-5104) - verified
+  ORCID works: 21, sib.swiss papers: 6, shared: 5
+  SIB employment on record: yes
+  only on ORCID (16): The SIB Swiss Institute of Bioinformatics Semantic Web of data [2024] 10.1093/nar/gkad902; Exploring Disease Model Mouse Using Knowledge Graphs: Combining Gene Expression, Orthology, and Disease Datasets [2023] 10.1101/2023.08.30.555283; Lessons learned to boost a bioinformatics knowledge base reusability, the Bgee experience [2022] 10.1093/gigascience/giad058; Creation and unification of development and life stage ontologies for animals [2022] 10.48550/arxiv.2206.12231; The Bgee suite: integrated curated expression atlas and comparative transcriptomics in animals [2020] 10.1101/2020.05.28.119560 (+11 more)
+  only on sib.swiss (1): Perspectives on tracking data reuse across biodata resources. [] 10.1093/bioadv/vbae057
+
+Frédéric Schütz (0000-0001-7048-7692) - unverified
+  ORCID works: 29, sib.swiss papers: 1, shared: 0
+  SIB employment on record: yes
+  only on ORCID (29): Prevalence estimate of blood doping in elite track and field at the introduction of the Athlete Biological Passport [2019] 10.1101/736801; ABPS: An R Package for Calculating the Abnormal Blood Profile Score. [2018] 10.3389/fphys.2018.01638; Worldwide distribution of blood values in elite track and field athletes: Biomarkers of altered erythropoiesis. [2018] 10.1002/dta.2526; Tissue- and sex-specific small RNAomes reveal sex differences in response to the environment [2018] 10.1101/398784; Low number of fixed somatic mutations in a long-lived oak tree. [2017] 10.1038/s41477-017-0066-9 (+24 more)
+  only on sib.swiss (1): Prognostic impact of extranodal extension in resected head and neck squamous cell carcinomas in the era of postoperative chemoradiation: A retrospective monocentric study. [] 10.1016/j.oraloncology.2021.105605
+
+Gabriel Studer (0000-0003-0462-1456) - verified
+  ORCID works: 28, sib.swiss papers: 16, shared: 12
+  SIB employment on record: yes
+  only on ORCID (16): Rewriting protein alphabets with language models [2025] 10.1101/2025.11.27.690975; Benchmarking of macromolecular complexes with the Continuous Automated Model Evaluation (CAMEO) [2025] 10.22541/au.174638718.83117953/v1; Model Quality Assessment for CASP16 [2025] 10.22541/au.174490079.94623107/v1; PLINDER: The protein-ligand interactions dataset and evaluation resource [2024] 10.1101/2024.07.17.603955; New prediction categories in CASP15 [2023] 10.22541/au.168371643.39402261/v1 (+11 more)
+  only on sib.swiss (4): QMEANDisCo-distance constraints applied on model quality estimation. [] 10.1093/bioinformatics/btaa058; Uncovering new families and folds in the natural protein universe. [] 10.1038/s41586-023-06622-3; Global profiling of protein complex dynamics with an experimental library of protein interaction markers. [] 10.1038/s41587-024-02432-8; Evaluating generalization in protein-ligand cofolding methods. [] 10.1038/s41594-026-01797-5
+
+Geert van Geest (0000-0002-1561-078X) - verified
+  ORCID works: 83, sib.swiss papers: 7, shared: 6
+  SIB employment on record: yes
+  only on ORCID (77): Survey data accompanying 'Community needs for FAIR pathogen data' [2026] 10.5281/zenodo.19494321; Characterization of heterogeneous bioinformatics training needs in the AI era [2026] 10.64898/2026.10.22.761024; ELIXIR Training SPLASH [2026] 10.5281/zenodo.21451771; Course material Make your research FAIRer with Quarto, GitHub and Zenodo [2026] 10.5281/zenodo.21263320; Course material Docker and Apptainer for reproducible research [2026] 10.5281/zenodo.20667240 (+72 more)
+  only on sib.swiss (1): Lactate dehydrogenase B noncanonically promotes ferroptosis defense in KRAS-driven lung cancer. [] 10.1038/s41418-024-01427-x
+
+Gregoire Rossier (0000-0002-0065-5053) - unverified
+  ORCID works: 8, sib.swiss papers: 0, shared: 0
+  SIB employment on record: yes
+  only on ORCID (8): The SIB Swiss Institute of Bioinformatics' resources: focus on curated databases. [2015] 10.1093/nar/gkv1310; ExPASy: SIB bioinformatics resource portal. [2012] 10.1093/nar/gks400; Shaping biological knowledge: applications in proteomics. [2004] 10.1002/cfg.379; Glycoprotein-associated amino acid exchangers: broadening the range of transport specificity. [2000] 10.1007/s004240000274; LAT2, a new basolateral 4F2hc/CD98-associated amino acid transporter of kidney and intestine. [1999] 10.1074/jbc.274.49.34948 (+3 more)
+
+Guilaine Argoud-Puy (0000-0002-2979-8613) - unverified
+  ORCID works: 0, sib.swiss papers: 1, shared: 0
+  SIB employment on record: yes
+  only on sib.swiss (1): A Coordinated Approach by Public Domain Bioinformatics Resources to Aid the Fight Against Alzheimer's Disease Through Expert Curation of Key Protein Targets. [] 10.3233/jad-200206
+
+Harald Witte (0000-0002-4421-3580) - verified
+  ORCID works: 24, sib.swiss papers: 4, shared: 4
+  SIB employment on record: yes
+  only on ORCID (20): The Swiss Personalized Health Network FAIR Data Point: Bridging Semantic Interoperability and User-Friendly Metadata Discovery [2026] 10.20944/preprints202610.0874.v1; Five Years of the SPHN RDF Journey: FAIR Enough? [2026] 10.20944/preprints202510.1783.v2; Seeing is believing - FAIR metadata for medical imaging data in the SPHN Semantic Interoperability Framework [2026] 10.21203/rs.3.rs-8901680/v1; The SPHN Metadata Catalog: A platform for health data discovery and exploration based on FAIR principles (Preprint) [2025] 10.2196/preprints.90146; Five Years of the SPHN RDF Journey: FAIR Enough? [2025] 10.20944/preprints202510.1783.v1 (+15 more)
+
+Ivan Topolsky (0000-0002-7561-0810) - verified
+  ORCID works: 25, sib.swiss papers: 18, shared: 9
+  SIB employment on record: yes
+  only on ORCID (16): Wastewater-based sequencing of Respiratory Syncytial Virus enables tracking of lineages and identifying mutations at antigenic sites [2025] 10.1101/2025.02.28.25321637; VILOCA: Sequencing quality-aware haplotype reconstruction and mutation calling for short- and long-read data [2024] 10.1101/2024.06.06.597712; Tracking SARS-CoV-2 variants of concern in wastewater: an assessment of nine computational tools using simulated genomic data [2023] 10.1101/2023.12.20.572426; Exploring the landscape of the genomic wastewater surveillance ecosystem: a roadmap towards standardization [2023] 10.37044/osf.io/rtgk9; V-pipe 3.0: a sustainable pipeline for within-sample viral genetic diversity estimation [2023] 10.1101/2023.10.16.562462 (+11 more)
+  only on sib.swiss (9): Tracking SARS-CoV-2 genomic variants in wastewater sequencing data withLolliPop [] 10.1101/2022.11.02.22281825; Early detection and surveillance of SARS-CoV-2 genomic variants in wastewater using COJAC. [] 10.1038/s41564-022-01185-x; How much should we sequence? An analysis of the Swiss SARS-CoV-2 surveillance effort [] 10.1101/2023.08.28.23294715; VILOCA: sequencing quality-aware viral haplotype reconstruction and mutation calling for short-read and long-read data. [] 10.1093/nargab/lqae152; How much should we sequence? An analysis of the Swiss SARS-CoV-2 surveillance effort. [] 10.1128/spectrum.03628-23 (+4 more)
+
+Ivo Pedruzzi (0000-0001-8561-7170) - verified
+  ORCID works: 46, sib.swiss papers: 5, shared: 5
+  SIB employment on record: yes
+  only on ORCID (41): The Gene Ontology knowledgebase in 2026. [2026] 10.1093/nar/gkaf1292; UniProt: the Universal Protein Knowledgebase in 2025. [2025] 10.1093/nar/gkae1010; The Gene Ontology knowledgebase in 2023. [2023] 10.1093/genetics/iyad031; Annotation of biologically relevant ligands in UniProtKB using ChEBI. [2023] 10.1093/bioinformatics/btac793; UniProt: the Universal Protein Knowledgebase in 2023. [2023] 10.1093/nar/gkac1052 (+36 more)
+
+Jacques Fellay (0000-0002-8240-939X) - verified
+  ORCID works: 311, sib.swiss papers: 76, shared: 40
+  SIB employment on record: yes
+  only on ORCID (263): Mutational bias shapes protein evolution across RNA viruses [2026] 10.64898/2026.07.07.737047; Advancing Clinical Implementation of Cardiovascular Polygenic Risk Scores Through Patient-Level Robustness Assessment [2026] 10.64898/2026.06.10.26355357; Multiancestry Genome-Wide Association Study Identifies Variants in a Zinc Finger Gene Cluster as Novel Regulators of HIV Control [2026] 10.1093/infdis/jiag072; Longitudinal modelling of clonal hematopoiesis reveals altered early clonal dynamics in people with HIV [2026] 10.64898/2026.04.08.26350407; Genomic Feature Transformation for Multi-Omics Integration in Clinical Prediction Models [2026] 10.64898/2026.03.09.26347570 (+258 more)
+  only on sib.swiss (36): Author Correction: The influence of human genetic variation on Epstein-Barr virus sequence diversity. [] 10.1038/s41598-021-87274-z; Author Correction: Increased prevalence of clonal hematopoiesis of indeterminate potential amongst people living with HIV. [] 10.1038/s41598-022-16151-0; A frequent ancestral NFKB1 variant predicts risk of infection or allergy [] 10.1101/2022.11.24.22282707; HIV-phyloTSI: Subtype-independent estimation of time since HIV-1 infection for cross-sectional measures of population incidence using deep sequence data [] 10.1101/2022.05.15.22275117; Associations of genetic and infectious risk factors with coronary heart disease [] 10.1101/2022.04.13.22273812 (+31 more)
+
+Jerven Tjalling Bolleman (0000-0002-7449-1266) - verified
+  ORCID works: 51, sib.swiss papers: 7, shared: 6
+  SIB employment on record: yes
+  only on ORCID (45): Does SPARQL Federation Work in the Real World? A Case Study over Large Biological SPARQL Endpoints [2027] 10.1007/978-3-032-42029-9_17; Query-First Semantification of CEUR-WS Proceedings Metadata in Wikidata [2027] 10.1007/978-3-032-42029-9_18; Variant representation in RDF [2026] 10.37044/osf.io/jazsb_v1; Rendering SSSOM ontology mappings as RDF named graphs and RDF 1.2 triple terms [2026] 10.37044/osf.io/auhzg_v1; Mining the potential of knowledge graphs for metadata on training [2025] 10.37044/osf.io/gv2ac_v1 (+40 more)
+  only on sib.swiss (1): UniRule: a unified rule resource for automatic annotation in the UniProt Knowledgebase. [] 10.1093/bioinformatics/btaa485
+
+Josep Garnica (0000-0001-9493-1321) - verified
+  ORCID works: 30, sib.swiss papers: 6, shared: 6
+  SIB employment on record: yes
+  only on ORCID (24): Murine autoantigen-specific type-1 regulatory T cells promote oligodendrogenesis through amphiregulin-EGFR signaling [2026] 10.1126/scitranslmed.aef2269; Evaluating cell type annotations in single-cell omics in the absence of ground truth [2026] 10.64898/2026.06.10.731285; KLRG1 identifies circulating cytotoxic CD4 T cells with selective anti-tumor function in human cancer [2026] 10.64898/2026.04.13.718113; Spatiotemporal remodeling in the habenula marks the onset of depression [2025] 10.21203/rs.3.rs-7773881/v1; Data from PLT012, a Humanized CD36-Blocking Antibody, Is Effective for Unleashing Antitumor Immunity Against Liver Cancer and Liver Metastasis [2025] 10.1158/2159-8290.c.7963864 (+19 more)
+
+Julia Maurer (0000-0002-0731-2758) - unverified
+  ORCID works: 0, sib.swiss papers: 2, shared: 0
+  SIB employment on record: yes
+  only on sib.swiss (2): Sensing the (digital) pulse. Future steps for improving the secondary use of data for research in Switzerland. [] 10.1177/20552076231169826; What are the bottlenecks to health data sharing in Switzerland? An interview study. [] 10.57187/s.3538
+
+Julia Pilarski (0009-0002-5066-4748) - likely
+  ORCID works: 5, sib.swiss papers: 2, shared: 2
+  SIB employment on record: no
+  only on ORCID (3): scprocess: a pipeline for processing, integrating and visualising atlas-scale single cell data [2026] 10.64898/2026.03.09.710141; Bayesian phylodynamics for developmental biology: incorporating age-dependence [2025] 10.1101/2025.08.28.672870; Assessing the inference of single-cell phylogenies and population dynamics from CRISPR lineage recordings [2025] 10.1101/2025.01.08.631854
+
+Julius Winter (0000-0001-6702-1330) - unverified
+  ORCID works: 8, sib.swiss papers: 1, shared: 0
+  SIB employment on record: yes
+  only on ORCID (8): Asymmetric mitochondrial trafficking balances perinuclear biogenesis to maintain network morphology [2026] 10.1083/jcb.202409118; Asymmetric mitochondrial trafficking maintains network morphology by balancing perinuclear biogenesis [2025] 10.64898/2025.12.08.692722; Spatiotemporal Modeling of Mitochondrial Network Architecture [2024] 10.1103/prxlife.2.043002; Spatiotemporal Modeling of Mitochondrial Network Architecture [2024] 10.1101/2024.01.24.577101; Distinct fission signatures predict mitochondrial degradation or biogenesis [2021] 10.1038/s41586-021-03510-6 (+3 more)
+  only on sib.swiss (1): MIBiG 4.0: advancing biosynthetic gene cluster curation through global collaboration. [] 10.1093/nar/gkae1115
+
+Justyna Iwaszkiewicz (0000-0003-3494-589X) - verified
+  ORCID works: 38, sib.swiss papers: 18, shared: 14
+  SIB employment on record: yes
+  only on ORCID (24): Mutations in the palm domain disrupt modulation of acid-sensing ion channel 1a currents by neuropeptides [2019] 10.1038/s41598-018-37426-5; Bi-allelic Variants in DYNC1I2 Cause Syndromic Microcephaly with Intellectual Disability, Cerebral Malformations, and Dysmorphic Facial Features [2019] 10.1016/j.ajhg.2019.04.002; Biallelic variants in FBXL3 cause intellectual disability, delayed motor development and short stature [2019] 10.1093/hmg/ddy406; Biallelic variants in LINGO1 are associated with autosomal recessive intellectual disability, microcephaly, speech and motor delay [2018] 10.1038/gim.2017.113; Biallelic variants in KIF14 cause intellectual disability with microcephaly [2018] 10.1038/s41431-017-0088-9 (+19 more)
+  only on sib.swiss (4): Exploring the conformational changes of the Munc18-1/syntaxin 1a complex [] 10.1101/2022.11.29.518383; Exploring the conformational changes of the Munc18-1/syntaxin 1a complex. [] 10.1002/pro.4870; Repairing a deleterious domestication variant in a floral regulator gene of tomato by base editing. [] 10.1038/s41588-024-02026-9; A direct experimental test of Ohno's hypothesis. [] 10.7554/elife.97216
+
+Kristian Axelsen (0000-0003-3889-2879) - verified
+  ORCID works: 51, sib.swiss papers: 6, shared: 5
+  SIB employment on record: yes
+  only on ORCID (46): The Gene Ontology knowledgebase in 2023. [2023] 10.1093/genetics/iyad031; Annotation of biologically relevant ligands in UniProtKB using ChEBI. [2023] 10.1093/bioinformatics/btac793; UniProt: the Universal Protein Knowledgebase in 2023. [2023] 10.1093/nar/gkac1052; The Gene Ontology resource: enriching a GOld mine. [2021] 10.1093/nar/gkaa1113; UniProt: the universal protein knowledgebase in 2021. [2021] 10.1093/nar/gkaa1100 (+41 more)
+  only on sib.swiss (1): Enzyme annotation in UniProtKB using Rhea. [] 10.1093/bioinformatics/btz817
+
+Laurent Falquet (0000-0001-8102-7579) - verified
+  ORCID works: 46, sib.swiss papers: 35, shared: 11
+  SIB employment on record: yes
+  only on ORCID (35): Corrigendum to “A probabilistic approach to evaluate salivary microbiome in forensic science when the defense says: 'It is my twin brother'” [Forensic Sci. Int. Genet. 57, 102638] [2022] 10.1016/j.fsigen.2022.102701; New insights into tomato CLE peptide repertoire and perception mechanisms [2022] 10.1101/2022.01.21.477294; Biological hydrogen cyanide emission globally impacts the physiology of both HCN-emitting and HCN-perceivingPseudomonas [2021] 10.1101/2021.09.29.462390; NGS-Based <i>S. aureus</i> Typing and Outbreak Analysis in Clinical Microbiology Laboratories: Lessons Learned From a Swiss-Wide Proficiency Test. [2020] 10.3389/fmicb.2020.591093; Identification of avoidance genes through neural pathway-specific forward optogenetics [2019] 10.1371/journal.pgen.1008509 (+30 more)
+  only on sib.swiss (24): NGS-Based S. aureus Typing and Outbreak Analysis in Clinical Microbiology Laboratories: Lessons Learned From a Swiss-Wide Proficiency Test []; Revealing NOTCH-dependencies in synaptic targets associated with Alzheimer's disease. [] 10.1016/j.mcn.2021.103657; Genomic Characterization and Antimicrobial Susceptibility of Dromedary-Associated Staphylococcaceae from the Horn of Africa. [] 10.1128/aem.01146-22; Deeper genomic insights into tomato CLE genes repertoire identify new active peptides. [] 10.1186/s12864-022-08980-0; Biological hydrogen cyanide emission globally impacts the physiology of both HCN-emitting and HCN-perceiving Pseudomonas. [] 10.1128/mbio.00857-23 (+19 more)
+
+Leila Tamara Alexander (0000-0002-7594-2110) - verified
+  ORCID works: 5, sib.swiss papers: 6, shared: 4
+  SIB employment on record: yes
+  only on ORCID (1): Scalable Genomic Context Analysis with GCsnap2 on HPC Clusters [2025] 10.1145/3732775.3733579
+  only on sib.swiss (2): Nanopore Enzymology to Study Protein Kinases and Their Inhibition by Small Molecules. [] 10.1007/978-1-0716-0806-7_8; Structural implications of BK polyomavirus sequence variations in the major viral capsid protein Vp1 and large T-antigen: a computational study. [] 10.1128/msphere.00799-23
+
+Lionel Breuza (0000-0002-8075-8625) - verified
+  ORCID works: 37, sib.swiss papers: 3, shared: 3
+  SIB employment on record: yes
+  only on ORCID (34): UniProt: the Universal Protein Knowledgebase in 2025. [2024] 10.1093/nar/gkae1010; Annotation of biologically relevant ligands in UniProtKB using ChEBI. [2023] 10.1093/bioinformatics/btac793; UniProt: the Universal Protein Knowledgebase in 2023. [2023] 10.1093/nar/gkac1052; FAIR adoption, assessment and challenges at UniProt. [2019] 10.1038/s41597-019-0180-9; An enhanced workflow for variant interpretation in UniProtKB/Swiss-Prot improves consistency and reuse in ClinVar [2019] 10.1093/database/baz040 (+29 more)
+
+Maria Livia Famiglietti (0000-0002-5283-6593) - verified
+  ORCID works: 2, sib.swiss papers: 2, shared: 1
+  SIB employment on record: yes
+  only on ORCID (1): An enhanced workflow for variant interpretation in UniProtKB/Swiss-Prot improves consistency and reuse in ClinVar [2019] 10.1093/database/baz040
+  only on sib.swiss (1): A Coordinated Approach by Public Domain Bioinformatics Resources to Aid the Fight Against Alzheimer's Disease Through Expert Curation of Key Protein Targets. [] 10.3233/jad-200206
+
+Lucila Aimo (0000-0003-0943-6401) - verified
+  ORCID works: 25, sib.swiss papers: 5, shared: 4
+  SIB employment on record: yes
+  only on ORCID (21): The Transcriptome of Estrogen-Independent Mammary Growth in Female Mice Reveals That Not All Mammary Glands Are Created Equally. [2017] 10.1210/en.2017-00395; Updates in Rhea - an expert curated resource of biochemical reactions. [2017] 10.1093/nar/gkw1299; Zinc deficiency affects the STAT1/3 signaling pathways in part through redox-mediated mechanisms. [2017] 10.1016/j.redox.2016.12.027; Updates in Rhea - an expert curated resource of biochemical reactions. [2016] 10.1093/nar/gkw990; The SIB Swiss Institute of Bioinformatics' resources: focus on curated databases. [2015] 10.1093/nar/gkv1310 (+16 more)
+  only on sib.swiss (1): Challenges and perspectives for naming lipids in the context of lipidomics. [] 10.1007/s11306-023-02075-x
+
+Lucille Pourcel (0000-0003-1522-9900) - verified
+  ORCID works: 1, sib.swiss papers: 1, shared: 1
+  SIB employment on record: yes
+
+Maciej Smialek (0000-0002-8042-7965) - unverified
+  ORCID works: 15, sib.swiss papers: 0, shared: 0
+  SIB employment on record: no
+  only on ORCID (15): Ribosomal protein RPL39L is an efficiency factor in the cotranslational folding of proteins with alpha helical domains [2023] 10.1101/2023.04.03.535332; Distinct Roles of NANOS1 and NANOS3 in the Cell Cycle and NANOS3-PUM1-FOXM1 Axis to Control G2/M Phase in a Human Primordial Germ Cell Model [2022] 10.3390/ijms23126592; Loss of the MAF Transcription Factor in Laryngeal Squamous Cell Carcinoma [2021] 10.3390/biom11071035; Role of PUM RNA-Binding Proteins in Cancer [2021] 10.3390/cancers13010129; Human NANOS1 Represses Apoptosis by Downregulating Pro-Apoptotic Genes in the Male Germ Cell Line [2020] 10.3390/ijms21083009 (+10 more)
+
+Manuela Pruess (0000-0002-6857-5543) - unverified
+  ORCID works: 61, sib.swiss papers: 0, shared: 0
+  SIB employment on record: yes
+  only on ORCID (61): UniProt: the Universal Protein Knowledgebase in 2025. [2024] 10.1093/nar/gkae1010; Perspectives on tracking data reuse across biodata resources. [2024] 10.1093/bioadv/vbae057; MBDBMetrics: an online metrics tool to measure the impact of biological data resources. [2023] 10.1093/bioadv/vbad180; UniProt and Mass Spectrometry-Based Proteomics-A 2-Way Working Relationship. [2023] 10.1016/j.mcpro.2023.100591; UniProt Tools: BLAST, Align, Peptide Search, and ID Mapping. [2023] 10.1002/cpz1.697 (+56 more)
+
+Marc Feuermann (0000-0002-4187-2863) - verified
+  ORCID works: 66, sib.swiss papers: 12, shared: 12
+  SIB employment on record: yes
+  only on ORCID (54): The Gene Ontology knowledgebase in 2026 [2026] 10.1093/nar/gkaf1292; UniProt: the Universal Protein Knowledgebase in 2025 [2025] 10.1093/nar/gkae1010; Gene Ontology [2024] 10.1016/b978-0-323-95502-7.00068-3; The Gene Ontology knowledgebase in 2023 [2023] 10.1093/genetics/iyad031; UniProt: the Universal Protein Knowledgebase in 2023 [2023] 10.1093/nar/gkac1052 (+49 more)
+
+Marc Robinson-Rechavi (0000-0002-3437-3329) - verified
+  ORCID works: 239, sib.swiss papers: 38, shared: 28
+  SIB employment on record: yes
+  only on ORCID (206): Morphological characterization of moulting in the Atlantic horseshoe crab Limulus polyphemus and a comparative survey of moulting patterns in Arthropoda [2026] 10.1093/cz/zoag074; Inter-individual gene expression variability implies stable regulation of brain-biased genes across organs in three ray-finned fishes [2026] 10.5281/zenodo.14063786; The Molecular Programme of the Biphasic Isopod Moult: A Transcriptomic Chimera [2026] 10.64898/2026.08.02.742273; A post-embryonic specific and ecologically selective network underlies metamorphic remodelling in teleosts [2026] 10.64898/2026.07.29.741460; The highly heterozygous European amphioxus (Branchiostoma lanceolatum) at the edge of panmixia [2026] 10.5281/zenodo.21503009 (+201 more)
+  only on sib.swiss (10): Haplotype divergence supports long-term asexuality in the oribatid mite Oppiella nova. [] 10.1073/pnas.2101485118; Parallel evolution of amphioxus and vertebrate small-scale gene duplications. [] 10.1186/s13059-022-02808-6; Convergent consequences of parthenogenesis on stick insect genomes. [] 10.1126/sciadv.abg3842; Genome structures resolve the early diversification of teleost fishes [] 10.1101/2022.04.07.487469; Bio-SODA UX: enabling natural language question answering over knowledge graphs with user disambiguation. [] 10.1007/s10619-022-07414-w (+5 more)
+
+Marco Bolis (0000-0003-4377-5079) - likely
+  ORCID works: 105, sib.swiss papers: 22, shared: 22
+  SIB employment on record: no
+  only on ORCID (82): Age-driven miR-29 trades youthful plasticity for epigenetic fidelity [2026] 10.64898/2026.10.18.759616; Identification of ceRNA Regulatory Networks Driven by the lncRNA NEAT1 in Multiple Myeloma [2026] 10.1111/jcmm.71123; Orphan Nuclear Receptors expression and function in breast cancer cells: oncogenic action of the <i>NR2F6</i> receptor [2026] 10.1186/s12964-026-02789-0; Orphan Nuclear Receptors expression and function in breast cancer cells: oncogenic action of the <i>NR2F6</i> receptor (vol 24, 233, 2026) [2026] 10.1186/s12964-026-03226-y; TRIM24 degradation counteracts adaptation to androgen receptor inhibition in prostate cancer [2026] 10.1158/1538-7445.prostateca26-b076 (+77 more)
+
+Marco Pagni (0000-0001-9292-9463) - verified
+  ORCID works: 110, sib.swiss papers: 22, shared: 17
+  SIB employment on record: yes
+  only on ORCID (92): Microbiome variations in osteoarthritis reflect aging and metabolic factors, not the disease [2025] 10.1101/2025.06.24.661261; Prevalence of Oxalotrophy in the Human Microbiome [2025] 10.1101/2025.03.24.644979; One-Step Soft Agar Enrichment and Isolation of Human Lung Bacteria Inhibiting the Germination of <i>Aspergillus fumigatus</i> Conidia [2024] 10.3390/microorganisms12102025; The SIB Swiss Institute of Bioinformatics Semantic Web of data [2024] 10.1093/nar/gkad902; Systems Biology in ELIXIR: modelling in the spotlight. [2022] 10.12688/f1000research.126734.1 (+87 more)
+  only on sib.swiss (5): A large collection of bioinformatics question-query pairs over federated knowledge graphs: methodology and applications. [] 10.1093/gigascience/giaf045; Prioritization of novel anti-infective stilbene derivatives by combining metabolomic data organization and a stringent 3R-infection model in a knowledge graph. [] 10.1039/d4ra08421g; Selective expression of <i>Pneumocystis</i> antigens in different patients during a suspected outbreak of <i>Pneumocystis</i> pneumonia. [] 10.1128/mbio.00692-25; MetaboT: an LLM-based multi-agent framework for interactive analysis of mass spectrometry metabolomics knowledge graphs. [] 10.1186/s13321-026-01257-8; An innovative approach for anti-respiratory syncytial virus compound discovery from plant extracts, combining high-throughput screening and metabolomics. [] 10.1016/j.biopha.2025.118917
+
+Mark Ibberson (0000-0003-3152-5670) - verified
+  ORCID works: 101, sib.swiss papers: 41, shared: 29
+  SIB employment on record: yes
+  only on ORCID (71): The insulin / IGF axis is critically important for controlling gene transcription in the podocyte [2024] 10.1101/2024.05.20.594973; Regenerating islet-derived protein 3α: A promising therapy for diabetes. Preliminary data in rodents and in humans [2022] 10.1016/j.heliyon.2022.e09944; Plasma triacylglycerols are biomarkers of β-cell function in mice and humans. [2021] 10.1016/j.molmet.2021.101355; Recovery of human type 2 diabetes beta cell function associates with transcriptomic signatures that point to novel therapeutic targets [2021] 10.21203/rs.3.rs-871924/v1; Prospective external validation of a new non-invasive test for the diagnosis of non-alcoholic steatohepatitis in patients with type 2 diabetes. [2021] 10.1111/apt.16543 (+66 more)
+  only on sib.swiss (12): Islet Gene View-a tool to facilitate islet research. [] 10.26508/lsa.202201376; Mitofusins Mfn1 and Mfn2 Are Required to Preserve Glucose- but Not Incretin-Stimulated β-Cell Connectivity and Insulin Secretion. [] 10.2337/db21-0800; Omics and Multi-Omics Analysis for the Early Identification and Improved Outcome of Patients with Psoriatic Arthritis. [] 10.3390/biomedicines10102387; Novel subgroups of type 2 diabetes based on multi-Omics profiling: an IMI-RHAPSODY Study [] 10.1101/2022.09.03.22279563; An in vitro approach to understand contribution of kidney cells to human urinary extracellular vesicles. [] 10.1002/jev2.12304 (+7 more)
+
+Mark Robinson (0000-0002-3048-5518) - verified
+  ORCID works: 248, sib.swiss papers: 75, shared: 45
+  SIB employment on record: yes
+  only on ORCID (203): Differential co-localisation analysis of multi-sample and multi-condition experiments with spatialFDA [2026] 10.1093/nar/gkag1247; Interactive exploration of benchmarking results with bettr [2026] 10.21105/joss.10333; Addressing technical variations in ATAC-seq data and improving motif accessibility analyses [2026] 10.64898/2026.08.21.746151; Convergence and divergence of DNA methylation and gene expression patterns in neopolyploid Arabidopsis kamchatica [2026] 10.1038/s41467-026-75042-4; Large-scale prediction of transcription factor binding across human cell types informs regulatory genomics and reveals promiscuous occupancy associated with chromatin contacts [2026] 10.64898/2026.06.16.732527 (+198 more)
+  only on sib.swiss (30): Targeting the autosomal Ceratitis capitata transformer gene using Cas9 or dCas9 to masculinize XX individuals without inducing mutations. [] 10.1186/s12863-020-00941-4; Quantification of the overall contribution of gene-environment interaction for obesity-related traits. [] 10.1038/s41467-020-15107-0; Genomic architecture and prediction of censored time-to-event phenotypes with a Bayesian genome-wide analysis. [] 10.1038/s41467-021-22538-w; Probabilistic inference of the genetic architecture underlying functional enrichment of complex traits. [] 10.1038/s41467-021-27258-9; ReSeq simulates realistic Illumina high-throughput sequencing data. [] 10.1186/s13059-021-02265-7 (+25 more)
+
+Max Verbiest (0000-0003-3424-0136) - verified
+  ORCID works: 9, sib.swiss papers: 5, shared: 3
+  SIB employment on record: yes
+  only on ORCID (6): Multicancer analyses of short tandem repeat variations reveal shared gene regulatory mechanisms [2025] 10.1101/2025.01.06.629343; Genotyping Short Tandem Repeats Across Copy Number Alterations, Aneuploidies, and Polyploid Organisms [2024] 10.1101/2024.12.13.628141; Short tandem repeat mutations regulate gene expression in colorectal cancer [2023] 10.1101/2023.11.29.569189; WebSTR: A Population-wide Database of Short Tandem Repeat Variation in Humans [2023] 10.1016/j.jmb.2023.168260; A Novel Hyper-Variable Variable Number Tandem Repeat in the Dopamine Transporter Gene (SLC6A3) [2022] 10.1101/2022.08.03.502653 (+1 more)
+  only on sib.swiss (2): Short tandem repeat mutations regulate gene expression in colorectal cancer. [] 10.1038/s41598-024-53739-0; Genotyping short tandem repeats across copy number alterations, aneuploidies, and polyploid organisms. [] 10.1038/s42003-025-08837-8
+
+Michel Cuendet (0000-0002-0754-3425) - verified
+  ORCID works: 65, sib.swiss papers: 15, shared: 14
+  SIB employment on record: yes
+  only on ORCID (51): The value of AI for assessing longitudinal brain metastases treatment response [2025] 10.1093/noajnl/vdae216; HoverFast: an accurate, high-throughput, clinically
+deployable nuclear segmentation tool for brightfield digital pathology
+images [2024] 10.21105/joss.07022; Testing a Model of Care for Patients on Immune Checkpoint Inhibitors Based on Electronic Patient-Reported Outcomes: Protocol for a Randomized Phase II Controlled Trial [2023] 10.2196/48386; Online Boosted Gaussian Learners for In-Situ Detection and Characterization of Protein Folding States in Molecular Dynamics Simulations [2023] 10.1109/e-science58273.2023.10254895; Testing a Model of Care for Patients on Immune Checkpoint Inhibitors Based on Electronic Patient-Reported Outcomes: Protocol for a Randomized Phase II Controlled Trial (Preprint) [2023] 10.2196/preprints.48386 (+46 more)
+  only on sib.swiss (1): Correction: A differential process mining analysis of COVID-19 management for cancer patients. [] 10.3389/fonc.2026.1777196
+
+Mikhail Pachkov (0000-0001-7616-6435) - verified
+  ORCID works: 2, sib.swiss papers: 4, shared: 1
+  SIB employment on record: yes
+  only on ORCID (1): Bonsai : Tree representations for distortion-free visualization and exploratory analysis of single-cell omics data [2025] 10.1101/2025.05.08.652944
+  only on sib.swiss (3): Multiomic atlas with functional stratification and developmental dynamics of zebrafish cis-regulatory elements. [] 10.1038/s41588-022-01089-w; Temporal and sequential transcriptional dynamics define lineage shifts in corticogenesis. [] 10.15252/embj.2022111132; Investigation of the motif activity of transcription regulators in pancreatic β-like cell subpopulations differentiated from human induced pluripotent stem cells. [] 10.1039/d4mo00082j
+
+Monica Pozzato (0000-0002-3080-5243) - verified
+  ORCID works: 3, sib.swiss papers: 5, shared: 1
+  SIB employment on record: yes
+  only on ORCID (2): Enzyme annotation in UniProtKB using Rhea [2019] 10.1101/709899; Updates in Rhea – an expert curated resource of biochemical reactions [2016] 10.1093/nar/gkw1299
+  only on sib.swiss (4): Rhea, the reaction knowledgebase in 2022. [] 10.1093/nar/gkab1016; Diverse Taxonomies for Diverse Chemistries: Enhanced Representation of Natural Product Metabolism in UniProtKB. [] 10.3390/metabo11010048; Annotation of biologically relevant ligands in UniProtKB using ChEBI. [] 10.1093/bioinformatics/btac793; Annotation of biologically relevant ligands in UniProtKB using ChEBI [] 10.1101/2022.08.19.504519
+
+Monique Zahn (0000-0001-7961-6091) - unverified
+  ORCID works: 38, sib.swiss papers: 0, shared: 0
+  SIB employment on record: yes
+  only on ORCID (34): Characterization of heterogeneous bioinformatics training needs in the AI era [2026] 10.64898/2026.10.22.761024; The missing link in FAIR data policy: biodata resources in life sciences [2026] 10.1038/s41597-026-06690-w; Strengthening bioinformatics education: e-learning initiatives across ELIXIR Nodes and Communities [version 1; peer review: 1 approved, 2 approved with reservations] [2025] 10.12688/f1000research.173116.1; Using Glittr.org to find, compare and re-use online materials for training and education [2024] 10.1371/journal.pone.0308729; Using Glittr.org to find, compare and re-use online materials for training and education [2024] 10.1101/2024.08.20.608021 (+29 more)
+
+Nadine Gruaz-Gumowski (0000-0002-4699-4907) - unverified
+  ORCID works: 0, sib.swiss papers: 1, shared: 0
+  SIB employment on record: yes
+  only on sib.swiss (1): A Coordinated Approach by Public Domain Bioinformatics Resources to Aid the Fight Against Alzheimer's Disease Through Expert Curation of Key Protein Targets. [] 10.3233/jad-200206
+
+Nadine Fournier (0000-0002-9347-7929) - verified
+  ORCID works: 30, sib.swiss papers: 29, shared: 13
+  SIB employment on record: yes
+  only on ORCID (17): Bcl-xL targeting eliminates ageing tumor-promoting neutrophils and inhibits lung tumor growth. [2023] 10.1038/s44321-023-00013-x; Overcoming microenvironmental resistance to PD-1 blockade in genetically engineered lung cancer models. [2021] 10.1126/scitranslmed.abd1616; GLUT1 Expression in Tumor-Associated Neutrophils Promotes Lung Cancer Growth and Resistance to Radiotherapy. [2021] 10.1158/0008-5472.can-20-2870; Combined deletion of Glut1 and Glut3 impairs lung adenocarcinoma growth. [2020] 10.7554/elife.53618; Myeloid Cells Orchestrate Systemic Immunosuppression, Impairing the Efficacy of Immunotherapy against HPV<sup>+</sup> Cancers. [2019] 10.1158/2326-6066.cir-19-0315 (+12 more)
+  only on sib.swiss (16): Apelin-driven endothelial cell migration sustains intestinal progenitor cells and tumor growth. [] 10.1038/s44161-022-00061-5; Molecular effects of the consumption of margarine and butter varying in trans fat composition: a parallel human intervention study. [] 10.1186/s12944-022-01675-1; Tumor-educated Gr1+CD11b+cells instigate breast cancer metastasis by twisting cancer cells plasticity via OSM/IL6–JAK signaling [] 10.1101/2022.10.26.513889; Differentiation of IL-26+ TH17 intermediates into IL-17A producers via epithelial crosstalk in psoriasis. [] 10.1038/s41467-023-39484-4; Reciprocal inhibition of NOTCH and SOX2 shapes tumor cell plasticity and therapeutic escape in triple-negative breast cancer. [] 10.1038/s44321-024-00161-8 (+11 more)
+
+Natasha Glover (0000-0003-1811-4340) - verified
+  ORCID works: 37, sib.swiss papers: 25, shared: 9
+  SIB employment on record: yes
+  only on ORCID (28): DrosOMA: the Drosophila Orthologous Matrix browser [version 1; peer review: awaiting peer review] [2023] 10.12688/f1000research.135250.1; Protein length distribution is remarkably uniform across the tree of life [2023] 10.1186/s13059-023-02973-2; Phylogenetic placement of whole genome duplications in yeasts through quantitative analysis of hierarchical orthologous groups [version 1; peer review: awaiting peer review] [2023] 10.12688/f1000research.128656.1; Multifaceted quality assessment of gene repertoire annotation with OMArk [2022] 10.1101/2022.11.25.517970; The Quest for Orthologs orthology benchmark service in 2022 [2022] 10.1093/nar/gkac330 (+23 more)
+  only on sib.swiss (16): Control of PHYTOCHROME KINASE SUBSTRATE subcellular localization and biological activity by protein S-acylation [] 10.1101/2022.07.08.499325; OMA orthology in 2024: improved prokaryote coverage, ancestral and extant GO enrichment, a revamped synteny viewer and more in the OMA Ecosystem. [] 10.1093/nar/gkad1020; Bringing science to the public in the light of evolution. [] 10.1093/biomethods/bpad040; Quest for Orthologs in the Era of Biodiversity Genomics. [] 10.1093/gbe/evae224; When less is more: sketching with minimizers in genomics. [] 10.1186/s13059-024-03414-4 (+11 more)
+
+Nathan Külling (0009-0006-2942-3009) - unverified
+  ORCID works: 12, sib.swiss papers: 0, shared: 0
+  SIB employment on record: yes
+  only on ORCID (12): On the use of neighboring habitats as predictors of species distributions [2026] 10.1002/oik.11963; A digital twin approach for the identification and update of ecological infrastructure [2026] 10.1080/20964471.2026.2615504; Identifying robust area-based conservation strategies to secure ecosystem service provision under uncertainties [2026] 10.1016/j.jenvman.2025.128395; SDMapCH: a Comprehensive database of >7,500 modelled species habitat suitability maps for Switzerland [2025] 10.1038/s41597-025-06037-x; Predicting current and future spatial patterns of nature’s contributions to people from species distribution models [2025] 10.1016/j.ecolind.2025.113528 (+7 more)
+
+Nicole Redaschi (0000-0001-8890-2268) - verified
+  ORCID works: 55, sib.swiss papers: 11, shared: 10
+  SIB employment on record: yes
+  only on ORCID (45): UniProt: the Universal Protein Knowledgebase in 2025. [2025] 10.1093/nar/gkae1010; The SIB Swiss Institute of Bioinformatics Semantic Web of data. [2024] 10.1093/nar/gkad902; UniProt: the Universal Protein Knowledgebase in 2023. [2023] 10.1093/nar/gkac1052; Computational strategies to combat COVID-19: useful tools to accelerate SARS-CoV-2 and coronavirus research. [2021] 10.1093/bib/bbaa232; UniProt: the universal protein knowledgebase in 2021. [2021] 10.1093/nar/gkaa1100 (+40 more)
+  only on sib.swiss (1): Annotation of biologically relevant ligands in UniProtKB using ChEBI [] 10.1101/2022.08.19.504519
+
+Nikolai Romashchenko (0000-0002-2264-5219) - verified
+  ORCID works: 9, sib.swiss papers: 3, shared: 2
+  SIB employment on record: yes
+  only on ORCID (7): EPIK: precise and scalable evolutionary placement with informative k-mers [2023] 10.1093/bioinformatics/btad692; Computing Phylo-k-Mers [2023] 10.1109/tcbb.2023.3278049; Computing informative k-mers for phylogenetic placement [2021]; Rapid screening and detection of inter-type viral recombinants using phylo-k-mers [2021] 10.1093/bioinformatics/btaa1020; PEWO: a collection of workflows to benchmark phylogenetic placement [2021] 10.1093/bioinformatics/btaa657 (+2 more)
+  only on sib.swiss (1): Correction: Reconstructing Evolutionary Histories with Hierarchical Orthologous Groups. [] 10.1007/s00239-025-10298-w
+
+Océane Follonier (0009-0002-2577-1808) - verified
+  ORCID works: 8, sib.swiss papers: 5, shared: 5
+  SIB employment on record: yes
+  only on ORCID (3): Capabilities, specificity gaps and training-data dependence of AlphaFold3 across diverse application areas [2026] 10.64898/2026.07.13.738147; OFF-Target Effects of Mycophenolic Acid on BK Polyomavirus Replication in Primary Human Renal Proximal Tubular Epithelial Cells [2026] 10.64898/2026.01.21.700791; TCR clustering by contrastive learning on antigen specificity [2024] 10.1093/bib/bbae375
+
+Orlin Topalov (0009-0009-2548-7947) - unverified
+  ORCID works: 0, sib.swiss papers: 0, shared: 0
+  SIB employment on record: yes
+
+Owen Appleton (0000-0002-2571-6860) - unverified
+  ORCID works: 7, sib.swiss papers: 0, shared: 0
+  SIB employment on record: yes
+  only on ORCID (7): FitSM - IT Service Management for federated human data nodes [2025] 10.5281/zenodo.17609502; FitSM-0 Overview and vocabulary [2025] 10.5281/zenodo.17816437; FitSM-3 Role model [2024] 10.5281/zenodo.17818107; FitSM-1 Requirements [2024] 10.5281/zenodo.17816612; FitSM-2 Process activities and implementation [2023] 10.5281/zenodo.17816912 (+2 more)
+
+Panayiotis Smeros (0009-0004-5814-5824) - unverified
+  ORCID works: 0, sib.swiss papers: 0, shared: 0
+  SIB employment on record: yes
+
+Paolo Angelino (0000-0002-1037-2823) - verified
+  ORCID works: 164, sib.swiss papers: 11, shared: 5
+  SIB employment on record: yes
+  only on ORCID (159): Integrative analysis of transcriptomic data reveals a predictive gene signature for chemoradiotherapy response in rectal cancer [2026] 10.1016/j.isci.2025.114455; Supplementary Figures S1-S22 from C/EBPα Confers Dependence to Fatty Acid Anabolic Pathways and Vulnerability to Lipid Oxidative Stress–Induced Ferroptosis in <i>FLT3</i>-Mutant Leukemia [2025] 10.1158/2159-8290.30859352; Supplementary Information v.2 from C/EBPα Confers Dependence to Fatty Acid Anabolic Pathways and Vulnerability to Lipid Oxidative Stress–Induced Ferroptosis in <i>FLT3</i>-Mutant Leukemia [2025] 10.1158/2159-8290.30859349; Supplementary Table S1 from C/EBPα Confers Dependence to Fatty Acid Anabolic Pathways and Vulnerability to Lipid Oxidative Stress–Induced Ferroptosis in <i>FLT3</i>-Mutant Leukemia [2025] 10.1158/2159-8290.30859343; Supplementary Table S10 from C/EBPα Confers Dependence to Fatty Acid Anabolic Pathways and Vulnerability to Lipid Oxidative Stress–Induced Ferroptosis in <i>FLT3</i>-Mutant Leukemia [2025] 10.1158/2159-8290.30859340 (+154 more)
+  only on sib.swiss (6): Exploring m6A and m5C Epitranscriptomes upon Viral Infection: an Example with HIV. [] 10.3791/62426; Africa-specific human genetic variation near CHD1L associates with HIV-1 load. [] 10.1038/s41586-023-06370-4; Author Correction: Africa-specific human genetic variation near CHD1L associates with HIV-1 load. [] 10.1038/s41586-023-06591-7; Reporting of somatic variants in clinical cancer care: recommendations of the Swiss Society of Molecular Pathology. [] 10.1007/s00428-024-03951-0; Human blood cell transcriptomics unveils dynamic systemic immune modulation along colorectal cancer progression. [] 10.1136/jitc-2024-009888 (+1 more)
+
+Parit Bansal (0000-0002-0875-1680) - verified
+  ORCID works: 7, sib.swiss papers: 4, shared: 2
+  SIB employment on record: yes
+  only on ORCID (5): UniProt: the universal protein knowledgebase in 2021 [2021] 10.1093/nar/gkaa1100; Enzyme annotation in UniProtKB using Rhea [2019] 10.1101/709899; UniProt: a worldwide hub of protein knowledge. [2019] 10.1093/nar/gky1049; UniProtKB/Swiss-Prot, the Manually Annotated Section of the UniProt KnowledgeBase: How to Use the Entry View. [2016] 10.1007/978-1-4939-3167-5_2; UniProt: a hub for protein information. [2014] 10.1093/nar/gku989
+  only on sib.swiss (2): Diverse Taxonomies for Diverse Chemistries: Enhanced Representation of Natural Product Metabolism in UniProtKB. [] 10.3390/metabo11010048; SwissBioPics-an interactive library of cell images for the visualization of subcellular location data. [] 10.1093/database/baac026
+
+Pascale Gaudet (0000-0003-1813-6857) - verified
+  ORCID works: 68, sib.swiss papers: 15, shared: 12
+  SIB employment on record: yes
+  only on ORCID (56): The Gene Ontology knowledgebase in 2026 [2026] 10.1093/nar/gkaf1292; The Gene Ontology knowledgebase in 2023 [2023] 10.1093/genetics/iyad031; The Gene Ontology resource: enriching a GOld mine. [2021] 10.1093/nar/gkaa1113; A GO catalogue of human DNA-binding transcription factors [2020] 10.1101/2020.10.28.359232; Gene Ontology Causal Activity Modeling (GO-CAM) moves beyond GO annotations to structured descriptions of biological functions and systems [2019] 10.1038/s41588-019-0500-1 (+51 more)
+  only on sib.swiss (3): DisProt in 2022: improved quality and accessibility of protein intrinsic disorder annotation. [] 10.1093/nar/gkab1082; Missing Links Between Gene Function and Physiology in Genomics. [] 10.3389/fphys.2022.815874; Dynamic Retrieval Augmented Generation of Ontologies using Artificial Intelligence (DRAGON-AI). [] 10.1186/s13326-024-00320-3
+
+Patricia Fernandez Pinilla (0009-0008-1334-9726) - unverified
+  ORCID works: 0, sib.swiss papers: 0, shared: 0
+  SIB employment on record: yes
+
+Patricia Palagi (0000-0001-9062-6303) - verified
+  ORCID works: 63, sib.swiss papers: 12, shared: 11
+  SIB employment on record: yes
+  only on ORCID (52): Characterization of heterogeneous bioinformatics training needs in the AI era [2026] 10.64898/2026.10.22.761024; The FAIR guiding principles for training materials [2026] 10.31222/osf.io/8tzq5_v2; The FAIR guiding principles for training materials [2026] 10.31222/osf.io/8tzq5_v1; Using Glittr.org to find, compare and re-use online materials for training and education [2024] 10.1101/2024.08.20.608021; BY-COVID D6.1 Stakeholder engagement report [2024] 10.5281/zenodo.12820912 (+47 more)
+  only on sib.swiss (1): Ten simple rules for suggesting reviewers during a paper submission. [] 10.1371/journal.pcbi.1014780
+
+Patrick Masson (0000-0001-7646-0052) - verified
+  ORCID works: 42, sib.swiss papers: 4, shared: 2
+  SIB employment on record: yes
+  only on ORCID (40): UniRule: a unified rule resource for automatic annotation in the UniProt Knowledgebase. [2021] 10.1093/bioinformatics/btaa663; The Gene Ontology resource: enriching a GOld mine. [2021] 10.1093/nar/gkaa1113; UniProt: the universal protein knowledgebase in 2021. [2021] 10.1093/nar/gkaa1100; [ViralZone : digitalizing for knowledge sharing]. [2020] 10.1684/vir.2020.0873; Enzyme annotation in UniProtKB using Rhea. [2020] 10.1093/bioinformatics/btz817 (+35 more)
+  only on sib.swiss (2): A Coordinated Approach by Public Domain Bioinformatics Resources to Aid the Fight Against Alzheimer's Disease Through Expert Curation of Key Protein Targets. [] 10.3233/jad-200206; ViralZone 2024 provides higher-resolution images and advanced virus-specific resources. [] 10.1093/nar/gkad946
+
+Patrick Ruch (0000-0002-3374-2962) - verified
+  ORCID works: 120, sib.swiss papers: 21, shared: 19
+  SIB employment on record: yes
+  only on ORCID (101): Dataset Publication Standards: Community Lessons from a Multi-Stakeholder Workshop on FAIR Implementation [2026] 10.5334/dsj-2026-038; How Biodiversity PMC can support literature search for biodiversity research ? [2026] 10.5194/wbf2026-511; The Role of AI in IPBES Assessments and Biodiversity Literature Analysis - hype or Salvation? [2026] 10.5194/wbf2026-968; BITEM at the NTCIR-19 R2C2 Task: Predicting Confidence from Agentic RAG Pipeline Signals [2026] 10.48550/arxiv.2609.37993; DisProt in 2026: enhancing intrinsically disordered proteins accessibility, deposition, and annotation. [2025] 10.1093/nar/gkaf1175 (+96 more)
+  only on sib.swiss (2): Text-Mining Services of the Swiss Variant Interpretation Platform for Oncology. [] 10.3233/shti200288; Machine Learning for Automatic Encoding of French Electronic Medical Records: Is More Data Better? [] 10.3233/shti200173
+
+Philippe Le Mercier (0000-0001-8528-090X) - verified
+  ORCID works: 47, sib.swiss papers: 12, shared: 11
+  SIB employment on record: yes
+  only on ORCID (36): DisProt in 2024: improving function annotation of intrinsically disordered proteins. [2024] 10.1093/nar/gkad928; UniProt: the Universal Protein Knowledgebase in 2023. [2023] 10.1093/nar/gkac1052; The Gene Ontology resource: enriching a GOld mine [2021] 10.1093/nar/gkaa1113; UniProt: the universal protein knowledgebase in 2021 [2021] 10.1093/nar/gkaa1100; Characterization and mutagenesis of Chinese hamster ovary cells endogenous retroviruses to inactivate viral particle release [2020] 10.1002/bit.27200 (+31 more)
+  only on sib.swiss (1): External quality assessment of SARS-CoV-2-sequencing: An ESGMD-SSM pilot trial across 15 European laboratories. [] 10.1128/jcm.01698-21
+
+Rainer Krug (0000-0002-7490-0066) - unverified
+  ORCID works: 140, sib.swiss papers: 0, shared: 0
+  SIB employment on record: yes
+  only on ORCID (140): IPBES TCA-Nexus approaches-actions linking pipeline [2026] 10.5281/zenodo.22687427; The TCA Corpus: A Comprehensive Literature Resource from the IPBES Transformative Change Assessment [version 1; peer review: awaiting peer review] [2026] 10.12688/f1000research.180654.1; Literature workflows from search to analysis – Workshop report [2026] 10.5281/zenodo.20811703; The Role of AI in IPBES Assessments and Biodiversity Literature Analysis - hype or Salvation [2026] 10.5281/zenodo.20813233; Building Together: The SIB — Senckenberg Collaboration [2026] 10.5281/zenodo.20810526 (+135 more)
+
+Robert Waterhouse (0000-0003-4199-9052) - verified
+  ORCID works: 136, sib.swiss papers: 53, shared: 36
+  SIB employment on record: yes
+  only on ORCID (100): The Molecular Programme of the Biphasic Isopod Moult: A Transcriptomic Chimera [2026] 10.64898/2026.08.02.742273; Convergent gene family evolution underpins repeated transitions to metamorphic development across Pancrustacea [2026] 10.64898/2026.05.06.723392; TaxonMatch: taxonomic integration and tree construction from heterogeneous biological databases [2026] 10.64898/2026.03.18.712418; Literature mining of species traits integrated with genomics to transform biodiversity modelling [2026] 10.5194/wbf2026-395; Reference genomes: practical and powerful resources transforming the toolkit for genetic monitoring [2026] 10.5194/wbf2026-785 (+95 more)
+  only on sib.swiss (17): Brain microRNAs among social and solitary bees. [] 10.1098/rsos.200517; The Genome of the Blind Soil-Dwelling and Ancestrally Wingless Dipluran Campodea augens: A Key Reference Hexapod for Studying the Emergence of Insect Innovations. [] 10.1093/gbe/evz260; Hemocyte-targeted gene expression in the female malaria mosquito using the hemolectin promoter from Drosophila. [] 10.1016/j.ibmb.2020.103339; Genome-enabled insights into the biology of thrips as crop pests. [] 10.1186/s12915-020-00862-9; Evolutionary superscaffolding and chromosome anchoring to improve Anopheles genome assemblies. [] 10.1186/s12915-019-0728-3 (+12 more)
+
+Robin Engler (0009-0001-7090-6196) - unverified
+  ORCID works: 0, sib.swiss papers: 1, shared: 0
+  SIB employment on record: yes
+  only on sib.swiss (1): Bryophytes are predicted to lag behind future climate change despite their high dispersal capacities. [] 10.1038/s41467-020-19410-8
+
+Sabine Österle (0000-0003-3248-7899) - verified
+  ORCID works: 33, sib.swiss papers: 11, shared: 9
+  SIB employment on record: yes
+  only on ORCID (24): The Swiss Personalized Health Network FAIR Data Point: Bridging Semantic Interoperability and User-Friendly Metadata Discovery [2026] 10.20944/preprints202610.0874.v1; Five Years of the SPHN RDF Journey: FAIR Enough? [2026] 10.20944/preprints202510.1783.v2; Seeing is believing - FAIR metadata for medical imaging data in the SPHN Semantic Interoperability Framework [2026] 10.21203/rs.3.rs-8901680/v1; The SPHN Metadata Catalog: A platform for health data discovery and exploration based on FAIR principles (Preprint) [2025] 10.2196/preprints.90146; Efficient Querying of Federated Large-Scale Clinical RDF Knowledge Graphs in the Swiss Personalized Health Network [2025] 10.20944/preprints202512.1909.v1 (+19 more)
+  only on sib.swiss (2): Application of qualifying variants for genomic analysis. [] 10.1093/bioinformatics/btaf676; SPHN Connector - a scalable pipeline for generating validated knowledge graphs from federated and semantically enriched health data. [] 10.1186/s12911-026-03383-7
+
+Samuel Neuenschwander (0000-0002-4080-5546) - verified
+  ORCID works: 47, sib.swiss papers: 11, shared: 9
+  SIB employment on record: yes
+  only on ORCID (38): Microbiome variations in osteoarthritis reflect aging and metabolic factors, not the disease [2025] 10.1101/2025.06.24.661261; Fighting<i>Aspergillus</i>infection using biocontrol bacteria: A proof-of-concept of environmental interference in a translational setting [2025] 10.1101/2025.03.27.645790; Prevalence of Oxalotrophy in the Human Microbiome [2025] 10.1101/2025.03.24.644979; Melanin and Neurotransmitter Signalling Genes Are Differentially Co‐Expressed in Growing Feathers of White and Rufous Barn Owls [2025] 10.1111/pcmr.70001; One-Step Soft Agar Enrichment and Isolation of Human Lung Bacteria Inhibiting the Germination of <i>Aspergillus fumigatus</i> Conidia [2024] 10.3390/microorganisms12102025 (+33 more)
+  only on sib.swiss (2): NGS-Based S. aureus Typing and Outbreak Analysis in Clinical Microbiology Laboratories: Lessons Learned From a Swiss-Wide Proficiency Test []; External quality assessment of SARS-CoV-2-sequencing: An ESGMD-SSM pilot trial across 15 European laboratories. [] 10.1128/jcm.01698-21
+
+Santiago Carmona (0000-0002-2495-0671) - verified
+  ORCID works: 68, sib.swiss papers: 24, shared: 12
+  SIB employment on record: yes
+  only on ORCID (56): Evaluating cell type annotations in single-cell omics in the absence of ground truth [2026] 10.64898/2026.06.10.731285; Cell type composition drives patient stratification in single-cell RNA-seq cohorts [2026] 10.64898/2026.03.27.714811; Metabolic reinvigoration of NK cells by IL-21 enhances immunotherapy against MHC-I deficient solid tumors [2025] 10.1101/2025.03.19.643961; ECM Signatures Reveal Quiescent Stem Cell Diversity in the Colonic Niche [2025] 10.1101/2025.01.13.632868; What is a cell type? conceptual and operational definitions in the single-cell omics era [2024] 10.6084/m9.figshare.28071140 (+51 more)
+  only on sib.swiss (12): Dissecting the treatment-naive ecosystem of human melanoma brain metastasis. [] 10.1016/j.cell.2022.06.007; Metacells untangle large and complex single-cell transcriptome networks. [] 10.1186/s12859-022-04861-1; T Cell Clonal Analysis Using Single-cell RNA Sequencing and Reference Maps. [] 10.21769/bioprotoc.4735; Activation of the transcription factor NFAT5 in the tumor microenvironment enforces CD8+ T cell exhaustion. [] 10.1038/s41590-023-01614-x; IL-10-expressing CAR T cells resist dysfunction and mediate durable clearance of solid tumors and metastases. [] 10.1038/s41587-023-02060-8 (+7 more)
+
+Shinichi Sunagawa (0000-0003-3065-0314) - likely
+  ORCID works: 189, sib.swiss papers: 55, shared: 47
+  SIB employment on record: no
+  only on ORCID (142): Synergistic degradation of fucoidans in the ocean [2026] 10.1038/s41586-026-10980-z; Genomically and ecologically cohesive subspecies as biologically meaningful units in the global ocean microbiome [2026] 10.64898/2026.09.29.755032; Comprehensive analysis of ammonia and biogenic amines in ecologically diverse systems with high-resolution mass spectrometry [2026] 10.64898/2026.09.22.753493; Biphasic bacterial community assembly predicted from generalized first principles of monoculture growth and inferred species interactions [2026] 10.64898/2026.07.10.737752; Meiotic pairing through barcode-like satellite DNA repeats [2026] 10.1038/s41467-026-74398-x (+137 more)
+  only on sib.swiss (8): Variations in the latitudinal diversity gradients of the ocean microbiome [] 10.1101/2025.10.13.682024; Extensive data mining uncovers novel diversity among members of the rare biosphere within the Thermoplasmatota. [] 10.1186/s40168-025-02140-8; Nitrogen fixation rates increase with diazotroph richness in the global ocean. [] 10.1038/s41598-026-61132-2; Variations in the latitudinal diversity gradients of the ocean microbiome. [] 10.1016/j.chom.2026.05.016; Fecal microbiome of patients with ulcerative colitis reflects their phenotype and inflammatory level. [] 10.1038/s41598-026-44895-6 (+3 more)
+
+Shubham Kapoor (0000-0001-7423-940X) - unverified
+  ORCID works: 5, sib.swiss papers: 3, shared: 0
+  SIB employment on record: yes
+  only on ORCID (5): Versatile Trusted Research Environments: An  approach for Switzerland [2024] 10.5281/zenodo.14012894; EOSC-Life Initial EOSC-LS Cloud Observatory Report [2020] 10.5281/zenodo.4010420; CINECA: Report on trust model for partner sites, and between sites and controlled-access researchers [2020] 10.5281/zenodo.3909521; Collection of Management Plane Performance Data []; Management Plane Performance Indication Transfer []
+  only on sib.swiss (3): Computational design of soluble and functional membrane protein analogues. [] 10.1038/s41586-024-07601-y; Structures of a synthetic antibody selected against and bound to the C-terminal domain of Clostridium perfringens enterotoxin. [] 10.1002/pro.70281; One-shot design of functional protein binders with BindCraft. [] 10.1038/s41586-025-09429-6
+
+Shyamala Sundaram (0000-0003-4209-460X) - unverified
+  ORCID works: 0, sib.swiss papers: 1, shared: 0
+  SIB employment on record: yes
+  only on sib.swiss (1): A Coordinated Approach by Public Domain Bioinformatics Resources to Aid the Fight Against Alzheimer's Disease Through Expert Curation of Key Protein Targets. [] 10.3233/jad-200206
+
+Simone Guzzi (0009-0008-4201-0289) - unverified
+  ORCID works: 0, sib.swiss papers: 0, shared: 0
+  SIB employment on record: yes
+
+Sylvain Poux (0000-0001-7299-6685) - verified
+  ORCID works: 49, sib.swiss papers: 5, shared: 5
+  SIB employment on record: yes
+  only on ORCID (44): A compendium of human gene functions derived from evolutionary modelling. [2025] 10.1038/s41586-025-08592-0; UniProt: the Universal Protein Knowledgebase in 2025. [2025] 10.1093/nar/gkae1010; FAIR adoption, assessment and challenges at UniProt. [2019] 10.1038/s41597-019-0180-9; An enhanced workflow for variant interpretation in UniProtKB/Swiss-Prot improves consistency and reuse in ClinVar [2019] 10.1093/database/baz040; Annotation of gene product function from high-throughput studies using the Gene Ontology. [2019] 10.1093/database/baz007 (+39 more)
+
+Thomas Junier (0000-0002-4015-5969) - verified
+  ORCID works: 70, sib.swiss papers: 9, shared: 4
+  SIB employment on record: yes
+  only on ORCID (66): Novel oxalate-carbonate pathways identified in the tropical dry evergreen forest of Tamil Nadu, India [2025] 10.5194/bg-22-6979-2025; Termal: a fast and interactive terminal-based viewer for multiple sequence alignments [2025] 10.1093/bioadv/vbaf208; Fighting Aspergillus infection using biocontrol bacteria: A proof-of-concept of environmental interference in a translational setting [2025] 10.1101/2025.03.27.645790; One-Step Soft Agar Enrichment and Isolation of Human Lung Bacteria Inhibiting the Germination of Aspergillus fumigatus Conidia [2024] 10.3390/microorganisms12102025; Assessment of Fungal spores and spore-like diversity in Environmental Samples by Targeted Lysis [2022] 10.21203/rs.3.rs-2154972/v1 (+61 more)
+  only on sib.swiss (5): Virosaurus A Reference to Explore and Capture Virus Genetic Diversity. [] 10.3390/v12111248; Blood virosphere in febrile Tanzanian children. [] 10.1080/22221751.2021.1925161; Cryptosporulation in Kurthia spp. forces a rethinking of asporogenesis in Firmicutes. [] 10.1111/1462-2920.16145; Viral genetic determinants of prolonged respiratory syncytial virus infection among infants in a healthy term birth cohort. [] 10.1093/infdis/jiac442; Assessment of fungal spores and spore-like diversity in environmental samples by targeted lysis. [] 10.1186/s12866-023-02809-w
+
+Thomas Roder (0000-0002-6642-6288) - likely
+  ORCID works: 13, sib.swiss papers: 6, shared: 4
+  SIB employment on record: no
+  only on ORCID (9): Metabolic profiling reveals enrichment of health-related metabolites in yoghurt by variation of strain consortium [2025] 10.1016/j.fbio.2025.107047; Maternal consumption of yoghurt activating the aryl hydrocarbon receptor increases group 3 innate lymphoid cells in murine offspring [2024] 10.1128/spectrum.00393-24; Scoary2:Rapid association of phenotypic multi-omics data with microbial pan-genomes [2023] 10.1101/2023.04.19.537353; Decoding Microbial Genomes: Novel User-Friendly Tools Applied to Fermented Foods [2023]; OpenGenomeBrowser: A versatile, dataset-independent and scalable web platform for genome data management and comparative genomics [2022] 10.1101/2022.07.19.500583 (+4 more)
+  only on sib.swiss (2): BALDR: A Web-based platform for informed comparison and prioritization of biomarker candidates for type 2 diabetes mellitus. [] 10.1371/journal.pcbi.1011403; Non-canonical phage-bacterium interactions during topical phage therapy in the PhagoBurn clinical trial: a retrospective, observational, reverse translational study. [] 10.1016/j.lanmic.2026.101470
+
+Torsten Schwede (0000-0003-2715-335X) - likely
+  ORCID works: 153, sib.swiss papers: 42, shared: 35
+  SIB employment on record: no
+  only on ORCID (118): Stoic: Fast and accurate protein stoichiometry prediction [2026] 10.64898/2026.03.13.711535; Rewriting protein alphabets with language models [2025] 10.1101/2025.11.27.690975; Have protein-ligand cofolding methods moved beyond memorisation? [2025] 10.21203/rs.3.rs-7311192/v1; Scalable Genomic Context Analysis with GCsnap2 on HPC Clusters [2025] 10.1145/3732775.3733579; Impact of Human Genetic Variation Underlying Resistance to Antigen-Specific Immunotherapy [2025] 10.1101/2025.05.02.651174 (+113 more)
+  only on sib.swiss (7): QMEANDisCo-distance constraints applied on model quality estimation. [] 10.1093/bioinformatics/btaa058; Protein target highlights in CASP15: Analysis of models by structure providers. [] 10.1002/prot.26545; Epitope Engineered Human Haematopoietic Stem Cells are Shielded from CD123-targeted Immunotherapy [] 10.1101/2023.07.11.547391; IHMCIF: An Extension of the PDBx/mmCIF Data Standard for Integrative Structure Determination Methods. [] 10.1016/j.jmb.2024.168546; Protein Target Highlights in CASP16: Insights From the Structure Providers. [] 10.1002/prot.70025 (+2 more)
+
+Ute Roehrig (0000-0002-4676-4087) - unverified
+  ORCID works: 46, sib.swiss papers: 0, shared: 0
+  SIB employment on record: yes
+  only on ORCID (46): Attracting Cavities 3.0: faster and more versatile molecular docking for the SwissDock webserver [2026] 10.1093/bioinformatics/btag466; Attracting Cavities 3.0: Faster and More Versatile Molecular Docking for the SwissDock Webserver [2026] 10.64898/2026.04.21.719847; Exploration of Agonist and Antagonist Binding Sites within the Cytosolic AHR Complex Using Molecular Modeling [2026] 10.1021/acsomega.5c10598; Comparative Assessment of the Utility of Co-Folding and Docking for Small-Molecule Drug Design [2025] 10.64898/2025.12.09.693161; Hybrid quantum/classical docking of covalent and non-covalent ligands with Attracting Cavities [2025] 10.1038/s41598-025-24614-3 (+41 more)
+
+Valentyn Bezshapkin (0000-0002-0912-4371) - unverified
+  ORCID works: 7, sib.swiss papers: 1, shared: 0
+  SIB employment on record: yes
+  only on ORCID (7): Scaling and democratising structure-based protein function prediction with metagenomic-deepFRI [2026] 10.64898/2026.04.27.720983; Uncovering Cas9 PAM diversity through metagenomic mining and machine learning [2025] 10.1101/2025.08.13.668647; Determinants of the microbiome spatial variability in chronic rhinosinusitis [2023] 10.4193/rhin22.423; Comprehensive Functional Annotation of Metagenomes and Microbial Genomes Using a Deep Learning-Based Method [2023] 10.1128/msystems.01178-22; Treatment With Multi-Species Probiotics Changes the Functions, Not the Composition of Gut Microbiota in Postmenopausal Women With Obesity: A Randomized, Double-Blind, Placebo-Controlled Study [2022] 10.3389/fcimb.2022.815798 (+2 more)
+  only on sib.swiss (1): Scikit-bio: a fundamental Python library for biological omic data analysis. [] 10.1038/s41592-025-02981-z
+
+Valeria Di Cola (0000-0003-2925-8366) - verified
+  ORCID works: 13, sib.swiss papers: 1, shared: 1
+  SIB employment on record: yes
+  only on ORCID (12): Characterization of heterogeneous bioinformatics training needs in the AI era [2026] 10.64898/2026.10.22.761024; The ELIXIR Biodiversity Community: Understanding short- and long-term changes in biodiversity [2024] 10.12688/f1000research.133724.2; NCCR Robotics Research Data Management Strategy: A Workflow Application [2022] 10.55790/journals/ressi.2022.espe0205; Hybridization and hybrid zone stability between two lizards explained by population genetics and niche quantification [2020] 10.1093/zoolinnean/zlaa018; Climate and land-use changes reshuffle politically-weighted priority areas of mountain biodiversity [2019] 10.1016/j.gecco.2019.e00589 (+7 more)
+
+Valérie Barbié (0009-0006-8085-9393) - verified
+  ORCID works: 19, sib.swiss papers: 6, shared: 4
+  SIB employment on record: yes
+  only on ORCID (15): SwissGenVar: A platform for clinical grade interpretation of genetic variants to foster personalized health care in Switzerland [2023] 10.1101/2023.01.11.22283790; NGS-Based S. aureus Typing and Outbreak Analysis in Clinical Microbiology Laboratories: Lessons Learned From a Swiss-Wide Proficiency Test [2020] 10.3389/fmicb.2020.591093; Annotation and curation of human genomic variations: an ELIXIR Implementation Study [2020] 10.12688/f1000research.24427.1; Viral Metagenomics in the Clinical Realm: Lessons Learned from a Swiss-Wide Ring Trial [2019] 10.3390/genes10090655; Swiss Variant Interpretation Platform for Oncology (SVIP-O) [2018] 10.4414/smi.34.00411 (+10 more)
+  only on sib.swiss (2): NGS-Based S. aureus Typing and Outbreak Analysis in Clinical Microbiology Laboratories: Lessons Learned From a Swiss-Wide Proficiency Test []; FAIR in practice: minimum metadata schema for bioinformatics analytics by machines. [] 10.1186/s13326-026-00354-9
+
+Vassilios Ioannidis (0000-0002-4209-2578) - verified
+  ORCID works: 34, sib.swiss papers: 10, shared: 10
+  SIB employment on record: yes
+  only on ORCID (24): INTOXICOM Workshop Report: Advancing FAIR toxicology research output across Europe: ELIXIR & FAIRsharing studies [2026] 10.37044/osf.io/64dfv_v1; FAIRplus: eTOX Case Study - Opening up toxicology data about candidate drugs [2021] 10.5281/zenodo.5786675; FAIRness Literacy: The Achilles’ Heel of Applying FAIR Principles [2020] 10.5334/dsj-2020-032; Avoiding the pitfalls of gene set enrichment analysis with SetRank [2017] 10.1186/s12859-017-1571-6; The ISMARA client [2016] 10.12688/f1000research.9794.1 (+19 more)
+
+Vasundra Touré (0000-0003-4639-4431) - verified
+  ORCID works: 29, sib.swiss papers: 9, shared: 6
+  SIB employment on record: yes
+  only on ORCID (23): The Swiss Personalized Health Network FAIR Data Point: Bridging Semantic Interoperability and User-Friendly Metadata Discovery [2026] 10.20944/preprints202610.0874.v1; Five Years of the SPHN RDF Journey: FAIR Enough? [2026] 10.20944/preprints202510.1783.v2; Seeing is believing - FAIR metadata for medical imaging data in the SPHN Semantic Interoperability Framework [2026] 10.21203/rs.3.rs-8901680/v1; The SPHN Metadata Catalog: A platform for health data discovery and exploration based on FAIR principles (Preprint) [2025] 10.2196/preprints.90146; Efficient Querying of Federated Large-Scale Clinical RDF Knowledge Graphs in the Swiss Personalized Health Network [2025] 10.20944/preprints202512.1909.v1 (+18 more)
+  only on sib.swiss (3): The Minimum Information about a Molecular Interaction Causal Statement (MI2CAST). [] 10.1093/bioinformatics/btaa622; The SPHN Schema Forge - transform healthcare semantics from human-readable to machine-readable by leveraging semantic web technologies. [] 10.1186/s13326-025-00330-9; SPHN Connector - a scalable pipeline for generating validated knowledge graphs from federated and semantically enriched health data. [] 10.1186/s12911-026-03383-7
+
+Vincent Emonet (0000-0002-1501-1082) - verified
+  ORCID works: 10, sib.swiss papers: 1, shared: 1
+  SIB employment on record: yes
+  only on ORCID (8): SPARQL-LLM: Real-Time SPARQL Query Generation from Natural Language Questions [2026] 10.1145/3847195; A User-Friendly SPARQL Query Editor Powered by Lightweight Metadata [2026] 10.1007/978-3-031-99554-5_1; Structured Prompt Interrogation and Recursive Extraction of Semantics (SPIRES) [2024] 10.1093/bioinformatics/btae104; Generating Knowledge Graph Based Explanations for Drug Repurposing Predictions [2023]; A comprehensive comparison of automated FAIRness Evaluation Tools [2022] (+3 more)
+
+Vincent Roh (0009-0000-8623-2512) - unverified
+  ORCID works: 14, sib.swiss papers: 5, shared: 0
+  SIB employment on record: yes
+  only on ORCID (13): Bcl-xL targeting eliminates ageing tumor-promoting neutrophils and inhibits lung tumor growth [2024]; CD40 agonist targeted to fibroblast activation protein $α$ synergizes with radiotherapy in murine HPV-positive head and neck tumors [2021]; Vaccination with a nanoparticle E7 vaccine can prevent tumor recurrence following surgery in a human papillomavirus head and neck cancer model [2021]; The transcription factor FOXM1 regulates the balance between proliferation and aberrant differentiation in head and neck squamous cell carcinoma [2020]; Cellular barcoding identifies clonal substitution as a hallmark of local recurrence in a surgical model of head and neck squamous cell carcinoma [2018] (+8 more)
+  only on sib.swiss (5): CD40 Agonist Targeted to Fibroblast Activation Protein α Synergizes with Radiotherapy in Murine HPV-Positive Head and Neck Tumors. [] 10.1158/1078-0432.ccr-20-4717; Reciprocal inhibition of NOTCH and SOX2 shapes tumor cell plasticity and therapeutic escape in triple-negative breast cancer. [] 10.1038/s44321-024-00161-8; Divergent molecular pathways drive monomorphic epitheliotropic and enteropathy-associated intestinal T-cell lymphoma. [] 10.1038/s41375-025-02777-2; Correction: Divergent molecular pathways drive monomorphic epitheliotropic and enteropathy-associated intestinal T-cell lymphoma. [] 10.1038/s41375-025-02808-y; Tumor-derived aminopeptidase N promotes early stages of brain metastatic colonization. [] 10.1016/j.celrep.2025.116895
+
+Xavier Robin (0000-0002-6813-3200) - verified
+  ORCID works: 37, sib.swiss papers: 9, shared: 6
+  SIB employment on record: yes
+  only on ORCID (31): Assessment of Pharmaceutical Protein–Ligand Pose and Affinity Predictions in CASP16 [2026] 10.22541/au.174562565.51283311/v1; PLINDER: The protein-ligand interactions dataset and evaluation resource [2024] 10.1101/2024.07.17.603955; The SWISS‐MODEL Repository of 3D Protein Structures and Models [2024] 10.1002/9783527830497.ch6; New prediction categories in CASP15 [2023] 10.22541/au.168371643.39402261/v1; Continuous Automated Model EvaluatiOn (CAMEO)—Perspectives on the future of fully automated evaluation of structure prediction methods [2021] 10.22541/au.162255861.14583323/v1 (+26 more)
+  only on sib.swiss (3): Continuous Automated Model EvaluatiOn (CAMEO)-Perspectives on the future of fully automated evaluation of structure prediction methods. [] 10.1002/prot.26213; New prediction categories in CASP15. [] 10.1002/prot.26515; Assessment of Pharmaceutical Protein-Ligand Pose and Affinity Predictions in CASP16. [] 10.1002/prot.70061
+
+Zoltán Kutalik (0000-0001-8285-7523) - verified
+  ORCID works: 343, sib.swiss papers: 108, shared: 79
+  SIB employment on record: yes
+  only on ORCID (264): Evaluating anonymized genome re-identification using polygenic predictions and its implications for data privacy [2026] 10.1038/s41467-026-78494-w; Sex-different phenotypic correlations: Due to genes or environment? [2026] 10.64898/2026.07.13.26357694; Advancing Clinical Implementation of Cardiovascular Polygenic Risk Scores Through Patient-Level Robustness Assessment [2026] 10.64898/2026.06.10.26355357; Evaluating anonymized genome re-identification using polygenic predictions and its implications for data privacy [2026] 10.64898/2026.06.10.731306; Comprehensive metabolite ratio QTL mapping reveals disease relevant enzyme biology [2025] 10.64898/2025.12.04.25341616 (+259 more)
+  only on sib.swiss (29): Correction: Socio-economic position as a moderator of cardiometabolic outcomes in patients receiving psychotropic treatment associated with weight gain: results from a prospective 12-month inception cohort study and a large population-based cohort. [] 10.1038/s41398-021-01520-6; Exploiting the mediating role of the metabolome to unravel transcript-to-phenotype associations [] 10.1101/2022.06.08.495285; PheWAS-based clustering of Mendelian Randomisation instruments reveals distinct mechanism-specific causal effects between obesity and educational attainment [] 10.1101/2023.04.06.23288264; Author Correction: Possible association of 16p11.2 copy number variation with altered lymphocyte and neutrophil counts. [] 10.1038/s41525-023-00354-z; Author Correction: The power of genetic diversity in genome-wide association studies of lipids. [] 10.1038/s41586-023-06194-2 (+24 more)
+
+summary: likely 9, verified 72
