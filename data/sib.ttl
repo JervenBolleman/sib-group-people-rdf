@@ -1228,7 +1228,7 @@
     schema:worksFor <https://ror.org/002n09z45> ;
     schema:memberOf <https://www.sib.swiss/swiss-prot> .
 
-<https://orcid.org/0009-0005-4104-256X>
+<https://www.sib.swiss/directory/person/andrea-brites-marto>
     a schema:Person ;
     schema:name "Andrea Brites Marto" ;
     schema:image <https://www.sib.swiss/fp/img/people/britesma.jpg> ;
@@ -1927,7 +1927,7 @@
     schema:worksFor <https://ror.org/002n09z45> ;
     schema:memberOf <https://www.sib.swiss/patrick-pedrioli-bernd-wollscheid-group> .
 
-<https://orcid.org/0009-0008-6151-1214>
+<https://www.sib.swiss/directory/person/boris-schnider>
     a schema:Person ;
     schema:name "Boris Schnider" ;
     schema:image <https://www.sib.swiss/fp/img/people/schnideb.jpg> ;
@@ -2773,7 +2773,7 @@
     schema:worksFor <https://ror.org/002n09z45> ;
     schema:memberOf <https://www.sib.swiss/anna-sapfo-malaspinas-group> .
 
-<https://orcid.org/0009-0000-0629-8870>
+<https://www.sib.swiss/directory/person/dillenn-terumalai>
     a schema:Person ;
     schema:name "Dillenn Terumalai" ;
     schema:image <https://www.sib.swiss/fp/img/people/terumald.jpg> ;
@@ -3329,7 +3329,7 @@
     schema:worksFor <https://ror.org/002n09z45> ;
     schema:memberOf <https://www.sib.swiss/vital-it> .
 
-<https://orcid.org/0009-0007-1142-4617>
+<https://www.sib.swiss/directory/person/florent-tassy>
     a schema:Person ;
     schema:name "Florent Tassy" ;
     schema:image <https://www.sib.swiss/fp/img/people/tassyf.jpg> ;
@@ -3462,7 +3462,7 @@
     schema:worksFor <https://ror.org/002n09z45> ;
     schema:memberOf <https://www.sib.swiss/frederique-lisacek-group> .
 
-<https://orcid.org/0000-0001-7048-7692>
+<https://www.sib.swiss/directory/person/frederic-schutz>
     a schema:Person ;
     schema:name "Frédéric Schütz" ;
     schema:image <https://www.sib.swiss/fp/img/people/schutzf.jpg> ;
@@ -3669,7 +3669,7 @@
     schema:worksFor <https://ror.org/002n09z45> ;
     schema:memberOf <https://www.sib.swiss/andreas-wagner-group> .
 
-<https://orcid.org/0000-0002-0065-5053>
+<https://www.sib.swiss/directory/person/gregoire-rossier>
     a schema:Person ;
     schema:name "Gregoire Rossier" ;
     schema:image <https://www.sib.swiss/fp/img/people/rossierg.jpg> ;
@@ -3704,7 +3704,7 @@
     schema:worksFor <https://ror.org/002n09z45> ;
     schema:memberOf <https://www.sib.swiss/abdullah-kahraman-group> .
 
-<https://orcid.org/0000-0002-2979-8613>
+<https://www.sib.swiss/directory/person/guilaine-argoud-puy>
     a schema:Person ;
     schema:name "Guilaine Argoud-Puy" ;
     schema:image <https://www.sib.swiss/fp/img/people/argoudg.jpg> ;
@@ -4499,7 +4499,7 @@
     schema:worksFor <https://ror.org/002n09z45> ;
     schema:memberOf <https://www.sib.swiss/pedro-beltrao-group> .
 
-<https://orcid.org/0000-0002-0731-2758>
+<https://www.sib.swiss/directory/person/julia-maurer>
     a schema:Person ;
     schema:name "Julia Maurer" ;
     schema:image <https://www.sib.swiss/fp/img/people/maurerj.jpg> ;
@@ -4622,7 +4622,7 @@
     schema:worksFor <https://ror.org/002n09z45> ;
     schema:memberOf <https://www.sib.swiss/claudia-bank-group> .
 
-<https://orcid.org/0000-0001-6702-1330>
+<https://www.sib.swiss/directory/person/julius-winter>
     a schema:Person ;
     schema:name "Julius Winter" ;
     schema:jobTitle "Computational biologist" ;
@@ -5319,7 +5319,7 @@
     schema:worksFor <https://ror.org/002n09z45> ;
     schema:memberOf <https://www.sib.swiss/christian-von-mering-group> .
 
-<https://orcid.org/0000-0002-8042-7965>
+<https://www.sib.swiss/directory/person/maciej-smialek>
     a schema:Person ;
     schema:name "Maciej Smialek" ;
     schema:image <https://www.sib.swiss/fp/img/people/smialekm.jpg> ;
@@ -5380,7 +5380,7 @@
     schema:worksFor <https://ror.org/002n09z45> ;
     schema:memberOf <https://www.sib.swiss/maria-anisimova-group> .
 
-<https://orcid.org/0000-0002-6857-5543>
+<https://www.sib.swiss/directory/person/manuela-pruess>
     a schema:Person ;
     schema:name "Manuela Pruess" ;
     schema:image <https://www.sib.swiss/fp/img/people/pruessm.jpg> ;
@@ -6192,7 +6192,7 @@
     schema:worksFor <https://ror.org/002n09z45> ;
     schema:memberOf <https://www.sib.swiss/swiss-prot> .
 
-<https://orcid.org/0000-0001-7961-6091>
+<https://www.sib.swiss/directory/person/monique-zahn>
     a schema:Person ;
     schema:name "Monique Zahn" ;
     schema:jobTitle "Biodata Resources Support Manager & Training Manager" ;
@@ -6245,7 +6245,7 @@
     schema:worksFor <https://ror.org/002n09z45> ;
     schema:memberOf <https://www.sib.swiss/emma-hodcroft-group> .
 
-<https://orcid.org/0000-0002-4699-4907>
+<https://www.sib.swiss/directory/person/nadine-gruaz>
     a schema:Person ;
     schema:name "Nadine Gruaz-Gumowski" ;
     schema:image <https://www.sib.swiss/fp/img/people/gruazn.jpg> ;
@@ -6281,7 +6281,7 @@
     schema:worksFor <https://ror.org/002n09z45> ;
     schema:memberOf <https://www.sib.swiss/christophe-dessimoz-natasha-glover-group> .
 
-<https://orcid.org/0009-0006-2942-3009>
+<https://www.sib.swiss/directory/person/nathan-kulling>
     a schema:Person ;
     schema:name "Nathan Külling" ;
     schema:image <https://www.sib.swiss/fp/img/people/kullingn.jpg> ;
@@ -6535,7 +6535,7 @@
     schema:worksFor <https://ror.org/002n09z45> ;
     schema:memberOf <https://www.sib.swiss/bart-deplancke-group> .
 
-<https://orcid.org/0009-0009-2548-7947>
+<https://www.sib.swiss/directory/person/orlin-topalov>
     a schema:Person ;
     schema:name "Orlin Topalov" ;
     schema:image <https://www.sib.swiss/fp/img/people/topalovo.jpg> ;
@@ -6552,7 +6552,7 @@
     schema:worksFor <https://ror.org/002n09z45> ;
     schema:memberOf <https://www.sib.swiss/fabio-rinaldi-group> .
 
-<https://orcid.org/0000-0002-2571-6860>
+<https://www.sib.swiss/directory/person/owen-appleton>
     a schema:Person ;
     schema:name "Owen Appleton" ;
     schema:jobTitle "Senior IT Services Manager" ;
@@ -6578,7 +6578,7 @@
     schema:worksFor <https://ror.org/002n09z45> ;
     schema:memberOf <https://www.sib.swiss/michael-stadler-group> .
 
-<https://orcid.org/0009-0004-5814-5824>
+<https://www.sib.swiss/directory/person/panayiotis-smeros>
     a schema:Person ;
     schema:name "Panayiotis Smeros" ;
     schema:image <https://www.sib.swiss/fp/img/people/smerosp.jpg> ;
@@ -6647,7 +6647,7 @@
     schema:worksFor <https://ror.org/002n09z45> ;
     schema:memberOf <https://www.sib.swiss/erik-van-nimwegen-group> .
 
-<https://orcid.org/0009-0008-1334-9726>
+<https://www.sib.swiss/directory/person/patricia-fernandezpinilla>
     a schema:Person ;
     schema:name "Patricia Fernandez Pinilla" ;
     schema:image <https://www.sib.swiss/fp/img/people/fernandp.jpg> ;
@@ -6736,7 +6736,7 @@
     schema:worksFor <https://ror.org/002n09z45> ;
     schema:memberOf <https://www.sib.swiss/jorg-stelling-group> .
 
-<https://www.sib.swiss/directory/person/paul-thomas>
+<https://orcid.org/0000-0002-9074-3507>
     a schema:Person ;
     schema:name "Paul Thomas" ;
     schema:image <https://www.sib.swiss/fp/img/people/thomasp.jpg> ;
@@ -6963,7 +6963,7 @@
     schema:worksFor <https://ror.org/002n09z45> ;
     schema:memberOf <https://www.sib.swiss/nadine-fournier-group> .
 
-<https://orcid.org/0000-0002-7490-0066>
+<https://www.sib.swiss/directory/person/rainer-krug>
     a schema:Person ;
     schema:name "Rainer Krug" ;
     schema:image <https://www.sib.swiss/fp/img/people/krugr.jpg> ;
@@ -7113,7 +7113,7 @@
     schema:worksFor <https://ror.org/002n09z45> ;
     schema:memberOf <https://www.sib.swiss/raphael-gottardo-group> .
 
-<https://orcid.org/0009-0001-7090-6196>
+<https://www.sib.swiss/directory/person/robin-engler>
     a schema:Person ;
     schema:name "Robin Engler" ;
     schema:image <https://www.sib.swiss/fp/img/people/englerr.jpg> ;
@@ -7555,7 +7555,7 @@
     schema:worksFor <https://ror.org/002n09z45> ;
     schema:memberOf <https://www.sib.swiss/shinichi-sunagawa-group> .
 
-<https://orcid.org/0000-0001-7423-940X>
+<https://www.sib.swiss/directory/person/shubham-kapoor>
     a schema:Person ;
     schema:name "Shubham Kapoor" ;
     schema:jobTitle "Lead BioMedIT Research IT services and Team" ;
@@ -7563,7 +7563,7 @@
     schema:worksFor <https://ror.org/002n09z45> ;
     schema:memberOf <https://www.sib.swiss/personalized-health-informatics> .
 
-<https://orcid.org/0000-0003-4209-460X>
+<https://www.sib.swiss/directory/person/shyamala-sundaram>
     a schema:Person ;
     schema:name "Shyamala Sundaram" ;
     schema:image <https://www.sib.swiss/fp/img/people/sundaras.jpg> ;
@@ -7605,7 +7605,7 @@
     schema:worksFor <https://ror.org/002n09z45> ;
     schema:memberOf <https://www.sib.swiss/francesco-gervasio-group> .
 
-<https://orcid.org/0009-0008-4201-0289>
+<https://www.sib.swiss/directory/person/simone-guzzi>
     a schema:Person ;
     schema:name "Simone Guzzi" ;
     schema:jobTitle "Software Developer" ;
@@ -8145,7 +8145,7 @@
     schema:worksFor <https://ror.org/002n09z45> ;
     schema:memberOf <https://www.sib.swiss/tanja-stadler-group> .
 
-<https://orcid.org/0000-0002-4676-4087>
+<https://www.sib.swiss/directory/person/ute-roehrig>
     a schema:Person ;
     schema:name "Ute Roehrig" ;
     schema:image <https://www.sib.swiss/fp/img/people/roehrigu.jpg> ;
@@ -8171,7 +8171,7 @@
     schema:worksFor <https://ror.org/002n09z45> ;
     schema:memberOf <https://www.sib.swiss/marc-robinson-rechavi-frederic-bastian-group> .
 
-<https://orcid.org/0000-0002-0912-4371>
+<https://www.sib.swiss/directory/person/valentyn-bezshapkin>
     a schema:Person ;
     schema:name "Valentyn Bezshapkin" ;
     schema:image <https://www.sib.swiss/fp/img/people/bezshapv.jpg> ;
@@ -8294,7 +8294,7 @@
     schema:worksFor <https://ror.org/002n09z45> ;
     schema:memberOf <https://www.sib.swiss/raphaelle-luisier-group> .
 
-<https://orcid.org/0009-0000-8623-2512>
+<https://www.sib.swiss/directory/person/vincent-roh>
     a schema:Person ;
     schema:name "Vincent Roh" ;
     schema:image <https://www.sib.swiss/fp/img/people/irohv.jpg> ;
@@ -8668,7 +8668,7 @@
     schema:author <https://orcid.org/0000-0002-2170-853X> ;
     schema:author <https://www.sib.swiss/directory/person/damian-szklarczyk> ;
     schema:author <https://orcid.org/0000-0003-1811-4340> ;
-    schema:author <https://www.sib.swiss/directory/person/paul-thomas> ;
+    schema:author <https://orcid.org/0000-0002-9074-3507> ;
     schema:author <https://www.sib.swiss/directory/person/yannis-nevers> .
 
 <https://doi.org/10.1186/s13059-020-01996-3>
@@ -9031,12 +9031,12 @@
     schema:url <https://doi.org/10.3233/jad-200206> ;
     schema:author <https://www.sib.swiss/directory/person/arnaud-gos> ;
     schema:author <https://orcid.org/0000-0001-8769-177X> ;
-    schema:author <https://orcid.org/0000-0002-2979-8613> ;
+    schema:author <https://www.sib.swiss/directory/person/guilaine-argoud-puy> ;
     schema:author <https://orcid.org/0000-0002-8075-8625> ;
     schema:author <https://orcid.org/0000-0002-5283-6593> ;
-    schema:author <https://orcid.org/0000-0002-4699-4907> ;
+    schema:author <https://www.sib.swiss/directory/person/nadine-gruaz> ;
     schema:author <https://orcid.org/0000-0001-7646-0052> ;
-    schema:author <https://orcid.org/0000-0003-4209-460X> ;
+    schema:author <https://www.sib.swiss/directory/person/shyamala-sundaram> ;
     schema:author <https://orcid.org/0000-0001-7299-6685> .
 
 <https://doi.org/10.1186/s12864-020-07011-0>
@@ -11393,7 +11393,7 @@
     schema:author <https://orcid.org/0000-0003-3308-6245> ;
     schema:author <https://orcid.org/0000-0001-8769-177X> ;
     schema:author <https://orcid.org/0000-0003-1813-6857> ;
-    schema:author <https://www.sib.swiss/directory/person/paul-thomas> ;
+    schema:author <https://orcid.org/0000-0002-9074-3507> ;
     schema:author <https://orcid.org/0000-0003-4639-4431> ;
     schema:name "The Minimum Information about a Molecular Interaction CAusal STatement (MI2CAST)." ;
     schema:datePublished "2021" .
@@ -11680,7 +11680,7 @@
     schema:datePublished "2020" ;
     schema:identifier "10.1038/s41467-020-19410-8" ;
     schema:url <https://doi.org/10.1038/s41467-020-19410-8> ;
-    schema:author <https://orcid.org/0009-0001-7090-6196> .
+    schema:author <https://www.sib.swiss/directory/person/robin-engler> .
 
 <https://doi.org/10.1126/science.abb5962>
     a schema:ScholarlyArticle ;
@@ -11947,7 +11947,7 @@
     schema:author <https://orcid.org/0000-0003-2148-9135> ;
     schema:author <https://orcid.org/0000-0002-5979-8382> ;
     schema:author <https://orcid.org/0000-0002-4348-0070> ;
-    schema:author <https://www.sib.swiss/directory/person/paul-thomas> .
+    schema:author <https://orcid.org/0000-0002-9074-3507> .
 
 <https://doi.org/10.1016/j.cdev.2021.203737>
     a schema:ScholarlyArticle ;
@@ -12606,7 +12606,7 @@
     schema:datePublished "2021" ;
     schema:identifier "10.1016/j.oraloncology.2021.105605" ;
     schema:url <https://doi.org/10.1016/j.oraloncology.2021.105605> ;
-    schema:author <https://orcid.org/0000-0001-7048-7692> .
+    schema:author <https://www.sib.swiss/directory/person/frederic-schutz> .
 
 <https://doi.org/10.1016/j.bbagrm.2021.194752>
     a schema:ScholarlyArticle ;
@@ -12615,7 +12615,7 @@
     schema:identifier "10.1016/j.bbagrm.2021.194752" ;
     schema:url <https://doi.org/10.1016/j.bbagrm.2021.194752> ;
     schema:author <https://orcid.org/0000-0003-1813-6857> ;
-    schema:author <https://www.sib.swiss/directory/person/paul-thomas> .
+    schema:author <https://orcid.org/0000-0002-9074-3507> .
 
 <https://doi.org/10.2196/27591>
     a schema:ScholarlyArticle ;
@@ -13190,7 +13190,7 @@
     schema:datePublished "2021" ;
     schema:identifier "10.1158/1078-0432.ccr-20-4717" ;
     schema:url <https://doi.org/10.1158/1078-0432.ccr-20-4717> ;
-    schema:author <https://orcid.org/0009-0000-8623-2512> .
+    schema:author <https://www.sib.swiss/directory/person/vincent-roh> .
 
 <https://doi.org/10.1038/s41418-021-00820-0>
     a schema:ScholarlyArticle ;
@@ -13282,7 +13282,7 @@
     schema:url <https://doi.org/10.1093/molbev/msab098> ;
     schema:author <https://orcid.org/0000-0002-2170-853X> ;
     schema:author <https://orcid.org/0000-0003-1811-4340> ;
-    schema:author <https://www.sib.swiss/directory/person/paul-thomas> ;
+    schema:author <https://orcid.org/0000-0002-9074-3507> ;
     schema:author <https://www.sib.swiss/directory/person/yannis-nevers> .
 
 <https://doi.org/10.1007/978-3-030-76912-3_6>
@@ -15701,7 +15701,7 @@
     schema:identifier "10.1093/database/baac062" ;
     schema:url <https://doi.org/10.1093/database/baac062> ;
     schema:author <https://orcid.org/0000-0003-2148-9135> ;
-    schema:author <https://www.sib.swiss/directory/person/paul-thomas> .
+    schema:author <https://orcid.org/0000-0002-9074-3507> .
 
 <https://doi.org/10.1073/pnas.2117075119>
     a schema:ScholarlyArticle ;
@@ -17434,7 +17434,7 @@
     schema:author <https://orcid.org/0000-0003-2148-9135> ;
     schema:author <https://orcid.org/0000-0002-5979-8382> ;
     schema:author <https://orcid.org/0000-0002-4348-0070> ;
-    schema:author <https://www.sib.swiss/directory/person/paul-thomas> ;
+    schema:author <https://orcid.org/0000-0002-9074-3507> ;
     schema:datePublished "2023" .
 
 <https://doi.org/10.3389/fimmu.2022.939627>
@@ -20654,7 +20654,7 @@
     schema:datePublished "2023" ;
     schema:identifier "10.1177/20552076231169826" ;
     schema:url <https://doi.org/10.1177/20552076231169826> ;
-    schema:author <https://orcid.org/0000-0002-0731-2758> ;
+    schema:author <https://www.sib.swiss/directory/person/julia-maurer> ;
     schema:author <https://www.sib.swiss/directory/person/thierry-sengstag> .
 
 <https://doi.org/10.1016/j.immuni.2023.01.029>
@@ -20878,7 +20878,7 @@
     schema:identifier "10.1099/mgen.0.001001" ;
     schema:url <https://doi.org/10.1099/mgen.0.001001> ;
     schema:author <https://www.sib.swiss/directory/person/daniel-walther> ;
-    schema:author <https://orcid.org/0009-0000-0629-8870> ;
+    schema:author <https://www.sib.swiss/directory/person/dillenn-terumalai> ;
     schema:author <https://www.sib.swiss/directory/person/gerard-bouchet> ;
     schema:author <https://www.sib.swiss/directory/person/helena-seth> ;
     schema:author <https://www.sib.swiss/directory/person/richard-neher> ;
@@ -21486,7 +21486,7 @@
     schema:datePublished "2023" ;
     schema:identifier "10.1093/glycob/cwad034" ;
     schema:url <https://doi.org/10.1093/glycob/cwad034> ;
-    schema:author <https://orcid.org/0009-0008-6151-1214> ;
+    schema:author <https://www.sib.swiss/directory/person/boris-schnider> ;
     schema:author <https://www.sib.swiss/directory/person/frederique-lisacek> .
 
 <https://doi.org/10.1093/nar/gkad905>
@@ -21495,7 +21495,7 @@
     schema:datePublished "2023" ;
     schema:identifier "10.1093/nar/gkad905" ;
     schema:url <https://doi.org/10.1093/nar/gkad905> ;
-    schema:author <https://orcid.org/0009-0008-6151-1214> ;
+    schema:author <https://www.sib.swiss/directory/person/boris-schnider> ;
     schema:author <https://www.sib.swiss/directory/person/frederique-lisacek> ;
     schema:datePublished "2024" .
 
@@ -22446,7 +22446,7 @@
     schema:url <https://doi.org/10.1093/nargab/lqae167> ;
     schema:author <https://orcid.org/0000-0001-7492-1273> ;
     schema:author <https://orcid.org/0000-0002-2170-853X> ;
-    schema:author <https://www.sib.swiss/directory/person/paul-thomas> ;
+    schema:author <https://orcid.org/0000-0002-9074-3507> ;
     schema:author <https://www.sib.swiss/directory/person/sina-majidian> ;
     schema:author <https://www.sib.swiss/directory/person/yannis-nevers> .
 
@@ -23173,7 +23173,7 @@
     schema:identifier "10.1038/s41597-024-03099-1" ;
     schema:url <https://doi.org/10.1038/s41597-024-03099-1> ;
     schema:author <https://orcid.org/0000-0002-2170-853X> ;
-    schema:author <https://www.sib.swiss/directory/person/paul-thomas> .
+    schema:author <https://orcid.org/0000-0002-9074-3507> .
 
 <https://doi.org/10.1371/journal.pcbi.1012091>
     a schema:ScholarlyArticle ;
@@ -23406,7 +23406,7 @@
     schema:url <https://doi.org/10.1038/s44321-024-00161-8> ;
     schema:author <https://www.sib.swiss/directory/person/morgane-fournier> ;
     schema:author <https://orcid.org/0000-0002-9347-7929> ;
-    schema:author <https://orcid.org/0009-0000-8623-2512> .
+    schema:author <https://www.sib.swiss/directory/person/vincent-roh> .
 
 <https://doi.org/10.1371/journal.pone.0300503>
     a schema:ScholarlyArticle ;
@@ -23640,7 +23640,7 @@
     schema:url <https://doi.org/10.1038/s41586-024-07601-y> ;
     schema:author <https://www.sib.swiss/directory/person/bruno-correia> ;
     schema:author <https://www.sib.swiss/directory/person/martin-pacesa> ;
-    schema:author <https://orcid.org/0000-0001-7423-940X> .
+    schema:author <https://www.sib.swiss/directory/person/shubham-kapoor> .
 
 <https://doi.org/10.1016/j.molcel.2024.08.009>
     a schema:ScholarlyArticle ;
@@ -24043,7 +24043,7 @@
     schema:datePublished "2024" ;
     schema:identifier "10.3390/jpm14060648" ;
     schema:url <https://doi.org/10.3390/jpm14060648> ;
-    schema:author <https://orcid.org/0009-0000-0629-8870> ;
+    schema:author <https://www.sib.swiss/directory/person/dillenn-terumalai> ;
     schema:author <https://orcid.org/0000-0002-5283-6593> ;
     schema:author <https://orcid.org/0009-0006-8085-9393> .
 
@@ -24127,7 +24127,7 @@
     schema:url <https://doi.org/10.1093/gbe/evae224> ;
     schema:author <https://orcid.org/0000-0002-2170-853X> ;
     schema:author <https://orcid.org/0000-0003-1811-4340> ;
-    schema:author <https://www.sib.swiss/directory/person/paul-thomas> ;
+    schema:author <https://orcid.org/0000-0002-9074-3507> ;
     schema:author <https://www.sib.swiss/directory/person/sina-majidian> .
 
 <https://doi.org/10.1038/s41587-023-02100-3>
@@ -24352,7 +24352,7 @@
     schema:url <https://doi.org/10.1093/database/baae073> ;
     schema:author <https://www.sib.swiss/directory/person/frederique-lisacek> ;
     schema:author <https://orcid.org/0000-0003-3889-2879> ;
-    schema:author <https://www.sib.swiss/directory/person/paul-thomas> ;
+    schema:author <https://orcid.org/0000-0002-9074-3507> ;
     schema:author <https://www.sib.swiss/directory/person/yan-liu> .
 
 <https://doi.org/10.1136/jitc-2024-009888>
@@ -24737,7 +24737,7 @@
     schema:datePublished "2024" ;
     schema:identifier "10.57187/s.3538" ;
     schema:url <https://doi.org/10.57187/s.3538> ;
-    schema:author <https://orcid.org/0000-0002-0731-2758> .
+    schema:author <https://www.sib.swiss/directory/person/julia-maurer> .
 
 <https://doi.org/10.1038/s41467-024-52334-1>
     a schema:ScholarlyArticle ;
@@ -25010,7 +25010,7 @@
     schema:identifier "10.1093/bioadv/vbae057" ;
     schema:url <https://doi.org/10.1093/bioadv/vbae057> ;
     schema:author <https://orcid.org/0000-0002-9415-5104> ;
-    schema:author <https://www.sib.swiss/directory/person/paul-thomas> .
+    schema:author <https://orcid.org/0000-0002-9074-3507> .
 
 <https://doi.org/10.1093/gbe/evae100>
     a schema:ScholarlyArticle ;
@@ -26014,7 +26014,7 @@
     schema:datePublished "2025" ;
     schema:identifier "10.1038/s41592-025-02981-z" ;
     schema:url <https://doi.org/10.1038/s41592-025-02981-z> ;
-    schema:author <https://orcid.org/0000-0002-0912-4371> ;
+    schema:author <https://www.sib.swiss/directory/person/valentyn-bezshapkin> ;
     schema:datePublished "2026" .
 
 <https://doi.org/10.1093/bioadv/vbaf247>
@@ -26168,7 +26168,7 @@
     schema:author <https://orcid.org/0000-0003-2148-9135> ;
     schema:author <https://orcid.org/0000-0002-5979-8382> ;
     schema:author <https://orcid.org/0000-0002-4348-0070> ;
-    schema:author <https://www.sib.swiss/directory/person/paul-thomas> .
+    schema:author <https://orcid.org/0000-0002-9074-3507> .
 
 <https://doi.org/10.1183/23120541.01259-2024>
     a schema:ScholarlyArticle ;
@@ -26678,7 +26678,7 @@
     schema:url <https://doi.org/10.1038/s41586-025-08592-0> ;
     schema:author <https://orcid.org/0000-0002-4187-2863> ;
     schema:author <https://orcid.org/0000-0003-1813-6857> ;
-    schema:author <https://www.sib.swiss/directory/person/paul-thomas> .
+    schema:author <https://orcid.org/0000-0002-9074-3507> .
 
 <https://doi.org/10.1126/science.adp5717>
     a schema:ScholarlyArticle ;
@@ -27519,7 +27519,7 @@
     schema:datePublished "2025" ;
     schema:identifier "10.1016/j.bbadva.2025.100154" ;
     schema:url <https://doi.org/10.1016/j.bbadva.2025.100154> ;
-    schema:author <https://orcid.org/0009-0008-6151-1214> ;
+    schema:author <https://www.sib.swiss/directory/person/boris-schnider> ;
     schema:author <https://www.sib.swiss/directory/person/frederique-lisacek> .
 
 <https://doi.org/10.1007/978-1-0716-4627-4_11>
@@ -27528,7 +27528,7 @@
     schema:datePublished "2025" ;
     schema:identifier "10.1007/978-1-0716-4627-4_11" ;
     schema:url <https://doi.org/10.1007/978-1-0716-4627-4_11> ;
-    schema:author <https://orcid.org/0009-0008-6151-1214> ;
+    schema:author <https://www.sib.swiss/directory/person/boris-schnider> ;
     schema:author <https://www.sib.swiss/directory/person/frederique-lisacek> .
 
 <https://doi.org/10.1038/s41467-025-67557-z>
@@ -27619,7 +27619,7 @@
     schema:author <https://orcid.org/0000-0002-2170-853X> ;
     schema:author <https://www.sib.swiss/directory/person/irene-julca> ;
     schema:author <https://orcid.org/0000-0003-1811-4340> ;
-    schema:author <https://www.sib.swiss/directory/person/paul-thomas> ;
+    schema:author <https://orcid.org/0000-0002-9074-3507> ;
     schema:author <https://www.sib.swiss/directory/person/silvia-prietobanos> ;
     schema:author <https://www.sib.swiss/directory/person/sina-majidian> ;
     schema:author <https://www.sib.swiss/directory/person/stefano-pascarelli> .
@@ -28087,7 +28087,7 @@
     schema:url <https://doi.org/10.1002/pro.70281> ;
     schema:author <https://www.sib.swiss/directory/person/bruno-correia> ;
     schema:author <https://www.sib.swiss/directory/person/martin-pacesa> ;
-    schema:author <https://orcid.org/0000-0001-7423-940X> .
+    schema:author <https://www.sib.swiss/directory/person/shubham-kapoor> .
 
 <https://doi.org/10.1093/ve/veaf058>
     a schema:ScholarlyArticle ;
@@ -28106,7 +28106,7 @@
     schema:author <https://www.sib.swiss/directory/person/bruno-correia> ;
     schema:author <https://www.sib.swiss/directory/person/ekaterina-pyatova> ;
     schema:author <https://www.sib.swiss/directory/person/martin-pacesa> ;
-    schema:author <https://orcid.org/0000-0001-7423-940X> .
+    schema:author <https://www.sib.swiss/directory/person/shubham-kapoor> .
 
 <https://doi.org/10.3233/shti250910>
     a schema:ScholarlyArticle ;
@@ -28991,7 +28991,7 @@
     schema:datePublished "2025" ;
     schema:identifier "10.1038/s41375-025-02777-2" ;
     schema:url <https://doi.org/10.1038/s41375-025-02777-2> ;
-    schema:author <https://orcid.org/0009-0000-8623-2512> .
+    schema:author <https://www.sib.swiss/directory/person/vincent-roh> .
 
 <https://doi.org/10.1038/s41375-025-02808-y>
     a schema:ScholarlyArticle ;
@@ -28999,7 +28999,7 @@
     schema:datePublished "2025" ;
     schema:identifier "10.1038/s41375-025-02808-y" ;
     schema:url <https://doi.org/10.1038/s41375-025-02808-y> ;
-    schema:author <https://orcid.org/0009-0000-8623-2512> ;
+    schema:author <https://www.sib.swiss/directory/person/vincent-roh> ;
     schema:datePublished "2026" .
 
 <https://doi.org/10.1093/bioinformatics/btaf028>
@@ -29118,7 +29118,7 @@
     schema:author <https://orcid.org/0000-0002-2170-853X> ;
     schema:author <https://www.sib.swiss/directory/person/irene-julca> ;
     schema:author <https://orcid.org/0000-0003-1811-4340> ;
-    schema:author <https://www.sib.swiss/directory/person/paul-thomas> .
+    schema:author <https://orcid.org/0000-0002-9074-3507> .
 
 <https://doi.org/10.1016/j.micinf.2025.105557>
     a schema:ScholarlyArticle ;
@@ -29349,7 +29349,7 @@
     schema:author <https://orcid.org/0000-0002-6805-3868> ;
     schema:author <https://www.sib.swiss/directory/person/jiahui-yu> ;
     schema:author <https://www.sib.swiss/directory/person/julio-ayalalopez> ;
-    schema:author <https://orcid.org/0000-0001-6702-1330> ;
+    schema:author <https://www.sib.swiss/directory/person/julius-winter> ;
     schema:author <https://orcid.org/0000-0002-4187-2863> ;
     schema:author <https://www.sib.swiss/directory/person/senbai-kang> .
 
@@ -29686,7 +29686,7 @@
     schema:identifier "10.1016/j.celrep.2025.116895" ;
     schema:url <https://doi.org/10.1016/j.celrep.2025.116895> ;
     schema:author <https://orcid.org/0000-0002-9347-7929> ;
-    schema:author <https://orcid.org/0009-0000-8623-2512> .
+    schema:author <https://www.sib.swiss/directory/person/vincent-roh> .
 
 <https://doi.org/10.1186/s13321-026-01257-8>
     a schema:ScholarlyArticle ;
@@ -31984,7 +31984,7 @@
     schema:datePublished "2026" ;
     schema:identifier "10.1186/s12911-026-03383-7" ;
     schema:url <https://doi.org/10.1186/s12911-026-03383-7> ;
-    schema:author <https://orcid.org/0009-0005-4104-256X> ;
+    schema:author <https://www.sib.swiss/directory/person/andrea-brites-marto> ;
     schema:author <https://orcid.org/0000-0002-3583-7340> ;
     schema:author <https://orcid.org/0000-0003-3248-7899> ;
     schema:author <https://orcid.org/0000-0003-4639-4431> .
@@ -32495,7 +32495,7 @@
     schema:name "Introduction to Statistics and Data Visualisation with R" ;
     schema:url <https://www.sib.swiss/training/course/2017-01-intro-stats> ;
     schema:provider <https://ror.org/002n09z45> ;
-    schema:instructor <https://orcid.org/0000-0001-7048-7692> .
+    schema:instructor <https://www.sib.swiss/directory/person/frederic-schutz> .
 
 <https://www.sib.swiss/training/course/2017-02-IntermediateR>
     a schema:Course ;
@@ -32503,7 +32503,7 @@
     schema:url <https://www.sib.swiss/training/course/2017-02-IntermediateR> ;
     schema:provider <https://ror.org/002n09z45> ;
     schema:instructor <https://orcid.org/0000-0002-9812-6351> ;
-    schema:instructor <https://orcid.org/0000-0001-7048-7692> ;
+    schema:instructor <https://www.sib.swiss/directory/person/frederic-schutz> ;
     schema:instructor <https://www.sib.swiss/directory/person/geoffrey-fucile> .
 
 <https://www.sib.swiss/training/course/2017-11-hpc-genomics>
@@ -32535,7 +32535,7 @@
     schema:name "Statistics for Life Sciences with R" ;
     schema:url <https://www.sib.swiss/training/course/2018-01-intro-statistics> ;
     schema:provider <https://ror.org/002n09z45> ;
-    schema:instructor <https://orcid.org/0000-0001-7048-7692> .
+    schema:instructor <https://www.sib.swiss/directory/person/frederic-schutz> .
 
 <https://www.sib.swiss/training/course/2018-02-MS1>
     a schema:Course ;
@@ -32578,7 +32578,7 @@
     schema:name "R packaging" ;
     schema:url <https://www.sib.swiss/training/course/2018-04-r-packaging> ;
     schema:provider <https://ror.org/002n09z45> ;
-    schema:instructor <https://orcid.org/0000-0001-7048-7692> .
+    schema:instructor <https://www.sib.swiss/directory/person/frederic-schutz> .
 
 <https://www.sib.swiss/training/course/2018-05-python>
     a schema:Course ;
@@ -32608,15 +32608,15 @@
     schema:name "Statistical methods for big data in life sciences and health with R" ;
     schema:url <https://www.sib.swiss/training/course/2018-06-big-data> ;
     schema:provider <https://ror.org/002n09z45> ;
-    schema:instructor <https://orcid.org/0000-0001-7048-7692> .
+    schema:instructor <https://www.sib.swiss/directory/person/frederic-schutz> .
 
 <https://www.sib.swiss/training/course/2018-06-hpc-training>
     a schema:Course ;
     schema:name "High Performance Computing (HPC) in Life Sciences: Vital-IT Infrastructure Training" ;
     schema:url <https://www.sib.swiss/training/course/2018-06-hpc-training> ;
     schema:provider <https://ror.org/002n09z45> ;
-    schema:instructor <https://orcid.org/0000-0002-0065-5053> ;
-    schema:instructor <https://orcid.org/0009-0001-7090-6196> ;
+    schema:instructor <https://www.sib.swiss/directory/person/gregoire-rossier> ;
+    schema:instructor <https://www.sib.swiss/directory/person/robin-engler> ;
     schema:instructor <https://orcid.org/0000-0002-4209-2578> .
 
 <https://www.sib.swiss/training/course/2018-09-comparative-genomics>
@@ -32634,7 +32634,7 @@
     schema:url <https://www.sib.swiss/training/course/2018-09-unix> ;
     schema:provider <https://ror.org/002n09z45> ;
     schema:instructor <https://orcid.org/0000-0002-9812-6351> ;
-    schema:instructor <https://orcid.org/0000-0002-0065-5053> .
+    schema:instructor <https://www.sib.swiss/directory/person/gregoire-rossier> .
 
 <https://www.sib.swiss/training/course/2018-10-best-practices-programming>
     a schema:Course ;
@@ -32648,8 +32648,8 @@
     schema:name "High Performance Computing (HPC) in Life Sciences: Vital-IT Infrastructure Training" ;
     schema:url <https://www.sib.swiss/training/course/2018-10-hpc-training> ;
     schema:provider <https://ror.org/002n09z45> ;
-    schema:instructor <https://orcid.org/0000-0002-0065-5053> ;
-    schema:instructor <https://orcid.org/0009-0001-7090-6196> ;
+    schema:instructor <https://www.sib.swiss/directory/person/gregoire-rossier> ;
+    schema:instructor <https://www.sib.swiss/directory/person/robin-engler> ;
     schema:instructor <https://orcid.org/0000-0002-4209-2578> .
 
 <https://www.sib.swiss/training/course/2018-10-network>
@@ -32743,7 +32743,7 @@
     schema:name "Introduction to Statistics and Data Visualisation with R" ;
     schema:url <https://www.sib.swiss/training/course/2019-01-intro-stats> ;
     schema:provider <https://ror.org/002n09z45> ;
-    schema:instructor <https://orcid.org/0000-0001-7048-7692> .
+    schema:instructor <https://www.sib.swiss/directory/person/frederic-schutz> .
 
 <https://www.sib.swiss/training/course/2019-01-unix>
     a schema:Course ;
@@ -32751,7 +32751,7 @@
     schema:url <https://www.sib.swiss/training/course/2019-01-unix> ;
     schema:provider <https://ror.org/002n09z45> ;
     schema:instructor <https://orcid.org/0000-0002-9812-6351> ;
-    schema:instructor <https://orcid.org/0000-0002-0065-5053> .
+    schema:instructor <https://www.sib.swiss/directory/person/gregoire-rossier> .
 
 <https://www.sib.swiss/training/course/2019-02-compbio19>
     a schema:Course ;
@@ -32760,7 +32760,7 @@
     schema:provider <https://ror.org/002n09z45> ;
     schema:instructor <https://www.sib.swiss/directory/person/damian-szklarczyk> ;
     schema:instructor <https://www.sib.swiss/directory/person/daniele-silvestro> ;
-    schema:instructor <https://orcid.org/0000-0002-0065-5053> ;
+    schema:instructor <https://www.sib.swiss/directory/person/gregoire-rossier> ;
     schema:instructor <https://www.sib.swiss/directory/person/richard-neher> .
 
 <https://www.sib.swiss/training/course/2019-02-r-packaging>
@@ -32768,14 +32768,14 @@
     schema:name "R-packaging" ;
     schema:url <https://www.sib.swiss/training/course/2019-02-r-packaging> ;
     schema:provider <https://ror.org/002n09z45> ;
-    schema:instructor <https://orcid.org/0000-0001-7048-7692> .
+    schema:instructor <https://www.sib.swiss/directory/person/frederic-schutz> .
 
 <https://www.sib.swiss/training/course/2019-04-intermediate-stats>
     a schema:Course ;
     schema:name "Intermediate stats: data analysis in practice" ;
     schema:url <https://www.sib.swiss/training/course/2019-04-intermediate-stats> ;
     schema:provider <https://ror.org/002n09z45> ;
-    schema:instructor <https://orcid.org/0000-0001-7048-7692> .
+    schema:instructor <https://www.sib.swiss/directory/person/frederic-schutz> .
 
 <https://www.sib.swiss/training/course/2019-04-sphn-security>
     a schema:Course ;
@@ -32810,35 +32810,35 @@
     schema:name "Introduction to R Shiny" ;
     schema:url <https://www.sib.swiss/training/course/2019-05-shiny> ;
     schema:provider <https://ror.org/002n09z45> ;
-    schema:instructor <https://orcid.org/0000-0001-7048-7692> .
+    schema:instructor <https://www.sib.swiss/directory/person/frederic-schutz> .
 
 <https://www.sib.swiss/training/course/2019-05-unix>
     a schema:Course ;
     schema:name "First Steps with UNIX in Life Sciences" ;
     schema:url <https://www.sib.swiss/training/course/2019-05-unix> ;
     schema:provider <https://ror.org/002n09z45> ;
-    schema:instructor <https://orcid.org/0000-0002-0065-5053> .
+    schema:instructor <https://www.sib.swiss/directory/person/gregoire-rossier> .
 
 <https://www.sib.swiss/training/course/2019-06-big-data>
     a schema:Course ;
     schema:name "Statistical methods for big data in life sciences and health with R" ;
     schema:url <https://www.sib.swiss/training/course/2019-06-big-data> ;
     schema:provider <https://ror.org/002n09z45> ;
-    schema:instructor <https://orcid.org/0000-0001-7048-7692> .
+    schema:instructor <https://www.sib.swiss/directory/person/frederic-schutz> .
 
 <https://www.sib.swiss/training/course/2019-06_TN-Retreat>
     a schema:Course ;
     schema:name "SIB PhD Training Network Annual Retreat" ;
     schema:url <https://www.sib.swiss/training/course/2019-06_TN-Retreat> ;
     schema:provider <https://ror.org/002n09z45> ;
-    schema:instructor <https://orcid.org/0000-0001-7048-7692> .
+    schema:instructor <https://www.sib.swiss/directory/person/frederic-schutz> .
 
 <https://www.sib.swiss/training/course/2019-08-advanced-stats>
     a schema:Course ;
     schema:name "Advanced Statistics: Statistical Modeling" ;
     schema:url <https://www.sib.swiss/training/course/2019-08-advanced-stats> ;
     schema:provider <https://ror.org/002n09z45> ;
-    schema:instructor <https://orcid.org/0000-0001-7048-7692> .
+    schema:instructor <https://www.sib.swiss/directory/person/frederic-schutz> .
 
 <https://www.sib.swiss/training/course/2019-09-good-exp>
     a schema:Course ;
@@ -32854,7 +32854,7 @@
     schema:name "First Steps with UNIX in Life Sciences" ;
     schema:url <https://www.sib.swiss/training/course/2019-09-unix> ;
     schema:provider <https://ror.org/002n09z45> ;
-    schema:instructor <https://orcid.org/0000-0002-0065-5053> .
+    schema:instructor <https://www.sib.swiss/directory/person/gregoire-rossier> .
 
 <https://www.sib.swiss/training/course/2019-10-DMP>
     a schema:Course ;
@@ -32893,7 +32893,7 @@
     schema:url <https://www.sib.swiss/training/course/2019-11-cadd> ;
     schema:provider <https://ror.org/002n09z45> ;
     schema:instructor <https://www.sib.swiss/directory/person/antoine-daina> ;
-    schema:instructor <https://orcid.org/0000-0002-4676-4087> ;
+    schema:instructor <https://www.sib.swiss/directory/person/ute-roehrig> ;
     schema:instructor <https://www.sib.swiss/directory/person/vincent-zoete> .
 
 <https://www.sib.swiss/training/course/2019-12-rnaseq>
@@ -32916,21 +32916,21 @@
     schema:name "Introduction to Statistics and Data Visualisation with R" ;
     schema:url <https://www.sib.swiss/training/course/2020-01-intro-stats> ;
     schema:provider <https://ror.org/002n09z45> ;
-    schema:instructor <https://orcid.org/0000-0001-7048-7692> .
+    schema:instructor <https://www.sib.swiss/directory/person/frederic-schutz> .
 
 <https://www.sib.swiss/training/course/2020-01-unix>
     a schema:Course ;
     schema:name "First Steps with UNIX in Life Sciences" ;
     schema:url <https://www.sib.swiss/training/course/2020-01-unix> ;
     schema:provider <https://ror.org/002n09z45> ;
-    schema:instructor <https://orcid.org/0000-0002-0065-5053> .
+    schema:instructor <https://www.sib.swiss/directory/person/gregoire-rossier> .
 
 <https://www.sib.swiss/training/course/2020-02-Git>
     a schema:Course ;
     schema:name "First steps with Git for reproducible research" ;
     schema:url <https://www.sib.swiss/training/course/2020-02-Git> ;
     schema:provider <https://ror.org/002n09z45> ;
-    schema:instructor <https://orcid.org/0009-0001-7090-6196> ;
+    schema:instructor <https://www.sib.swiss/directory/person/robin-engler> ;
     schema:instructor <https://www.sib.swiss/directory/person/roman-mylonas> .
 
 <https://www.sib.swiss/training/course/2020-02-dataVis>
@@ -32938,7 +32938,7 @@
     schema:name "Data visualization" ;
     schema:url <https://www.sib.swiss/training/course/2020-02-dataVis> ;
     schema:provider <https://ror.org/002n09z45> ;
-    schema:instructor <https://orcid.org/0000-0001-7048-7692> .
+    schema:instructor <https://www.sib.swiss/directory/person/frederic-schutz> .
 
 <https://www.sib.swiss/training/course/2020-02-rna-seq>
     a schema:Course ;
@@ -32992,7 +32992,7 @@
     schema:name "Intermediate stats: data analysis in practice - postponed" ;
     schema:url <https://www.sib.swiss/training/course/2020-04-intermediate-stats> ;
     schema:provider <https://ror.org/002n09z45> ;
-    schema:instructor <https://orcid.org/0000-0001-7048-7692> .
+    schema:instructor <https://www.sib.swiss/directory/person/frederic-schutz> .
 
 <https://www.sib.swiss/training/course/2020-04-regge-lectures>
     a schema:Course ;
@@ -33080,7 +33080,7 @@
     schema:name "First Steps with UNIX in Life Sciences" ;
     schema:url <https://www.sib.swiss/training/course/2020-05-unix> ;
     schema:provider <https://ror.org/002n09z45> ;
-    schema:instructor <https://orcid.org/0000-0002-0065-5053> .
+    schema:instructor <https://www.sib.swiss/directory/person/gregoire-rossier> .
 
 <https://www.sib.swiss/training/course/2020-06-R>
     a schema:Course ;
@@ -33109,14 +33109,14 @@
     schema:name "Statistics and data visualization - Lessons learned from the SARS-Coronavirus-2" ;
     schema:url <https://www.sib.swiss/training/course/2020-07-covid-stats> ;
     schema:provider <https://ror.org/002n09z45> ;
-    schema:instructor <https://orcid.org/0000-0001-7048-7692> .
+    schema:instructor <https://www.sib.swiss/directory/person/frederic-schutz> .
 
 <https://www.sib.swiss/training/course/2020-09-DMP>
     a schema:Course ;
     schema:name "Data Management Plan" ;
     schema:url <https://www.sib.swiss/training/course/2020-09-DMP> ;
     schema:provider <https://ror.org/002n09z45> ;
-    schema:instructor <https://orcid.org/0000-0002-0065-5053> ;
+    schema:instructor <https://www.sib.swiss/directory/person/gregoire-rossier> ;
     schema:instructor <https://orcid.org/0000-0002-4209-2578> .
 
 <https://www.sib.swiss/training/course/2020-09-IntroStatsBASEL>
@@ -33157,7 +33157,7 @@
     schema:name "First Steps with UNIX in Life Sciences" ;
     schema:url <https://www.sib.swiss/training/course/2020-09-unix> ;
     schema:provider <https://ror.org/002n09z45> ;
-    schema:instructor <https://orcid.org/0000-0002-0065-5053> .
+    schema:instructor <https://www.sib.swiss/directory/person/gregoire-rossier> .
 
 <https://www.sib.swiss/training/course/2020-10-IntroRNAseq>
     a schema:Course ;
@@ -33194,7 +33194,7 @@
     schema:url <https://www.sib.swiss/training/course/2020-11-cadd> ;
     schema:provider <https://ror.org/002n09z45> ;
     schema:instructor <https://www.sib.swiss/directory/person/antoine-daina> ;
-    schema:instructor <https://orcid.org/0000-0002-4676-4087> ;
+    schema:instructor <https://www.sib.swiss/directory/person/ute-roehrig> ;
     schema:instructor <https://www.sib.swiss/directory/person/vincent-zoete> .
 
 <https://www.sib.swiss/training/course/2020-11-prot-bioinfo>
@@ -33228,7 +33228,7 @@
     schema:name "First Steps with Python in Life Sciences" ;
     schema:url <https://www.sib.swiss/training/course/2020-12-python> ;
     schema:provider <https://ror.org/002n09z45> ;
-    schema:instructor <https://orcid.org/0009-0001-7090-6196> ;
+    schema:instructor <https://www.sib.swiss/directory/person/robin-engler> ;
     schema:instructor <https://www.sib.swiss/directory/person/wandrille-duchemin> .
 
 <https://www.sib.swiss/training/course/2020-12-statsML>
@@ -33251,7 +33251,7 @@
     schema:name "Data Management Plan" ;
     schema:url <https://www.sib.swiss/training/course/2021-01-DMP> ;
     schema:provider <https://ror.org/002n09z45> ;
-    schema:instructor <https://orcid.org/0000-0002-0065-5053> ;
+    schema:instructor <https://www.sib.swiss/directory/person/gregoire-rossier> ;
     schema:instructor <https://orcid.org/0000-0002-4209-2578> .
 
 <https://www.sib.swiss/training/course/2021-01-Git-1>
@@ -33259,7 +33259,7 @@
     schema:name "Version Control with Git" ;
     schema:url <https://www.sib.swiss/training/course/2021-01-Git-1> ;
     schema:provider <https://ror.org/002n09z45> ;
-    schema:instructor <https://orcid.org/0009-0001-7090-6196> ;
+    schema:instructor <https://www.sib.swiss/directory/person/robin-engler> ;
     schema:instructor <https://www.sib.swiss/directory/person/roman-mylonas> .
 
 <https://www.sib.swiss/training/course/2021-01-Git-2>
@@ -33267,7 +33267,7 @@
     schema:name "Version Control with Git" ;
     schema:url <https://www.sib.swiss/training/course/2021-01-Git-2> ;
     schema:provider <https://ror.org/002n09z45> ;
-    schema:instructor <https://orcid.org/0009-0001-7090-6196> ;
+    schema:instructor <https://www.sib.swiss/directory/person/robin-engler> ;
     schema:instructor <https://www.sib.swiss/directory/person/roman-mylonas> .
 
 <https://www.sib.swiss/training/course/2021-01-git-1>
@@ -33275,7 +33275,7 @@
     schema:name "Version Control with Git" ;
     schema:url <https://www.sib.swiss/training/course/2021-01-git-1> ;
     schema:provider <https://ror.org/002n09z45> ;
-    schema:instructor <https://orcid.org/0009-0001-7090-6196> ;
+    schema:instructor <https://www.sib.swiss/directory/person/robin-engler> ;
     schema:instructor <https://www.sib.swiss/directory/person/roman-mylonas> .
 
 <https://www.sib.swiss/training/course/2021-01-git-2>
@@ -33283,7 +33283,7 @@
     schema:name "Version Control with Git" ;
     schema:url <https://www.sib.swiss/training/course/2021-01-git-2> ;
     schema:provider <https://ror.org/002n09z45> ;
-    schema:instructor <https://orcid.org/0009-0001-7090-6196> ;
+    schema:instructor <https://www.sib.swiss/directory/person/robin-engler> ;
     schema:instructor <https://www.sib.swiss/directory/person/roman-mylonas> .
 
 <https://www.sib.swiss/training/course/2021-01-unix>
@@ -33291,7 +33291,7 @@
     schema:name "First Steps with UNIX in Life Sciences" ;
     schema:url <https://www.sib.swiss/training/course/2021-01-unix> ;
     schema:provider <https://ror.org/002n09z45> ;
-    schema:instructor <https://orcid.org/0000-0002-0065-5053> .
+    schema:instructor <https://www.sib.swiss/directory/person/gregoire-rossier> .
 
 <https://www.sib.swiss/training/course/2021-02-GPU>
     a schema:Course ;
@@ -33341,7 +33341,7 @@
     schema:name "Intermediate Statistics: Data Analysis in Practice" ;
     schema:url <https://www.sib.swiss/training/course/2021-04-intermediate-stats> ;
     schema:provider <https://ror.org/002n09z45> ;
-    schema:instructor <https://orcid.org/0000-0001-7048-7692> ;
+    schema:instructor <https://www.sib.swiss/directory/person/frederic-schutz> ;
     schema:instructor <https://www.sib.swiss/directory/person/rachel-jeitziner> .
 
 <https://www.sib.swiss/training/course/2021-05-intermpython>
@@ -33356,7 +33356,7 @@
     schema:name "First Steps with UNIX in Life Sciences" ;
     schema:url <https://www.sib.swiss/training/course/2021-05-unix> ;
     schema:provider <https://ror.org/002n09z45> ;
-    schema:instructor <https://orcid.org/0000-0002-0065-5053> .
+    schema:instructor <https://www.sib.swiss/directory/person/gregoire-rossier> .
 
 <https://www.sib.swiss/training/course/2021-06-genex-bgee>
     a schema:Course ;
@@ -33381,7 +33381,7 @@
     schema:name "First Steps with Python in Life Sciences" ;
     schema:url <https://www.sib.swiss/training/course/20210322_PYTFS> ;
     schema:provider <https://ror.org/002n09z45> ;
-    schema:instructor <https://orcid.org/0009-0001-7090-6196> ;
+    schema:instructor <https://www.sib.swiss/directory/person/robin-engler> ;
     schema:instructor <https://www.sib.swiss/directory/person/wandrille-duchemin> .
 
 <https://www.sib.swiss/training/course/20210329_SHINY>
@@ -33389,7 +33389,7 @@
     schema:name "Introduction to R Shiny" ;
     schema:url <https://www.sib.swiss/training/course/20210329_SHINY> ;
     schema:provider <https://ror.org/002n09z45> ;
-    schema:instructor <https://orcid.org/0000-0001-7048-7692> .
+    schema:instructor <https://www.sib.swiss/directory/person/frederic-schutz> .
 
 <https://www.sib.swiss/training/course/20210412_PRODB>
     a schema:Course ;
@@ -33436,7 +33436,7 @@
     schema:name "First Steps with Python in Life Sciences" ;
     schema:url <https://www.sib.swiss/training/course/20210510_PYTFS> ;
     schema:provider <https://ror.org/002n09z45> ;
-    schema:instructor <https://orcid.org/0009-0001-7090-6196> ;
+    schema:instructor <https://www.sib.swiss/directory/person/robin-engler> ;
     schema:instructor <https://www.sib.swiss/directory/person/wandrille-duchemin> .
 
 <https://www.sib.swiss/training/course/20210517_NGS3>
@@ -33539,14 +33539,14 @@
     schema:name "First Steps with UNIX in Life Sciences" ;
     schema:url <https://www.sib.swiss/training/course/20210927_FSWU> ;
     schema:provider <https://ror.org/002n09z45> ;
-    schema:instructor <https://orcid.org/0000-0002-0065-5053> .
+    schema:instructor <https://www.sib.swiss/directory/person/gregoire-rossier> .
 
 <https://www.sib.swiss/training/course/20210929_PYTFS>
     a schema:Course ;
     schema:name "First Steps with Python in Life Sciences" ;
     schema:url <https://www.sib.swiss/training/course/20210929_PYTFS> ;
     schema:provider <https://ror.org/002n09z45> ;
-    schema:instructor <https://orcid.org/0009-0001-7090-6196> ;
+    schema:instructor <https://www.sib.swiss/directory/person/robin-engler> ;
     schema:instructor <https://www.sib.swiss/directory/person/wandrille-duchemin> .
 
 <https://www.sib.swiss/training/course/20211004_INMLP>
@@ -33561,7 +33561,7 @@
     schema:name "Version Control with Git" ;
     schema:url <https://www.sib.swiss/training/course/20211006_GIT> ;
     schema:provider <https://ror.org/002n09z45> ;
-    schema:instructor <https://orcid.org/0009-0001-7090-6196> ;
+    schema:instructor <https://www.sib.swiss/directory/person/robin-engler> ;
     schema:instructor <https://www.sib.swiss/directory/person/roman-mylonas> .
 
 <https://www.sib.swiss/training/course/20211014_DOCK>
@@ -33584,7 +33584,7 @@
     schema:name "Research Data Management and Data Management Plan" ;
     schema:url <https://www.sib.swiss/training/course/20211028_RDMP> ;
     schema:provider <https://ror.org/002n09z45> ;
-    schema:instructor <https://orcid.org/0000-0002-0065-5053> ;
+    schema:instructor <https://www.sib.swiss/directory/person/gregoire-rossier> ;
     schema:instructor <https://orcid.org/0000-0002-4209-2578> .
 
 <https://www.sib.swiss/training/course/20211103_NGS6>
@@ -33613,7 +33613,7 @@
     schema:name "Data Visualisation with R" ;
     schema:url <https://www.sib.swiss/training/course/20211122_DATVIS> ;
     schema:provider <https://ror.org/002n09z45> ;
-    schema:instructor <https://orcid.org/0000-0001-7048-7692> .
+    schema:instructor <https://www.sib.swiss/directory/person/frederic-schutz> .
 
 <https://www.sib.swiss/training/course/20211124_OPEMP>
     a schema:Course ;
@@ -33653,7 +33653,7 @@
     schema:url <https://www.sib.swiss/training/course/20211213_CADD> ;
     schema:provider <https://ror.org/002n09z45> ;
     schema:instructor <https://www.sib.swiss/directory/person/antoine-daina> ;
-    schema:instructor <https://orcid.org/0000-0002-4676-4087> ;
+    schema:instructor <https://www.sib.swiss/directory/person/ute-roehrig> ;
     schema:instructor <https://www.sib.swiss/directory/person/vincent-zoete> .
 
 <https://www.sib.swiss/training/course/20220111_FSWU>
@@ -33661,7 +33661,7 @@
     schema:name "First Steps with UNIX for Life Scientists" ;
     schema:url <https://www.sib.swiss/training/course/20220111_FSWU> ;
     schema:provider <https://ror.org/002n09z45> ;
-    schema:instructor <https://orcid.org/0000-0002-0065-5053> .
+    schema:instructor <https://www.sib.swiss/directory/person/gregoire-rossier> .
 
 <https://www.sib.swiss/training/course/20220119_RNASQ>
     a schema:Course ;
@@ -33682,7 +33682,7 @@
     schema:name "Research Data Management and Data Management Plan" ;
     schema:url <https://www.sib.swiss/training/course/20220127_RDMP> ;
     schema:provider <https://ror.org/002n09z45> ;
-    schema:instructor <https://orcid.org/0000-0002-0065-5053> ;
+    schema:instructor <https://www.sib.swiss/directory/person/gregoire-rossier> ;
     schema:instructor <https://orcid.org/0000-0002-4209-2578> .
 
 <https://www.sib.swiss/training/course/20220201_GPU>
@@ -33698,7 +33698,7 @@
     schema:name "Introduction to Statistics and Data Visualisation with R" ;
     schema:url <https://www.sib.swiss/training/course/20220207_ISDVR> ;
     schema:provider <https://ror.org/002n09z45> ;
-    schema:instructor <https://orcid.org/0000-0001-7048-7692> ;
+    schema:instructor <https://www.sib.swiss/directory/person/frederic-schutz> ;
     schema:instructor <https://www.sib.swiss/directory/person/rachel-jeitziner> .
 
 <https://www.sib.swiss/training/course/20220216_FSWIR>
@@ -33727,7 +33727,7 @@
     schema:name "Version Control with Git" ;
     schema:url <https://www.sib.swiss/training/course/20220301_GIT> ;
     schema:provider <https://ror.org/002n09z45> ;
-    schema:instructor <https://orcid.org/0009-0001-7090-6196> ;
+    schema:instructor <https://www.sib.swiss/directory/person/robin-engler> ;
     schema:instructor <https://orcid.org/0000-0002-4209-2578> .
 
 <https://www.sib.swiss/training/course/20220303_RHEAP>
@@ -33749,7 +33749,7 @@
     schema:name "First Steps with Python in Life Sciences" ;
     schema:url <https://www.sib.swiss/training/course/20220307_PYTFS> ;
     schema:provider <https://ror.org/002n09z45> ;
-    schema:instructor <https://orcid.org/0009-0001-7090-6196> ;
+    schema:instructor <https://www.sib.swiss/directory/person/robin-engler> ;
     schema:instructor <https://www.sib.swiss/directory/person/wandrille-duchemin> .
 
 <https://www.sib.swiss/training/course/20220308_TTTCH>
@@ -33787,14 +33787,14 @@
     schema:name "Introduction to R Shiny" ;
     schema:url <https://www.sib.swiss/training/course/20220328_SHINY> ;
     schema:provider <https://ror.org/002n09z45> ;
-    schema:instructor <https://orcid.org/0000-0001-7048-7692> .
+    schema:instructor <https://www.sib.swiss/directory/person/frederic-schutz> .
 
 <https://www.sib.swiss/training/course/20220405_ASDAP>
     a schema:Course ;
     schema:name "Applied Statistics: Data Analysis in Practice" ;
     schema:url <https://www.sib.swiss/training/course/20220405_ASDAP> ;
     schema:provider <https://ror.org/002n09z45> ;
-    schema:instructor <https://orcid.org/0000-0001-7048-7692> ;
+    schema:instructor <https://www.sib.swiss/directory/person/frederic-schutz> ;
     schema:instructor <https://www.sib.swiss/directory/person/rachel-jeitziner> .
 
 <https://www.sib.swiss/training/course/20220412_DOCK>
@@ -33826,15 +33826,15 @@
     schema:name "First Steps with UNIX for Life Scientists" ;
     schema:url <https://www.sib.swiss/training/course/20220502_FSWU> ;
     schema:provider <https://ror.org/002n09z45> ;
-    schema:instructor <https://orcid.org/0000-0002-0065-5053> .
+    schema:instructor <https://www.sib.swiss/directory/person/gregoire-rossier> .
 
 <https://www.sib.swiss/training/course/20220504_PYTFS>
     a schema:Course ;
     schema:name "First Steps with Python in Life Sciences" ;
     schema:url <https://www.sib.swiss/training/course/20220504_PYTFS> ;
     schema:provider <https://ror.org/002n09z45> ;
-    schema:instructor <https://orcid.org/0009-0009-2548-7947> ;
-    schema:instructor <https://orcid.org/0009-0001-7090-6196> ;
+    schema:instructor <https://www.sib.swiss/directory/person/orlin-topalov> ;
+    schema:instructor <https://www.sib.swiss/directory/person/robin-engler> ;
     schema:instructor <https://www.sib.swiss/directory/person/wandrille-duchemin> .
 
 <https://www.sib.swiss/training/course/20220516_NGSQC>
@@ -33887,7 +33887,7 @@
     schema:name "Intermediate Python" ;
     schema:url <https://www.sib.swiss/training/course/20220603_INTPY> ;
     schema:provider <https://ror.org/002n09z45> ;
-    schema:instructor <https://orcid.org/0009-0001-7090-6196> ;
+    schema:instructor <https://www.sib.swiss/directory/person/robin-engler> ;
     schema:instructor <https://www.sib.swiss/directory/person/wandrille-duchemin> .
 
 <https://www.sib.swiss/training/course/20220608_FSWIR>
@@ -33917,7 +33917,7 @@
     schema:name "Research Data Management and Data Management Plan" ;
     schema:url <https://www.sib.swiss/training/course/20220623_RDMP> ;
     schema:provider <https://ror.org/002n09z45> ;
-    schema:instructor <https://orcid.org/0000-0002-0065-5053> ;
+    schema:instructor <https://www.sib.swiss/directory/person/gregoire-rossier> ;
     schema:instructor <https://orcid.org/0000-0002-4209-2578> .
 
 <https://www.sib.swiss/training/course/20220630_EPIGE>
@@ -33947,7 +33947,7 @@
     schema:name "Advanced Programming with R" ;
     schema:url <https://www.sib.swiss/training/course/20220829_APRWR> ;
     schema:provider <https://ror.org/002n09z45> ;
-    schema:instructor <https://orcid.org/0000-0001-7048-7692> .
+    schema:instructor <https://www.sib.swiss/directory/person/frederic-schutz> .
 
 <https://www.sib.swiss/training/course/20220901_IRNAS>
     a schema:Course ;
@@ -33977,15 +33977,15 @@
     schema:name "First Steps with UNIX in Life Sciences" ;
     schema:url <https://www.sib.swiss/training/course/20220927_FSWU> ;
     schema:provider <https://ror.org/002n09z45> ;
-    schema:instructor <https://orcid.org/0000-0002-0065-5053> .
+    schema:instructor <https://www.sib.swiss/directory/person/gregoire-rossier> .
 
 <https://www.sib.swiss/training/course/20220928_PYTFS>
     a schema:Course ;
     schema:name "First Steps with Python in Life Sciences" ;
     schema:url <https://www.sib.swiss/training/course/20220928_PYTFS> ;
     schema:provider <https://ror.org/002n09z45> ;
-    schema:instructor <https://orcid.org/0009-0009-2548-7947> ;
-    schema:instructor <https://orcid.org/0009-0001-7090-6196> ;
+    schema:instructor <https://www.sib.swiss/directory/person/orlin-topalov> ;
+    schema:instructor <https://www.sib.swiss/directory/person/robin-engler> ;
     schema:instructor <https://www.sib.swiss/directory/person/wandrille-duchemin> .
 
 <https://www.sib.swiss/training/course/20221003_INMLP>
@@ -34008,14 +34008,14 @@
     schema:name "SIB PhD Training Network Annual Retreat" ;
     schema:url <https://www.sib.swiss/training/course/20221010_TNRET> ;
     schema:provider <https://ror.org/002n09z45> ;
-    schema:instructor <https://orcid.org/0000-0001-7048-7692> .
+    schema:instructor <https://www.sib.swiss/directory/person/frederic-schutz> .
 
 <https://www.sib.swiss/training/course/20221012_GIT>
     a schema:Course ;
     schema:name "Version Control with Git" ;
     schema:url <https://www.sib.swiss/training/course/20221012_GIT> ;
     schema:provider <https://ror.org/002n09z45> ;
-    schema:instructor <https://orcid.org/0009-0001-7090-6196> ;
+    schema:instructor <https://www.sib.swiss/directory/person/robin-engler> ;
     schema:instructor <https://orcid.org/0000-0002-4209-2578> .
 
 <https://www.sib.swiss/training/course/20221014_PRODB>
@@ -34031,7 +34031,7 @@
     schema:name "Intermediate Python" ;
     schema:url <https://www.sib.swiss/training/course/20221020_INTPY> ;
     schema:provider <https://ror.org/002n09z45> ;
-    schema:instructor <https://orcid.org/0009-0001-7090-6196> ;
+    schema:instructor <https://www.sib.swiss/directory/person/robin-engler> ;
     schema:instructor <https://www.sib.swiss/directory/person/wandrille-duchemin> .
 
 <https://www.sib.swiss/training/course/20221026_DOCK>
@@ -34046,7 +34046,7 @@
     schema:name "Research Data Management and Data Management Plan" ;
     schema:url <https://www.sib.swiss/training/course/20221027_RDMP> ;
     schema:provider <https://ror.org/002n09z45> ;
-    schema:instructor <https://orcid.org/0000-0002-0065-5053> ;
+    schema:instructor <https://www.sib.swiss/directory/person/gregoire-rossier> ;
     schema:instructor <https://orcid.org/0000-0002-4209-2578> .
 
 <https://www.sib.swiss/training/course/20221107_ADVU>
@@ -34106,8 +34106,8 @@
     schema:name "First Steps with UNIX in Life Sciences" ;
     schema:url <https://www.sib.swiss/training/course/20230110_FSWU> ;
     schema:provider <https://ror.org/002n09z45> ;
-    schema:instructor <https://orcid.org/0000-0002-0065-5053> ;
-    schema:instructor <https://orcid.org/0009-0001-7090-6196> .
+    schema:instructor <https://www.sib.swiss/directory/person/gregoire-rossier> ;
+    schema:instructor <https://www.sib.swiss/directory/person/robin-engler> .
 
 <https://www.sib.swiss/training/course/20230118_VRLZN>
     a schema:Course ;
@@ -34121,7 +34121,7 @@
     schema:name "Research Data Management and Data Management Plan" ;
     schema:url <https://www.sib.swiss/training/course/20230126_RDMP> ;
     schema:provider <https://ror.org/002n09z45> ;
-    schema:instructor <https://orcid.org/0000-0002-0065-5053> ;
+    schema:instructor <https://www.sib.swiss/directory/person/gregoire-rossier> ;
     schema:instructor <https://orcid.org/0000-0002-4209-2578> .
 
 <https://www.sib.swiss/training/course/20230202_FSWIR>
@@ -34159,7 +34159,7 @@
     schema:name "Version Control with Git" ;
     schema:url <https://www.sib.swiss/training/course/20230222_GIT> ;
     schema:provider <https://ror.org/002n09z45> ;
-    schema:instructor <https://orcid.org/0009-0001-7090-6196> ;
+    schema:instructor <https://www.sib.swiss/directory/person/robin-engler> ;
     schema:instructor <https://orcid.org/0000-0002-4209-2578> .
 
 <https://www.sib.swiss/training/course/20230301_PYTFS>
@@ -34167,7 +34167,7 @@
     schema:name "First Steps with Python in Life Sciences" ;
     schema:url <https://www.sib.swiss/training/course/20230301_PYTFS> ;
     schema:provider <https://ror.org/002n09z45> ;
-    schema:instructor <https://orcid.org/0009-0001-7090-6196> ;
+    schema:instructor <https://www.sib.swiss/directory/person/robin-engler> ;
     schema:instructor <https://www.sib.swiss/directory/person/wandrille-duchemin> .
 
 <https://www.sib.swiss/training/course/20230306_ISCTR>
@@ -34204,7 +34204,7 @@
     schema:name "Reproducible research with R: from data management to communication of results" ;
     schema:url <https://www.sib.swiss/training/course/20230323_RERWR> ;
     schema:provider <https://ror.org/002n09z45> ;
-    schema:instructor <https://orcid.org/0000-0001-7048-7692> .
+    schema:instructor <https://www.sib.swiss/directory/person/frederic-schutz> .
 
 <https://www.sib.swiss/training/course/20230331_ENRIC>
     a schema:Course ;
@@ -34240,7 +34240,7 @@
     schema:name "Introduction to R Shiny" ;
     schema:url <https://www.sib.swiss/training/course/20230427_SHINY> ;
     schema:provider <https://ror.org/002n09z45> ;
-    schema:instructor <https://orcid.org/0000-0001-7048-7692> .
+    schema:instructor <https://www.sib.swiss/directory/person/frederic-schutz> .
 
 <https://www.sib.swiss/training/course/20230428_PRODB>
     a schema:Course ;
@@ -34303,7 +34303,7 @@
     schema:name "Data Analysis and Representation in Python" ;
     schema:url <https://www.sib.swiss/training/course/20230601_DARPY> ;
     schema:provider <https://ror.org/002n09z45> ;
-    schema:instructor <https://orcid.org/0009-0001-7090-6196> ;
+    schema:instructor <https://www.sib.swiss/directory/person/robin-engler> ;
     schema:instructor <https://www.sib.swiss/directory/person/wandrille-duchemin> .
 
 <https://www.sib.swiss/training/course/20230602_OPTPY>
@@ -34311,7 +34311,7 @@
     schema:name "Optimising Python Code for Better Performance" ;
     schema:url <https://www.sib.swiss/training/course/20230602_OPTPY> ;
     schema:provider <https://ror.org/002n09z45> ;
-    schema:instructor <https://orcid.org/0009-0001-7090-6196> ;
+    schema:instructor <https://www.sib.swiss/directory/person/robin-engler> ;
     schema:instructor <https://www.sib.swiss/directory/person/wandrille-duchemin> .
 
 <https://www.sib.swiss/training/course/20230605_INMLP>
@@ -34371,7 +34371,7 @@
     schema:name "Introduction to FAIR Research Data Management & Data Management Plan" ;
     schema:url <https://www.sib.swiss/training/course/20230629_FAIRD> ;
     schema:provider <https://ror.org/002n09z45> ;
-    schema:instructor <https://orcid.org/0000-0002-0065-5053> ;
+    schema:instructor <https://www.sib.swiss/directory/person/gregoire-rossier> ;
     schema:instructor <https://orcid.org/0000-0002-4209-2578> .
 
 <https://www.sib.swiss/training/course/20230703_ISCTR>
@@ -34386,15 +34386,15 @@
     schema:name "First Steps with UNIX in Life Sciences" ;
     schema:url <https://www.sib.swiss/training/course/20230824_FSWU> ;
     schema:provider <https://ror.org/002n09z45> ;
-    schema:instructor <https://orcid.org/0000-0002-0065-5053> ;
-    schema:instructor <https://orcid.org/0009-0001-7090-6196> .
+    schema:instructor <https://www.sib.swiss/directory/person/gregoire-rossier> ;
+    schema:instructor <https://www.sib.swiss/directory/person/robin-engler> .
 
 <https://www.sib.swiss/training/course/20230828_RPACK>
     a schema:Course ;
     schema:name "R-packaging" ;
     schema:url <https://www.sib.swiss/training/course/20230828_RPACK> ;
     schema:provider <https://ror.org/002n09z45> ;
-    schema:instructor <https://orcid.org/0000-0001-7048-7692> .
+    schema:instructor <https://www.sib.swiss/directory/person/frederic-schutz> .
 
 <https://www.sib.swiss/training/course/20230830_COMGE>
     a schema:Course ;
@@ -34432,7 +34432,7 @@
     schema:name "First Steps with Python in Life Sciences" ;
     schema:url <https://www.sib.swiss/training/course/20230927_PYTFS> ;
     schema:provider <https://ror.org/002n09z45> ;
-    schema:instructor <https://orcid.org/0009-0001-7090-6196> ;
+    schema:instructor <https://www.sib.swiss/directory/person/robin-engler> ;
     schema:instructor <https://www.sib.swiss/directory/person/wandrille-duchemin> .
 
 <https://www.sib.swiss/training/course/20231009_INMLP>
@@ -34448,7 +34448,7 @@
     schema:name "Version Control with Git" ;
     schema:url <https://www.sib.swiss/training/course/20231011_GIT> ;
     schema:provider <https://ror.org/002n09z45> ;
-    schema:instructor <https://orcid.org/0009-0001-7090-6196> ;
+    schema:instructor <https://www.sib.swiss/directory/person/robin-engler> ;
     schema:instructor <https://orcid.org/0000-0002-4209-2578> .
 
 <https://www.sib.swiss/training/course/20231012_ICWRR>
@@ -34471,7 +34471,7 @@
     schema:name "Data Visualisation with R" ;
     schema:url <https://www.sib.swiss/training/course/20231102_DATVS> ;
     schema:provider <https://ror.org/002n09z45> ;
-    schema:instructor <https://orcid.org/0000-0001-7048-7692> .
+    schema:instructor <https://www.sib.swiss/directory/person/frederic-schutz> .
 
 <https://www.sib.swiss/training/course/20231106_DLFLS>
     a schema:Course ;
@@ -34501,7 +34501,7 @@
     schema:name "Data Analysis and Representation in Python" ;
     schema:url <https://www.sib.swiss/training/course/20231109_DARPY> ;
     schema:provider <https://ror.org/002n09z45> ;
-    schema:instructor <https://orcid.org/0009-0001-7090-6196> ;
+    schema:instructor <https://www.sib.swiss/directory/person/robin-engler> ;
     schema:instructor <https://www.sib.swiss/directory/person/wandrille-duchemin> .
 
 <https://www.sib.swiss/training/course/20231110_OPTPY>
@@ -34509,7 +34509,7 @@
     schema:name "Optimising Python Code for Better Performance" ;
     schema:url <https://www.sib.swiss/training/course/20231110_OPTPY> ;
     schema:provider <https://ror.org/002n09z45> ;
-    schema:instructor <https://orcid.org/0009-0001-7090-6196> ;
+    schema:instructor <https://www.sib.swiss/directory/person/robin-engler> ;
     schema:instructor <https://www.sib.swiss/directory/person/wandrille-duchemin> .
 
 <https://www.sib.swiss/training/course/20231113_ISCTR>
@@ -34531,7 +34531,7 @@
     schema:name "Making Your Research Data FAIR" ;
     schema:url <https://www.sib.swiss/training/course/20231128_FAIR> ;
     schema:provider <https://ror.org/002n09z45> ;
-    schema:instructor <https://orcid.org/0000-0002-0065-5053> ;
+    schema:instructor <https://www.sib.swiss/directory/person/gregoire-rossier> ;
     schema:instructor <https://orcid.org/0000-0003-3248-7899> ;
     schema:instructor <https://orcid.org/0000-0002-4209-2578> .
 
@@ -34554,8 +34554,8 @@
     schema:name "First Steps with UNIX in Life Sciences" ;
     schema:url <https://www.sib.swiss/training/course/20240116_FSWU> ;
     schema:provider <https://ror.org/002n09z45> ;
-    schema:instructor <https://orcid.org/0000-0002-0065-5053> ;
-    schema:instructor <https://orcid.org/0009-0001-7090-6196> .
+    schema:instructor <https://www.sib.swiss/directory/person/gregoire-rossier> ;
+    schema:instructor <https://www.sib.swiss/directory/person/robin-engler> .
 
 <https://www.sib.swiss/training/course/20240122_STATR>
     a schema:Course ;
@@ -34599,7 +34599,7 @@
     schema:name "First Steps with Python in Life Sciences" ;
     schema:url <https://www.sib.swiss/training/course/20240304_FSWP> ;
     schema:provider <https://ror.org/002n09z45> ;
-    schema:instructor <https://orcid.org/0009-0001-7090-6196> ;
+    schema:instructor <https://www.sib.swiss/directory/person/robin-engler> ;
     schema:instructor <https://www.sib.swiss/directory/person/wandrille-duchemin> .
 
 <https://www.sib.swiss/training/course/20240307_LONGR>
@@ -34635,7 +34635,7 @@
     schema:name "Reproducible research with R: from data management to communication of results" ;
     schema:url <https://www.sib.swiss/training/course/20240321_RERWR> ;
     schema:provider <https://ror.org/002n09z45> ;
-    schema:instructor <https://orcid.org/0000-0001-7048-7692> .
+    schema:instructor <https://www.sib.swiss/directory/person/frederic-schutz> .
 
 <https://www.sib.swiss/training/course/20240409_BPHPC>
     a schema:Course ;
@@ -34650,15 +34650,15 @@
     schema:name "First Steps with SQL for Data Science" ;
     schema:url <https://www.sib.swiss/training/course/20240418_SQL> ;
     schema:provider <https://ror.org/002n09z45> ;
-    schema:instructor <https://orcid.org/0009-0000-0629-8870> ;
-    schema:instructor <https://orcid.org/0009-0007-1142-4617> .
+    schema:instructor <https://www.sib.swiss/directory/person/dillenn-terumalai> ;
+    schema:instructor <https://www.sib.swiss/directory/person/florent-tassy> .
 
 <https://www.sib.swiss/training/course/20240422_SHINY>
     a schema:Course ;
     schema:name "Introduction to R Shiny" ;
     schema:url <https://www.sib.swiss/training/course/20240422_SHINY> ;
     schema:provider <https://ror.org/002n09z45> ;
-    schema:instructor <https://orcid.org/0000-0001-7048-7692> .
+    schema:instructor <https://www.sib.swiss/directory/person/frederic-schutz> .
 
 <https://www.sib.swiss/training/course/20240424_NGSQC>
     a schema:Course ;
@@ -34695,7 +34695,7 @@
     schema:name "Data Analysis and Representation in Python" ;
     schema:url <https://www.sib.swiss/training/course/20240516_DARPY> ;
     schema:provider <https://ror.org/002n09z45> ;
-    schema:instructor <https://orcid.org/0009-0001-7090-6196> ;
+    schema:instructor <https://www.sib.swiss/directory/person/robin-engler> ;
     schema:instructor <https://www.sib.swiss/directory/person/wandrille-duchemin> .
 
 <https://www.sib.swiss/training/course/20240517_OPTPY>
@@ -34703,7 +34703,7 @@
     schema:name "Optimising Python Code for Better Performance" ;
     schema:url <https://www.sib.swiss/training/course/20240517_OPTPY> ;
     schema:provider <https://ror.org/002n09z45> ;
-    schema:instructor <https://orcid.org/0009-0001-7090-6196> ;
+    schema:instructor <https://www.sib.swiss/directory/person/robin-engler> ;
     schema:instructor <https://www.sib.swiss/directory/person/wandrille-duchemin> .
 
 <https://www.sib.swiss/training/course/20240522_ADVUN>
@@ -34711,7 +34711,7 @@
     schema:name "UNIX Shell Scripting in Life Sciences" ;
     schema:url <https://www.sib.swiss/training/course/20240522_ADVUN> ;
     schema:provider <https://ror.org/002n09z45> ;
-    schema:instructor <https://orcid.org/0009-0001-7090-6196> ;
+    schema:instructor <https://www.sib.swiss/directory/person/robin-engler> ;
     schema:instructor <https://orcid.org/0000-0002-4015-5969> .
 
 <https://www.sib.swiss/training/course/20240527_INMLP>
@@ -34796,7 +34796,7 @@
     schema:name "Advanced Programming with R" ;
     schema:url <https://www.sib.swiss/training/course/20240902_APRWR> ;
     schema:provider <https://ror.org/002n09z45> ;
-    schema:instructor <https://orcid.org/0000-0001-7048-7692> .
+    schema:instructor <https://www.sib.swiss/directory/person/frederic-schutz> .
 
 <https://www.sib.swiss/training/course/20240905_NGSGV>
     a schema:Course ;
@@ -34810,8 +34810,8 @@
     schema:name "First Steps with UNIX in Life Sciences" ;
     schema:url <https://www.sib.swiss/training/course/20240912_FSWU> ;
     schema:provider <https://ror.org/002n09z45> ;
-    schema:instructor <https://orcid.org/0000-0002-0065-5053> ;
-    schema:instructor <https://orcid.org/0009-0001-7090-6196> .
+    schema:instructor <https://www.sib.swiss/directory/person/gregoire-rossier> ;
+    schema:instructor <https://www.sib.swiss/directory/person/robin-engler> .
 
 <https://www.sib.swiss/training/course/20240918_INLLM>
     a schema:Course ;
@@ -34832,7 +34832,7 @@
     schema:name "First Steps with Python in Life Sciences" ;
     schema:url <https://www.sib.swiss/training/course/20240925_FSWP> ;
     schema:provider <https://ror.org/002n09z45> ;
-    schema:instructor <https://orcid.org/0009-0001-7090-6196> ;
+    schema:instructor <https://www.sib.swiss/directory/person/robin-engler> ;
     schema:instructor <https://www.sib.swiss/directory/person/wandrille-duchemin> .
 
 <https://www.sib.swiss/training/course/20240926_TNR>
@@ -34840,7 +34840,7 @@
     schema:name "SIB PhD Training Network Annual Retreat" ;
     schema:url <https://www.sib.swiss/training/course/20240926_TNR> ;
     schema:provider <https://ror.org/002n09z45> ;
-    schema:instructor <https://orcid.org/0000-0001-7048-7692> .
+    schema:instructor <https://www.sib.swiss/directory/person/frederic-schutz> .
 
 <https://www.sib.swiss/training/course/20241003_INMLP>
     a schema:Course ;
@@ -34877,7 +34877,7 @@
     schema:name "Version Control with Git" ;
     schema:url <https://www.sib.swiss/training/course/20241016_GIT> ;
     schema:provider <https://ror.org/002n09z45> ;
-    schema:instructor <https://orcid.org/0009-0001-7090-6196> .
+    schema:instructor <https://www.sib.swiss/directory/person/robin-engler> .
 
 <https://www.sib.swiss/training/course/20241025_IMBIO>
     a schema:Course ;
@@ -34914,7 +34914,7 @@
     schema:name "Data Analysis and Representation in Python" ;
     schema:url <https://www.sib.swiss/training/course/20241111_DARPY> ;
     schema:provider <https://ror.org/002n09z45> ;
-    schema:instructor <https://orcid.org/0009-0001-7090-6196> ;
+    schema:instructor <https://www.sib.swiss/directory/person/robin-engler> ;
     schema:instructor <https://www.sib.swiss/directory/person/wandrille-duchemin> .
 
 <https://www.sib.swiss/training/course/20241112_IVIPY>
@@ -34950,7 +34950,7 @@
     schema:name "Data Visualisation with R" ;
     schema:url <https://www.sib.swiss/training/course/20241209_DATVS> ;
     schema:provider <https://ror.org/002n09z45> ;
-    schema:instructor <https://orcid.org/0000-0001-7048-7692> .
+    schema:instructor <https://www.sib.swiss/directory/person/frederic-schutz> .
 
 <https://www.sib.swiss/training/course/20241213_CVANA>
     a schema:Course ;
@@ -35021,7 +35021,7 @@
     schema:name "First Steps with Python in Life Sciences" ;
     schema:url <https://www.sib.swiss/training/course/20250311_FSWP> ;
     schema:provider <https://ror.org/002n09z45> ;
-    schema:instructor <https://orcid.org/0009-0001-7090-6196> ;
+    schema:instructor <https://www.sib.swiss/directory/person/robin-engler> ;
     schema:instructor <https://www.sib.swiss/directory/person/wandrille-duchemin> .
 
 <https://www.sib.swiss/training/course/20250314_ENRIC>
@@ -35051,7 +35051,7 @@
     schema:name "Introduction to R Shiny" ;
     schema:url <https://www.sib.swiss/training/course/20250401_SHINY> ;
     schema:provider <https://ror.org/002n09z45> ;
-    schema:instructor <https://orcid.org/0000-0001-7048-7692> .
+    schema:instructor <https://www.sib.swiss/directory/person/frederic-schutz> .
 
 <https://www.sib.swiss/training/course/20250403_STAML>
     a schema:Course ;
@@ -35074,8 +35074,8 @@
     schema:name "First Steps with SQL for Data Science" ;
     schema:url <https://www.sib.swiss/training/course/20250410_SQL> ;
     schema:provider <https://ror.org/002n09z45> ;
-    schema:instructor <https://orcid.org/0009-0000-0629-8870> ;
-    schema:instructor <https://orcid.org/0009-0007-1142-4617> .
+    schema:instructor <https://www.sib.swiss/directory/person/dillenn-terumalai> ;
+    schema:instructor <https://www.sib.swiss/directory/person/florent-tassy> .
 
 <https://www.sib.swiss/training/course/20250423_ISEDA>
     a schema:Course ;
@@ -35129,7 +35129,7 @@
     schema:name "Missing Data and Imputation Methods" ;
     schema:url <https://www.sib.swiss/training/course/20250522_IMPUT> ;
     schema:provider <https://ror.org/002n09z45> ;
-    schema:instructor <https://orcid.org/0000-0001-7048-7692> ;
+    schema:instructor <https://www.sib.swiss/directory/person/frederic-schutz> ;
     schema:instructor <https://www.sib.swiss/directory/person/leonore-wigger> .
 
 <https://www.sib.swiss/training/course/20250526_INMLP>
@@ -35208,7 +35208,7 @@
     schema:name "R-packaging" ;
     schema:url <https://www.sib.swiss/training/course/20250828_RPACK> ;
     schema:provider <https://ror.org/002n09z45> ;
-    schema:instructor <https://orcid.org/0000-0001-7048-7692> .
+    schema:instructor <https://www.sib.swiss/directory/person/frederic-schutz> .
 
 <https://www.sib.swiss/training/course/20250829_FEDBX>
     a schema:Course ;
@@ -35232,14 +35232,14 @@
     schema:name "First Steps with UNIX in Life Sciences" ;
     schema:url <https://www.sib.swiss/training/course/20250902_FSWU> ;
     schema:provider <https://ror.org/002n09z45> ;
-    schema:instructor <https://orcid.org/0009-0001-7090-6196> .
+    schema:instructor <https://www.sib.swiss/directory/person/robin-engler> .
 
 <https://www.sib.swiss/training/course/20250917_FSWP>
     a schema:Course ;
     schema:name "First Steps with Python in Life Sciences" ;
     schema:url <https://www.sib.swiss/training/course/20250917_FSWP> ;
     schema:provider <https://ror.org/002n09z45> ;
-    schema:instructor <https://orcid.org/0009-0001-7090-6196> ;
+    schema:instructor <https://www.sib.swiss/directory/person/robin-engler> ;
     schema:instructor <https://www.sib.swiss/directory/person/wandrille-duchemin> .
 
 <https://www.sib.swiss/training/course/20250925_IRNAS>
@@ -35315,14 +35315,14 @@
     schema:name "Version Control with Git" ;
     schema:url <https://www.sib.swiss/training/course/20251028_GIT> ;
     schema:provider <https://ror.org/002n09z45> ;
-    schema:instructor <https://orcid.org/0009-0001-7090-6196> .
+    schema:instructor <https://www.sib.swiss/directory/person/robin-engler> .
 
 <https://www.sib.swiss/training/course/20251105_ADVUN>
     a schema:Course ;
     schema:name "UNIX Shell Scripting in Life Sciences" ;
     schema:url <https://www.sib.swiss/training/course/20251105_ADVUN> ;
     schema:provider <https://ror.org/002n09z45> ;
-    schema:instructor <https://orcid.org/0009-0001-7090-6196> ;
+    schema:instructor <https://www.sib.swiss/directory/person/robin-engler> ;
     schema:instructor <https://orcid.org/0000-0002-4015-5969> .
 
 <https://www.sib.swiss/training/course/20251110_DARPY>
@@ -35330,7 +35330,7 @@
     schema:name "Data Analysis and Representation in Python" ;
     schema:url <https://www.sib.swiss/training/course/20251110_DARPY> ;
     schema:provider <https://ror.org/002n09z45> ;
-    schema:instructor <https://orcid.org/0009-0001-7090-6196> ;
+    schema:instructor <https://www.sib.swiss/directory/person/robin-engler> ;
     schema:instructor <https://www.sib.swiss/directory/person/wandrille-duchemin> .
 
 <https://www.sib.swiss/training/course/20251111_OPTPY>
@@ -35410,7 +35410,7 @@
     schema:name "Data Visualisation with R" ;
     schema:url <https://www.sib.swiss/training/course/20251215_DATVS> ;
     schema:provider <https://ror.org/002n09z45> ;
-    schema:instructor <https://orcid.org/0000-0001-7048-7692> .
+    schema:instructor <https://www.sib.swiss/directory/person/frederic-schutz> .
 
 <https://www.sib.swiss/training/course/20260126_ISDVR>
     a schema:Course ;
@@ -35461,7 +35461,7 @@
     schema:name "First Steps with Python in Life Sciences" ;
     schema:url <https://www.sib.swiss/training/course/20260311_FSWPY> ;
     schema:provider <https://ror.org/002n09z45> ;
-    schema:instructor <https://orcid.org/0009-0001-7090-6196> ;
+    schema:instructor <https://www.sib.swiss/directory/person/robin-engler> ;
     schema:instructor <https://www.sib.swiss/directory/person/wandrille-duchemin> .
 
 <https://www.sib.swiss/training/course/20260317_NEXAC>
@@ -35506,7 +35506,7 @@
     schema:name "Introduction to R Shiny" ;
     schema:url <https://www.sib.swiss/training/course/20260402_SHINY> ;
     schema:provider <https://ror.org/002n09z45> ;
-    schema:instructor <https://orcid.org/0000-0001-7048-7692> .
+    schema:instructor <https://www.sib.swiss/directory/person/frederic-schutz> .
 
 <https://www.sib.swiss/training/course/20260407_IVIPY>
     a schema:Course ;
@@ -35529,7 +35529,7 @@
     schema:name "Data Analysis and Representation in Python" ;
     schema:url <https://www.sib.swiss/training/course/20260414_DARPY> ;
     schema:provider <https://ror.org/002n09z45> ;
-    schema:instructor <https://orcid.org/0009-0001-7090-6196> ;
+    schema:instructor <https://www.sib.swiss/directory/person/robin-engler> ;
     schema:instructor <https://www.sib.swiss/directory/person/wandrille-duchemin> .
 
 <https://www.sib.swiss/training/course/20260416_DIRNA>
@@ -35544,8 +35544,8 @@
     schema:name "First Steps with SQL for Data Science" ;
     schema:url <https://www.sib.swiss/training/course/20260420_FSSQL> ;
     schema:provider <https://ror.org/002n09z45> ;
-    schema:instructor <https://orcid.org/0009-0000-0629-8870> ;
-    schema:instructor <https://orcid.org/0009-0007-1142-4617> .
+    schema:instructor <https://www.sib.swiss/directory/person/dillenn-terumalai> ;
+    schema:instructor <https://www.sib.swiss/directory/person/florent-tassy> .
 
 <https://www.sib.swiss/training/course/20260427_FEDBX>
     a schema:Course ;
@@ -35584,7 +35584,7 @@
     schema:url <https://www.sib.swiss/training/course/20260527_BAIBE> ;
     schema:provider <https://ror.org/002n09z45> ;
     schema:instructor <https://www.sib.swiss/directory/person/anaclaudia-sima> ;
-    schema:instructor <https://orcid.org/0009-0004-5814-5824> ;
+    schema:instructor <https://www.sib.swiss/directory/person/panayiotis-smeros> ;
     schema:instructor <https://www.sib.swiss/directory/person/ruijie-wang> ;
     schema:instructor <https://orcid.org/0000-0002-1501-1082> .
 
@@ -35621,7 +35621,7 @@
     schema:name "Missing Data and Imputation Methods" ;
     schema:url <https://www.sib.swiss/training/course/20260608_IMPUT> ;
     schema:provider <https://ror.org/002n09z45> ;
-    schema:instructor <https://orcid.org/0000-0001-7048-7692> ;
+    schema:instructor <https://www.sib.swiss/directory/person/frederic-schutz> ;
     schema:instructor <https://www.sib.swiss/directory/person/leonore-wigger> .
 
 <https://www.sib.swiss/training/course/20260610_ISRSR>
@@ -35684,7 +35684,7 @@
     schema:url <https://www.sib.swiss/training/course/20260824_APRWR> ;
     schema:provider <https://ror.org/002n09z45> ;
     schema:instructor <https://www.sib.swiss/directory/person/frederic-burdet> ;
-    schema:instructor <https://orcid.org/0000-0001-7048-7692> .
+    schema:instructor <https://www.sib.swiss/directory/person/frederic-schutz> .
 
 <https://www.sib.swiss/training/course/20260907_ADDMG>
     a schema:Course ;
@@ -35699,7 +35699,7 @@
     schema:name "SIB PhD Training Network Annual Retreat" ;
     schema:url <https://www.sib.swiss/training/course/20260916_TNRET> ;
     schema:provider <https://ror.org/002n09z45> ;
-    schema:instructor <https://orcid.org/0000-0001-7048-7692> .
+    schema:instructor <https://www.sib.swiss/directory/person/frederic-schutz> .
 
 <https://www.sib.swiss/training/course/20260921_FEATS>
     a schema:Course ;
@@ -35720,7 +35720,7 @@
     schema:name "First Steps with Python in Life Sciences" ;
     schema:url <https://www.sib.swiss/training/course/20260928_FSWPY> ;
     schema:provider <https://ror.org/002n09z45> ;
-    schema:instructor <https://orcid.org/0009-0001-7090-6196> ;
+    schema:instructor <https://www.sib.swiss/directory/person/robin-engler> ;
     schema:instructor <https://www.sib.swiss/directory/person/wandrille-duchemin> .
 
 <https://www.sib.swiss/training/course/20261001_INMLP>
@@ -35761,7 +35761,7 @@
     schema:url <https://www.sib.swiss/training/course/20261026_CADDS> ;
     schema:provider <https://ror.org/002n09z45> ;
     schema:instructor <https://www.sib.swiss/directory/person/antoine-daina> ;
-    schema:instructor <https://orcid.org/0000-0002-4676-4087> ;
+    schema:instructor <https://www.sib.swiss/directory/person/ute-roehrig> ;
     schema:instructor <https://www.sib.swiss/directory/person/vincent-zoete> .
 
 <https://www.sib.swiss/training/course/20261026_TTTCH>
@@ -35783,7 +35783,7 @@
     schema:name "Building Complex Apps with R Shiny" ;
     schema:url <https://www.sib.swiss/training/course/20261102_BCSHY> ;
     schema:provider <https://ror.org/002n09z45> ;
-    schema:instructor <https://orcid.org/0000-0001-7048-7692> .
+    schema:instructor <https://www.sib.swiss/directory/person/frederic-schutz> .
 
 <https://www.sib.swiss/training/course/BestHPC-sciCORE-Mar2021>
     a schema:Course ;
@@ -35837,7 +35837,7 @@
     schema:name "Intermediate R" ;
     schema:url <https://www.sib.swiss/training/course/intR-May2018> ;
     schema:provider <https://ror.org/002n09z45> ;
-    schema:instructor <https://orcid.org/0000-0001-7048-7692> ;
+    schema:instructor <https://www.sib.swiss/directory/person/frederic-schutz> ;
     schema:instructor <https://www.sib.swiss/directory/person/geoffrey-fucile> .
 
 <https://www.sib.swiss/training/course/sciCORE-LinuxHPC-Jun2021>

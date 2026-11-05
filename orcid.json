@@ -190,7 +190,7 @@
  "adrian-altenhoff": {
   "name": "Adrian Altenhoff",
   "orcid": "0000-0001-7492-1273",
-  "status": "auto"
+  "status": "known"
  },
  "adrian-arellano-davin": {
   "candidates": [
@@ -355,7 +355,7 @@
  "alan-james-bridge": {
   "name": "Alan James Bridge",
   "orcid": "0000-0003-2148-9135",
-  "status": "auto"
+  "status": "known"
  },
  "alan-pacheco": {
   "candidates": [
@@ -1447,7 +1447,7 @@
  "andrea-auchincloss": {
   "name": "Andrea Auchincloss",
   "orcid": "0000-0002-5297-5390",
-  "status": "auto"
+  "status": "known"
  },
  "andrea-brites-marto": {
   "name": "Andrea Brites Marto",
@@ -1457,7 +1457,7 @@
  "andrea-cavalli": {
   "name": "Andrea Cavalli",
   "orcid": "0000-0003-4063-4502",
-  "status": "auto"
+  "status": "known"
  },
  "andrea-cina": {
   "candidates": [
@@ -2220,7 +2220,7 @@
  "anne-niknejad": {
   "name": "Anne Niknejad",
   "orcid": "0000-0003-3308-6245",
-  "status": "auto"
+  "status": "known"
  },
  "anne-richter": {
   "candidates": [
@@ -2769,7 +2769,7 @@
  "arnaud-kerhornou": {
   "name": "Arnaud Kerhornou",
   "orcid": "0000-0002-2890-295X",
-  "status": "auto"
+  "status": "known"
  },
  "arsh-shaikh": {
   "candidates": [
@@ -2911,7 +2911,7 @@
  "athina-gavriilidou": {
   "name": "Athina Gavriilidou",
   "orcid": "0000-0002-6805-3868",
-  "status": "auto"
+  "status": "known"
  },
  "atilla-schreiber": {
   "name": "Atilla Schreiber",
@@ -3754,7 +3754,7 @@
  "catherine-rivoire": {
   "name": "Catherine Rivoire",
   "orcid": "0000-0002-5979-8382",
-  "status": "auto"
+  "status": "known"
  },
  "cecilia-fruet": {
   "candidates": [
@@ -3990,7 +3990,7 @@
  "charlotte-soneson": {
   "name": "Charlotte Soneson",
   "orcid": "0000-0003-3833-2169",
-  "status": "auto"
+  "status": "known"
  },
  "charlotte-tumescheit": {
   "candidates": [
@@ -4012,12 +4012,12 @@
  "chiara-auwerx": {
   "name": "Chiara Auwerx",
   "orcid": "0000-0003-3613-8450",
-  "status": "auto"
+  "status": "known"
  },
  "chiara-bortoluzzi": {
   "name": "Chiara Bortoluzzi",
   "orcid": "0000-0001-6589-6635",
-  "status": "auto"
+  "status": "known"
  },
  "chloe-sui-ting-hui": {
   "candidates": [
@@ -4119,7 +4119,7 @@
  "christian-sigrist": {
   "name": "Christian Sigrist",
   "orcid": "0000-0002-4348-0070",
-  "status": "auto"
+  "status": "known"
  },
  "christian-von-mering": {
   "candidates": [
@@ -4160,12 +4160,12 @@
  "christoph-messner": {
   "name": "Christoph Messner",
   "orcid": "0000-0001-7217-0867",
-  "status": "auto"
+  "status": "known"
  },
  "christophe-dessimoz": {
   "name": "Christophe Dessimoz",
   "orcid": "0000-0002-2170-853X",
-  "status": "auto"
+  "status": "known"
  },
  "cindy-malnasi": {
   "name": "Cindy Malnasi",
@@ -4266,7 +4266,7 @@
  "cristina-casals-casas": {
   "name": "Cristina Casals Casas",
   "orcid": "0000-0001-8769-177X",
-  "status": "auto"
+  "status": "known"
  },
  "cyril-malbranke": {
   "candidates": [
@@ -5173,12 +5173,12 @@
  "deepak-tanwar": {
   "name": "Deepak Tanwar",
   "orcid": "0000-0001-8036-1989",
-  "status": "auto"
+  "status": "known"
  },
  "deepak-unni": {
   "name": "Deepak Unni",
   "orcid": "0000-0002-3583-7340",
-  "status": "auto"
+  "status": "known"
  },
  "deepak-yadav": {
   "candidates": [
@@ -5576,7 +5576,7 @@
  "diana-marek": {
   "name": "Diana Marek",
   "orcid": "0000-0002-9812-6351",
-  "status": "auto"
+  "status": "known"
  },
  "diana-morzy": {
   "candidates": [
@@ -5708,7 +5708,7 @@
  "dmitry-kuznetsov": {
   "name": "Dmitry Kuznetsov",
   "orcid": "0000-0002-9972-947X",
-  "status": "auto"
+  "status": "known"
  },
  "dolly-metha": {
   "name": "Dolly Metha",
@@ -6069,7 +6069,7 @@
  "edouard-decastro": {
   "name": "Edouard de Castro",
   "orcid": "0000-0001-5436-7383",
-  "status": "auto"
+  "status": "known"
  },
  "edurne-solabarrieta-larranaga": {
   "name": "Edurne Solabarrieta Larranaga",
@@ -6422,12 +6422,12 @@
  "elisabeth-coudert": {
   "name": "Elisabeth Coudert",
   "orcid": "0000-0001-8314-404X",
-  "status": "auto"
+  "status": "known"
  },
  "elisabeth-gasteiger": {
   "name": "Elisabeth Gasteiger",
   "orcid": "0000-0003-1829-162X",
-  "status": "auto"
+  "status": "known"
  },
  "elisabetta-cacace": {
   "candidates": [
@@ -6530,7 +6530,7 @@
  "emmanuel-boutet": {
   "name": "Emmanuel Boutet",
   "orcid": "0000-0002-3743-4203",
-  "status": "auto"
+  "status": "known"
  },
  "emmanuel-levy": {
   "candidates": [
@@ -7083,12 +7083,12 @@
  "florence-jungo": {
   "name": "Florence Jungo",
   "orcid": "0000-0002-7456-8390",
-  "status": "auto"
+  "status": "known"
  },
  "florence-mehl": {
   "name": "Florence Mehl",
   "orcid": "0000-0002-9619-1707",
-  "status": "auto"
+  "status": "known"
  },
  "florent-tassy": {
   "name": "Florent Tassy",
@@ -7254,7 +7254,7 @@
  "frederic-bastian": {
   "name": "Frederic Bastian",
   "orcid": "0000-0002-9415-5104",
-  "status": "auto"
+  "status": "known"
  },
  "frederic-burdet": {
   "candidates": [
@@ -7291,7 +7291,7 @@
  "gabriel-studer": {
   "name": "Gabriel Studer",
   "orcid": "0000-0003-0462-1456",
-  "status": "auto"
+  "status": "known"
  },
  "gabriele-marino": {
   "candidates": [
@@ -7343,7 +7343,7 @@
  "geert-vangeest": {
   "name": "Geert van Geest",
   "orcid": "0000-0002-1561-078X",
-  "status": "auto"
+  "status": "known"
  },
  "geoffray-mariedevillard": {
   "candidates": [
@@ -7891,7 +7891,7 @@
  "harald-witte": {
   "name": "Harald Witte",
   "orcid": "0000-0002-4421-3580",
-  "status": "auto"
+  "status": "known"
  },
  "harun-mustafa": {
   "candidates": [
@@ -8328,7 +8328,7 @@
  "ivan-topolsky": {
   "name": "Ivan Topolsky",
   "orcid": "0000-0002-7561-0810",
-  "status": "auto"
+  "status": "known"
  },
  "ivo-de-carvalho": {
   "candidates": [
@@ -8364,7 +8364,7 @@
  "ivo-pedruzzi": {
   "name": "Ivo Pedruzzi",
   "orcid": "0000-0001-8561-7170",
-  "status": "auto"
+  "status": "known"
  },
  "izaskun-mallona": {
   "candidates": [
@@ -8441,7 +8441,7 @@
  "jacques-fellay": {
   "name": "Jacques Fellay",
   "orcid": "0000-0002-8240-939X",
-  "status": "auto"
+  "status": "known"
  },
  "jahn-nitschke": {
   "candidates": [
@@ -8794,7 +8794,7 @@
  "jerven-tjalling-bolleman": {
   "name": "Jerven Tjalling Bolleman",
   "orcid": "0000-0002-7449-1266",
-  "status": "auto"
+  "status": "known"
  },
  "jhasting": {
   "candidates": [
@@ -10270,7 +10270,7 @@
  "josep-garnica": {
   "name": "Josep Garnica",
   "orcid": "0000-0001-9493-1321",
-  "status": "auto"
+  "status": "known"
  },
  "joseph-cornelius": {
   "candidates": [
@@ -10542,7 +10542,7 @@
  "julia-pilarski": {
   "name": "Julia Pilarski",
   "orcid": "0009-0002-5066-4748",
-  "status": "auto"
+  "status": "known"
  },
  "julia-vogt": {
   "candidates": [
@@ -10912,7 +10912,7 @@
  "justyna-iwaszkiewicz": {
   "name": "Justyna Iwaszkiewicz",
   "orcid": "0000-0003-3494-589X",
-  "status": "auto"
+  "status": "known"
  },
  "kalin-nonchev": {
   "candidates": [
@@ -11205,7 +11205,7 @@
  "kristian-axelsen": {
   "name": "Kristian Axelsen",
   "orcid": "0000-0003-3889-2879",
-  "status": "auto"
+  "status": "known"
  },
  "kubilay-meydan": {
   "name": "Kubilay Meydan",
@@ -11310,7 +11310,7 @@
  "laurent-falquet": {
   "name": "Laurent Falquet",
   "orcid": "0000-0001-8102-7579",
-  "status": "auto"
+  "status": "known"
  },
  "lauric-ferrat": {
   "candidates": [
@@ -11407,7 +11407,7 @@
  "leila-alexander": {
   "name": "Leila Tamara Alexander",
   "orcid": "0000-0002-7594-2110",
-  "status": "auto"
+  "status": "known"
  },
  "leman-nur-nehri": {
   "candidates": [
@@ -11495,7 +11495,7 @@
  "lionel-breuza": {
   "name": "Lionel Breuza",
   "orcid": "0000-0002-8075-8625",
-  "status": "auto"
+  "status": "known"
  },
  "lisa-fournier": {
   "candidates": [
@@ -11535,7 +11535,7 @@
  "livia-famiglietti": {
   "name": "Maria Livia Famiglietti",
   "orcid": "0000-0002-5283-6593",
-  "status": "auto"
+  "status": "known"
  },
  "loane-ruiz": {
   "name": "Loane Ruiz",
@@ -11851,12 +11851,12 @@
  "lucila-aimo": {
   "name": "Lucila Aimo",
   "orcid": "0000-0003-0943-6401",
-  "status": "auto"
+  "status": "known"
  },
  "lucille-pourcel": {
   "name": "Lucille Pourcel",
   "orcid": "0000-0003-1522-9900",
-  "status": "auto"
+  "status": "known"
  },
  "ludovico-calabrese": {
   "candidates": [
@@ -12077,17 +12077,17 @@
  "marc-feuermann": {
   "name": "Marc Feuermann",
   "orcid": "0000-0002-4187-2863",
-  "status": "auto"
+  "status": "known"
  },
  "marc-robinson-rechavi": {
   "name": "Marc Robinson-Rechavi",
   "orcid": "0000-0002-3437-3329",
-  "status": "auto"
+  "status": "known"
  },
  "marco-bolis": {
   "name": "Marco Bolis",
   "orcid": "0000-0003-4377-5079",
-  "status": "auto"
+  "status": "known"
  },
  "marco-geigges": {
   "candidates": [
@@ -12134,7 +12134,7 @@
  "marco-pagni": {
   "name": "Marco Pagni",
   "orcid": "0000-0001-9292-9463",
-  "status": "auto"
+  "status": "known"
  },
  "marco-varrone": {
   "candidates": [
@@ -13118,12 +13118,12 @@
  "mark-ibberson": {
   "name": "Mark Ibberson",
   "orcid": "0000-0003-3152-5670",
-  "status": "auto"
+  "status": "known"
  },
  "mark-robinson": {
   "name": "Mark Robinson",
   "orcid": "0000-0002-3048-5518",
-  "status": "auto"
+  "status": "known"
  },
  "markus-lill": {
   "candidates": [
@@ -14156,7 +14156,7 @@
  "max-verbiest": {
   "name": "Max Verbiest",
   "orcid": "0000-0003-3424-0136",
-  "status": "auto"
+  "status": "known"
  },
  "maya-zimmermann": {
   "name": "Maya Zimmermann",
@@ -15026,7 +15026,7 @@
  "michel-cuendet": {
   "name": "Michel Cuendet",
   "orcid": "0000-0002-0754-3425",
-  "status": "auto"
+  "status": "known"
  },
  "michel-milinkovitch": {
   "candidates": [
@@ -15080,7 +15080,7 @@
  "mikhail-pachkov": {
   "name": "Mikhail Pachkov",
   "orcid": "0000-0001-7616-6435",
-  "status": "auto"
+  "status": "known"
  },
  "miklovana-tuci": {
   "candidates": [
@@ -15186,7 +15186,7 @@
  "monica-pozzato": {
   "name": "Monica Pozzato",
   "orcid": "0000-0002-3080-5243",
-  "status": "auto"
+  "status": "known"
  },
  "monique-zahn": {
   "name": "Monique Zahn",
@@ -15254,12 +15254,12 @@
  "nadine-zangger": {
   "name": "Nadine Fournier",
   "orcid": "0000-0002-9347-7929",
-  "status": "auto"
+  "status": "known"
  },
  "natasha-glover": {
   "name": "Natasha Glover",
   "orcid": "0000-0003-1811-4340",
-  "status": "auto"
+  "status": "known"
  },
  "nathan-kulling": {
   "name": "Nathan Külling",
@@ -15389,7 +15389,7 @@
  "nicole-redaschi": {
   "name": "Nicole Redaschi",
   "orcid": "0000-0001-8890-2268",
-  "status": "auto"
+  "status": "known"
  },
  "nikhil-mahtani": {
   "name": "Nikhil Mahtani",
@@ -15413,7 +15413,7 @@
  "nikolai-romashchenko": {
   "name": "Nikolai Romashchenko",
   "orcid": "0000-0002-2264-5219",
-  "status": "auto"
+  "status": "known"
  },
  "nikolaos-doumpas": {
   "candidates": [
@@ -15534,7 +15534,7 @@
  "oceane-follonier": {
   "name": "Océane Follonier",
   "orcid": "0009-0002-2577-1808",
-  "status": "auto"
+  "status": "known"
  },
  "olesia-kondrateva": {
   "candidates": [
@@ -15934,7 +15934,7 @@
  "paolo-angelino": {
   "name": "Paolo Angelino",
   "orcid": "0000-0002-1037-2823",
-  "status": "auto"
+  "status": "known"
  },
  "parisa-aghagolzadeh": {
   "name": "Parisa Aghagolzadeh",
@@ -15944,7 +15944,7 @@
  "parit-bansal": {
   "name": "Parit Bansal",
   "orcid": "0000-0002-0875-1680",
-  "status": "auto"
+  "status": "known"
  },
  "pascal-schlaepfer": {
   "candidates": [
@@ -15971,7 +15971,7 @@
  "pascale-gaudet": {
   "name": "Pascale Gaudet",
   "orcid": "0000-0003-1813-6857",
-  "status": "auto"
+  "status": "known"
  },
  "pascalpeter-ender": {
   "candidates": [
@@ -16002,12 +16002,12 @@
  "patricia-palagi": {
   "name": "Patricia Palagi",
   "orcid": "0000-0001-9062-6303",
-  "status": "auto"
+  "status": "known"
  },
  "patrick-masson": {
   "name": "Patrick Masson",
   "orcid": "0000-0001-7646-0052",
-  "status": "auto"
+  "status": "known"
  },
  "patrick-pedrioli": {
   "candidates": [
@@ -16024,7 +16024,7 @@
  "patrick-ruch": {
   "name": "Patrick Ruch",
   "orcid": "0000-0002-3374-2962",
-  "status": "auto"
+  "status": "known"
  },
  "patrick-turko": {
   "candidates": [
@@ -16098,362 +16098,9 @@
   "status": "not-found"
  },
  "paul-thomas": {
-  "candidates": [
-   {
-    "institutions": [
-     "Bangor University"
-    ],
-    "name": "Paul Thomas",
-    "orcid": "0000-0001-8806-5818"
-   },
-   {
-    "institutions": [
-     "Mar Baselios College of Engineering and Technology"
-    ],
-    "name": "Paul Thomas",
-    "orcid": "0000-0001-8587-3828"
-   },
-   {
-    "institutions": [
-     "Defence Science and Technology Laboratory",
-     "Loughborough University"
-    ],
-    "name": "Paul Thomas",
-    "orcid": "0000-0003-0081-5763"
-   },
-   {
-    "institutions": [],
-    "name": "paul thomas",
-    "orcid": "0000-0002-9578-1916"
-   },
-   {
-    "institutions": [],
-    "name": "Paul Thomas",
-    "orcid": "0000-0003-2315-6078"
-   },
-   {
-    "institutions": [],
-    "name": "Paul Thomas",
-    "orcid": "0000-0002-4814-0825"
-   },
-   {
-    "institutions": [],
-    "name": "Paul Thomas",
-    "orcid": "0000-0003-2841-0282"
-   },
-   {
-    "institutions": [],
-    "name": "PAUL THOMAS",
-    "orcid": "0000-0003-2814-5394"
-   },
-   {
-    "institutions": [],
-    "name": "Paul Thomas",
-    "orcid": "0000-0003-2513-3347"
-   },
-   {
-    "institutions": [],
-    "name": "Paul Thomas",
-    "orcid": "0000-0002-1749-3265"
-   },
-   {
-    "institutions": [
-     "University of Liverpool"
-    ],
-    "name": "Paul Thomas",
-    "orcid": "0009-0009-0750-9890"
-   },
-   {
-    "institutions": [],
-    "name": "Paul Thomas",
-    "orcid": "0000-0002-4854-7158"
-   },
-   {
-    "institutions": [
-     "AbbVie Inc",
-     "George Mason University",
-     "Northwestern University",
-     "University of Illinois at Urbana-Champaign"
-    ],
-    "name": "Paul Thomas",
-    "orcid": "0000-0003-2887-4765"
-   },
-   {
-    "institutions": [],
-    "name": "Paul Thomas",
-    "orcid": "0000-0001-8962-903X"
-   },
-   {
-    "institutions": [],
-    "name": "Paul Thomas",
-    "orcid": "0000-0002-4801-4925"
-   },
-   {
-    "institutions": [
-     "Cardiff and Vale University Health Board",
-     "European Respiratory Society",
-     "S.outh Glamorgan Institute of Higher Education"
-    ],
-    "name": "Paul THOMAS",
-    "orcid": "0000-0001-6460-1137"
-   },
-   {
-    "institutions": [],
-    "name": "PAUL THOMAS",
-    "orcid": "0000-0002-8238-5041"
-   },
-   {
-    "institutions": [
-     "Carleton University",
-     "The Samara Centre for Democracy",
-     "University of Toronto"
-    ],
-    "name": "Paul Thomas",
-    "orcid": "0000-0002-7505-0008"
-   },
-   {
-    "institutions": [
-     "Monash University",
-     "University of Melbourne"
-    ],
-    "name": "Paul Thomas",
-    "orcid": "0000-0002-3109-2556"
-   },
-   {
-    "institutions": [],
-    "name": "Paul Thomas",
-    "orcid": "0000-0003-1647-6495"
-   },
-   {
-    "institutions": [],
-    "name": "PAUL THOMAS",
-    "orcid": "0000-0001-9815-3782"
-   },
-   {
-    "institutions": [
-     "Dartmouth College Geisel School of Medicine",
-     "Integrative Pediatrics"
-    ],
-    "name": "Paul Thomas",
-    "orcid": "0000-0002-4081-6376"
-   },
-   {
-    "institutions": [],
-    "name": "Paul Thomas",
-    "orcid": "0000-0003-4924-8069"
-   },
-   {
-    "institutions": [
-     "Deutsches Zentrum für Luft und Raumfahrt",
-     "Friedrich Schiller University Jena",
-     "TU-Berlin"
-    ],
-    "name": "Paul Thomas",
-    "orcid": "0000-0001-6884-6422"
-   },
-   {
-    "institutions": [
-     "Derby Teaching Hospitals NHS Foundation Trust",
-     "Nottingham University Hospitals NHS Trust",
-     "University of Nottingham"
-    ],
-    "name": "Paul Thomas",
-    "orcid": "0000-0002-7711-6584"
-   },
-   {
-    "institutions": [],
-    "name": "Paul Thomas",
-    "orcid": "0000-0002-9663-685X"
-   },
-   {
-    "institutions": [
-     "Association for Information Science and Technology",
-     "Midwest Popular Culture Association",
-     "Popular Culture Association",
-     "University of Kansas"
-    ],
-    "name": "Paul Thomas",
-    "orcid": "0000-0002-5596-7951"
-   },
-   {
-    "institutions": [],
-    "name": "Paul Thomas",
-    "orcid": "0000-0002-8748-4022"
-   },
-   {
-    "institutions": [
-     "Australian National University",
-     "Cardiff and Vale University Health Board",
-     "European Respiratory Society"
-    ],
-    "name": "Paul Thomas",
-    "orcid": "0000-0002-3396-9753"
-   },
-   {
-    "institutions": [
-     "A P J Abdul Kalam Technological University"
-    ],
-    "name": "Paul Thomas",
-    "orcid": "0009-0007-1659-6602"
-   },
-   {
-    "institutions": [],
-    "name": "Paul Thomas",
-    "orcid": "0000-0002-2420-0950"
-   },
-   {
-    "institutions": [],
-    "name": "Paul Thomas",
-    "orcid": "0009-0003-5377-3840"
-   },
-   {
-    "institutions": [
-     "National Health Service"
-    ],
-    "name": "Paul Thomas",
-    "orcid": "0009-0008-6052-0944"
-   },
-   {
-    "institutions": [
-     "Goethe University Frankfurt"
-    ],
-    "name": "Paul Thomas",
-    "orcid": "0009-0003-4392-0018"
-   },
-   {
-    "institutions": [
-     "University of California, San Francisco",
-     "Walter Reed Army Institute of Research"
-    ],
-    "name": "Paul Thomas",
-    "orcid": "0000-0002-6772-3997"
-   },
-   {
-    "institutions": [],
-    "name": "Paul Thomas",
-    "orcid": "0000-0002-5756-6633"
-   },
-   {
-    "institutions": [
-     "University of Adelaide"
-    ],
-    "name": "Paul Thomas",
-    "orcid": "0000-0002-5002-5770"
-   },
-   {
-    "institutions": [
-     "Mycorrhizal Systems Ltd",
-     "University of Sheffield",
-     "University of Stirling"
-    ],
-    "name": "Paul Thomas",
-    "orcid": "0000-0003-4252-1456"
-   },
-   {
-    "institutions": [
-     "Rochester Institute of Technology"
-    ],
-    "name": "Paul Thomas",
-    "orcid": "0000-0002-0455-193X"
-   },
-   {
-    "institutions": [
-     "US Geological Survey"
-    ],
-    "name": "Paul Thomas",
-    "orcid": "0000-0001-6484-6636"
-   },
-   {
-    "institutions": [
-     "Physiological Society",
-     "Preston Polytechnic",
-     "Royal Microscopical Society",
-     "University College Hospital Medical School",
-     "University of California Davis",
-     "University of Cambridge",
-     "University of East Anglia",
-     "University of Washington"
-    ],
-    "name": "Paul Thomas",
-    "orcid": "0000-0002-0883-9068"
-   },
-   {
-    "institutions": [
-     "University of Huddersfield"
-    ],
-    "name": "Paul Thomas",
-    "orcid": "0000-0003-1264-2759"
-   },
-   {
-    "institutions": [
-     "Kansas State University Salina",
-     "Purdue University",
-     "Purdue University West Lafayette"
-    ],
-    "name": "Paul Thomas",
-    "orcid": "0000-0003-3960-4242"
-   },
-   {
-    "institutions": [
-     "University of California San Francisco",
-     "University of Southern California"
-    ],
-    "name": "Paul Thomas",
-    "orcid": "0000-0002-9074-3507"
-   },
-   {
-    "institutions": [
-     "Microsoft"
-    ],
-    "name": "Paul Thomas",
-    "orcid": "0000-0003-2425-3136"
-   },
-   {
-    "institutions": [
-     "King's College London",
-     "OsloMet - storbyuniversitetet",
-     "University of South-Eatsern Norway"
-    ],
-    "name": "Paul Thomas",
-    "orcid": "0000-0002-1366-3781"
-   },
-   {
-    "institutions": [
-     "Cardiff University",
-     "EUROTOX",
-     "KREATiS",
-     "Society of Environmental Toxicology and Chemistry"
-    ],
-    "name": "Paul Thomas",
-    "orcid": "0000-0003-1671-9274"
-   },
-   {
-    "institutions": [
-     "Centre d'Etudes Superieures Industrielles"
-    ],
-    "name": "Paul Thomas",
-    "orcid": "0009-0005-0554-5274"
-   },
-   {
-    "institutions": [
-     "University of New South Wales"
-    ],
-    "name": "Paul Thomas",
-    "orcid": "0000-0002-9859-1464"
-   },
-   {
-    "institutions": [
-     "Imperial College London",
-     "King's College London",
-     "University of Technology Sydney"
-    ],
-    "name": "Paul Thomas",
-    "orcid": "0000-0001-6962-2121"
-   }
-  ],
   "name": "Paul Thomas",
-  "orcid": null,
-  "status": "not-found"
+  "orcid": "0000-0002-9074-3507",
+  "status": "known"
  },
  "paul-van-rijen": {
   "candidates": [
@@ -16911,7 +16558,7 @@
  "philippe-le-mercier": {
   "name": "Philippe Le Mercier",
   "orcid": "0000-0001-8528-090X",
-  "status": "auto"
+  "status": "known"
  },
  "pierre-andre-michel": {
   "candidates": [
@@ -17404,7 +17051,7 @@
  "robert-waterhouse": {
   "name": "Robert Waterhouse",
   "orcid": "0000-0003-4199-9052",
-  "status": "auto"
+  "status": "known"
  },
  "roberto-colotti": {
   "name": "Roberto Colotti",
@@ -17941,7 +17588,7 @@
  "sabine-oesterle": {
   "name": "Sabine Österle",
   "orcid": "0000-0003-3248-7899",
-  "status": "auto"
+  "status": "known"
  },
  "sacha-bors": {
   "candidates": [
@@ -18346,7 +17993,7 @@
  "samuel-neuenschwander": {
   "name": "Samuel Neuenschwander",
   "orcid": "0000-0002-4080-5546",
-  "status": "auto"
+  "status": "known"
  },
  "sandra-goetze": {
   "candidates": [
@@ -18401,7 +18048,7 @@
  "santiago-carmona": {
   "name": "Santiago Carmona",
   "orcid": "0000-0002-2495-0671",
-  "status": "auto"
+  "status": "known"
  },
  "sara-carsanaro": {
   "candidates": [
@@ -18768,7 +18415,7 @@
  "shinichi-sunagawa": {
   "name": "Shinichi Sunagawa",
   "orcid": "0000-0003-3065-0314",
-  "status": "auto"
+  "status": "known"
  },
  "shubham-kapoor": {
   "name": "Shubham Kapoor",
@@ -19531,7 +19178,7 @@
  "sylvain-poux": {
   "name": "Sylvain Poux",
   "orcid": "0000-0001-7299-6685",
-  "status": "auto"
+  "status": "known"
  },
  "symela-lazaridi": {
   "candidates": [
@@ -20137,7 +19784,7 @@
  "thomas-junier": {
   "name": "Thomas Junier",
   "orcid": "0000-0002-4015-5969",
-  "status": "auto"
+  "status": "known"
  },
  "thomas-lemmin": {
   "candidates": [
@@ -20168,7 +19815,7 @@
  "thomas-roder": {
   "name": "Thomas Roder",
   "orcid": "0000-0002-6642-6288",
-  "status": "auto"
+  "status": "known"
  },
  "thomas-sutter": {
   "candidates": [
@@ -20457,7 +20104,7 @@
  "torsten-schwede": {
   "name": "Torsten Schwede",
   "orcid": "0000-0003-2715-335X",
-  "status": "auto"
+  "status": "known"
  },
  "tristan-cumer": {
   "candidates": [
@@ -20554,12 +20201,12 @@
  "valeria-dicola": {
   "name": "Valeria Di Cola",
   "orcid": "0000-0003-2925-8366",
-  "status": "auto"
+  "status": "known"
  },
  "valerie-barbie": {
   "name": "Valérie Barbié",
   "orcid": "0009-0006-8085-9393",
-  "status": "auto"
+  "status": "known"
  },
  "valeriia-timonina": {
   "candidates": [
@@ -20626,12 +20273,12 @@
  "vassilios-ioannidis": {
   "name": "Vassilios Ioannidis",
   "orcid": "0000-0002-4209-2578",
-  "status": "auto"
+  "status": "known"
  },
  "vasundra-toure": {
   "name": "Vasundra Touré",
   "orcid": "0000-0003-4639-4431",
-  "status": "auto"
+  "status": "known"
  },
  "verena-rukes": {
   "candidates": [
@@ -20874,7 +20521,7 @@
  "vincent-emonet": {
   "name": "Vincent Emonet",
   "orcid": "0000-0002-1501-1082",
-  "status": "auto"
+  "status": "known"
  },
  "vincent-gardeux": {
   "candidates": [
@@ -21704,7 +21351,7 @@
  "xavier-robin": {
   "name": "Xavier Robin",
   "orcid": "0000-0002-6813-3200",
-  "status": "auto"
+  "status": "known"
  },
  "xenia-wietlisbach": {
   "candidates": [
@@ -22573,7 +22220,7 @@
  "zoltan-kutalik": {
   "name": "Zoltán Kutalik",
   "orcid": "0000-0001-8285-7523",
-  "status": "auto"
+  "status": "known"
  },
  "zuzanna-blocka": {
   "name": "Zuzanna Blocka",

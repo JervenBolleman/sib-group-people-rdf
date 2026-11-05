@@ -8,12 +8,12 @@ when there is no DOI.
 
 Outputs:
   data/orcid_works.json   the ORCID works per person
-  data/known_orcids.json  ORCIDs with evidence: a shared paper and a SIB employment
-  logs/orcid_works.log    the differences per person
+  logs/orcid_works.log    the differences per person, and the status of each iD
 
 A person is "verified" when they have at least one shared paper and a SIB
 employment on the record. "Likely" is a shared paper without a SIB employment.
-Anyone else with an iD stays "unverified" in the log.
+Anyone else with an iD stays "unverified" in the log. The known list
+(data/known_orcids.tsv) is maintained by hand, based on this log.
 
 Usage: python3 check_orcid_works.py
 """
@@ -119,7 +119,7 @@ def main():
     session.headers["Accept"] = "application/json"
 
     works_out = {}
-    known = {}
+    statuses = {}
     os.makedirs(os.path.join(HERE, "logs"), exist_ok=True)
     with open(os.path.join(HERE, "logs", "orcid_works.log"), "w", encoding="utf-8") as log:
         log_line(log, f"ORCID works check, {date.today().isoformat()}")
@@ -151,9 +151,7 @@ def main():
                 status = "likely"
             else:
                 status = "unverified"
-            if status != "unverified":
-                known[iD] = {"name": name, "slug": slug, "status": status,
-                             "shared_papers": len(shared), "sib_employment": has_sib_employment}
+            statuses[status] = statuses.get(status, 0) + 1
 
             log_line(log, f"{name} ({iD}) - {status}")
             log_line(log, f"  ORCID works: {len(works)}, sib.swiss papers: {len(ours)}, shared: {len(shared)}")
@@ -165,16 +163,11 @@ def main():
             log_line(log)
             print(f"{name}: {status}", file=sys.stderr)
 
-        counts = {}
-        for item in known.values():
-            counts[item["status"]] = counts.get(item["status"], 0) + 1
-        log_line(log, "summary: " + ", ".join(f"{k} {v}" for k, v in sorted(counts.items())))
+        log_line(log, "summary: " + ", ".join(f"{k} {v}" for k, v in sorted(statuses.items())))
 
     with open(os.path.join(HERE, "data", "orcid_works.json"), "w", encoding="utf-8") as f:
         json.dump(works_out, f, ensure_ascii=False, indent=1, sort_keys=True)
-    with open(os.path.join(HERE, "data", "known_orcids.json"), "w", encoding="utf-8") as f:
-        json.dump(known, f, ensure_ascii=False, indent=1, sort_keys=True)
-    print(f"wrote data/known_orcids.json ({len(known)} ORCIDs) and logs/orcid_works.log", file=sys.stderr)
+    print("wrote data/orcid_works.json and logs/orcid_works.log", file=sys.stderr)
 
 
 if __name__ == "__main__":

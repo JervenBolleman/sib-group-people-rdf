@@ -332,17 +332,31 @@ def write_people(people, memberships):
         json.dump(rows, f, ensure_ascii=False, indent=1)
 
 
-def load_orcids(people):
-    """Use the ORCID iD as the node IRI for each person that has one in orcid.json."""
-    path = os.path.join(HERE, "orcid.json")
+def read_known_orcids():
+    """Return {person IRI: ORCID iD} from data/known_orcids.tsv (IRI, ORCID per line)."""
+    path = os.path.join(HERE, "data", "known_orcids.tsv")
+    known = {}
     if not os.path.exists(path):
-        return
+        return known
     with open(path, encoding="utf-8") as f:
-        records = json.load(f)
+        for line in f:
+            cells = line.rstrip("\n").split("\t")
+            if len(cells) != 2 or cells[0] == "iri":
+                continue
+            known[cells[0].strip()] = cells[1].strip()
+    return known
+
+
+def load_orcids(people):
+    """Use the ORCID iD as the node IRI for each person listed in known_orcids.tsv."""
     taken = {}
-    for slug in sorted(records):
-        orcid = records[slug].get("orcid")
-        if not orcid or slug not in people:
+    for iri, orcid in sorted(read_known_orcids().items()):
+        slug = iri.rstrip("/").rsplit("/", 1)[-1]
+        if slug not in people:
+            log(f"known ORCID {orcid} is for {iri}, which is not a person in the crawl")
+            continue
+        if not re.fullmatch(r"\d{4}-\d{4}-\d{4}-\d{3}[\dX]", orcid):
+            log(f"known ORCID {orcid} for {slug} is not a valid iD")
             continue
         if orcid in taken:
             log(f"duplicate ORCID {orcid} for {slug} and {taken[orcid]}; keeping directory URL for {slug}")

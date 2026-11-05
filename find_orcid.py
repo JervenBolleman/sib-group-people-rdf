@@ -6,6 +6,8 @@ family and given name and lists "SIB Swiss Institute of Bioinformatics" as an in
 Everything else is recorded as "ambiguous" or "not-found" with its name-matching
 candidates, for review.
 
+iDs listed in data/known_orcids.tsv are used as they are, and are not searched for.
+
 Decisions go in orcid_overrides.json as {"<slug>": "0000-0000-0000-0000"}, or null to
 leave a person without an iD. Overrides win over the automatic result.
 
@@ -19,7 +21,7 @@ import time
 
 import requests
 
-from crawl_sib import norm
+from crawl_sib import norm, read_known_orcids
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 SEARCH = "https://pub.orcid.org/v3.0/expanded-search/"
@@ -116,12 +118,17 @@ def main():
         with open(args.out, "w", encoding="utf-8") as f:
             json.dump(records, f, ensure_ascii=False, indent=1, sort_keys=True)
 
+    known_slugs = {iri.rsplit("/", 1)[-1]: orcid for iri, orcid in read_known_orcids().items()}
+
     session = requests.Session()
     records = {}
     for i, person in enumerate(people, 1):
         slug, name = person["slug"], person["name"]
         old = previous.get(slug)
-        if old and old["name"] == name and old["status"] != "error":
+        if slug in known_slugs:
+            # Listed in known_orcids.tsv, so no search is needed.
+            record = {"orcid": known_slugs[slug], "status": "known", "name": name}
+        elif old and old["name"] == name and old["status"] != "error":
             record = dict(old)
         else:
             try:
