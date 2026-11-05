@@ -415,20 +415,14 @@ def institution_iri(name):
 
 def write_institutions(groups):
     names = sorted({g["institution"] for g in groups.values() if g["institution"]})
-    with open(os.path.join(HERE, "institutions.json"), "w", encoding="utf-8") as f:
-        json.dump(names, f, ensure_ascii=False, indent=1)
+    write_tsv(os.path.join(HERE, "data", "institutions.tsv"), ["name"], [{"name": n} for n in names])
 
 
 def load_rors():
-    """Use the ROR id as the node IRI for each institution that has one in ror.json."""
-    path = os.path.join(HERE, "ror.json")
-    if not os.path.exists(path):
-        return
-    with open(path, encoding="utf-8") as f:
-        records = json.load(f)
+    """Use the ROR id as the node IRI for each institution that has one in data/ror.tsv."""
     taken = {}
-    for name in sorted(records):
-        ror = records[name].get("ror")
+    for row in read_tsv(os.path.join(HERE, "data", "ror.tsv")):
+        name, ror = row["name"], row["ror"]
         if not ror:
             continue
         if ror in taken:

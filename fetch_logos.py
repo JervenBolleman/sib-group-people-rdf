@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Find institution logos on Wikidata and download them into data/logos/.
 
-Each institution has a ROR id (ror.json, plus SIB itself). Wikidata items carry the
+Each institution has a ROR id (data/ror.tsv, plus SIB itself). Wikidata items carry the
 ROR id as property P6782, and their logo as P154. Every logo that is found is
 saved as data/logos/<ror id>.<ext>, and data/logos.json records the Wikidata item
 and the Commons file name, so the page can credit the source.
@@ -14,6 +14,8 @@ import sys
 from urllib.parse import unquote, urlparse
 
 import requests
+
+from crawl_sib import read_tsv
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 LOGO_DIR = os.path.join(HERE, "data", "logos")
@@ -28,9 +30,8 @@ def log(msg):
 
 
 def ror_ids():
-    with open(os.path.join(HERE, "ror.json"), encoding="utf-8") as f:
-        records = json.load(f)
-    ids = {r["ror"].rsplit("/", 1)[-1] for r in records.values() if r.get("ror")}
+    rows = read_tsv(os.path.join(HERE, "data", "ror.tsv"))
+    ids = {row["ror"].rsplit("/", 1)[-1] for row in rows if row["ror"]}
     return sorted(ids | {SIB_ROR})
 
 
