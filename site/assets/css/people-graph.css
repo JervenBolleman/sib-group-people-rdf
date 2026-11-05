@@ -36,6 +36,10 @@
   background: var(--wikidata-fg);
 }
 
+.people-graph .people-graph-filter.orcid::before {
+  background: var(--accent);
+}
+
 .people-graph .people-graph-filter.institution::before {
   background: var(--orcid-fg);
 }

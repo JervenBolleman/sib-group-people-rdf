@@ -35,6 +35,8 @@
 
   // Papers are hidden at first, since there are many of them and they crowd the view.
   var hiddenTypes = { paper: true };
+  // When set, only people with an ORCID iD are shown.
+  var orcidOnly = false;
   var focusId = null;
   var query = '';
   var simulation = null;
@@ -85,13 +87,31 @@
       label.appendChild(el('span', '', TYPE_LABELS[type] + ' (' + counts[type] + ')'));
       filtersEl.appendChild(label);
     });
+    if (counts.person) {
+      var orcidLabel = el('label', 'people-graph-filter orcid');
+      var orcidBox = el('input');
+      orcidBox.type = 'checkbox';
+      orcidBox.checked = orcidOnly;
+      orcidBox.addEventListener('change', function () {
+        orcidOnly = orcidBox.checked;
+        draw();
+      });
+      orcidLabel.appendChild(orcidBox);
+      orcidLabel.appendChild(el('span', '', 'Only people with an ORCID iD'));
+      filtersEl.appendChild(orcidLabel);
+    }
+  }
+
+  function hasOrcid(n) {
+    return n.type === 'person' && n.id.indexOf('https://orcid.org/') === 0;
   }
 
   // Copies of the visible nodes and links, because d3 rewrites link ends and
   // adds positions to the objects it is given.
   function visibleData() {
     var nodes = data.nodes.filter(function (n) {
-      return !hiddenTypes[n.type];
+      if (hiddenTypes[n.type]) return false;
+      return !orcidOnly || n.type !== 'person' || hasOrcid(n);
     });
     var ids = new Set(nodes.map(function (n) {
       return n.id;
