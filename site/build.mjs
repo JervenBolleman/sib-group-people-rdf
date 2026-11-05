@@ -166,6 +166,17 @@ function buildClientBundles() {
   }
 }
 
+// The graph in each RDF format, served as its own files under data/.
+const DATA_FILES = ['sib.ttl', 'sib.nt', 'sib.jsonld', 'sib.rdf'];
+
+function copyDataFiles() {
+  const dataOut = path.join(OUT, 'data');
+  mkdirSync(dataOut, { recursive: true });
+  for (const file of DATA_FILES) {
+    copyFileSync(path.join(ROOT, 'data', file), path.join(dataOut, file));
+  }
+}
+
 function copyStaticAssets() {
   mkdirSync(path.join(OUT, 'assets/css'), { recursive: true });
   mkdirSync(path.join(OUT, 'assets/js'), { recursive: true });
@@ -281,6 +292,9 @@ function renderContent(turtle, graph) {
       'Papers and courses are linked to people by name, so a few links may be wrong.</p>',
     '<h2>Data</h2>',
     fixtureBlock(turtle),
+    '<p>The whole graph is also available as <a href="data/sib.ttl">Turtle</a>, ' +
+      '<a href="data/sib.nt">N-Triples</a>, <a href="data/sib.jsonld">JSON-LD</a> and ' +
+      '<a href="data/sib.rdf">RDF/XML</a>.</p>',
     graphBlock(graph),
     '<h2>Questions</h2>',
     ...EXAMPLES.map(exampleBlock),
@@ -357,6 +371,7 @@ function main() {
   mkdirSync(OUT, { recursive: true });
   buildClientBundles();
   copyStaticAssets();
+  copyDataFiles();
   copyImages(graph);
   writeFileSync(path.join(OUT, 'index.html'), renderPage(turtle, graph));
 }
