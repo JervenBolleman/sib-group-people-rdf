@@ -23,7 +23,7 @@ const CACHE = path.join(process.env.TMPDIR || os.tmpdir(), 'sib-presentation');
 const W = 4000;
 const H = 3000;
 const BAND = 500; // strip above the network for the legend
-const RADIUS = { sib: 60, institution: 44, group: 34, person: 40, course: 14, paper: 10 };
+const RADIUS = { sib: 60, institution: 44, group: 34, person: 22, course: 12, paper: 10 };
 
 function loadGraph() {
   const html = readFileSync(path.join(SITE, 'index.html'), 'utf8');
@@ -40,10 +40,10 @@ function layout(graph) {
     .map((l) => ({ source: l.source, target: l.target, kind: l.kind }));
 
   const simulation = forceSimulation(nodes)
-    .force('link', forceLink(links).id((d) => d.id).distance(140).strength(0.25))
-    .force('charge', forceManyBody().strength(-260))
+    .force('link', forceLink(links).id((d) => d.id).distance(170).strength(0.2))
+    .force('charge', forceManyBody().strength(-700))
     .force('center', forceCenter(W / 2, H / 2))
-    .force('collide', forceCollide().radius((d) => RADIUS[d.type] + 8).iterations(2))
+    .force('collide', forceCollide().radius((d) => RADIUS[d.type] + 6).iterations(4))
     .stop();
   for (let i = 0; i < 500; i++) simulation.tick();
 

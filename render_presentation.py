@@ -21,7 +21,7 @@ FONT = "/usr/share/fonts/dejavu-sans-fonts/DejaVuSans.ttf"
 FONT_BOLD = "/usr/share/fonts/dejavu-sans-fonts/DejaVuSans-Bold.ttf"
 
 SCALE = 1.5  # layout units to pixels; 4000 units wide gives 6000 px
-RADIUS = {"sib": 60, "institution": 44, "group": 34, "person": 40, "course": 14, "paper": 10}
+RADIUS = {"sib": 60, "institution": 44, "group": 34, "person": 22, "course": 12, "paper": 10}
 FILL = {
     "sib": (11, 114, 133),
     "institution": (90, 125, 26),
@@ -52,7 +52,7 @@ STEPS = [
     ("06-without-institutions", "Without institutions", ["paper", "course", "person", "group", "institution"]),
 ]
 # Drawn in this order, so big nodes sit on top of small ones.
-DRAW_ORDER = ["paper", "course", "person", "institution", "group", "sib"]
+DRAW_ORDER = ["paper", "course", "group", "institution", "person", "sib"]
 
 
 def px(value):
