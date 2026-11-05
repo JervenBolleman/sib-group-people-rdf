@@ -44,6 +44,33 @@ def log(msg):
     print(msg, file=sys.stderr)
 
 
+def read_tsv(path):
+    """Read a tab-separated file with a header row into a list of dicts. A missing file gives []."""
+    if not os.path.exists(path):
+        return []
+    with open(path, encoding="utf-8") as f:
+        lines = [line.rstrip("\n") for line in f]
+    if not lines:
+        return []
+    header = lines[0].split("\t")
+    rows = []
+    for line in lines[1:]:
+        if line:
+            cells = line.split("\t")
+            cells += [""] * (len(header) - len(cells))
+            rows.append(dict(zip(header, cells)))
+    return rows
+
+
+def write_tsv(path, columns, rows):
+    """Write dicts as a tab-separated file with a header row. Tabs and newlines in values become spaces."""
+    with open(path, "w", encoding="utf-8") as f:
+        f.write("\t".join(columns) + "\n")
+        for row in rows:
+            cells = [str(row.get(c) or "").replace("\t", " ").replace("\n", " ") for c in columns]
+            f.write("\t".join(cells) + "\n")
+
+
 class Fetcher:
     """GET with an on-disk cache, and POST for the site's JSON search endpoints."""
 
@@ -326,10 +353,15 @@ def person_iri(slug):
     return PERSON_IRI.get(slug, directory_url(slug))
 
 
+PEOPLE_COLUMNS = ["slug", "name", "jobTitle", "image", "groups"]
+
+
 def write_people(people, memberships):
-    rows = [dict(people[s], groups=sorted(memberships[s])) for s in sorted(people)]
-    with open(os.path.join(HERE, "people.json"), "w", encoding="utf-8") as f:
-        json.dump(rows, f, ensure_ascii=False, indent=1)
+    rows = [
+        dict(people[s], groups=";".join(sorted(memberships[s])))
+        for s in sorted(people)
+    ]
+    write_tsv(os.path.join(HERE, "data", "people.tsv"), PEOPLE_COLUMNS, rows)
 
 
 def read_known_orcids():

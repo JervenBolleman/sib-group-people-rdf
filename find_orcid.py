@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Find ORCID iDs for the people in people.json and write orcid.json.
+"""Find ORCID iDs for the people in data/people.tsv and write data/orcid.tsv.
 
 A person is accepted automatically only when exactly one ORCID search hit has the same
 family and given name and lists "SIB Swiss Institute of Bioinformatics" as an institution.
@@ -8,22 +8,24 @@ candidates, for review.
 
 iDs listed in data/known_orcids.tsv are used as they are, and are not searched for.
 
-Decisions go in orcid_overrides.json as {"<slug>": "0000-0000-0000-0000"}, or null to
-leave a person without an iD. Overrides win over the automatic result.
+Decisions go in data/orcid_overrides.tsv as slug and ORCID, one per line. An empty ORCID
+leaves the person without an iD. Overrides win over the automatic result.
 
-Usage: python3 find_orcid.py [--people people.json] [--out orcid.json]
+Usage: python3 find_orcid.py
 """
-import argparse
-import json
 import os
 import sys
 import time
 
 import requests
 
-from crawl_sib import norm, read_known_orcids
+from crawl_sib import norm, read_known_orcids, read_tsv, write_tsv
 
 HERE = os.path.dirname(os.path.abspath(__file__))
+PEOPLE = os.path.join(HERE, "data", "people.tsv")
+OUT = os.path.join(HERE, "data", "orcid.tsv")
+OVERRIDES = os.path.join(HERE, "data", "orcid_overrides.tsv")
+COLUMNS = ["slug", "name", "orcid", "status", "candidates", "error"]
 SEARCH = "https://pub.orcid.org/v3.0/expanded-search/"
 SIB_INSTITUTION = "swiss institute of bioinformatics"  # lowercase, matched case-insensitively
 DELAY = 0.5  # seconds between requests
@@ -93,31 +95,31 @@ def decide(name, hits):
     return {"orcid": None, "status": "not-found"}, matching
 
 
-def main():
-    ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
-    ap.add_argument("--people", default=os.path.join(HERE, "people.json"))
-    ap.add_argument("--out", default=os.path.join(HERE, "orcid.json"))
-    args = ap.parse_args()
+def candidate_text(candidates):
+    """One line per candidate for the TSV: iD, name, then institutions in brackets."""
+    return "; ".join(
+        f"{c['orcid-id']} {c.get('given-names')} {c.get('family-names')} "
+        f"({', '.join(c.get('institution-name') or [])})"
+        for c in candidates
+    )
 
-    with open(args.people, encoding="utf-8") as f:
-        people = json.load(f)
-    overrides = {}
-    override_path = os.path.join(HERE, "orcid_overrides.json")
-    if os.path.exists(override_path):
-        with open(override_path, encoding="utf-8") as f:
-            overrides = json.load(f)
+
+def read_overrides():
+    return {row["slug"]: row["orcid"] for row in read_tsv(OVERRIDES)}
+
+
+def save(records):
+    rows = [dict(records[slug], slug=slug) for slug in sorted(records)]
+    write_tsv(OUT, COLUMNS, rows)
+
+
+def main():
+    people = read_tsv(PEOPLE)
+    overrides = read_overrides()
 
     # Decisions from an earlier run are reused, so a rerun only searches people who
     # are new, changed name, or failed last time.
-    previous = {}
-    if os.path.exists(args.out):
-        with open(args.out, encoding="utf-8") as f:
-            previous = json.load(f)
-
-    def save(records):
-        with open(args.out, "w", encoding="utf-8") as f:
-            json.dump(records, f, ensure_ascii=False, indent=1, sort_keys=True)
-
+    previous = {row["slug"]: row for row in read_tsv(OUT)}
     known_slugs = {iri.rsplit("/", 1)[-1]: orcid for iri, orcid in read_known_orcids().items()}
 
     session = requests.Session()
@@ -127,27 +129,24 @@ def main():
         old = previous.get(slug)
         if slug in known_slugs:
             # Listed in known_orcids.tsv, so no search is needed.
-            record = {"orcid": known_slugs[slug], "status": "known", "name": name}
+            record = {"orcid": known_slugs[slug], "status": "known", "name": name, "candidates": "", "error": ""}
         elif old and old["name"] == name and old["status"] != "error":
             record = dict(old)
         else:
             try:
                 hits = search(session, name)
             except requests.RequestException as e:
-                record = {"orcid": None, "status": "error", "name": name, "error": str(e)}
+                record = {"orcid": "", "status": "error", "name": name, "candidates": "", "error": str(e)}
                 log(f"search failed for {name}: {e}")
             else:
-                record, candidates = decide(name, hits)
-                record["name"] = name
-                if not record["orcid"] and candidates:
-                    record["candidates"] = [
-                        {
-                            "orcid": c["orcid-id"],
-                            "name": f"{c.get('given-names')} {c.get('family-names')}",
-                            "institutions": c.get("institution-name") or [],
-                        }
-                        for c in candidates
-                    ]
+                decided, candidates = decide(name, hits)
+                record = {
+                    "orcid": decided["orcid"] or "",
+                    "status": decided["status"],
+                    "name": name,
+                    "candidates": "" if decided["orcid"] else candidate_text(candidates),
+                    "error": "",
+                }
         if slug in overrides:
             record["orcid"] = overrides[slug]
             record["status"] = "override" if overrides[slug] else "excluded"
@@ -161,7 +160,7 @@ def main():
     counts = {}
     for record in records.values():
         counts[record["status"]] = counts.get(record["status"], 0) + 1
-    log(f"wrote {args.out}: " + ", ".join(f"{k} {v}" for k, v in sorted(counts.items())))
+    log(f"wrote {OUT}: " + ", ".join(f"{k} {v}" for k, v in sorted(counts.items())))
 
 
 if __name__ == "__main__":

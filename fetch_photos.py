@@ -10,12 +10,13 @@ so rerunning only fetches new photos.
 
 Usage: python3 fetch_photos.py
 """
-import json
 import os
 import sys
 from urllib.parse import urlparse
 
 import requests
+
+from crawl_sib import read_tsv
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 PHOTO_DIR = os.path.join(HERE, "data", "photos")
@@ -27,8 +28,7 @@ def log(msg):
 
 
 def main():
-    with open(os.path.join(HERE, "people.json"), encoding="utf-8") as f:
-        people = json.load(f)
+    people = read_tsv(os.path.join(HERE, "data", "people.tsv"))
     urls = [p["image"] for p in people if p.get("image")] + [LOGO]
 
     names = {}

@@ -1,13 +1,13 @@
 #!/usr/bin/env python3
 """Compare each person's ORCID works with the publications the crawl linked to them.
 
-For every person with an ORCID iD (orcid.json) this fetches the works and the
+For every person with an ORCID iD (data/orcid.tsv) this fetches the works and the
 employments on their ORCID record, then compares the works with the papers that
 data/sib.ttl links to the person. A paper matches on DOI, or on a normalized title
 when there is no DOI.
 
 Outputs:
-  data/orcid_works.json   the ORCID works per person
+  data/orcid_works.tsv    the ORCID works, one row per work (one row for a person without works)
   logs/orcid_works.log    the differences per person, and the status of each iD
 
 A person is "verified" when they have at least one shared paper and a SIB
@@ -17,7 +17,6 @@ Anyone else with an iD stays "unverified" in the log. The known list
 
 Usage: python3 check_orcid_works.py
 """
-import json
 import os
 import re
 import sys
@@ -26,6 +25,8 @@ import unicodedata
 from datetime import date
 
 import requests
+
+from crawl_sib import read_tsv, write_tsv
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 API = "https://pub.orcid.org/v3.0"
@@ -112,13 +113,13 @@ def describe(items, n=EXAMPLES):
 
 
 def main():
-    people = json.load(open(os.path.join(HERE, "people.json"), encoding="utf-8"))
-    orcid_records = json.load(open(os.path.join(HERE, "orcid.json"), encoding="utf-8"))
+    people = read_tsv(os.path.join(HERE, "data", "people.tsv"))
+    orcid_records = {row["slug"]: row for row in read_tsv(os.path.join(HERE, "data", "orcid.tsv"))}
     sib_links = load_sib_links()
     session = requests.Session()
     session.headers["Accept"] = "application/json"
 
-    works_out = {}
+    work_rows = []
     statuses = {}
     os.makedirs(os.path.join(HERE, "logs"), exist_ok=True)
     with open(os.path.join(HERE, "logs", "orcid_works.log"), "w", encoding="utf-8") as log:
@@ -128,12 +129,17 @@ def main():
         log_line(log)
         for person in people:
             slug, name = person["slug"], person["name"]
-            iD = (orcid_records.get(slug) or {}).get("orcid")
+            iD = (orcid_records.get(slug) or {}).get("orcid", "")
             if not iD:
                 continue
             works = fetch_works(session, iD)
             has_sib_employment = fetch_sib_employment(session, iD)
-            works_out[slug] = {"name": name, "orcid": iD, "works": works, "sib_employment": has_sib_employment}
+            employment = "yes" if has_sib_employment else "no"
+            if not works:
+                work_rows.append({"slug": slug, "name": name, "orcid": iD, "sib_employment": employment})
+            for w in works:
+                work_rows.append({"slug": slug, "name": name, "orcid": iD, "sib_employment": employment,
+                                  "doi": w["doi"] or "", "year": w["year"] or "", "title": w["title"]})
 
             ours = sib_links.get(f"https://orcid.org/{iD}", [])
             ours_keys = {paper_key(p): p for p in ours}
@@ -165,9 +171,9 @@ def main():
 
         log_line(log, "summary: " + ", ".join(f"{k} {v}" for k, v in sorted(statuses.items())))
 
-    with open(os.path.join(HERE, "data", "orcid_works.json"), "w", encoding="utf-8") as f:
-        json.dump(works_out, f, ensure_ascii=False, indent=1, sort_keys=True)
-    print("wrote data/orcid_works.json and logs/orcid_works.log", file=sys.stderr)
+    write_tsv(os.path.join(HERE, "data", "orcid_works.tsv"),
+              ["slug", "name", "orcid", "sib_employment", "doi", "year", "title"], work_rows)
+    print("wrote data/orcid_works.tsv and logs/orcid_works.log", file=sys.stderr)
 
 
 if __name__ == "__main__":
