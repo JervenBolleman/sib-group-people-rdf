@@ -3,23 +3,22 @@
 
 Each institution has a ROR id (data/ror.tsv, plus SIB itself). Wikidata items carry the
 ROR id as property P6782, and their logo as P154. Every logo that is found is
-saved as data/logos/<ror id>.<ext>, and data/logos.json records the Wikidata item
+saved as data/logos/<ror id>.<ext>, and data/logos.tsv records the Wikidata item
 and the Commons file name, so the page can credit the source.
 
 Usage: python3 fetch_logos.py
 """
-import json
 import os
 import sys
 from urllib.parse import unquote, urlparse
 
 import requests
 
-from crawl_sib import read_tsv
+from crawl_sib import read_tsv, write_tsv
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 LOGO_DIR = os.path.join(HERE, "data", "logos")
-MAP_PATH = os.path.join(HERE, "data", "logos.json")
+MAP_PATH = os.path.join(HERE, "data", "logos.tsv")
 SIB_ROR = "002n09z45"
 UA = "sib-group-people-rdf/1.0 (https://www.sib.swiss; jerven.bolleman@sib.swiss)"
 SPARQL = "https://query.wikidata.org/sparql"
@@ -84,8 +83,8 @@ def main():
             "commons": f"https://commons.wikimedia.org/wiki/File:{commons_name.replace(' ', '_')}",
         }
 
-    with open(MAP_PATH, "w", encoding="utf-8") as f:
-        json.dump(mapping, f, ensure_ascii=False, indent=1, sort_keys=True)
+    rows = [dict(entry, ror=ror) for ror, entry in sorted(mapping.items())]
+    write_tsv(MAP_PATH, ["ror", "file", "wikidata", "commons"], rows)
     log(f"wrote {MAP_PATH} with {len(mapping)} logos")
 
 

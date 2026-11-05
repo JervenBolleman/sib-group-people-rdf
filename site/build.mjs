@@ -312,8 +312,17 @@ function copyImages(graph) {
   if (sib) jobs.push({ node: sib, url: SIB_LOGO });
 
   // Institution logos come from Wikidata (fetch_logos.py). The SIB node keeps its emblem above.
-  const logosPath = path.join(ROOT, 'data', 'logos.json');
-  const logos = existsSync(logosPath) ? JSON.parse(readFileSync(logosPath, 'utf8')) : {};
+  const logos = {};
+  const logosPath = path.join(ROOT, 'data', 'logos.tsv');
+  if (existsSync(logosPath)) {
+    const [header, ...rows] = readFileSync(logosPath, 'utf8').split('\n').filter(Boolean);
+    const columns = header.split('\t');
+    for (const row of rows) {
+      const cells = row.split('\t');
+      const entry = Object.fromEntries(columns.map((c, i) => [c, cells[i]]));
+      logos[entry.ror] = entry;
+    }
+  }
   mkdirSync(path.join(OUT, 'logos'), { recursive: true });
   for (const node of graph.nodes) {
     const logo = logos[node.id];
