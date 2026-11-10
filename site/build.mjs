@@ -103,7 +103,7 @@ LIMIT 50
     text: 'Pairs of people who were instructors on the same course.',
     query: `${PREFIXES}
 SELECT ?nameA ?nameB (COUNT(DISTINCT ?course) AS ?courses) WHERE {
-  ?course a schema:Course ;
+  ?course a schema:CourseInstance ;
           schema:instructor ?a, ?b .
   ?a schema:name ?nameA .
   ?b schema:name ?nameB .

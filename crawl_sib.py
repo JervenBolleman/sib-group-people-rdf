@@ -552,7 +552,7 @@ def main():
             continue
         linked_courses += 1
         iri = f"{BASE}/training/course/{course['slug']}"
-        graph.add(iri, "a", "schema:Course")
+        graph.add(iri, "a", "schema:CourseInstance")
         graph.add(iri, "schema:name", lit(course["name"]))
         graph.add(iri, "schema:url", ref(iri))
         graph.add(iri, "schema:provider", ref(ROR))
