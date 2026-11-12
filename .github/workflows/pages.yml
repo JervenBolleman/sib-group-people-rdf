@@ -1,4 +1,4 @@
-name: Build and deploy training site
+name: Build and deploy site
 
 on:
   push:
