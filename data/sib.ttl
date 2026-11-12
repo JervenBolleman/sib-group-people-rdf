@@ -32474,14 +32474,14 @@
     schema:author <https://orcid.org/0000-0003-2715-335X> .
 
 <https://www.sib.swiss/training/course/2016-03-easybuild-workshop>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "EasyBuild Workshop" ;
     schema:url <https://www.sib.swiss/training/course/2016-03-easybuild-workshop> ;
     schema:provider <https://ror.org/002n09z45> ;
     schema:instructor <https://www.sib.swiss/directory/person/pablo-escobar> .
 
 <https://www.sib.swiss/training/course/2016-07-longreads-sequencing>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Bioinformatics of long read sequencing - getting ready for the third generation" ;
     schema:url <https://www.sib.swiss/training/course/2016-07-longreads-sequencing> ;
     schema:provider <https://ror.org/002n09z45> ;
@@ -32491,14 +32491,14 @@
     schema:instructor <https://orcid.org/0000-0002-3048-5518> .
 
 <https://www.sib.swiss/training/course/2017-01-intro-stats>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Introduction to Statistics and Data Visualisation with R" ;
     schema:url <https://www.sib.swiss/training/course/2017-01-intro-stats> ;
     schema:provider <https://ror.org/002n09z45> ;
     schema:instructor <https://www.sib.swiss/directory/person/frederic-schutz> .
 
 <https://www.sib.swiss/training/course/2017-02-IntermediateR>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "R Intermediate" ;
     schema:url <https://www.sib.swiss/training/course/2017-02-IntermediateR> ;
     schema:provider <https://ror.org/002n09z45> ;
@@ -32507,7 +32507,7 @@
     schema:instructor <https://www.sib.swiss/directory/person/geoffrey-fucile> .
 
 <https://www.sib.swiss/training/course/2017-11-hpc-genomics>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "High Performance Computing for genomic applications" ;
     schema:url <https://www.sib.swiss/training/course/2017-11-hpc-genomics> ;
     schema:provider <https://ror.org/002n09z45> ;
@@ -32515,7 +32515,7 @@
     schema:instructor <https://www.sib.swiss/directory/person/michal-okoniewski> .
 
 <https://www.sib.swiss/training/course/2017-12-hpc-genomics>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "High Performance Computing for genomic applications" ;
     schema:url <https://www.sib.swiss/training/course/2017-12-hpc-genomics> ;
     schema:provider <https://ror.org/002n09z45> ;
@@ -32524,42 +32524,42 @@
     schema:instructor <https://www.sib.swiss/directory/person/michal-okoniewski> .
 
 <https://www.sib.swiss/training/course/2018-01-NGS1>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "NGS - Quality Control, Alignment, Visualisation" ;
     schema:url <https://www.sib.swiss/training/course/2018-01-NGS1> ;
     schema:provider <https://ror.org/002n09z45> ;
     schema:instructor <https://www.sib.swiss/directory/person/geoffrey-fucile> .
 
 <https://www.sib.swiss/training/course/2018-01-intro-statistics>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Statistics for Life Sciences with R" ;
     schema:url <https://www.sib.swiss/training/course/2018-01-intro-statistics> ;
     schema:provider <https://ror.org/002n09z45> ;
     schema:instructor <https://www.sib.swiss/directory/person/frederic-schutz> .
 
 <https://www.sib.swiss/training/course/2018-02-MS1>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Mass Spectrometry-based Proteomics I: Protein Identification" ;
     schema:url <https://www.sib.swiss/training/course/2018-02-MS1> ;
     schema:provider <https://ror.org/002n09z45> ;
     schema:instructor <https://www.sib.swiss/directory/person/roman-mylonas> .
 
 <https://www.sib.swiss/training/course/2018-02-MS2>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Mass-Spectrometry based Proteomics II: Quantification and Post-Translational Modifications" ;
     schema:url <https://www.sib.swiss/training/course/2018-02-MS2> ;
     schema:provider <https://ror.org/002n09z45> ;
     schema:instructor <https://www.sib.swiss/directory/person/roman-mylonas> .
 
 <https://www.sib.swiss/training/course/2018-03-R>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "First Steps with R in Life Sciences" ;
     schema:url <https://www.sib.swiss/training/course/2018-03-R> ;
     schema:provider <https://ror.org/002n09z45> ;
     schema:instructor <https://www.sib.swiss/directory/person/geoffrey-fucile> .
 
 <https://www.sib.swiss/training/course/2018-03-protdb>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Protein sequence databases and sequence annotation" ;
     schema:url <https://www.sib.swiss/training/course/2018-03-protdb> ;
     schema:provider <https://ror.org/002n09z45> ;
@@ -32567,28 +32567,28 @@
     schema:instructor <https://orcid.org/0000-0001-8561-7170> .
 
 <https://www.sib.swiss/training/course/2018-04-R>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "First Steps with R in Life Sciences" ;
     schema:url <https://www.sib.swiss/training/course/2018-04-R> ;
     schema:provider <https://ror.org/002n09z45> ;
     schema:instructor <https://orcid.org/0000-0002-9812-6351> .
 
 <https://www.sib.swiss/training/course/2018-04-r-packaging>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "R packaging" ;
     schema:url <https://www.sib.swiss/training/course/2018-04-r-packaging> ;
     schema:provider <https://ror.org/002n09z45> ;
     schema:instructor <https://www.sib.swiss/directory/person/frederic-schutz> .
 
 <https://www.sib.swiss/training/course/2018-05-python>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Python for Life Scientists" ;
     schema:url <https://www.sib.swiss/training/course/2018-05-python> ;
     schema:provider <https://ror.org/002n09z45> ;
     schema:instructor <https://www.sib.swiss/directory/person/geoffrey-fucile> .
 
 <https://www.sib.swiss/training/course/2018-05-reg-networks>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Inferring gene regulatory networks from high-throughput data with ISMARA" ;
     schema:url <https://www.sib.swiss/training/course/2018-05-reg-networks> ;
     schema:provider <https://ror.org/002n09z45> ;
@@ -32596,7 +32596,7 @@
     schema:instructor <https://orcid.org/0000-0001-7616-6435> .
 
 <https://www.sib.swiss/training/course/2018-06-Long-Reads>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Long reads applied to plant genome assembling" ;
     schema:url <https://www.sib.swiss/training/course/2018-06-Long-Reads> ;
     schema:provider <https://ror.org/002n09z45> ;
@@ -32604,14 +32604,14 @@
     schema:instructor <https://orcid.org/0000-0003-4199-9052> .
 
 <https://www.sib.swiss/training/course/2018-06-big-data>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Statistical methods for big data in life sciences and health with R" ;
     schema:url <https://www.sib.swiss/training/course/2018-06-big-data> ;
     schema:provider <https://ror.org/002n09z45> ;
     schema:instructor <https://www.sib.swiss/directory/person/frederic-schutz> .
 
 <https://www.sib.swiss/training/course/2018-06-hpc-training>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "High Performance Computing (HPC) in Life Sciences: Vital-IT Infrastructure Training" ;
     schema:url <https://www.sib.swiss/training/course/2018-06-hpc-training> ;
     schema:provider <https://ror.org/002n09z45> ;
@@ -32620,7 +32620,7 @@
     schema:instructor <https://orcid.org/0000-0002-4209-2578> .
 
 <https://www.sib.swiss/training/course/2018-09-comparative-genomics>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Comparative Genomics" ;
     schema:url <https://www.sib.swiss/training/course/2018-09-comparative-genomics> ;
     schema:provider <https://ror.org/002n09z45> ;
@@ -32629,7 +32629,7 @@
     schema:instructor <https://orcid.org/0000-0003-4199-9052> .
 
 <https://www.sib.swiss/training/course/2018-09-unix>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "First Steps with UNIX in Life Sciences" ;
     schema:url <https://www.sib.swiss/training/course/2018-09-unix> ;
     schema:provider <https://ror.org/002n09z45> ;
@@ -32637,14 +32637,14 @@
     schema:instructor <https://www.sib.swiss/directory/person/gregoire-rossier> .
 
 <https://www.sib.swiss/training/course/2018-10-best-practices-programming>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Best Practices in Programming" ;
     schema:url <https://www.sib.swiss/training/course/2018-10-best-practices-programming> ;
     schema:provider <https://ror.org/002n09z45> ;
     schema:instructor <https://www.sib.swiss/directory/person/franz-josef-elmer> .
 
 <https://www.sib.swiss/training/course/2018-10-hpc-training>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "High Performance Computing (HPC) in Life Sciences: Vital-IT Infrastructure Training" ;
     schema:url <https://www.sib.swiss/training/course/2018-10-hpc-training> ;
     schema:provider <https://ror.org/002n09z45> ;
@@ -32653,7 +32653,7 @@
     schema:instructor <https://orcid.org/0000-0002-4209-2578> .
 
 <https://www.sib.swiss/training/course/2018-10-network>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Introduction to Network Analysis" ;
     schema:url <https://www.sib.swiss/training/course/2018-10-network> ;
     schema:provider <https://ror.org/002n09z45> ;
@@ -32661,14 +32661,14 @@
     schema:instructor <https://orcid.org/0000-0003-3152-5670> .
 
 <https://www.sib.swiss/training/course/2018-11-R>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "First Steps with R in Life Sciences" ;
     schema:url <https://www.sib.swiss/training/course/2018-11-R> ;
     schema:provider <https://ror.org/002n09z45> ;
     schema:instructor <https://orcid.org/0000-0002-9812-6351> .
 
 <https://www.sib.swiss/training/course/2018-11-cadd>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Ligand-protein docking, and computer-aided drug design" ;
     schema:url <https://www.sib.swiss/training/course/2018-11-cadd> ;
     schema:provider <https://ror.org/002n09z45> ;
@@ -32676,14 +32676,14 @@
     schema:instructor <https://www.sib.swiss/directory/person/vincent-zoete> .
 
 <https://www.sib.swiss/training/course/2018-11-hpc-genomics>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "High Performance Computing for genomic applications" ;
     schema:url <https://www.sib.swiss/training/course/2018-11-hpc-genomics> ;
     schema:provider <https://ror.org/002n09z45> ;
     schema:instructor <https://www.sib.swiss/directory/person/michal-okoniewski> .
 
 <https://www.sib.swiss/training/course/2018-11-prot-bioinfo>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Protein Bioinformatics: Sequence-Structure-Function" ;
     schema:url <https://www.sib.swiss/training/course/2018-11-prot-bioinfo> ;
     schema:provider <https://ror.org/002n09z45> ;
@@ -32696,14 +32696,14 @@
     schema:instructor <https://orcid.org/0000-0003-1813-6857> .
 
 <https://www.sib.swiss/training/course/2018-11-rnaseq>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Introduction to RNA-Seq" ;
     schema:url <https://www.sib.swiss/training/course/2018-11-rnaseq> ;
     schema:provider <https://ror.org/002n09z45> ;
     schema:instructor <https://www.sib.swiss/directory/person/geoffrey-fucile> .
 
 <https://www.sib.swiss/training/course/2018-11-single-cell>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Single-cell RNA-Seq Analysis" ;
     schema:url <https://www.sib.swiss/training/course/2018-11-single-cell> ;
     schema:provider <https://ror.org/002n09z45> ;
@@ -32711,42 +32711,42 @@
     schema:instructor <https://www.sib.swiss/directory/person/vincent-gardeux> .
 
 <https://www.sib.swiss/training/course/2018-12-hpc-genomics>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "High Performance Computing for genomic applications" ;
     schema:url <https://www.sib.swiss/training/course/2018-12-hpc-genomics> ;
     schema:provider <https://ror.org/002n09z45> ;
     schema:instructor <https://www.sib.swiss/directory/person/michal-okoniewski> .
 
 <https://www.sib.swiss/training/course/2018-12-stats>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Statistics for Life Scientists" ;
     schema:url <https://www.sib.swiss/training/course/2018-12-stats> ;
     schema:provider <https://ror.org/002n09z45> ;
     schema:instructor <https://www.sib.swiss/directory/person/geoffrey-fucile> .
 
 <https://www.sib.swiss/training/course/2019-01-DMP>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Data Management Plan" ;
     schema:url <https://www.sib.swiss/training/course/2019-01-DMP> ;
     schema:provider <https://ror.org/002n09z45> ;
     schema:instructor <https://orcid.org/0000-0002-4209-2578> .
 
 <https://www.sib.swiss/training/course/2019-01-R>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "First Steps with R in Life Sciences" ;
     schema:url <https://www.sib.swiss/training/course/2019-01-R> ;
     schema:provider <https://ror.org/002n09z45> ;
     schema:instructor <https://orcid.org/0000-0002-9812-6351> .
 
 <https://www.sib.swiss/training/course/2019-01-intro-stats>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Introduction to Statistics and Data Visualisation with R" ;
     schema:url <https://www.sib.swiss/training/course/2019-01-intro-stats> ;
     schema:provider <https://ror.org/002n09z45> ;
     schema:instructor <https://www.sib.swiss/directory/person/frederic-schutz> .
 
 <https://www.sib.swiss/training/course/2019-01-unix>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "First Steps with UNIX in Life Sciences" ;
     schema:url <https://www.sib.swiss/training/course/2019-01-unix> ;
     schema:provider <https://ror.org/002n09z45> ;
@@ -32754,7 +32754,7 @@
     schema:instructor <https://www.sib.swiss/directory/person/gregoire-rossier> .
 
 <https://www.sib.swiss/training/course/2019-02-compbio19>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Workshop on Computational Biology at biology'19" ;
     schema:url <https://www.sib.swiss/training/course/2019-02-compbio19> ;
     schema:provider <https://ror.org/002n09z45> ;
@@ -32764,84 +32764,84 @@
     schema:instructor <https://www.sib.swiss/directory/person/richard-neher> .
 
 <https://www.sib.swiss/training/course/2019-02-r-packaging>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "R-packaging" ;
     schema:url <https://www.sib.swiss/training/course/2019-02-r-packaging> ;
     schema:provider <https://ror.org/002n09z45> ;
     schema:instructor <https://www.sib.swiss/directory/person/frederic-schutz> .
 
 <https://www.sib.swiss/training/course/2019-04-intermediate-stats>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Intermediate stats: data analysis in practice" ;
     schema:url <https://www.sib.swiss/training/course/2019-04-intermediate-stats> ;
     schema:provider <https://ror.org/002n09z45> ;
     schema:instructor <https://www.sib.swiss/directory/person/frederic-schutz> .
 
 <https://www.sib.swiss/training/course/2019-04-sphn-security>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "SPHN Data Privacy and IT Security Training" ;
     schema:url <https://www.sib.swiss/training/course/2019-04-sphn-security> ;
     schema:provider <https://ror.org/002n09z45> ;
     schema:instructor <https://www.sib.swiss/directory/person/sofia-georgakopoulou> .
 
 <https://www.sib.swiss/training/course/2019-05-TtT>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "ELIXIR-EXCELERATE Train the trainer" ;
     schema:url <https://www.sib.swiss/training/course/2019-05-TtT> ;
     schema:provider <https://ror.org/002n09z45> ;
     schema:instructor <https://orcid.org/0000-0001-9062-6303> .
 
 <https://www.sib.swiss/training/course/2019-05-longreads1>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Live Long-Read sequencing and data analysis" ;
     schema:url <https://www.sib.swiss/training/course/2019-05-longreads1> ;
     schema:provider <https://ror.org/002n09z45> ;
     schema:instructor <https://orcid.org/0000-0001-8102-7579> .
 
 <https://www.sib.swiss/training/course/2019-05-openbis>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Introduction to openBIS" ;
     schema:url <https://www.sib.swiss/training/course/2019-05-openbis> ;
     schema:provider <https://ror.org/002n09z45> ;
     schema:instructor <https://www.sib.swiss/directory/person/caterina-barillari> .
 
 <https://www.sib.swiss/training/course/2019-05-shiny>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Introduction to R Shiny" ;
     schema:url <https://www.sib.swiss/training/course/2019-05-shiny> ;
     schema:provider <https://ror.org/002n09z45> ;
     schema:instructor <https://www.sib.swiss/directory/person/frederic-schutz> .
 
 <https://www.sib.swiss/training/course/2019-05-unix>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "First Steps with UNIX in Life Sciences" ;
     schema:url <https://www.sib.swiss/training/course/2019-05-unix> ;
     schema:provider <https://ror.org/002n09z45> ;
     schema:instructor <https://www.sib.swiss/directory/person/gregoire-rossier> .
 
 <https://www.sib.swiss/training/course/2019-06-big-data>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Statistical methods for big data in life sciences and health with R" ;
     schema:url <https://www.sib.swiss/training/course/2019-06-big-data> ;
     schema:provider <https://ror.org/002n09z45> ;
     schema:instructor <https://www.sib.swiss/directory/person/frederic-schutz> .
 
 <https://www.sib.swiss/training/course/2019-06_TN-Retreat>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "SIB PhD Training Network Annual Retreat" ;
     schema:url <https://www.sib.swiss/training/course/2019-06_TN-Retreat> ;
     schema:provider <https://ror.org/002n09z45> ;
     schema:instructor <https://www.sib.swiss/directory/person/frederic-schutz> .
 
 <https://www.sib.swiss/training/course/2019-08-advanced-stats>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Advanced Statistics: Statistical Modeling" ;
     schema:url <https://www.sib.swiss/training/course/2019-08-advanced-stats> ;
     schema:provider <https://ror.org/002n09z45> ;
     schema:instructor <https://www.sib.swiss/directory/person/frederic-schutz> .
 
 <https://www.sib.swiss/training/course/2019-09-good-exp>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Good practice in high-throughput experiments" ;
     schema:url <https://www.sib.swiss/training/course/2019-09-good-exp> ;
     schema:provider <https://ror.org/002n09z45> ;
@@ -32850,21 +32850,21 @@
     schema:instructor <https://www.sib.swiss/directory/person/michael-prummer> .
 
 <https://www.sib.swiss/training/course/2019-09-unix>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "First Steps with UNIX in Life Sciences" ;
     schema:url <https://www.sib.swiss/training/course/2019-09-unix> ;
     schema:provider <https://ror.org/002n09z45> ;
     schema:instructor <https://www.sib.swiss/directory/person/gregoire-rossier> .
 
 <https://www.sib.swiss/training/course/2019-10-DMP>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Data Management Plan" ;
     schema:url <https://www.sib.swiss/training/course/2019-10-DMP> ;
     schema:provider <https://ror.org/002n09z45> ;
     schema:instructor <https://orcid.org/0000-0002-4209-2578> .
 
 <https://www.sib.swiss/training/course/2019-10-R>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "First Steps with R in Life Sciences" ;
     schema:url <https://www.sib.swiss/training/course/2019-10-R> ;
     schema:provider <https://ror.org/002n09z45> ;
@@ -32874,21 +32874,21 @@
     schema:instructor <https://www.sib.swiss/directory/person/leonore-wigger> .
 
 <https://www.sib.swiss/training/course/2019-10-sphn-security>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "SPHN Data Privacy and IT Security Training" ;
     schema:url <https://www.sib.swiss/training/course/2019-10-sphn-security> ;
     schema:provider <https://ror.org/002n09z45> ;
     schema:instructor <https://www.sib.swiss/directory/person/sofia-georgakopoulou> .
 
 <https://www.sib.swiss/training/course/2019-11-best-practices-programming>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Best Practices in Programming" ;
     schema:url <https://www.sib.swiss/training/course/2019-11-best-practices-programming> ;
     schema:provider <https://ror.org/002n09z45> ;
     schema:instructor <https://www.sib.swiss/directory/person/franz-josef-elmer> .
 
 <https://www.sib.swiss/training/course/2019-11-cadd>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Ligand-protein docking, and computer-aided drug design" ;
     schema:url <https://www.sib.swiss/training/course/2019-11-cadd> ;
     schema:provider <https://ror.org/002n09z45> ;
@@ -32897,14 +32897,14 @@
     schema:instructor <https://www.sib.swiss/directory/person/vincent-zoete> .
 
 <https://www.sib.swiss/training/course/2019-12-rnaseq>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Introduction to Bulk RNA-Seq: From Quality Control to Pathway Analysis" ;
     schema:url <https://www.sib.swiss/training/course/2019-12-rnaseq> ;
     schema:provider <https://ror.org/002n09z45> ;
     schema:instructor <https://www.sib.swiss/directory/person/geoffrey-fucile> .
 
 <https://www.sib.swiss/training/course/2020-01-R>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "First Steps with R in Life Sciences" ;
     schema:url <https://www.sib.swiss/training/course/2020-01-R> ;
     schema:provider <https://ror.org/002n09z45> ;
@@ -32912,21 +32912,21 @@
     schema:instructor <https://orcid.org/0000-0002-9619-1707> .
 
 <https://www.sib.swiss/training/course/2020-01-intro-stats>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Introduction to Statistics and Data Visualisation with R" ;
     schema:url <https://www.sib.swiss/training/course/2020-01-intro-stats> ;
     schema:provider <https://ror.org/002n09z45> ;
     schema:instructor <https://www.sib.swiss/directory/person/frederic-schutz> .
 
 <https://www.sib.swiss/training/course/2020-01-unix>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "First Steps with UNIX in Life Sciences" ;
     schema:url <https://www.sib.swiss/training/course/2020-01-unix> ;
     schema:provider <https://ror.org/002n09z45> ;
     schema:instructor <https://www.sib.swiss/directory/person/gregoire-rossier> .
 
 <https://www.sib.swiss/training/course/2020-02-Git>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "First steps with Git for reproducible research" ;
     schema:url <https://www.sib.swiss/training/course/2020-02-Git> ;
     schema:provider <https://ror.org/002n09z45> ;
@@ -32934,28 +32934,28 @@
     schema:instructor <https://www.sib.swiss/directory/person/roman-mylonas> .
 
 <https://www.sib.swiss/training/course/2020-02-dataVis>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Data visualization" ;
     schema:url <https://www.sib.swiss/training/course/2020-02-dataVis> ;
     schema:provider <https://ror.org/002n09z45> ;
     schema:instructor <https://www.sib.swiss/directory/person/frederic-schutz> .
 
 <https://www.sib.swiss/training/course/2020-02-rna-seq>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Transcriptomics Analysis: RNA-seq" ;
     schema:url <https://www.sib.swiss/training/course/2020-02-rna-seq> ;
     schema:provider <https://ror.org/002n09z45> ;
     schema:instructor <https://orcid.org/0000-0002-1037-2823> .
 
 <https://www.sib.swiss/training/course/2020-03-DMP>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Data Management Plan" ;
     schema:url <https://www.sib.swiss/training/course/2020-03-DMP> ;
     schema:provider <https://ror.org/002n09z45> ;
     schema:instructor <https://orcid.org/0000-0002-4209-2578> .
 
 <https://www.sib.swiss/training/course/2020-03-protdb>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Protein sequence databases and sequence annotation" ;
     schema:url <https://www.sib.swiss/training/course/2020-03-protdb> ;
     schema:provider <https://ror.org/002n09z45> ;
@@ -32963,14 +32963,14 @@
     schema:instructor <https://orcid.org/0000-0001-8561-7170> .
 
 <https://www.sib.swiss/training/course/2020-04-R>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "First Steps with R in Life Sciences" ;
     schema:url <https://www.sib.swiss/training/course/2020-04-R> ;
     schema:provider <https://ror.org/002n09z45> ;
     schema:instructor <https://www.sib.swiss/directory/person/wandrille-duchemin> .
 
 <https://www.sib.swiss/training/course/2020-04-genex-bgee>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Gene expression made useful easily: tools and database of Bgee (lectures and practicals)" ;
     schema:url <https://www.sib.swiss/training/course/2020-04-genex-bgee> ;
     schema:provider <https://ror.org/002n09z45> ;
@@ -32979,7 +32979,7 @@
     schema:instructor <https://orcid.org/0000-0002-3437-3329> .
 
 <https://www.sib.swiss/training/course/2020-04-genex-bgee-lec>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Gene expression made useful easily: tools and database of Bgee (lectures) - now on YouTube" ;
     schema:url <https://www.sib.swiss/training/course/2020-04-genex-bgee-lec> ;
     schema:provider <https://ror.org/002n09z45> ;
@@ -32988,14 +32988,14 @@
     schema:instructor <https://orcid.org/0000-0002-3437-3329> .
 
 <https://www.sib.swiss/training/course/2020-04-intermediate-stats>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Intermediate stats: data analysis in practice - postponed" ;
     schema:url <https://www.sib.swiss/training/course/2020-04-intermediate-stats> ;
     schema:provider <https://ror.org/002n09z45> ;
     schema:instructor <https://www.sib.swiss/directory/person/frederic-schutz> .
 
 <https://www.sib.swiss/training/course/2020-04-regge-lectures>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Tools for regulatory genomics (lectures) - now on YouTube" ;
     schema:url <https://www.sib.swiss/training/course/2020-04-regge-lectures> ;
     schema:provider <https://ror.org/002n09z45> ;
@@ -33003,7 +33003,7 @@
     schema:instructor <https://orcid.org/0000-0001-7616-6435> .
 
 <https://www.sib.swiss/training/course/2020-04-regge-practicals>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Tools for regulatory genomics (lectures and practicals)" ;
     schema:url <https://www.sib.swiss/training/course/2020-04-regge-practicals> ;
     schema:provider <https://ror.org/002n09z45> ;
@@ -33011,28 +33011,28 @@
     schema:instructor <https://orcid.org/0000-0001-7616-6435> .
 
 <https://www.sib.swiss/training/course/2020-04-sc-Transcriptomics>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Single-Cell Transcriptomics with R" ;
     schema:url <https://www.sib.swiss/training/course/2020-04-sc-Transcriptomics> ;
     schema:provider <https://ror.org/002n09z45> ;
     schema:instructor <https://orcid.org/0000-0002-1037-2823> .
 
 <https://www.sib.swiss/training/course/2020-04-vglyco-lecture>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "SARS-Coronavirus-2 glycobiology - now on YouTube" ;
     schema:url <https://www.sib.swiss/training/course/2020-04-vglyco-lecture> ;
     schema:provider <https://ror.org/002n09z45> ;
     schema:instructor <https://www.sib.swiss/directory/person/frederique-lisacek> .
 
 <https://www.sib.swiss/training/course/2020-04-vzone-lecture>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "SARS-Coronavirus-2 data in ViralZone - now on YouTube" ;
     schema:url <https://www.sib.swiss/training/course/2020-04-vzone-lecture> ;
     schema:provider <https://ror.org/002n09z45> ;
     schema:instructor <https://orcid.org/0000-0001-8528-090X> .
 
 <https://www.sib.swiss/training/course/2020-05-adv-scrna>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Advanced topics in single-cell transcriptomics" ;
     schema:url <https://www.sib.swiss/training/course/2020-05-adv-scrna> ;
     schema:provider <https://ror.org/002n09z45> ;
@@ -33041,49 +33041,49 @@
     schema:instructor <https://www.sib.swiss/directory/person/panagiotis-papasaikas> .
 
 <https://www.sib.swiss/training/course/2020-05-glyco>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Introduction to Glycoinformatics (lectures and practicals)" ;
     schema:url <https://www.sib.swiss/training/course/2020-05-glyco> ;
     schema:provider <https://ror.org/002n09z45> ;
     schema:instructor <https://www.sib.swiss/directory/person/frederique-lisacek> .
 
 <https://www.sib.swiss/training/course/2020-05-glyco-lectures>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Introduction to Glycoinformatics (lectures) - now on YouTube" ;
     schema:url <https://www.sib.swiss/training/course/2020-05-glyco-lectures> ;
     schema:provider <https://ror.org/002n09z45> ;
     schema:instructor <https://www.sib.swiss/directory/person/frederique-lisacek> .
 
 <https://www.sib.swiss/training/course/2020-05-openbis>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Introduction to openBIS (lectures and practicals) - now on YouTube" ;
     schema:url <https://www.sib.swiss/training/course/2020-05-openbis> ;
     schema:provider <https://ror.org/002n09z45> ;
     schema:instructor <https://www.sib.swiss/directory/person/caterina-barillari> .
 
 <https://www.sib.swiss/training/course/2020-05-openbis-lecture>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Introduction to openBIS (lectures) - now on YouTube" ;
     schema:url <https://www.sib.swiss/training/course/2020-05-openbis-lecture> ;
     schema:provider <https://ror.org/002n09z45> ;
     schema:instructor <https://www.sib.swiss/directory/person/caterina-barillari> .
 
 <https://www.sib.swiss/training/course/2020-05-python>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "First Steps with Python in Life Sciences" ;
     schema:url <https://www.sib.swiss/training/course/2020-05-python> ;
     schema:provider <https://ror.org/002n09z45> ;
     schema:instructor <https://www.sib.swiss/directory/person/wandrille-duchemin> .
 
 <https://www.sib.swiss/training/course/2020-05-unix>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "First Steps with UNIX in Life Sciences" ;
     schema:url <https://www.sib.swiss/training/course/2020-05-unix> ;
     schema:provider <https://ror.org/002n09z45> ;
     schema:instructor <https://www.sib.swiss/directory/person/gregoire-rossier> .
 
 <https://www.sib.swiss/training/course/2020-06-R>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "First Steps with R in Life Sciences" ;
     schema:url <https://www.sib.swiss/training/course/2020-06-R> ;
     schema:provider <https://ror.org/002n09z45> ;
@@ -33091,28 +33091,28 @@
     schema:instructor <https://www.sib.swiss/directory/person/leonore-wigger> .
 
 <https://www.sib.swiss/training/course/2020-06-galaxy>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Galaxy Introduction for Life Scientists" ;
     schema:url <https://www.sib.swiss/training/course/2020-06-galaxy> ;
     schema:provider <https://ror.org/002n09z45> ;
     schema:instructor <https://www.sib.swiss/directory/person/hans-rudolf-hotz> .
 
 <https://www.sib.swiss/training/course/2020-06-vpipe-lecture>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Applying V-pipe to SARS-Coronavirus-2 data - now on YouTube" ;
     schema:url <https://www.sib.swiss/training/course/2020-06-vpipe-lecture> ;
     schema:provider <https://ror.org/002n09z45> ;
     schema:instructor <https://orcid.org/0000-0002-7561-0810> .
 
 <https://www.sib.swiss/training/course/2020-07-covid-stats>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Statistics and data visualization - Lessons learned from the SARS-Coronavirus-2" ;
     schema:url <https://www.sib.swiss/training/course/2020-07-covid-stats> ;
     schema:provider <https://ror.org/002n09z45> ;
     schema:instructor <https://www.sib.swiss/directory/person/frederic-schutz> .
 
 <https://www.sib.swiss/training/course/2020-09-DMP>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Data Management Plan" ;
     schema:url <https://www.sib.swiss/training/course/2020-09-DMP> ;
     schema:provider <https://ror.org/002n09z45> ;
@@ -33120,14 +33120,14 @@
     schema:instructor <https://orcid.org/0000-0002-4209-2578> .
 
 <https://www.sib.swiss/training/course/2020-09-IntroStatsBASEL>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "First steps in Statistics for Life Sciences" ;
     schema:url <https://www.sib.swiss/training/course/2020-09-IntroStatsBASEL> ;
     schema:provider <https://ror.org/002n09z45> ;
     schema:instructor <https://www.sib.swiss/directory/person/wandrille-duchemin> .
 
 <https://www.sib.swiss/training/course/2020-09-comparative-genomics>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Comparative Genomics - lectures and practicals - now on YouTube" ;
     schema:url <https://www.sib.swiss/training/course/2020-09-comparative-genomics> ;
     schema:provider <https://ror.org/002n09z45> ;
@@ -33136,7 +33136,7 @@
     schema:instructor <https://orcid.org/0000-0003-4199-9052> .
 
 <https://www.sib.swiss/training/course/2020-09-comparative-genomics-lec>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Comparative Genomics - lectures - now on YouTube" ;
     schema:url <https://www.sib.swiss/training/course/2020-09-comparative-genomics-lec> ;
     schema:provider <https://ror.org/002n09z45> ;
@@ -33145,7 +33145,7 @@
     schema:instructor <https://orcid.org/0000-0003-4199-9052> .
 
 <https://www.sib.swiss/training/course/2020-09-drugdesign-lecture>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Drug design applied to COVID-19 - now on YouTube" ;
     schema:url <https://www.sib.swiss/training/course/2020-09-drugdesign-lecture> ;
     schema:provider <https://ror.org/002n09z45> ;
@@ -33153,21 +33153,21 @@
     schema:instructor <https://www.sib.swiss/directory/person/vincent-zoete> .
 
 <https://www.sib.swiss/training/course/2020-09-unix>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "First Steps with UNIX in Life Sciences" ;
     schema:url <https://www.sib.swiss/training/course/2020-09-unix> ;
     schema:provider <https://ror.org/002n09z45> ;
     schema:instructor <https://www.sib.swiss/directory/person/gregoire-rossier> .
 
 <https://www.sib.swiss/training/course/2020-10-IntroRNAseq>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Introduction to Bulk RNA-Seq: From Quality Control to Pathway Analysis" ;
     schema:url <https://www.sib.swiss/training/course/2020-10-IntroRNAseq> ;
     schema:provider <https://ror.org/002n09z45> ;
     schema:instructor <https://www.sib.swiss/directory/person/wandrille-duchemin> .
 
 <https://www.sib.swiss/training/course/2020-10-R>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "First Steps with R in Life Sciences" ;
     schema:url <https://www.sib.swiss/training/course/2020-10-R> ;
     schema:provider <https://ror.org/002n09z45> ;
@@ -33175,21 +33175,21 @@
     schema:instructor <https://www.sib.swiss/directory/person/leonore-wigger> .
 
 <https://www.sib.swiss/training/course/2020-10-advanced-unix>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "UNIX Shell Scripting in Life Sciences" ;
     schema:url <https://www.sib.swiss/training/course/2020-10-advanced-unix> ;
     schema:provider <https://ror.org/002n09z45> ;
     schema:instructor <https://orcid.org/0000-0002-4015-5969> .
 
 <https://www.sib.swiss/training/course/2020-11-NGS6>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "NGS - Quality Control, Alignment, Visualisation" ;
     schema:url <https://www.sib.swiss/training/course/2020-11-NGS6> ;
     schema:provider <https://ror.org/002n09z45> ;
     schema:instructor <https://orcid.org/0000-0002-1561-078X> .
 
 <https://www.sib.swiss/training/course/2020-11-cadd>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Ligand-protein docking, and computer-aided drug design" ;
     schema:url <https://www.sib.swiss/training/course/2020-11-cadd> ;
     schema:provider <https://ror.org/002n09z45> ;
@@ -33198,7 +33198,7 @@
     schema:instructor <https://www.sib.swiss/directory/person/vincent-zoete> .
 
 <https://www.sib.swiss/training/course/2020-11-prot-bioinfo>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Protein Bioinformatics: Sequence-Structure-Function" ;
     schema:url <https://www.sib.swiss/training/course/2020-11-prot-bioinfo> ;
     schema:provider <https://ror.org/002n09z45> ;
@@ -33210,21 +33210,21 @@
     schema:instructor <https://orcid.org/0000-0003-1813-6857> .
 
 <https://www.sib.swiss/training/course/2020-12-NGS2>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "NGS - Genome Variant Analysis" ;
     schema:url <https://www.sib.swiss/training/course/2020-12-NGS2> ;
     schema:provider <https://ror.org/002n09z45> ;
     schema:instructor <https://orcid.org/0000-0002-1561-078X> .
 
 <https://www.sib.swiss/training/course/2020-12-R>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "First Steps with R in Life Sciences" ;
     schema:url <https://www.sib.swiss/training/course/2020-12-R> ;
     schema:provider <https://ror.org/002n09z45> ;
     schema:instructor <https://www.sib.swiss/directory/person/wandrille-duchemin> .
 
 <https://www.sib.swiss/training/course/2020-12-python>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "First Steps with Python in Life Sciences" ;
     schema:url <https://www.sib.swiss/training/course/2020-12-python> ;
     schema:provider <https://ror.org/002n09z45> ;
@@ -33232,14 +33232,14 @@
     schema:instructor <https://www.sib.swiss/directory/person/wandrille-duchemin> .
 
 <https://www.sib.swiss/training/course/2020-12-statsML>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Statistics and Machine Learning for Life Sciences" ;
     schema:url <https://www.sib.swiss/training/course/2020-12-statsML> ;
     schema:provider <https://ror.org/002n09z45> ;
     schema:instructor <https://www.sib.swiss/directory/person/wandrille-duchemin> .
 
 <https://www.sib.swiss/training/course/2020BestHPC-sciCORE>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Best practices in High-Perfomance Computing (sciCORE cluster)" ;
     schema:url <https://www.sib.swiss/training/course/2020BestHPC-sciCORE> ;
     schema:provider <https://ror.org/002n09z45> ;
@@ -33247,7 +33247,7 @@
     schema:instructor <https://www.sib.swiss/directory/person/sofia-georgakopoulou> .
 
 <https://www.sib.swiss/training/course/2021-01-DMP>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Data Management Plan" ;
     schema:url <https://www.sib.swiss/training/course/2021-01-DMP> ;
     schema:provider <https://ror.org/002n09z45> ;
@@ -33255,7 +33255,7 @@
     schema:instructor <https://orcid.org/0000-0002-4209-2578> .
 
 <https://www.sib.swiss/training/course/2021-01-Git-1>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Version Control with Git" ;
     schema:url <https://www.sib.swiss/training/course/2021-01-Git-1> ;
     schema:provider <https://ror.org/002n09z45> ;
@@ -33263,7 +33263,7 @@
     schema:instructor <https://www.sib.swiss/directory/person/roman-mylonas> .
 
 <https://www.sib.swiss/training/course/2021-01-Git-2>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Version Control with Git" ;
     schema:url <https://www.sib.swiss/training/course/2021-01-Git-2> ;
     schema:provider <https://ror.org/002n09z45> ;
@@ -33271,7 +33271,7 @@
     schema:instructor <https://www.sib.swiss/directory/person/roman-mylonas> .
 
 <https://www.sib.swiss/training/course/2021-01-git-1>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Version Control with Git" ;
     schema:url <https://www.sib.swiss/training/course/2021-01-git-1> ;
     schema:provider <https://ror.org/002n09z45> ;
@@ -33279,7 +33279,7 @@
     schema:instructor <https://www.sib.swiss/directory/person/roman-mylonas> .
 
 <https://www.sib.swiss/training/course/2021-01-git-2>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Version Control with Git" ;
     schema:url <https://www.sib.swiss/training/course/2021-01-git-2> ;
     schema:provider <https://ror.org/002n09z45> ;
@@ -33287,14 +33287,14 @@
     schema:instructor <https://www.sib.swiss/directory/person/roman-mylonas> .
 
 <https://www.sib.swiss/training/course/2021-01-unix>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "First Steps with UNIX in Life Sciences" ;
     schema:url <https://www.sib.swiss/training/course/2021-01-unix> ;
     schema:provider <https://ror.org/002n09z45> ;
     schema:instructor <https://www.sib.swiss/directory/person/gregoire-rossier> .
 
 <https://www.sib.swiss/training/course/2021-02-GPU>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Introduction to GPU Programming for Life Sciences" ;
     schema:url <https://www.sib.swiss/training/course/2021-02-GPU> ;
     schema:provider <https://ror.org/002n09z45> ;
@@ -33302,42 +33302,42 @@
     schema:instructor <https://www.sib.swiss/directory/person/wandrille-duchemin> .
 
 <https://www.sib.swiss/training/course/2021-02-R>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "First Steps with R in Life Sciences" ;
     schema:url <https://www.sib.swiss/training/course/2021-02-R> ;
     schema:provider <https://ror.org/002n09z45> ;
     schema:instructor <https://www.sib.swiss/directory/person/wandrille-duchemin> .
 
 <https://www.sib.swiss/training/course/2021-02-intro-stats>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Introduction to Statistics and Data Visualisation with R" ;
     schema:url <https://www.sib.swiss/training/course/2021-02-intro-stats> ;
     schema:provider <https://ror.org/002n09z45> ;
     schema:instructor <https://www.sib.swiss/directory/person/rachel-jeitziner> .
 
 <https://www.sib.swiss/training/course/2021-02-rna-seq>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Transcriptomics Analysis: RNA-seq" ;
     schema:url <https://www.sib.swiss/training/course/2021-02-rna-seq> ;
     schema:provider <https://ror.org/002n09z45> ;
     schema:instructor <https://orcid.org/0000-0002-1037-2823> .
 
 <https://www.sib.swiss/training/course/2021-03-NGSGV>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "NGS - Genome Variant Analysis" ;
     schema:url <https://www.sib.swiss/training/course/2021-03-NGSGV> ;
     schema:provider <https://ror.org/002n09z45> ;
     schema:instructor <https://orcid.org/0000-0002-1561-078X> .
 
 <https://www.sib.swiss/training/course/2021-03-longreads>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Long-read Sequence Analysis" ;
     schema:url <https://www.sib.swiss/training/course/2021-03-longreads> ;
     schema:provider <https://ror.org/002n09z45> ;
     schema:instructor <https://orcid.org/0000-0002-1561-078X> .
 
 <https://www.sib.swiss/training/course/2021-04-intermediate-stats>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Intermediate Statistics: Data Analysis in Practice" ;
     schema:url <https://www.sib.swiss/training/course/2021-04-intermediate-stats> ;
     schema:provider <https://ror.org/002n09z45> ;
@@ -33345,21 +33345,21 @@
     schema:instructor <https://www.sib.swiss/directory/person/rachel-jeitziner> .
 
 <https://www.sib.swiss/training/course/2021-05-intermpython>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Intermediate Python" ;
     schema:url <https://www.sib.swiss/training/course/2021-05-intermpython> ;
     schema:provider <https://ror.org/002n09z45> ;
     schema:instructor <https://www.sib.swiss/directory/person/wandrille-duchemin> .
 
 <https://www.sib.swiss/training/course/2021-05-unix>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "First Steps with UNIX in Life Sciences" ;
     schema:url <https://www.sib.swiss/training/course/2021-05-unix> ;
     schema:provider <https://ror.org/002n09z45> ;
     schema:instructor <https://www.sib.swiss/directory/person/gregoire-rossier> .
 
 <https://www.sib.swiss/training/course/2021-06-genex-bgee>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Gene expression made useful easily: tools and database of Bgee (lectures and practicals) - 18 June, 2021" ;
     schema:url <https://www.sib.swiss/training/course/2021-06-genex-bgee> ;
     schema:provider <https://ror.org/002n09z45> ;
@@ -33368,7 +33368,7 @@
     schema:instructor <https://orcid.org/0000-0002-3437-3329> .
 
 <https://www.sib.swiss/training/course/2021-06-genex-bgee-lec>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Gene expression made useful easily: tools and database of Bgee (lectures)" ;
     schema:url <https://www.sib.swiss/training/course/2021-06-genex-bgee-lec> ;
     schema:provider <https://ror.org/002n09z45> ;
@@ -33377,7 +33377,7 @@
     schema:instructor <https://orcid.org/0000-0002-3437-3329> .
 
 <https://www.sib.swiss/training/course/20210322_PYTFS>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "First Steps with Python in Life Sciences" ;
     schema:url <https://www.sib.swiss/training/course/20210322_PYTFS> ;
     schema:provider <https://ror.org/002n09z45> ;
@@ -33385,14 +33385,14 @@
     schema:instructor <https://www.sib.swiss/directory/person/wandrille-duchemin> .
 
 <https://www.sib.swiss/training/course/20210329_SHINY>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Introduction to R Shiny" ;
     schema:url <https://www.sib.swiss/training/course/20210329_SHINY> ;
     schema:provider <https://ror.org/002n09z45> ;
     schema:instructor <https://www.sib.swiss/directory/person/frederic-schutz> .
 
 <https://www.sib.swiss/training/course/20210412_PRODB>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Protein Sequence Databases and Sequence Annotation at UniProtKB" ;
     schema:url <https://www.sib.swiss/training/course/20210412_PRODB> ;
     schema:provider <https://ror.org/002n09z45> ;
@@ -33400,7 +33400,7 @@
     schema:instructor <https://orcid.org/0000-0001-8561-7170> .
 
 <https://www.sib.swiss/training/course/20210413_DOCK>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Docker and Singularity for Reproducible Research: Getting Started with Containers" ;
     schema:url <https://www.sib.swiss/training/course/20210413_DOCK> ;
     schema:provider <https://ror.org/002n09z45> ;
@@ -33409,7 +33409,7 @@
     schema:instructor <https://orcid.org/0000-0002-6642-6288> .
 
 <https://www.sib.swiss/training/course/20210415_FSWIR>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "First Steps with R in Life Sciences" ;
     schema:url <https://www.sib.swiss/training/course/20210415_FSWIR> ;
     schema:provider <https://ror.org/002n09z45> ;
@@ -33418,21 +33418,21 @@
     schema:instructor <https://www.sib.swiss/directory/person/wandrille-duchemin> .
 
 <https://www.sib.swiss/training/course/20210428_GALXY>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Galaxy Introduction for Life Scientists" ;
     schema:url <https://www.sib.swiss/training/course/20210428_GALXY> ;
     schema:provider <https://ror.org/002n09z45> ;
     schema:instructor <https://www.sib.swiss/directory/person/hans-rudolf-hotz> .
 
 <https://www.sib.swiss/training/course/20210503_UXS>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "UNIX Shell Scripting for Life Scientists" ;
     schema:url <https://www.sib.swiss/training/course/20210503_UXS> ;
     schema:provider <https://ror.org/002n09z45> ;
     schema:instructor <https://orcid.org/0000-0002-4015-5969> .
 
 <https://www.sib.swiss/training/course/20210510_PYTFS>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "First Steps with Python in Life Sciences" ;
     schema:url <https://www.sib.swiss/training/course/20210510_PYTFS> ;
     schema:provider <https://ror.org/002n09z45> ;
@@ -33440,63 +33440,63 @@
     schema:instructor <https://www.sib.swiss/directory/person/wandrille-duchemin> .
 
 <https://www.sib.swiss/training/course/20210517_NGS3>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "NGS - Quality Control, Alignment, Visualisation" ;
     schema:url <https://www.sib.swiss/training/course/20210517_NGS3> ;
     schema:provider <https://ror.org/002n09z45> ;
     schema:instructor <https://orcid.org/0000-0002-1561-078X> .
 
 <https://www.sib.swiss/training/course/20210520_OPEMP>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "First Steps in Parallelization with OpenMP" ;
     schema:url <https://www.sib.swiss/training/course/20210520_OPEMP> ;
     schema:provider <https://ror.org/002n09z45> ;
     schema:instructor <https://www.sib.swiss/directory/person/aurelien-cavelan> .
 
 <https://www.sib.swiss/training/course/20210525_GLYCL>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Introduction to Glycoinformatics - lectures - now on YouTube" ;
     schema:url <https://www.sib.swiss/training/course/20210525_GLYCL> ;
     schema:provider <https://ror.org/002n09z45> ;
     schema:instructor <https://www.sib.swiss/directory/person/frederique-lisacek> .
 
 <https://www.sib.swiss/training/course/20210525_GLYCO>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Introduction to Glycoinformatics - lectures and practicals" ;
     schema:url <https://www.sib.swiss/training/course/20210525_GLYCO> ;
     schema:provider <https://ror.org/002n09z45> ;
     schema:instructor <https://www.sib.swiss/directory/person/frederique-lisacek> .
 
 <https://www.sib.swiss/training/course/20210601_OPNBS>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Introduction to openBIS" ;
     schema:url <https://www.sib.swiss/training/course/20210601_OPNBS> ;
     schema:provider <https://ror.org/002n09z45> ;
     schema:instructor <https://www.sib.swiss/directory/person/caterina-barillari> .
 
 <https://www.sib.swiss/training/course/20210607_INMLP>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Introduction to Machine Learning with Python" ;
     schema:url <https://www.sib.swiss/training/course/20210607_INMLP> ;
     schema:provider <https://ror.org/002n09z45> ;
     schema:instructor <https://www.sib.swiss/directory/person/markus-mueller> .
 
 <https://www.sib.swiss/training/course/20210615_ISCTR>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Single-Cell Transcriptomics with R" ;
     schema:url <https://www.sib.swiss/training/course/20210615_ISCTR> ;
     schema:provider <https://ror.org/002n09z45> ;
     schema:instructor <https://orcid.org/0000-0002-1561-078X> .
 
 <https://www.sib.swiss/training/course/20210621_STATP>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Introduction to Statistics with Python" ;
     schema:url <https://www.sib.swiss/training/course/20210621_STATP> ;
     schema:provider <https://ror.org/002n09z45> ;
     schema:instructor <https://www.sib.swiss/directory/person/wandrille-duchemin> .
 
 <https://www.sib.swiss/training/course/20210707_BPP>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Best Practices in Programming" ;
     schema:url <https://www.sib.swiss/training/course/20210707_BPP> ;
     schema:provider <https://ror.org/002n09z45> ;
@@ -33504,7 +33504,7 @@
     schema:instructor <https://www.sib.swiss/directory/person/piotr-kupczyk> .
 
 <https://www.sib.swiss/training/course/20210830_ASCTR>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Summer School Advanced Topics in Single Cell Analysis" ;
     schema:url <https://www.sib.swiss/training/course/20210830_ASCTR> ;
     schema:provider <https://ror.org/002n09z45> ;
@@ -33513,14 +33513,14 @@
     schema:instructor <https://www.sib.swiss/directory/person/panagiotis-papasaikas> .
 
 <https://www.sib.swiss/training/course/20210902_IRNAS>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Introduction to Bulk RNA-Seq: From Quality Control to Pathway Analysis" ;
     schema:url <https://www.sib.swiss/training/course/20210902_IRNAS> ;
     schema:provider <https://ror.org/002n09z45> ;
     schema:instructor <https://www.sib.swiss/directory/person/wandrille-duchemin> .
 
 <https://www.sib.swiss/training/course/20210906_FSWIR>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "First Steps with R in Life Sciences" ;
     schema:url <https://www.sib.swiss/training/course/20210906_FSWIR> ;
     schema:provider <https://ror.org/002n09z45> ;
@@ -33528,21 +33528,21 @@
     schema:instructor <https://www.sib.swiss/directory/person/wandrille-duchemin> .
 
 <https://www.sib.swiss/training/course/20210916_NGSGV>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "NGS - Genome Variant Analysis" ;
     schema:url <https://www.sib.swiss/training/course/20210916_NGSGV> ;
     schema:provider <https://ror.org/002n09z45> ;
     schema:instructor <https://orcid.org/0000-0002-1561-078X> .
 
 <https://www.sib.swiss/training/course/20210927_FSWU>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "First Steps with UNIX in Life Sciences" ;
     schema:url <https://www.sib.swiss/training/course/20210927_FSWU> ;
     schema:provider <https://ror.org/002n09z45> ;
     schema:instructor <https://www.sib.swiss/directory/person/gregoire-rossier> .
 
 <https://www.sib.swiss/training/course/20210929_PYTFS>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "First Steps with Python in Life Sciences" ;
     schema:url <https://www.sib.swiss/training/course/20210929_PYTFS> ;
     schema:provider <https://ror.org/002n09z45> ;
@@ -33550,14 +33550,14 @@
     schema:instructor <https://www.sib.swiss/directory/person/wandrille-duchemin> .
 
 <https://www.sib.swiss/training/course/20211004_INMLP>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Introduction to Machine Learning with Python" ;
     schema:url <https://www.sib.swiss/training/course/20211004_INMLP> ;
     schema:provider <https://ror.org/002n09z45> ;
     schema:instructor <https://www.sib.swiss/directory/person/wandrille-duchemin> .
 
 <https://www.sib.swiss/training/course/20211006_GIT>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Version Control with Git" ;
     schema:url <https://www.sib.swiss/training/course/20211006_GIT> ;
     schema:provider <https://ror.org/002n09z45> ;
@@ -33565,7 +33565,7 @@
     schema:instructor <https://www.sib.swiss/directory/person/roman-mylonas> .
 
 <https://www.sib.swiss/training/course/20211014_DOCK>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Docker and Singularity for Reproducible Research: Getting Started with Containers" ;
     schema:url <https://www.sib.swiss/training/course/20211014_DOCK> ;
     schema:provider <https://ror.org/002n09z45> ;
@@ -33573,14 +33573,14 @@
     schema:instructor <https://www.sib.swiss/directory/person/marco-kreuzer> .
 
 <https://www.sib.swiss/training/course/20211022_RHEA>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Mining enzyme data in UniProtKB using Rhea" ;
     schema:url <https://www.sib.swiss/training/course/20211022_RHEA> ;
     schema:provider <https://ror.org/002n09z45> ;
     schema:instructor <https://orcid.org/0000-0003-1829-162X> .
 
 <https://www.sib.swiss/training/course/20211028_RDMP>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Research Data Management and Data Management Plan" ;
     schema:url <https://www.sib.swiss/training/course/20211028_RDMP> ;
     schema:provider <https://ror.org/002n09z45> ;
@@ -33588,42 +33588,42 @@
     schema:instructor <https://orcid.org/0000-0002-4209-2578> .
 
 <https://www.sib.swiss/training/course/20211103_NGS6>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "NGS - Quality Control, Alignment, Visualisation" ;
     schema:url <https://www.sib.swiss/training/course/20211103_NGS6> ;
     schema:provider <https://ror.org/002n09z45> ;
     schema:instructor <https://orcid.org/0000-0002-1561-078X> .
 
 <https://www.sib.swiss/training/course/20211108_ISCTR>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Single-Cell Transcriptomics with R" ;
     schema:url <https://www.sib.swiss/training/course/20211108_ISCTR> ;
     schema:provider <https://ror.org/002n09z45> ;
     schema:instructor <https://orcid.org/0000-0002-1561-078X> .
 
 <https://www.sib.swiss/training/course/20211108_UNIXAD>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "UNIX Shell Scripting for Life Scientists" ;
     schema:url <https://www.sib.swiss/training/course/20211108_UNIXAD> ;
     schema:provider <https://ror.org/002n09z45> ;
     schema:instructor <https://orcid.org/0000-0002-4015-5969> .
 
 <https://www.sib.swiss/training/course/20211122_DATVIS>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Data Visualisation with R" ;
     schema:url <https://www.sib.swiss/training/course/20211122_DATVIS> ;
     schema:provider <https://ror.org/002n09z45> ;
     schema:instructor <https://www.sib.swiss/directory/person/frederic-schutz> .
 
 <https://www.sib.swiss/training/course/20211124_OPEMP>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "First Steps in Parallelization with OpenMP" ;
     schema:url <https://www.sib.swiss/training/course/20211124_OPEMP> ;
     schema:provider <https://ror.org/002n09z45> ;
     schema:instructor <https://www.sib.swiss/directory/person/aurelien-cavelan> .
 
 <https://www.sib.swiss/training/course/20211125_DLFLS>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Deep Learning for Life Sciences - fundamentals and applications" ;
     schema:url <https://www.sib.swiss/training/course/20211125_DLFLS> ;
     schema:provider <https://ror.org/002n09z45> ;
@@ -33633,7 +33633,7 @@
     schema:instructor <https://www.sib.swiss/directory/person/valentina-boeva> .
 
 <https://www.sib.swiss/training/course/20211129_DI>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Multivariate Analysis for Omics Data Integration: Principles and Applications" ;
     schema:url <https://www.sib.swiss/training/course/20211129_DI> ;
     schema:provider <https://ror.org/002n09z45> ;
@@ -33641,14 +33641,14 @@
     schema:instructor <https://www.sib.swiss/directory/person/thuong-tran> .
 
 <https://www.sib.swiss/training/course/20211209_STAML>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Statistics and Machine Learning for Life Sciences" ;
     schema:url <https://www.sib.swiss/training/course/20211209_STAML> ;
     schema:provider <https://ror.org/002n09z45> ;
     schema:instructor <https://www.sib.swiss/directory/person/wandrille-duchemin> .
 
 <https://www.sib.swiss/training/course/20211213_CADD>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Ligand-protein docking, and computer-aided drug design" ;
     schema:url <https://www.sib.swiss/training/course/20211213_CADD> ;
     schema:provider <https://ror.org/002n09z45> ;
@@ -33657,28 +33657,28 @@
     schema:instructor <https://www.sib.swiss/directory/person/vincent-zoete> .
 
 <https://www.sib.swiss/training/course/20220111_FSWU>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "First Steps with UNIX for Life Scientists" ;
     schema:url <https://www.sib.swiss/training/course/20220111_FSWU> ;
     schema:provider <https://ror.org/002n09z45> ;
     schema:instructor <https://www.sib.swiss/directory/person/gregoire-rossier> .
 
 <https://www.sib.swiss/training/course/20220119_RNASQ>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Transcriptomics Analysis: RNA-seq" ;
     schema:url <https://www.sib.swiss/training/course/20220119_RNASQ> ;
     schema:provider <https://ror.org/002n09z45> ;
     schema:instructor <https://orcid.org/0000-0002-1037-2823> .
 
 <https://www.sib.swiss/training/course/20220125_IMMIN>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Immunoinformatics" ;
     schema:url <https://www.sib.swiss/training/course/20220125_IMMIN> ;
     schema:provider <https://ror.org/002n09z45> ;
     schema:instructor <https://www.sib.swiss/directory/person/enkelejda-miho> .
 
 <https://www.sib.swiss/training/course/20220127_RDMP>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Research Data Management and Data Management Plan" ;
     schema:url <https://www.sib.swiss/training/course/20220127_RDMP> ;
     schema:provider <https://ror.org/002n09z45> ;
@@ -33686,7 +33686,7 @@
     schema:instructor <https://orcid.org/0000-0002-4209-2578> .
 
 <https://www.sib.swiss/training/course/20220201_GPU>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Introduction to GPU Programming for Life Sciences" ;
     schema:url <https://www.sib.swiss/training/course/20220201_GPU> ;
     schema:provider <https://ror.org/002n09z45> ;
@@ -33694,7 +33694,7 @@
     schema:instructor <https://www.sib.swiss/directory/person/wandrille-duchemin> .
 
 <https://www.sib.swiss/training/course/20220207_ISDVR>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Introduction to Statistics and Data Visualisation with R" ;
     schema:url <https://www.sib.swiss/training/course/20220207_ISDVR> ;
     schema:provider <https://ror.org/002n09z45> ;
@@ -33702,28 +33702,28 @@
     schema:instructor <https://www.sib.swiss/directory/person/rachel-jeitziner> .
 
 <https://www.sib.swiss/training/course/20220216_FSWIR>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "First Steps with R in Life Sciences" ;
     schema:url <https://www.sib.swiss/training/course/20220216_FSWIR> ;
     schema:provider <https://ror.org/002n09z45> ;
     schema:instructor <https://www.sib.swiss/directory/person/wandrille-duchemin> .
 
 <https://www.sib.swiss/training/course/20220224_RHEAL>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Mining enzyme data in UniProtKB using Rhea" ;
     schema:url <https://www.sib.swiss/training/course/20220224_RHEAL> ;
     schema:provider <https://ror.org/002n09z45> ;
     schema:instructor <https://orcid.org/0000-0003-1829-162X> .
 
 <https://www.sib.swiss/training/course/20220228_ISCTR>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Single-Cell Transcriptomics with R" ;
     schema:url <https://www.sib.swiss/training/course/20220228_ISCTR> ;
     schema:provider <https://ror.org/002n09z45> ;
     schema:instructor <https://orcid.org/0000-0002-1561-078X> .
 
 <https://www.sib.swiss/training/course/20220301_GIT>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Version Control with Git" ;
     schema:url <https://www.sib.swiss/training/course/20220301_GIT> ;
     schema:provider <https://ror.org/002n09z45> ;
@@ -33731,21 +33731,21 @@
     schema:instructor <https://orcid.org/0000-0002-4209-2578> .
 
 <https://www.sib.swiss/training/course/20220303_RHEAP>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Mining enzyme data in UniProtKB using Rhea" ;
     schema:url <https://www.sib.swiss/training/course/20220303_RHEAP> ;
     schema:provider <https://ror.org/002n09z45> ;
     schema:instructor <https://orcid.org/0000-0003-1829-162X> .
 
 <https://www.sib.swiss/training/course/20220304_RHEAP>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Mining enzyme data in UniProtKB using Rhea" ;
     schema:url <https://www.sib.swiss/training/course/20220304_RHEAP> ;
     schema:provider <https://ror.org/002n09z45> ;
     schema:instructor <https://orcid.org/0000-0003-1829-162X> .
 
 <https://www.sib.swiss/training/course/20220307_PYTFS>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "First Steps with Python in Life Sciences" ;
     schema:url <https://www.sib.swiss/training/course/20220307_PYTFS> ;
     schema:provider <https://ror.org/002n09z45> ;
@@ -33753,14 +33753,14 @@
     schema:instructor <https://www.sib.swiss/directory/person/wandrille-duchemin> .
 
 <https://www.sib.swiss/training/course/20220308_TTTCH>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "ELIXIR-GOBLET Train-the-Trainer" ;
     schema:url <https://www.sib.swiss/training/course/20220308_TTTCH> ;
     schema:provider <https://ror.org/002n09z45> ;
     schema:instructor <https://orcid.org/0000-0001-9062-6303> .
 
 <https://www.sib.swiss/training/course/20220314_LONGR>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Long-read Sequence Analysis" ;
     schema:url <https://www.sib.swiss/training/course/20220314_LONGR> ;
     schema:provider <https://ror.org/002n09z45> ;
@@ -33768,7 +33768,7 @@
     schema:instructor <https://www.sib.swiss/directory/person/marco-kreuzer> .
 
 <https://www.sib.swiss/training/course/20220316_BPHPC>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Best practices in High-Perfomance Computing (sciCORE cluster)" ;
     schema:url <https://www.sib.swiss/training/course/20220316_BPHPC> ;
     schema:provider <https://ror.org/002n09z45> ;
@@ -33776,21 +33776,21 @@
     schema:instructor <https://www.sib.swiss/directory/person/sofia-georgakopoulou> .
 
 <https://www.sib.swiss/training/course/20220324_NGSGV>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "NGS - Genome Variant Analysis" ;
     schema:url <https://www.sib.swiss/training/course/20220324_NGSGV> ;
     schema:provider <https://ror.org/002n09z45> ;
     schema:instructor <https://orcid.org/0000-0002-1561-078X> .
 
 <https://www.sib.swiss/training/course/20220328_SHINY>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Introduction to R Shiny" ;
     schema:url <https://www.sib.swiss/training/course/20220328_SHINY> ;
     schema:provider <https://ror.org/002n09z45> ;
     schema:instructor <https://www.sib.swiss/directory/person/frederic-schutz> .
 
 <https://www.sib.swiss/training/course/20220405_ASDAP>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Applied Statistics: Data Analysis in Practice" ;
     schema:url <https://www.sib.swiss/training/course/20220405_ASDAP> ;
     schema:provider <https://ror.org/002n09z45> ;
@@ -33798,14 +33798,14 @@
     schema:instructor <https://www.sib.swiss/directory/person/rachel-jeitziner> .
 
 <https://www.sib.swiss/training/course/20220412_DOCK>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Docker and Singularity for Reproducible Research: Getting Started with Containers" ;
     schema:url <https://www.sib.swiss/training/course/20220412_DOCK> ;
     schema:provider <https://ror.org/002n09z45> ;
     schema:instructor <https://orcid.org/0000-0002-1561-078X> .
 
 <https://www.sib.swiss/training/course/20220426_ADVSC>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Advanced topics in single-cell analysis" ;
     schema:url <https://www.sib.swiss/training/course/20220426_ADVSC> ;
     schema:provider <https://ror.org/002n09z45> ;
@@ -33815,21 +33815,21 @@
     schema:instructor <https://www.sib.swiss/directory/person/panagiotis-papasaikas> .
 
 <https://www.sib.swiss/training/course/20220427_GALXY>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Galaxy Introduction for Life Scientists" ;
     schema:url <https://www.sib.swiss/training/course/20220427_GALXY> ;
     schema:provider <https://ror.org/002n09z45> ;
     schema:instructor <https://www.sib.swiss/directory/person/hans-rudolf-hotz> .
 
 <https://www.sib.swiss/training/course/20220502_FSWU>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "First Steps with UNIX for Life Scientists" ;
     schema:url <https://www.sib.swiss/training/course/20220502_FSWU> ;
     schema:provider <https://ror.org/002n09z45> ;
     schema:instructor <https://www.sib.swiss/directory/person/gregoire-rossier> .
 
 <https://www.sib.swiss/training/course/20220504_PYTFS>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "First Steps with Python in Life Sciences" ;
     schema:url <https://www.sib.swiss/training/course/20220504_PYTFS> ;
     schema:provider <https://ror.org/002n09z45> ;
@@ -33838,14 +33838,14 @@
     schema:instructor <https://www.sib.swiss/directory/person/wandrille-duchemin> .
 
 <https://www.sib.swiss/training/course/20220516_NGSQC>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "NGS - Quality Control, Alignment, Visualisation" ;
     schema:url <https://www.sib.swiss/training/course/20220516_NGSQC> ;
     schema:provider <https://ror.org/002n09z45> ;
     schema:instructor <https://orcid.org/0000-0002-1561-078X> .
 
 <https://www.sib.swiss/training/course/20220519_ILABK>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Introduction to LabKey" ;
     schema:url <https://www.sib.swiss/training/course/20220519_ILABK> ;
     schema:provider <https://ror.org/002n09z45> ;
@@ -33853,14 +33853,14 @@
     schema:instructor <https://www.sib.swiss/directory/person/sofia-georgakopoulou> .
 
 <https://www.sib.swiss/training/course/20220519_OPEMP>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "First Steps in Parallelization with OpenMP" ;
     schema:url <https://www.sib.swiss/training/course/20220519_OPEMP> ;
     schema:provider <https://ror.org/002n09z45> ;
     schema:instructor <https://www.sib.swiss/directory/person/aurelien-cavelan> .
 
 <https://www.sib.swiss/training/course/20220520_BGEEL>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Gene Expression made Useful Easily: Tools and Database of Bgee" ;
     schema:url <https://www.sib.swiss/training/course/20220520_BGEEL> ;
     schema:provider <https://ror.org/002n09z45> ;
@@ -33869,21 +33869,21 @@
     schema:instructor <https://orcid.org/0000-0002-3437-3329> .
 
 <https://www.sib.swiss/training/course/20220523_ADVU>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "UNIX Shell Scripting in Life Sciences" ;
     schema:url <https://www.sib.swiss/training/course/20220523_ADVU> ;
     schema:provider <https://ror.org/002n09z45> ;
     schema:instructor <https://orcid.org/0000-0002-4015-5969> .
 
 <https://www.sib.swiss/training/course/20220530_GLYCL>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Introduction to Glycoinformatics - lectures and practicals" ;
     schema:url <https://www.sib.swiss/training/course/20220530_GLYCL> ;
     schema:provider <https://ror.org/002n09z45> ;
     schema:instructor <https://www.sib.swiss/directory/person/frederique-lisacek> .
 
 <https://www.sib.swiss/training/course/20220603_INTPY>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Intermediate Python" ;
     schema:url <https://www.sib.swiss/training/course/20220603_INTPY> ;
     schema:provider <https://ror.org/002n09z45> ;
@@ -33891,14 +33891,14 @@
     schema:instructor <https://www.sib.swiss/directory/person/wandrille-duchemin> .
 
 <https://www.sib.swiss/training/course/20220608_FSWIR>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "First Steps with R in Life Sciences" ;
     schema:url <https://www.sib.swiss/training/course/20220608_FSWIR> ;
     schema:provider <https://ror.org/002n09z45> ;
     schema:instructor <https://www.sib.swiss/directory/person/leonore-wigger> .
 
 <https://www.sib.swiss/training/course/20220616_INMLP>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Introduction to Machine Learning with Python" ;
     schema:url <https://www.sib.swiss/training/course/20220616_INMLP> ;
     schema:provider <https://ror.org/002n09z45> ;
@@ -33906,14 +33906,14 @@
     schema:instructor <https://www.sib.swiss/directory/person/wandrille-duchemin> .
 
 <https://www.sib.swiss/training/course/20220620_STATP>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Introduction to Statistics with Python" ;
     schema:url <https://www.sib.swiss/training/course/20220620_STATP> ;
     schema:provider <https://ror.org/002n09z45> ;
     schema:instructor <https://www.sib.swiss/directory/person/wandrille-duchemin> .
 
 <https://www.sib.swiss/training/course/20220623_RDMP>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Research Data Management and Data Management Plan" ;
     schema:url <https://www.sib.swiss/training/course/20220623_RDMP> ;
     schema:provider <https://ror.org/002n09z45> ;
@@ -33921,7 +33921,7 @@
     schema:instructor <https://orcid.org/0000-0002-4209-2578> .
 
 <https://www.sib.swiss/training/course/20220630_EPIGE>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Workshop on Epigenomics Data Analysis" ;
     schema:url <https://www.sib.swiss/training/course/20220630_EPIGE> ;
     schema:provider <https://ror.org/002n09z45> ;
@@ -33929,42 +33929,42 @@
     schema:instructor <https://www.sib.swiss/directory/person/philipp-bucher> .
 
 <https://www.sib.swiss/training/course/20220704_ISCTR>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Single-Cell Transcriptomics with R" ;
     schema:url <https://www.sib.swiss/training/course/20220704_ISCTR> ;
     schema:provider <https://ror.org/002n09z45> ;
     schema:instructor <https://orcid.org/0000-0002-1561-078X> .
 
 <https://www.sib.swiss/training/course/20220822_ASSM>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Advanced Statistics: Statistical Modelling" ;
     schema:url <https://www.sib.swiss/training/course/20220822_ASSM> ;
     schema:provider <https://ror.org/002n09z45> ;
     schema:instructor <https://www.sib.swiss/directory/person/rachel-jeitziner> .
 
 <https://www.sib.swiss/training/course/20220829_APRWR>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Advanced Programming with R" ;
     schema:url <https://www.sib.swiss/training/course/20220829_APRWR> ;
     schema:provider <https://ror.org/002n09z45> ;
     schema:instructor <https://www.sib.swiss/directory/person/frederic-schutz> .
 
 <https://www.sib.swiss/training/course/20220901_IRNAS>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Introduction to Bulk RNA-Seq: From Quality Control to Pathway Analysis" ;
     schema:url <https://www.sib.swiss/training/course/20220901_IRNAS> ;
     schema:provider <https://ror.org/002n09z45> ;
     schema:instructor <https://www.sib.swiss/directory/person/wandrille-duchemin> .
 
 <https://www.sib.swiss/training/course/20220915_NGSGV>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "NGS - Genome Variant Analysis" ;
     schema:url <https://www.sib.swiss/training/course/20220915_NGSGV> ;
     schema:provider <https://ror.org/002n09z45> ;
     schema:instructor <https://orcid.org/0000-0002-1561-078X> .
 
 <https://www.sib.swiss/training/course/20220921_GPHTE>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Good Practice in High-throughput Experiments" ;
     schema:url <https://www.sib.swiss/training/course/20220921_GPHTE> ;
     schema:provider <https://ror.org/002n09z45> ;
@@ -33973,14 +33973,14 @@
     schema:instructor <https://www.sib.swiss/directory/person/michael-prummer> .
 
 <https://www.sib.swiss/training/course/20220927_FSWU>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "First Steps with UNIX in Life Sciences" ;
     schema:url <https://www.sib.swiss/training/course/20220927_FSWU> ;
     schema:provider <https://ror.org/002n09z45> ;
     schema:instructor <https://www.sib.swiss/directory/person/gregoire-rossier> .
 
 <https://www.sib.swiss/training/course/20220928_PYTFS>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "First Steps with Python in Life Sciences" ;
     schema:url <https://www.sib.swiss/training/course/20220928_PYTFS> ;
     schema:provider <https://ror.org/002n09z45> ;
@@ -33989,7 +33989,7 @@
     schema:instructor <https://www.sib.swiss/directory/person/wandrille-duchemin> .
 
 <https://www.sib.swiss/training/course/20221003_INMLP>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Introduction to Machine Learning with Python" ;
     schema:url <https://www.sib.swiss/training/course/20221003_INMLP> ;
     schema:provider <https://ror.org/002n09z45> ;
@@ -33997,21 +33997,21 @@
     schema:instructor <https://www.sib.swiss/directory/person/wandrille-duchemin> .
 
 <https://www.sib.swiss/training/course/20221010_FSWIR>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "First Steps with R in Life Sciences" ;
     schema:url <https://www.sib.swiss/training/course/20221010_FSWIR> ;
     schema:provider <https://ror.org/002n09z45> ;
     schema:instructor <https://www.sib.swiss/directory/person/wandrille-duchemin> .
 
 <https://www.sib.swiss/training/course/20221010_TNRET>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "SIB PhD Training Network Annual Retreat" ;
     schema:url <https://www.sib.swiss/training/course/20221010_TNRET> ;
     schema:provider <https://ror.org/002n09z45> ;
     schema:instructor <https://www.sib.swiss/directory/person/frederic-schutz> .
 
 <https://www.sib.swiss/training/course/20221012_GIT>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Version Control with Git" ;
     schema:url <https://www.sib.swiss/training/course/20221012_GIT> ;
     schema:provider <https://ror.org/002n09z45> ;
@@ -34019,7 +34019,7 @@
     schema:instructor <https://orcid.org/0000-0002-4209-2578> .
 
 <https://www.sib.swiss/training/course/20221014_PRODB>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Protein Sequence Databases and Sequence Annotation at UniProtKB" ;
     schema:url <https://www.sib.swiss/training/course/20221014_PRODB> ;
     schema:provider <https://ror.org/002n09z45> ;
@@ -34027,7 +34027,7 @@
     schema:instructor <https://orcid.org/0000-0001-8561-7170> .
 
 <https://www.sib.swiss/training/course/20221020_INTPY>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Intermediate Python" ;
     schema:url <https://www.sib.swiss/training/course/20221020_INTPY> ;
     schema:provider <https://ror.org/002n09z45> ;
@@ -34035,14 +34035,14 @@
     schema:instructor <https://www.sib.swiss/directory/person/wandrille-duchemin> .
 
 <https://www.sib.swiss/training/course/20221026_DOCK>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Docker and Singularity for Reproducible Research: Getting Started with Containers" ;
     schema:url <https://www.sib.swiss/training/course/20221026_DOCK> ;
     schema:provider <https://ror.org/002n09z45> ;
     schema:instructor <https://orcid.org/0000-0002-1561-078X> .
 
 <https://www.sib.swiss/training/course/20221027_RDMP>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Research Data Management and Data Management Plan" ;
     schema:url <https://www.sib.swiss/training/course/20221027_RDMP> ;
     schema:provider <https://ror.org/002n09z45> ;
@@ -34050,35 +34050,35 @@
     schema:instructor <https://orcid.org/0000-0002-4209-2578> .
 
 <https://www.sib.swiss/training/course/20221107_ADVU>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "UNIX Shell Scripting in Life Sciences" ;
     schema:url <https://www.sib.swiss/training/course/20221107_ADVU> ;
     schema:provider <https://ror.org/002n09z45> ;
     schema:instructor <https://orcid.org/0000-0002-4015-5969> .
 
 <https://www.sib.swiss/training/course/20221114_ISCTR>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Single-Cell Transcriptomics with R" ;
     schema:url <https://www.sib.swiss/training/course/20221114_ISCTR> ;
     schema:provider <https://ror.org/002n09z45> ;
     schema:instructor <https://orcid.org/0000-0002-1561-078X> .
 
 <https://www.sib.swiss/training/course/20221121_NGSQC>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "NGS - Quality Control, Alignment, Visualisation" ;
     schema:url <https://www.sib.swiss/training/course/20221121_NGSQC> ;
     schema:provider <https://ror.org/002n09z45> ;
     schema:instructor <https://orcid.org/0000-0002-1561-078X> .
 
 <https://www.sib.swiss/training/course/20221123_OPEMP>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "First Steps in Parallelization with OpenMP" ;
     schema:url <https://www.sib.swiss/training/course/20221123_OPEMP> ;
     schema:provider <https://ror.org/002n09z45> ;
     schema:instructor <https://www.sib.swiss/directory/person/aurelien-cavelan> .
 
 <https://www.sib.swiss/training/course/20221128_IBAYE>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Introduction to Bayesian Statistics with R" ;
     schema:url <https://www.sib.swiss/training/course/20221128_IBAYE> ;
     schema:provider <https://ror.org/002n09z45> ;
@@ -34088,21 +34088,21 @@
     schema:instructor <https://orcid.org/0000-0001-8285-7523> .
 
 <https://www.sib.swiss/training/course/20221202_ENRIC>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Enrichment Analysis" ;
     schema:url <https://www.sib.swiss/training/course/20221202_ENRIC> ;
     schema:provider <https://ror.org/002n09z45> ;
     schema:instructor <https://www.sib.swiss/directory/person/gustavo-ruizbuendia> .
 
 <https://www.sib.swiss/training/course/20221208_STAML>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Statistics and Machine Learning for Life Sciences" ;
     schema:url <https://www.sib.swiss/training/course/20221208_STAML> ;
     schema:provider <https://ror.org/002n09z45> ;
     schema:instructor <https://www.sib.swiss/directory/person/wandrille-duchemin> .
 
 <https://www.sib.swiss/training/course/20230110_FSWU>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "First Steps with UNIX in Life Sciences" ;
     schema:url <https://www.sib.swiss/training/course/20230110_FSWU> ;
     schema:provider <https://ror.org/002n09z45> ;
@@ -34110,14 +34110,14 @@
     schema:instructor <https://www.sib.swiss/directory/person/robin-engler> .
 
 <https://www.sib.swiss/training/course/20230118_VRLZN>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Discover ViralZone" ;
     schema:url <https://www.sib.swiss/training/course/20230118_VRLZN> ;
     schema:provider <https://ror.org/002n09z45> ;
     schema:instructor <https://orcid.org/0000-0001-8528-090X> .
 
 <https://www.sib.swiss/training/course/20230126_RDMP>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Research Data Management and Data Management Plan" ;
     schema:url <https://www.sib.swiss/training/course/20230126_RDMP> ;
     schema:provider <https://ror.org/002n09z45> ;
@@ -34125,14 +34125,14 @@
     schema:instructor <https://orcid.org/0000-0002-4209-2578> .
 
 <https://www.sib.swiss/training/course/20230202_FSWIR>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "First Steps with R in Life Sciences" ;
     schema:url <https://www.sib.swiss/training/course/20230202_FSWIR> ;
     schema:provider <https://ror.org/002n09z45> ;
     schema:instructor <https://www.sib.swiss/directory/person/wandrille-duchemin> .
 
 <https://www.sib.swiss/training/course/20230206_ISDVR>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Introduction to Statistics and Data Visualisation with R" ;
     schema:url <https://www.sib.swiss/training/course/20230206_ISDVR> ;
     schema:provider <https://ror.org/002n09z45> ;
@@ -34140,7 +34140,7 @@
     schema:instructor <https://www.sib.swiss/directory/person/rachel-jeitziner> .
 
 <https://www.sib.swiss/training/course/20230214_GPU>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Introduction to GPU Programming for Life Sciences" ;
     schema:url <https://www.sib.swiss/training/course/20230214_GPU> ;
     schema:provider <https://ror.org/002n09z45> ;
@@ -34148,14 +34148,14 @@
     schema:instructor <https://www.sib.swiss/directory/person/wandrille-duchemin> .
 
 <https://www.sib.swiss/training/course/20230220_NGSGV>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "NGS - Genome Variant Analysis" ;
     schema:url <https://www.sib.swiss/training/course/20230220_NGSGV> ;
     schema:provider <https://ror.org/002n09z45> ;
     schema:instructor <https://orcid.org/0000-0002-1561-078X> .
 
 <https://www.sib.swiss/training/course/20230222_GIT>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Version Control with Git" ;
     schema:url <https://www.sib.swiss/training/course/20230222_GIT> ;
     schema:provider <https://ror.org/002n09z45> ;
@@ -34163,7 +34163,7 @@
     schema:instructor <https://orcid.org/0000-0002-4209-2578> .
 
 <https://www.sib.swiss/training/course/20230301_PYTFS>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "First Steps with Python in Life Sciences" ;
     schema:url <https://www.sib.swiss/training/course/20230301_PYTFS> ;
     schema:provider <https://ror.org/002n09z45> ;
@@ -34171,14 +34171,14 @@
     schema:instructor <https://www.sib.swiss/directory/person/wandrille-duchemin> .
 
 <https://www.sib.swiss/training/course/20230306_ISCTR>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Single-Cell Transcriptomics with R" ;
     schema:url <https://www.sib.swiss/training/course/20230306_ISCTR> ;
     schema:provider <https://ror.org/002n09z45> ;
     schema:instructor <https://orcid.org/0000-0002-1561-078X> .
 
 <https://www.sib.swiss/training/course/20230314_BPHPC>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Best Practices in High-Perfomance Computing (sciCORE cluster)" ;
     schema:url <https://www.sib.swiss/training/course/20230314_BPHPC> ;
     schema:provider <https://ror.org/002n09z45> ;
@@ -34186,35 +34186,35 @@
     schema:instructor <https://www.sib.swiss/directory/person/sofia-georgakopoulou> .
 
 <https://www.sib.swiss/training/course/20230314_LONGR>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Long-read Sequence Analysis" ;
     schema:url <https://www.sib.swiss/training/course/20230314_LONGR> ;
     schema:provider <https://ror.org/002n09z45> ;
     schema:instructor <https://orcid.org/0000-0002-1561-078X> .
 
 <https://www.sib.swiss/training/course/20230316_MODAI>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Multiomics Data Analysis and Integration" ;
     schema:url <https://www.sib.swiss/training/course/20230316_MODAI> ;
     schema:provider <https://ror.org/002n09z45> ;
     schema:instructor <https://orcid.org/0000-0002-9619-1707> .
 
 <https://www.sib.swiss/training/course/20230323_RERWR>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Reproducible research with R: from data management to communication of results" ;
     schema:url <https://www.sib.swiss/training/course/20230323_RERWR> ;
     schema:provider <https://ror.org/002n09z45> ;
     schema:instructor <https://www.sib.swiss/directory/person/frederic-schutz> .
 
 <https://www.sib.swiss/training/course/20230331_ENRIC>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Enrichment Analysis" ;
     schema:url <https://www.sib.swiss/training/course/20230331_ENRIC> ;
     schema:provider <https://ror.org/002n09z45> ;
     schema:instructor <https://www.sib.swiss/directory/person/gustavo-ruizbuendia> .
 
 <https://www.sib.swiss/training/course/20230404_ASDAP>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Applied Statistics: Data Analysis in Practice" ;
     schema:url <https://www.sib.swiss/training/course/20230404_ASDAP> ;
     schema:provider <https://ror.org/002n09z45> ;
@@ -34222,28 +34222,28 @@
     schema:instructor <https://www.sib.swiss/directory/person/rachel-jeitziner> .
 
 <https://www.sib.swiss/training/course/20230425_GALXY>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Galaxy Introduction for Life Scientists" ;
     schema:url <https://www.sib.swiss/training/course/20230425_GALXY> ;
     schema:provider <https://ror.org/002n09z45> ;
     schema:instructor <https://www.sib.swiss/directory/person/hans-rudolf-hotz> .
 
 <https://www.sib.swiss/training/course/20230426_DOCK>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Docker and Singularity for Reproducible Research: Getting Started with Containers" ;
     schema:url <https://www.sib.swiss/training/course/20230426_DOCK> ;
     schema:provider <https://ror.org/002n09z45> ;
     schema:instructor <https://orcid.org/0000-0002-1561-078X> .
 
 <https://www.sib.swiss/training/course/20230427_SHINY>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Introduction to R Shiny" ;
     schema:url <https://www.sib.swiss/training/course/20230427_SHINY> ;
     schema:provider <https://ror.org/002n09z45> ;
     schema:instructor <https://www.sib.swiss/directory/person/frederic-schutz> .
 
 <https://www.sib.swiss/training/course/20230428_PRODB>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Protein Sequence Databases and Sequence Annotation at UniProtKB" ;
     schema:url <https://www.sib.swiss/training/course/20230428_PRODB> ;
     schema:provider <https://ror.org/002n09z45> ;
@@ -34251,21 +34251,21 @@
     schema:instructor <https://orcid.org/0000-0001-8561-7170> .
 
 <https://www.sib.swiss/training/course/20230502_OPEMP>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "First Steps in Parallelization with OpenMP" ;
     schema:url <https://www.sib.swiss/training/course/20230502_OPEMP> ;
     schema:provider <https://ror.org/002n09z45> ;
     schema:instructor <https://www.sib.swiss/directory/person/aurelien-cavelan> .
 
 <https://www.sib.swiss/training/course/20230503_TTTCH>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "ELIXIR-GOBLET Train-the-Trainer" ;
     schema:url <https://www.sib.swiss/training/course/20230503_TTTCH> ;
     schema:provider <https://ror.org/002n09z45> ;
     schema:instructor <https://orcid.org/0000-0001-9062-6303> .
 
 <https://www.sib.swiss/training/course/20230508_RNASQ>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Transcriptomics Analysis: RNA-seq" ;
     schema:url <https://www.sib.swiss/training/course/20230508_RNASQ> ;
     schema:provider <https://ror.org/002n09z45> ;
@@ -34273,14 +34273,14 @@
     schema:instructor <https://orcid.org/0000-0002-1037-2823> .
 
 <https://www.sib.swiss/training/course/20230515_NGSQC>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "NGS - Quality Control, Alignment, Visualisation" ;
     schema:url <https://www.sib.swiss/training/course/20230515_NGSQC> ;
     schema:provider <https://ror.org/002n09z45> ;
     schema:instructor <https://orcid.org/0000-0002-1561-078X> .
 
 <https://www.sib.swiss/training/course/20230522_IBAYE>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Introduction to Bayesian Statistics with R" ;
     schema:url <https://www.sib.swiss/training/course/20230522_IBAYE> ;
     schema:provider <https://ror.org/002n09z45> ;
@@ -34291,7 +34291,7 @@
     schema:instructor <https://orcid.org/0000-0001-8285-7523> .
 
 <https://www.sib.swiss/training/course/20230526_BGEEL>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Gene Expression made Useful Easily: Tools and Database of Bgee" ;
     schema:url <https://www.sib.swiss/training/course/20230526_BGEEL> ;
     schema:provider <https://ror.org/002n09z45> ;
@@ -34299,7 +34299,7 @@
     schema:instructor <https://orcid.org/0000-0002-3437-3329> .
 
 <https://www.sib.swiss/training/course/20230601_DARPY>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Data Analysis and Representation in Python" ;
     schema:url <https://www.sib.swiss/training/course/20230601_DARPY> ;
     schema:provider <https://ror.org/002n09z45> ;
@@ -34307,7 +34307,7 @@
     schema:instructor <https://www.sib.swiss/directory/person/wandrille-duchemin> .
 
 <https://www.sib.swiss/training/course/20230602_OPTPY>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Optimising Python Code for Better Performance" ;
     schema:url <https://www.sib.swiss/training/course/20230602_OPTPY> ;
     schema:provider <https://ror.org/002n09z45> ;
@@ -34315,7 +34315,7 @@
     schema:instructor <https://www.sib.swiss/directory/person/wandrille-duchemin> .
 
 <https://www.sib.swiss/training/course/20230605_INMLP>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Introduction to Machine Learning with Python" ;
     schema:url <https://www.sib.swiss/training/course/20230605_INMLP> ;
     schema:provider <https://ror.org/002n09z45> ;
@@ -34324,7 +34324,7 @@
     schema:instructor <https://www.sib.swiss/directory/person/wandrille-duchemin> .
 
 <https://www.sib.swiss/training/course/20230608_FSWIR>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "First Steps with R in Life Sciences" ;
     schema:url <https://www.sib.swiss/training/course/20230608_FSWIR> ;
     schema:provider <https://ror.org/002n09z45> ;
@@ -34332,42 +34332,42 @@
     schema:instructor <https://orcid.org/0000-0002-4015-5969> .
 
 <https://www.sib.swiss/training/course/20230612_ENARS>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Submitting, Finding and Downloading Raw Sequencing Data with ENA" ;
     schema:url <https://www.sib.swiss/training/course/20230612_ENARS> ;
     schema:provider <https://ror.org/002n09z45> ;
     schema:instructor <https://orcid.org/0000-0002-1561-078X> .
 
 <https://www.sib.swiss/training/course/20230613_ADVUN>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "UNIX Shell Scripting in Life Sciences" ;
     schema:url <https://www.sib.swiss/training/course/20230613_ADVUN> ;
     schema:provider <https://ror.org/002n09z45> ;
     schema:instructor <https://orcid.org/0000-0002-4015-5969> .
 
 <https://www.sib.swiss/training/course/20230620_STATP>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Introduction to Statistics with Python" ;
     schema:url <https://www.sib.swiss/training/course/20230620_STATP> ;
     schema:provider <https://ror.org/002n09z45> ;
     schema:instructor <https://www.sib.swiss/directory/person/wandrille-duchemin> .
 
 <https://www.sib.swiss/training/course/20230623_ENRIC>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Enrichment Analysis" ;
     schema:url <https://www.sib.swiss/training/course/20230623_ENRIC> ;
     schema:provider <https://ror.org/002n09z45> ;
     schema:instructor <https://www.sib.swiss/directory/person/gustavo-ruizbuendia> .
 
 <https://www.sib.swiss/training/course/20230627_OPNBS>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Introduction to openBIS" ;
     schema:url <https://www.sib.swiss/training/course/20230627_OPNBS> ;
     schema:provider <https://ror.org/002n09z45> ;
     schema:instructor <https://www.sib.swiss/directory/person/caterina-barillari> .
 
 <https://www.sib.swiss/training/course/20230629_FAIRD>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Introduction to FAIR Research Data Management & Data Management Plan" ;
     schema:url <https://www.sib.swiss/training/course/20230629_FAIRD> ;
     schema:provider <https://ror.org/002n09z45> ;
@@ -34375,14 +34375,14 @@
     schema:instructor <https://orcid.org/0000-0002-4209-2578> .
 
 <https://www.sib.swiss/training/course/20230703_ISCTR>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Single-Cell Transcriptomics with R" ;
     schema:url <https://www.sib.swiss/training/course/20230703_ISCTR> ;
     schema:provider <https://ror.org/002n09z45> ;
     schema:instructor <https://orcid.org/0000-0002-1561-078X> .
 
 <https://www.sib.swiss/training/course/20230824_FSWU>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "First Steps with UNIX in Life Sciences" ;
     schema:url <https://www.sib.swiss/training/course/20230824_FSWU> ;
     schema:provider <https://ror.org/002n09z45> ;
@@ -34390,14 +34390,14 @@
     schema:instructor <https://www.sib.swiss/directory/person/robin-engler> .
 
 <https://www.sib.swiss/training/course/20230828_RPACK>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "R-packaging" ;
     schema:url <https://www.sib.swiss/training/course/20230828_RPACK> ;
     schema:provider <https://ror.org/002n09z45> ;
     schema:instructor <https://www.sib.swiss/directory/person/frederic-schutz> .
 
 <https://www.sib.swiss/training/course/20230830_COMGE>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Biodiversity bioinformatics: from large-scale phylogenomics to gene families and functions" ;
     schema:url <https://www.sib.swiss/training/course/20230830_COMGE> ;
     schema:provider <https://ror.org/002n09z45> ;
@@ -34407,28 +34407,28 @@
     schema:instructor <https://orcid.org/0000-0003-4199-9052> .
 
 <https://www.sib.swiss/training/course/20230904_ASSM>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Advanced Statistics: Statistical Modelling" ;
     schema:url <https://www.sib.swiss/training/course/20230904_ASSM> ;
     schema:provider <https://ror.org/002n09z45> ;
     schema:instructor <https://www.sib.swiss/directory/person/rachel-jeitziner> .
 
 <https://www.sib.swiss/training/course/20230905_NGSGV>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "NGS - Genome Variant Analysis" ;
     schema:url <https://www.sib.swiss/training/course/20230905_NGSGV> ;
     schema:provider <https://ror.org/002n09z45> ;
     schema:instructor <https://orcid.org/0000-0002-1561-078X> .
 
 <https://www.sib.swiss/training/course/20230919_IRNAS>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Introduction to Bulk RNA-Seq: From Quality Control to Pathway Analysis" ;
     schema:url <https://www.sib.swiss/training/course/20230919_IRNAS> ;
     schema:provider <https://ror.org/002n09z45> ;
     schema:instructor <https://www.sib.swiss/directory/person/wandrille-duchemin> .
 
 <https://www.sib.swiss/training/course/20230927_PYTFS>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "First Steps with Python in Life Sciences" ;
     schema:url <https://www.sib.swiss/training/course/20230927_PYTFS> ;
     schema:provider <https://ror.org/002n09z45> ;
@@ -34436,7 +34436,7 @@
     schema:instructor <https://www.sib.swiss/directory/person/wandrille-duchemin> .
 
 <https://www.sib.swiss/training/course/20231009_INMLP>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Introduction to Machine Learning with Python" ;
     schema:url <https://www.sib.swiss/training/course/20231009_INMLP> ;
     schema:provider <https://ror.org/002n09z45> ;
@@ -34444,7 +34444,7 @@
     schema:instructor <https://www.sib.swiss/directory/person/wandrille-duchemin> .
 
 <https://www.sib.swiss/training/course/20231011_GIT>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Version Control with Git" ;
     schema:url <https://www.sib.swiss/training/course/20231011_GIT> ;
     schema:provider <https://ror.org/002n09z45> ;
@@ -34452,7 +34452,7 @@
     schema:instructor <https://orcid.org/0000-0002-4209-2578> .
 
 <https://www.sib.swiss/training/course/20231012_ICWRR>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Introduction to Containers and Snakemake for Reproducible Research" ;
     schema:url <https://www.sib.swiss/training/course/20231012_ICWRR> ;
     schema:provider <https://ror.org/002n09z45> ;
@@ -34460,21 +34460,21 @@
     schema:instructor <https://orcid.org/0000-0002-1561-078X> .
 
 <https://www.sib.swiss/training/course/20231019_FSWIR>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "First Steps with R in Life Sciences" ;
     schema:url <https://www.sib.swiss/training/course/20231019_FSWIR> ;
     schema:provider <https://ror.org/002n09z45> ;
     schema:instructor <https://www.sib.swiss/directory/person/wandrille-duchemin> .
 
 <https://www.sib.swiss/training/course/20231102_DATVS>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Data Visualisation with R" ;
     schema:url <https://www.sib.swiss/training/course/20231102_DATVS> ;
     schema:provider <https://ror.org/002n09z45> ;
     schema:instructor <https://www.sib.swiss/directory/person/frederic-schutz> .
 
 <https://www.sib.swiss/training/course/20231106_DLFLS>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Deep Learning for Life Sciences - fundamentals and applications" ;
     schema:url <https://www.sib.swiss/training/course/20231106_DLFLS> ;
     schema:provider <https://ror.org/002n09z45> ;
@@ -34483,21 +34483,21 @@
     schema:instructor <https://www.sib.swiss/directory/person/thuong-tran> .
 
 <https://www.sib.swiss/training/course/20231107_PRDIP>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Practical dip into deep learning - a PyTorch short crash-course" ;
     schema:url <https://www.sib.swiss/training/course/20231107_PRDIP> ;
     schema:provider <https://ror.org/002n09z45> ;
     schema:instructor <https://www.sib.swiss/directory/person/wandrille-duchemin> .
 
 <https://www.sib.swiss/training/course/20231108_ASAP>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Using ASAP for Single-Cell Analysis" ;
     schema:url <https://www.sib.swiss/training/course/20231108_ASAP> ;
     schema:provider <https://ror.org/002n09z45> ;
     schema:instructor <https://www.sib.swiss/directory/person/vincent-gardeux> .
 
 <https://www.sib.swiss/training/course/20231109_DARPY>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Data Analysis and Representation in Python" ;
     schema:url <https://www.sib.swiss/training/course/20231109_DARPY> ;
     schema:provider <https://ror.org/002n09z45> ;
@@ -34505,7 +34505,7 @@
     schema:instructor <https://www.sib.swiss/directory/person/wandrille-duchemin> .
 
 <https://www.sib.swiss/training/course/20231110_OPTPY>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Optimising Python Code for Better Performance" ;
     schema:url <https://www.sib.swiss/training/course/20231110_OPTPY> ;
     schema:provider <https://ror.org/002n09z45> ;
@@ -34513,21 +34513,21 @@
     schema:instructor <https://www.sib.swiss/directory/person/wandrille-duchemin> .
 
 <https://www.sib.swiss/training/course/20231113_ISCTR>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Single-Cell Transcriptomics with R" ;
     schema:url <https://www.sib.swiss/training/course/20231113_ISCTR> ;
     schema:provider <https://ror.org/002n09z45> ;
     schema:instructor <https://orcid.org/0000-0002-1561-078X> .
 
 <https://www.sib.swiss/training/course/20231122_NGSQC>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "NGS - Quality Control, Alignment, Visualisation" ;
     schema:url <https://www.sib.swiss/training/course/20231122_NGSQC> ;
     schema:provider <https://ror.org/002n09z45> ;
     schema:instructor <https://orcid.org/0000-0002-1561-078X> .
 
 <https://www.sib.swiss/training/course/20231128_FAIR>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Making Your Research Data FAIR" ;
     schema:url <https://www.sib.swiss/training/course/20231128_FAIR> ;
     schema:provider <https://ror.org/002n09z45> ;
@@ -34536,21 +34536,21 @@
     schema:instructor <https://orcid.org/0000-0002-4209-2578> .
 
 <https://www.sib.swiss/training/course/20231201_ENRIC>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Enrichment Analysis" ;
     schema:url <https://www.sib.swiss/training/course/20231201_ENRIC> ;
     schema:provider <https://ror.org/002n09z45> ;
     schema:instructor <https://www.sib.swiss/directory/person/gustavo-ruizbuendia> .
 
 <https://www.sib.swiss/training/course/20231207_STAML>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Statistics and Machine Learning for Life Sciences" ;
     schema:url <https://www.sib.swiss/training/course/20231207_STAML> ;
     schema:provider <https://ror.org/002n09z45> ;
     schema:instructor <https://www.sib.swiss/directory/person/wandrille-duchemin> .
 
 <https://www.sib.swiss/training/course/20240116_FSWU>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "First Steps with UNIX in Life Sciences" ;
     schema:url <https://www.sib.swiss/training/course/20240116_FSWU> ;
     schema:provider <https://ror.org/002n09z45> ;
@@ -34558,7 +34558,7 @@
     schema:instructor <https://www.sib.swiss/directory/person/robin-engler> .
 
 <https://www.sib.swiss/training/course/20240122_STATR>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Introduction to Statistics with R" ;
     schema:url <https://www.sib.swiss/training/course/20240122_STATR> ;
     schema:provider <https://ror.org/002n09z45> ;
@@ -34566,21 +34566,21 @@
     schema:instructor <https://www.sib.swiss/directory/person/rachel-jeitziner> .
 
 <https://www.sib.swiss/training/course/20240123_VRLBI>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Introduction to Viral Bioinformatics" ;
     schema:url <https://www.sib.swiss/training/course/20240123_VRLBI> ;
     schema:provider <https://ror.org/002n09z45> ;
     schema:instructor <https://orcid.org/0000-0001-8528-090X> .
 
 <https://www.sib.swiss/training/course/20240201_FSWR>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "First Steps with R in Life Sciences" ;
     schema:url <https://www.sib.swiss/training/course/20240201_FSWR> ;
     schema:provider <https://ror.org/002n09z45> ;
     schema:instructor <https://www.sib.swiss/directory/person/wandrille-duchemin> .
 
 <https://www.sib.swiss/training/course/20240220_GPU>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Introduction to GPU Programming for Life Sciences" ;
     schema:url <https://www.sib.swiss/training/course/20240220_GPU> ;
     schema:provider <https://ror.org/002n09z45> ;
@@ -34588,14 +34588,14 @@
     schema:instructor <https://www.sib.swiss/directory/person/wandrille-duchemin> .
 
 <https://www.sib.swiss/training/course/20240226_NGSGV>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "NGS - Genome Variant Analysis" ;
     schema:url <https://www.sib.swiss/training/course/20240226_NGSGV> ;
     schema:provider <https://ror.org/002n09z45> ;
     schema:instructor <https://orcid.org/0000-0002-1561-078X> .
 
 <https://www.sib.swiss/training/course/20240304_FSWP>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "First Steps with Python in Life Sciences" ;
     schema:url <https://www.sib.swiss/training/course/20240304_FSWP> ;
     schema:provider <https://ror.org/002n09z45> ;
@@ -34603,42 +34603,42 @@
     schema:instructor <https://www.sib.swiss/directory/person/wandrille-duchemin> .
 
 <https://www.sib.swiss/training/course/20240307_LONGR>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Long-read Sequence Analysis" ;
     schema:url <https://www.sib.swiss/training/course/20240307_LONGR> ;
     schema:provider <https://ror.org/002n09z45> ;
     schema:instructor <https://orcid.org/0000-0002-1561-078X> .
 
 <https://www.sib.swiss/training/course/20240311_ENRIC>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Enrichment Analysis" ;
     schema:url <https://www.sib.swiss/training/course/20240311_ENRIC> ;
     schema:provider <https://ror.org/002n09z45> ;
     schema:instructor <https://www.sib.swiss/directory/person/gustavo-ruizbuendia> .
 
 <https://www.sib.swiss/training/course/20240313_MODAI>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Multiomics Data Analysis and Integration" ;
     schema:url <https://www.sib.swiss/training/course/20240313_MODAI> ;
     schema:provider <https://ror.org/002n09z45> ;
     schema:instructor <https://orcid.org/0000-0002-9619-1707> .
 
 <https://www.sib.swiss/training/course/20240318_ISCTR>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Single-Cell Transcriptomics with R" ;
     schema:url <https://www.sib.swiss/training/course/20240318_ISCTR> ;
     schema:provider <https://ror.org/002n09z45> ;
     schema:instructor <https://orcid.org/0000-0002-1561-078X> .
 
 <https://www.sib.swiss/training/course/20240321_RERWR>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Reproducible research with R: from data management to communication of results" ;
     schema:url <https://www.sib.swiss/training/course/20240321_RERWR> ;
     schema:provider <https://ror.org/002n09z45> ;
     schema:instructor <https://www.sib.swiss/directory/person/frederic-schutz> .
 
 <https://www.sib.swiss/training/course/20240409_BPHPC>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Best Practices in High-Perfomance Computing (sciCORE cluster)" ;
     schema:url <https://www.sib.swiss/training/course/20240409_BPHPC> ;
     schema:provider <https://ror.org/002n09z45> ;
@@ -34646,7 +34646,7 @@
     schema:instructor <https://www.sib.swiss/directory/person/sofia-georgakopoulou> .
 
 <https://www.sib.swiss/training/course/20240418_SQL>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "First Steps with SQL for Data Science" ;
     schema:url <https://www.sib.swiss/training/course/20240418_SQL> ;
     schema:provider <https://ror.org/002n09z45> ;
@@ -34654,14 +34654,14 @@
     schema:instructor <https://www.sib.swiss/directory/person/florent-tassy> .
 
 <https://www.sib.swiss/training/course/20240422_SHINY>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Introduction to R Shiny" ;
     schema:url <https://www.sib.swiss/training/course/20240422_SHINY> ;
     schema:provider <https://ror.org/002n09z45> ;
     schema:instructor <https://www.sib.swiss/directory/person/frederic-schutz> .
 
 <https://www.sib.swiss/training/course/20240424_NGSQC>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "NGS - Quality Control, Alignment, Visualisation" ;
     schema:url <https://www.sib.swiss/training/course/20240424_NGSQC> ;
     schema:provider <https://ror.org/002n09z45> ;
@@ -34669,14 +34669,14 @@
     schema:instructor <https://orcid.org/0000-0002-1561-078X> .
 
 <https://www.sib.swiss/training/course/20240507_OPEMP>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "First Steps in Parallelization with OpenMP" ;
     schema:url <https://www.sib.swiss/training/course/20240507_OPEMP> ;
     schema:provider <https://ror.org/002n09z45> ;
     schema:instructor <https://www.sib.swiss/directory/person/aurelien-cavelan> .
 
 <https://www.sib.swiss/training/course/20240513_IBAYE>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Introduction to Bayesian Statistics with R" ;
     schema:url <https://www.sib.swiss/training/course/20240513_IBAYE> ;
     schema:provider <https://ror.org/002n09z45> ;
@@ -34684,14 +34684,14 @@
     schema:instructor <https://www.sib.swiss/directory/person/wandrille-duchemin> .
 
 <https://www.sib.swiss/training/course/20240515_GLYCO>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Introduction to Glycoinformatics - Learning by doing" ;
     schema:url <https://www.sib.swiss/training/course/20240515_GLYCO> ;
     schema:provider <https://ror.org/002n09z45> ;
     schema:instructor <https://www.sib.swiss/directory/person/frederique-lisacek> .
 
 <https://www.sib.swiss/training/course/20240516_DARPY>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Data Analysis and Representation in Python" ;
     schema:url <https://www.sib.swiss/training/course/20240516_DARPY> ;
     schema:provider <https://ror.org/002n09z45> ;
@@ -34699,7 +34699,7 @@
     schema:instructor <https://www.sib.swiss/directory/person/wandrille-duchemin> .
 
 <https://www.sib.swiss/training/course/20240517_OPTPY>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Optimising Python Code for Better Performance" ;
     schema:url <https://www.sib.swiss/training/course/20240517_OPTPY> ;
     schema:provider <https://ror.org/002n09z45> ;
@@ -34707,7 +34707,7 @@
     schema:instructor <https://www.sib.swiss/directory/person/wandrille-duchemin> .
 
 <https://www.sib.swiss/training/course/20240522_ADVUN>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "UNIX Shell Scripting in Life Sciences" ;
     schema:url <https://www.sib.swiss/training/course/20240522_ADVUN> ;
     schema:provider <https://ror.org/002n09z45> ;
@@ -34715,7 +34715,7 @@
     schema:instructor <https://orcid.org/0000-0002-4015-5969> .
 
 <https://www.sib.swiss/training/course/20240527_INMLP>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Introduction to Machine Learning with Python" ;
     schema:url <https://www.sib.swiss/training/course/20240527_INMLP> ;
     schema:provider <https://ror.org/002n09z45> ;
@@ -34723,21 +34723,21 @@
     schema:instructor <https://www.sib.swiss/directory/person/wandrille-duchemin> .
 
 <https://www.sib.swiss/training/course/20240527_SCTPY>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Single-Cell Transcriptomics with Python" ;
     schema:url <https://www.sib.swiss/training/course/20240527_SCTPY> ;
     schema:provider <https://ror.org/002n09z45> ;
     schema:instructor <https://orcid.org/0000-0002-1561-078X> .
 
 <https://www.sib.swiss/training/course/20240530_DOCK>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Docker and Singularity for Reproducible Research: Getting Started with Containers" ;
     schema:url <https://www.sib.swiss/training/course/20240530_DOCK> ;
     schema:provider <https://ror.org/002n09z45> ;
     schema:instructor <https://orcid.org/0000-0002-1561-078X> .
 
 <https://www.sib.swiss/training/course/20240531_BGEEL>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Gene Expression made Useful Easily: Tools and Database of Bgee" ;
     schema:url <https://www.sib.swiss/training/course/20240531_BGEEL> ;
     schema:provider <https://ror.org/002n09z45> ;
@@ -34745,28 +34745,28 @@
     schema:instructor <https://orcid.org/0000-0002-3437-3329> .
 
 <https://www.sib.swiss/training/course/20240606_UPENZ>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Enzymes: Extracting Biological Insight Using UniProt" ;
     schema:url <https://www.sib.swiss/training/course/20240606_UPENZ> ;
     schema:provider <https://ror.org/002n09z45> ;
     schema:instructor <https://orcid.org/0000-0003-1829-162X> .
 
 <https://www.sib.swiss/training/course/20240607_ENARS>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Submitting, Finding and Downloading Raw Sequencing Data with ENA" ;
     schema:url <https://www.sib.swiss/training/course/20240607_ENARS> ;
     schema:provider <https://ror.org/002n09z45> ;
     schema:instructor <https://orcid.org/0000-0002-1561-078X> .
 
 <https://www.sib.swiss/training/course/20240628_ENRIC>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Enrichment Analysis" ;
     schema:url <https://www.sib.swiss/training/course/20240628_ENRIC> ;
     schema:provider <https://ror.org/002n09z45> ;
     schema:instructor <https://www.sib.swiss/directory/person/gustavo-ruizbuendia> .
 
 <https://www.sib.swiss/training/course/20240712_QUART>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Make Your Research FAIRer with Quarto, GitHub and Zenodo" ;
     schema:url <https://www.sib.swiss/training/course/20240712_QUART> ;
     schema:provider <https://ror.org/002n09z45> ;
@@ -34774,7 +34774,7 @@
     schema:instructor <https://www.sib.swiss/directory/person/wandrille-duchemin> .
 
 <https://www.sib.swiss/training/course/20240828_COMGE>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Biodiversity bioinformatics: from large-scale phylogenomics to gene families and functions" ;
     schema:url <https://www.sib.swiss/training/course/20240828_COMGE> ;
     schema:provider <https://ror.org/002n09z45> ;
@@ -34784,7 +34784,7 @@
     schema:instructor <https://orcid.org/0000-0003-4199-9052> .
 
 <https://www.sib.swiss/training/course/20240830_ISMCM>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "ISMARA and CREMA: automatically inferring gene regulatory networks from gene expression, chromatin accessibility or epigenome data" ;
     schema:url <https://www.sib.swiss/training/course/20240830_ISMCM> ;
     schema:provider <https://ror.org/002n09z45> ;
@@ -34792,21 +34792,21 @@
     schema:instructor <https://orcid.org/0000-0001-7616-6435> .
 
 <https://www.sib.swiss/training/course/20240902_APRWR>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Advanced Programming with R" ;
     schema:url <https://www.sib.swiss/training/course/20240902_APRWR> ;
     schema:provider <https://ror.org/002n09z45> ;
     schema:instructor <https://www.sib.swiss/directory/person/frederic-schutz> .
 
 <https://www.sib.swiss/training/course/20240905_NGSGV>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "NGS - Genome Variant Analysis" ;
     schema:url <https://www.sib.swiss/training/course/20240905_NGSGV> ;
     schema:provider <https://ror.org/002n09z45> ;
     schema:instructor <https://orcid.org/0000-0002-1561-078X> .
 
 <https://www.sib.swiss/training/course/20240912_FSWU>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "First Steps with UNIX in Life Sciences" ;
     schema:url <https://www.sib.swiss/training/course/20240912_FSWU> ;
     schema:provider <https://ror.org/002n09z45> ;
@@ -34814,21 +34814,21 @@
     schema:instructor <https://www.sib.swiss/directory/person/robin-engler> .
 
 <https://www.sib.swiss/training/course/20240918_INLLM>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Introduction to Large Language Models for Life Scientists" ;
     schema:url <https://www.sib.swiss/training/course/20240918_INLLM> ;
     schema:provider <https://ror.org/002n09z45> ;
     schema:instructor <https://www.sib.swiss/directory/person/anaclaudia-sima> .
 
 <https://www.sib.swiss/training/course/20240919_IRNAS>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Introduction to Bulk RNA-Seq: From Quality Control to Pathway Analysis" ;
     schema:url <https://www.sib.swiss/training/course/20240919_IRNAS> ;
     schema:provider <https://ror.org/002n09z45> ;
     schema:instructor <https://www.sib.swiss/directory/person/wandrille-duchemin> .
 
 <https://www.sib.swiss/training/course/20240925_FSWP>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "First Steps with Python in Life Sciences" ;
     schema:url <https://www.sib.swiss/training/course/20240925_FSWP> ;
     schema:provider <https://ror.org/002n09z45> ;
@@ -34836,14 +34836,14 @@
     schema:instructor <https://www.sib.swiss/directory/person/wandrille-duchemin> .
 
 <https://www.sib.swiss/training/course/20240926_TNR>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "SIB PhD Training Network Annual Retreat" ;
     schema:url <https://www.sib.swiss/training/course/20240926_TNR> ;
     schema:provider <https://ror.org/002n09z45> ;
     schema:instructor <https://www.sib.swiss/directory/person/frederic-schutz> .
 
 <https://www.sib.swiss/training/course/20241003_INMLP>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Introduction to Machine Learning with Python" ;
     schema:url <https://www.sib.swiss/training/course/20241003_INMLP> ;
     schema:provider <https://ror.org/002n09z45> ;
@@ -34851,14 +34851,14 @@
     schema:instructor <https://www.sib.swiss/directory/person/wandrille-duchemin> .
 
 <https://www.sib.swiss/training/course/20241007_FSWR>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "First Steps with R in Life Sciences" ;
     schema:url <https://www.sib.swiss/training/course/20241007_FSWR> ;
     schema:provider <https://ror.org/002n09z45> ;
     schema:instructor <https://www.sib.swiss/directory/person/wandrille-duchemin> .
 
 <https://www.sib.swiss/training/course/20241009_ICWRR>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Introduction to Containers and Snakemake for Reproducible Research" ;
     schema:url <https://www.sib.swiss/training/course/20241009_ICWRR> ;
     schema:provider <https://ror.org/002n09z45> ;
@@ -34866,28 +34866,28 @@
     schema:instructor <https://orcid.org/0000-0002-1561-078X> .
 
 <https://www.sib.swiss/training/course/20241015_INTML>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Ensuring More Accurate, Generalisable, and Interpretable Machine Learning Models for Bioinformatics" ;
     schema:url <https://www.sib.swiss/training/course/20241015_INTML> ;
     schema:provider <https://ror.org/002n09z45> ;
     schema:instructor <https://www.sib.swiss/directory/person/wandrille-duchemin> .
 
 <https://www.sib.swiss/training/course/20241016_GIT>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Version Control with Git" ;
     schema:url <https://www.sib.swiss/training/course/20241016_GIT> ;
     schema:provider <https://ror.org/002n09z45> ;
     schema:instructor <https://www.sib.swiss/directory/person/robin-engler> .
 
 <https://www.sib.swiss/training/course/20241025_IMBIO>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "When immunology meets bioinformatics" ;
     schema:url <https://www.sib.swiss/training/course/20241025_IMBIO> ;
     schema:provider <https://ror.org/002n09z45> ;
     schema:instructor <https://www.sib.swiss/directory/person/lea-taylor> .
 
 <https://www.sib.swiss/training/course/20241029_ISCTR>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Single-Cell Transcriptomics with R" ;
     schema:url <https://www.sib.swiss/training/course/20241029_ISCTR> ;
     schema:provider <https://ror.org/002n09z45> ;
@@ -34895,14 +34895,14 @@
     schema:instructor <https://www.sib.swiss/directory/person/luciano-cascione> .
 
 <https://www.sib.swiss/training/course/20241106_ASAP>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Using ASAP for Single-Cell Analysis" ;
     schema:url <https://www.sib.swiss/training/course/20241106_ASAP> ;
     schema:provider <https://ror.org/002n09z45> ;
     schema:instructor <https://www.sib.swiss/directory/person/vincent-gardeux> .
 
 <https://www.sib.swiss/training/course/20241108_DEEPP>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Diving into Deep Learning - Theory and Applications with PyTorch" ;
     schema:url <https://www.sib.swiss/training/course/20241108_DEEPP> ;
     schema:provider <https://ror.org/002n09z45> ;
@@ -34910,7 +34910,7 @@
     schema:instructor <https://www.sib.swiss/directory/person/wandrille-duchemin> .
 
 <https://www.sib.swiss/training/course/20241111_DARPY>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Data Analysis and Representation in Python" ;
     schema:url <https://www.sib.swiss/training/course/20241111_DARPY> ;
     schema:provider <https://ror.org/002n09z45> ;
@@ -34918,49 +34918,49 @@
     schema:instructor <https://www.sib.swiss/directory/person/wandrille-duchemin> .
 
 <https://www.sib.swiss/training/course/20241112_IVIPY>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Interactive Visualisation with Python" ;
     schema:url <https://www.sib.swiss/training/course/20241112_IVIPY> ;
     schema:provider <https://ror.org/002n09z45> ;
     schema:instructor <https://www.sib.swiss/directory/person/wandrille-duchemin> .
 
 <https://www.sib.swiss/training/course/20241120_NGSQC>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "NGS - Quality Control, Alignment, Visualisation" ;
     schema:url <https://www.sib.swiss/training/course/20241120_NGSQC> ;
     schema:provider <https://ror.org/002n09z45> ;
     schema:instructor <https://orcid.org/0000-0002-1561-078X> .
 
 <https://www.sib.swiss/training/course/20241129_ENRIC>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Enrichment Analysis" ;
     schema:url <https://www.sib.swiss/training/course/20241129_ENRIC> ;
     schema:provider <https://ror.org/002n09z45> ;
     schema:instructor <https://www.sib.swiss/directory/person/gustavo-ruizbuendia> .
 
 <https://www.sib.swiss/training/course/20241205_STAML>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Statistics and Machine Learning for Life Sciences" ;
     schema:url <https://www.sib.swiss/training/course/20241205_STAML> ;
     schema:provider <https://ror.org/002n09z45> ;
     schema:instructor <https://www.sib.swiss/directory/person/wandrille-duchemin> .
 
 <https://www.sib.swiss/training/course/20241209_DATVS>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Data Visualisation with R" ;
     schema:url <https://www.sib.swiss/training/course/20241209_DATVS> ;
     schema:provider <https://ror.org/002n09z45> ;
     schema:instructor <https://www.sib.swiss/directory/person/frederic-schutz> .
 
 <https://www.sib.swiss/training/course/20241213_CVANA>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Cancer Variant Analysis" ;
     schema:url <https://www.sib.swiss/training/course/20241213_CVANA> ;
     schema:provider <https://ror.org/002n09z45> ;
     schema:instructor <https://orcid.org/0000-0002-1561-078X> .
 
 <https://www.sib.swiss/training/course/20250114_TTTCH>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "ELIXIR-GOBLET Train-the-Trainer" ;
     schema:url <https://www.sib.swiss/training/course/20250114_TTTCH> ;
     schema:provider <https://ror.org/002n09z45> ;
@@ -34969,7 +34969,7 @@
     schema:instructor <https://www.sib.swiss/directory/person/wandrille-duchemin> .
 
 <https://www.sib.swiss/training/course/20250121_SPODA>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Spatial Omics Data Analysis" ;
     schema:url <https://www.sib.swiss/training/course/20250121_SPODA> ;
     schema:provider <https://ror.org/002n09z45> ;
@@ -34979,7 +34979,7 @@
     schema:instructor <https://orcid.org/0000-0002-3048-5518> .
 
 <https://www.sib.swiss/training/course/20250127_STATR>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Introduction to Statistics with R" ;
     schema:url <https://www.sib.swiss/training/course/20250127_STATR> ;
     schema:provider <https://ror.org/002n09z45> ;
@@ -34987,7 +34987,7 @@
     schema:instructor <https://www.sib.swiss/directory/person/rachel-jeitziner> .
 
 <https://www.sib.swiss/training/course/20250203_FSWR>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "First Steps with R in Life Sciences" ;
     schema:url <https://www.sib.swiss/training/course/20250203_FSWR> ;
     schema:provider <https://ror.org/002n09z45> ;
@@ -34995,7 +34995,7 @@
     schema:instructor <https://www.sib.swiss/directory/person/wandrille-duchemin> .
 
 <https://www.sib.swiss/training/course/20250211_GPU>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Introduction to GPU Programming for Life Sciences" ;
     schema:url <https://www.sib.swiss/training/course/20250211_GPU> ;
     schema:provider <https://ror.org/002n09z45> ;
@@ -35003,21 +35003,21 @@
     schema:instructor <https://www.sib.swiss/directory/person/wandrille-duchemin> .
 
 <https://www.sib.swiss/training/course/20250227_LONGR>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Long-read Sequence Analysis" ;
     schema:url <https://www.sib.swiss/training/course/20250227_LONGR> ;
     schema:provider <https://ror.org/002n09z45> ;
     schema:instructor <https://orcid.org/0000-0002-1561-078X> .
 
 <https://www.sib.swiss/training/course/20250306_MODAI>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Multiomics Data Analysis and Integration" ;
     schema:url <https://www.sib.swiss/training/course/20250306_MODAI> ;
     schema:provider <https://ror.org/002n09z45> ;
     schema:instructor <https://orcid.org/0000-0002-9619-1707> .
 
 <https://www.sib.swiss/training/course/20250311_FSWP>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "First Steps with Python in Life Sciences" ;
     schema:url <https://www.sib.swiss/training/course/20250311_FSWP> ;
     schema:provider <https://ror.org/002n09z45> ;
@@ -35025,14 +35025,14 @@
     schema:instructor <https://www.sib.swiss/directory/person/wandrille-duchemin> .
 
 <https://www.sib.swiss/training/course/20250314_ENRIC>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Enrichment Analysis" ;
     schema:url <https://www.sib.swiss/training/course/20250314_ENRIC> ;
     schema:provider <https://ror.org/002n09z45> ;
     schema:instructor <https://www.sib.swiss/directory/person/gustavo-ruizbuendia> .
 
 <https://www.sib.swiss/training/course/20250318_ISCTR>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Single-Cell Transcriptomics with R" ;
     schema:url <https://www.sib.swiss/training/course/20250318_ISCTR> ;
     schema:provider <https://ror.org/002n09z45> ;
@@ -35040,21 +35040,21 @@
     schema:instructor <https://orcid.org/0000-0002-1561-078X> .
 
 <https://www.sib.swiss/training/course/20250327_VRZ3D>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "ViralZone and the Revolution in 3D Virus Structure" ;
     schema:url <https://www.sib.swiss/training/course/20250327_VRZ3D> ;
     schema:provider <https://ror.org/002n09z45> ;
     schema:instructor <https://orcid.org/0000-0001-8528-090X> .
 
 <https://www.sib.swiss/training/course/20250401_SHINY>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Introduction to R Shiny" ;
     schema:url <https://www.sib.swiss/training/course/20250401_SHINY> ;
     schema:provider <https://ror.org/002n09z45> ;
     schema:instructor <https://www.sib.swiss/directory/person/frederic-schutz> .
 
 <https://www.sib.swiss/training/course/20250403_STAML>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Statistics and Machine Learning for Life Sciences" ;
     schema:url <https://www.sib.swiss/training/course/20250403_STAML> ;
     schema:provider <https://ror.org/002n09z45> ;
@@ -35062,7 +35062,7 @@
     schema:instructor <https://www.sib.swiss/directory/person/wandrille-duchemin> .
 
 <https://www.sib.swiss/training/course/20250408_BPHPC>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Best Practices in High-Perfomance Computing (sciCORE cluster)" ;
     schema:url <https://www.sib.swiss/training/course/20250408_BPHPC> ;
     schema:provider <https://ror.org/002n09z45> ;
@@ -35070,7 +35070,7 @@
     schema:instructor <https://www.sib.swiss/directory/person/sofia-georgakopoulou> .
 
 <https://www.sib.swiss/training/course/20250410_SQL>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "First Steps with SQL for Data Science" ;
     schema:url <https://www.sib.swiss/training/course/20250410_SQL> ;
     schema:provider <https://ror.org/002n09z45> ;
@@ -35078,7 +35078,7 @@
     schema:instructor <https://www.sib.swiss/directory/person/florent-tassy> .
 
 <https://www.sib.swiss/training/course/20250423_ISEDA>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Introduction to Sequencing Data Analysis" ;
     schema:url <https://www.sib.swiss/training/course/20250423_ISEDA> ;
     schema:provider <https://ror.org/002n09z45> ;
@@ -35086,7 +35086,7 @@
     schema:instructor <https://www.sib.swiss/directory/person/frederic-burdet> .
 
 <https://www.sib.swiss/training/course/20250505_IBAYE>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Introduction to Bayesian Statistics with R" ;
     schema:url <https://www.sib.swiss/training/course/20250505_IBAYE> ;
     schema:provider <https://ror.org/002n09z45> ;
@@ -35094,7 +35094,7 @@
     schema:instructor <https://www.sib.swiss/directory/person/wandrille-duchemin> .
 
 <https://www.sib.swiss/training/course/20250507_MEMIC>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Introduction to Metagenomics Data Analysis of Microbial Communities" ;
     schema:url <https://www.sib.swiss/training/course/20250507_MEMIC> ;
     schema:provider <https://ror.org/002n09z45> ;
@@ -35102,7 +35102,7 @@
     schema:instructor <https://orcid.org/0000-0001-8102-7579> .
 
 <https://www.sib.swiss/training/course/20250516_BGEEL>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Gene Expression made Useful Easily: Tools and Database of Bgee" ;
     schema:url <https://www.sib.swiss/training/course/20250516_BGEEL> ;
     schema:provider <https://ror.org/002n09z45> ;
@@ -35110,7 +35110,7 @@
     schema:instructor <https://orcid.org/0000-0002-3437-3329> .
 
 <https://www.sib.swiss/training/course/20250519_USLLM>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Using Large Language Models for Biodata Exploration: From Theory to Practice" ;
     schema:url <https://www.sib.swiss/training/course/20250519_USLLM> ;
     schema:provider <https://ror.org/002n09z45> ;
@@ -35118,14 +35118,14 @@
     schema:instructor <https://orcid.org/0000-0002-1501-1082> .
 
 <https://www.sib.swiss/training/course/20250520_OPEMP>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "First Steps in Parallelization with OpenMP" ;
     schema:url <https://www.sib.swiss/training/course/20250520_OPEMP> ;
     schema:provider <https://ror.org/002n09z45> ;
     schema:instructor <https://www.sib.swiss/directory/person/aurelien-cavelan> .
 
 <https://www.sib.swiss/training/course/20250522_IMPUT>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Missing Data and Imputation Methods" ;
     schema:url <https://www.sib.swiss/training/course/20250522_IMPUT> ;
     schema:provider <https://ror.org/002n09z45> ;
@@ -35133,7 +35133,7 @@
     schema:instructor <https://www.sib.swiss/directory/person/leonore-wigger> .
 
 <https://www.sib.swiss/training/course/20250526_INMLP>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Introduction to Machine Learning with Python" ;
     schema:url <https://www.sib.swiss/training/course/20250526_INMLP> ;
     schema:provider <https://ror.org/002n09z45> ;
@@ -35142,21 +35142,21 @@
     schema:instructor <https://www.sib.swiss/directory/person/wandrille-duchemin> .
 
 <https://www.sib.swiss/training/course/20250527_DOCK>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Docker and Singularity for Reproducible Research: Getting Started with Containers" ;
     schema:url <https://www.sib.swiss/training/course/20250527_DOCK> ;
     schema:provider <https://ror.org/002n09z45> ;
     schema:instructor <https://orcid.org/0000-0002-1561-078X> .
 
 <https://www.sib.swiss/training/course/20250528_SNAKE>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Reproducible and Scalable Research with Snakemake and Software Containers" ;
     schema:url <https://www.sib.swiss/training/course/20250528_SNAKE> ;
     schema:provider <https://ror.org/002n09z45> ;
     schema:instructor <https://www.sib.swiss/directory/person/antonin-thiebaut> .
 
 <https://www.sib.swiss/training/course/20250604_UPPLT>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "UniProt: Focus on Plant Proteins" ;
     schema:url <https://www.sib.swiss/training/course/20250604_UPPLT> ;
     schema:provider <https://ror.org/002n09z45> ;
@@ -35164,21 +35164,21 @@
     schema:instructor <https://orcid.org/0000-0002-3743-4203> .
 
 <https://www.sib.swiss/training/course/20250616_BIMVZ>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Biology-informed Multiomics Data Integration and Visualisation" ;
     schema:url <https://www.sib.swiss/training/course/20250616_BIMVZ> ;
     schema:provider <https://ror.org/002n09z45> ;
     schema:instructor <https://orcid.org/0000-0001-8036-1989> .
 
 <https://www.sib.swiss/training/course/20250624_CAUSI>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Causal Inference" ;
     schema:url <https://www.sib.swiss/training/course/20250624_CAUSI> ;
     schema:provider <https://ror.org/002n09z45> ;
     schema:instructor <https://www.sib.swiss/directory/person/wandrille-duchemin> .
 
 <https://www.sib.swiss/training/course/20250702_ISCTR>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Single-Cell Transcriptomics with R" ;
     schema:url <https://www.sib.swiss/training/course/20250702_ISCTR> ;
     schema:provider <https://ror.org/002n09z45> ;
@@ -35187,14 +35187,14 @@
     schema:instructor <https://www.sib.swiss/directory/person/joana-carlevaro-fita> .
 
 <https://www.sib.swiss/training/course/20250708_QUART>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Make Your Research FAIRer with Quarto, GitHub and Zenodo" ;
     schema:url <https://www.sib.swiss/training/course/20250708_QUART> ;
     schema:provider <https://ror.org/002n09z45> ;
     schema:instructor <https://www.sib.swiss/directory/person/wandrille-duchemin> .
 
 <https://www.sib.swiss/training/course/20250825_COMGE>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Biodiversity bioinformatics: from large-scale phylogenomics to gene families and functions" ;
     schema:url <https://www.sib.swiss/training/course/20250825_COMGE> ;
     schema:provider <https://ror.org/002n09z45> ;
@@ -35204,14 +35204,14 @@
     schema:instructor <https://orcid.org/0000-0003-4199-9052> .
 
 <https://www.sib.swiss/training/course/20250828_RPACK>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "R-packaging" ;
     schema:url <https://www.sib.swiss/training/course/20250828_RPACK> ;
     schema:provider <https://ror.org/002n09z45> ;
     schema:instructor <https://www.sib.swiss/directory/person/frederic-schutz> .
 
 <https://www.sib.swiss/training/course/20250829_FEDBX>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Federated Learning in Bioinformatics" ;
     schema:url <https://www.sib.swiss/training/course/20250829_FEDBX> ;
     schema:provider <https://ror.org/002n09z45> ;
@@ -35221,21 +35221,21 @@
     schema:instructor <https://www.sib.swiss/directory/person/sandra-mitrovic> .
 
 <https://www.sib.swiss/training/course/20250901_ASSM>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Advanced Statistics: Statistical Modelling" ;
     schema:url <https://www.sib.swiss/training/course/20250901_ASSM> ;
     schema:provider <https://ror.org/002n09z45> ;
     schema:instructor <https://www.sib.swiss/directory/person/thomas-zwahlen> .
 
 <https://www.sib.swiss/training/course/20250902_FSWU>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "First Steps with UNIX in Life Sciences" ;
     schema:url <https://www.sib.swiss/training/course/20250902_FSWU> ;
     schema:provider <https://ror.org/002n09z45> ;
     schema:instructor <https://www.sib.swiss/directory/person/robin-engler> .
 
 <https://www.sib.swiss/training/course/20250917_FSWP>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "First Steps with Python in Life Sciences" ;
     schema:url <https://www.sib.swiss/training/course/20250917_FSWP> ;
     schema:provider <https://ror.org/002n09z45> ;
@@ -35243,7 +35243,7 @@
     schema:instructor <https://www.sib.swiss/directory/person/wandrille-duchemin> .
 
 <https://www.sib.swiss/training/course/20250925_IRNAS>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Introduction to Bulk RNA-Seq: From Quality Control to Pathway Analysis" ;
     schema:url <https://www.sib.swiss/training/course/20250925_IRNAS> ;
     schema:provider <https://ror.org/002n09z45> ;
@@ -35251,7 +35251,7 @@
     schema:instructor <https://www.sib.swiss/directory/person/wandrille-duchemin> .
 
 <https://www.sib.swiss/training/course/20250930_USLLM>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Using Large Language Models for Biodata Exploration: From Theory to Practice" ;
     schema:url <https://www.sib.swiss/training/course/20250930_USLLM> ;
     schema:provider <https://ror.org/002n09z45> ;
@@ -35259,7 +35259,7 @@
     schema:instructor <https://orcid.org/0000-0002-1501-1082> .
 
 <https://www.sib.swiss/training/course/20251002_INMLP>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Introduction to Machine Learning with Python" ;
     schema:url <https://www.sib.swiss/training/course/20251002_INMLP> ;
     schema:provider <https://ror.org/002n09z45> ;
@@ -35267,21 +35267,21 @@
     schema:instructor <https://www.sib.swiss/directory/person/wandrille-duchemin> .
 
 <https://www.sib.swiss/training/course/20251009_DOCK>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Docker and Singularity for Reproducible Research: Getting Started with Containers" ;
     schema:url <https://www.sib.swiss/training/course/20251009_DOCK> ;
     schema:provider <https://ror.org/002n09z45> ;
     schema:instructor <https://www.sib.swiss/directory/person/antonin-thiebaut> .
 
 <https://www.sib.swiss/training/course/20251010_SNAKE>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Reproducible and Scalable Research with Snakemake and Software Containers" ;
     schema:url <https://www.sib.swiss/training/course/20251010_SNAKE> ;
     schema:provider <https://ror.org/002n09z45> ;
     schema:instructor <https://www.sib.swiss/directory/person/antonin-thiebaut> .
 
 <https://www.sib.swiss/training/course/20251013_FSWR>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "First Steps with R in Life Sciences" ;
     schema:url <https://www.sib.swiss/training/course/20251013_FSWR> ;
     schema:provider <https://ror.org/002n09z45> ;
@@ -35290,35 +35290,35 @@
     schema:instructor <https://www.sib.swiss/directory/person/wandrille-duchemin> .
 
 <https://www.sib.swiss/training/course/20251015_ATACS>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Introduction to NGS ATAC-seq data analysis" ;
     schema:url <https://www.sib.swiss/training/course/20251015_ATACS> ;
     schema:provider <https://ror.org/002n09z45> ;
     schema:instructor <https://www.sib.swiss/directory/person/joana-carlevaro-fita> .
 
 <https://www.sib.swiss/training/course/20251024_IMBIO>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "When immunology meets bioinformatics" ;
     schema:url <https://www.sib.swiss/training/course/20251024_IMBIO> ;
     schema:provider <https://ror.org/002n09z45> ;
     schema:instructor <https://www.sib.swiss/directory/person/lea-taylor> .
 
 <https://www.sib.swiss/training/course/20251027_BIOSE>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Best Practices for Investigating Gene Expression Differences by Biological Sex" ;
     schema:url <https://www.sib.swiss/training/course/20251027_BIOSE> ;
     schema:provider <https://ror.org/002n09z45> ;
     schema:instructor <https://www.sib.swiss/directory/person/julien-roux> .
 
 <https://www.sib.swiss/training/course/20251028_GIT>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Version Control with Git" ;
     schema:url <https://www.sib.swiss/training/course/20251028_GIT> ;
     schema:provider <https://ror.org/002n09z45> ;
     schema:instructor <https://www.sib.swiss/directory/person/robin-engler> .
 
 <https://www.sib.swiss/training/course/20251105_ADVUN>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "UNIX Shell Scripting in Life Sciences" ;
     schema:url <https://www.sib.swiss/training/course/20251105_ADVUN> ;
     schema:provider <https://ror.org/002n09z45> ;
@@ -35326,7 +35326,7 @@
     schema:instructor <https://orcid.org/0000-0002-4015-5969> .
 
 <https://www.sib.swiss/training/course/20251110_DARPY>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Data Analysis and Representation in Python" ;
     schema:url <https://www.sib.swiss/training/course/20251110_DARPY> ;
     schema:provider <https://ror.org/002n09z45> ;
@@ -35334,14 +35334,14 @@
     schema:instructor <https://www.sib.swiss/directory/person/wandrille-duchemin> .
 
 <https://www.sib.swiss/training/course/20251111_OPTPY>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Optimising Python Code for Better Performance" ;
     schema:url <https://www.sib.swiss/training/course/20251111_OPTPY> ;
     schema:provider <https://ror.org/002n09z45> ;
     schema:instructor <https://www.sib.swiss/directory/person/wandrille-duchemin> .
 
 <https://www.sib.swiss/training/course/20251112_ISCTR>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Single-Cell Transcriptomics with R" ;
     schema:url <https://www.sib.swiss/training/course/20251112_ISCTR> ;
     schema:provider <https://ror.org/002n09z45> ;
@@ -35349,7 +35349,7 @@
     schema:instructor <https://www.sib.swiss/directory/person/luciano-cascione> .
 
 <https://www.sib.swiss/training/course/20251117_INTML>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Ensuring More Accurate, Generalisable, and Interpretable Machine Learning Models for Bioinformatics" ;
     schema:url <https://www.sib.swiss/training/course/20251117_INTML> ;
     schema:provider <https://ror.org/002n09z45> ;
@@ -35357,14 +35357,14 @@
     schema:instructor <https://www.sib.swiss/directory/person/wandrille-duchemin> .
 
 <https://www.sib.swiss/training/course/20251118_IVIPY>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Interactive Visualisation with Python" ;
     schema:url <https://www.sib.swiss/training/course/20251118_IVIPY> ;
     schema:provider <https://ror.org/002n09z45> ;
     schema:instructor <https://www.sib.swiss/directory/person/wandrille-duchemin> .
 
 <https://www.sib.swiss/training/course/20251119_ISEDA>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Introduction to Sequencing Data Analysis" ;
     schema:url <https://www.sib.swiss/training/course/20251119_ISEDA> ;
     schema:provider <https://ror.org/002n09z45> ;
@@ -35372,7 +35372,7 @@
     schema:instructor <https://www.sib.swiss/directory/person/frederic-burdet> .
 
 <https://www.sib.swiss/training/course/20251124_TTTCH>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "ELIXIR-GOBLET Train-the-Trainer" ;
     schema:url <https://www.sib.swiss/training/course/20251124_TTTCH> ;
     schema:provider <https://ror.org/002n09z45> ;
@@ -35381,14 +35381,14 @@
     schema:instructor <https://www.sib.swiss/directory/person/wandrille-duchemin> .
 
 <https://www.sib.swiss/training/course/20251128_ENRIC>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Enrichment Analysis" ;
     schema:url <https://www.sib.swiss/training/course/20251128_ENRIC> ;
     schema:provider <https://ror.org/002n09z45> ;
     schema:instructor <https://www.sib.swiss/directory/person/gustavo-ruizbuendia> .
 
 <https://www.sib.swiss/training/course/20251201_DEEPP>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Diving into Deep Learning - Theory and Applications with PyTorch" ;
     schema:url <https://www.sib.swiss/training/course/20251201_DEEPP> ;
     schema:provider <https://ror.org/002n09z45> ;
@@ -35396,7 +35396,7 @@
     schema:instructor <https://www.sib.swiss/directory/person/wandrille-duchemin> .
 
 <https://www.sib.swiss/training/course/20251209_SBSRT>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Introduction to Sequencing-based Spatial Transcriptomics Data Analysis" ;
     schema:url <https://www.sib.swiss/training/course/20251209_SBSRT> ;
     schema:provider <https://ror.org/002n09z45> ;
@@ -35406,21 +35406,21 @@
     schema:instructor <https://www.sib.swiss/directory/person/peiying-cai> .
 
 <https://www.sib.swiss/training/course/20251215_DATVS>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Data Visualisation with R" ;
     schema:url <https://www.sib.swiss/training/course/20251215_DATVS> ;
     schema:provider <https://ror.org/002n09z45> ;
     schema:instructor <https://www.sib.swiss/directory/person/frederic-schutz> .
 
 <https://www.sib.swiss/training/course/20260126_ISDVR>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Introduction to Statistics and Data Visualisation with R" ;
     schema:url <https://www.sib.swiss/training/course/20260126_ISDVR> ;
     schema:provider <https://ror.org/002n09z45> ;
     schema:instructor <https://www.sib.swiss/directory/person/joao-lourenco> .
 
 <https://www.sib.swiss/training/course/20260210_GPUPR>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Introduction to GPU Programming for Life Sciences" ;
     schema:url <https://www.sib.swiss/training/course/20260210_GPUPR> ;
     schema:provider <https://ror.org/002n09z45> ;
@@ -35428,28 +35428,28 @@
     schema:instructor <https://www.sib.swiss/directory/person/wandrille-duchemin> .
 
 <https://www.sib.swiss/training/course/20260217_BIVMD>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Biology-informed Integration and Visualisation of Multiomics Data" ;
     schema:url <https://www.sib.swiss/training/course/20260217_BIVMD> ;
     schema:provider <https://ror.org/002n09z45> ;
     schema:instructor <https://orcid.org/0000-0001-8036-1989> .
 
 <https://www.sib.swiss/training/course/20260304_BAGES>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Bioinformatics of Arboviruses: Genomics, Evolution and Surveillance" ;
     schema:url <https://www.sib.swiss/training/course/20260304_BAGES> ;
     schema:provider <https://ror.org/002n09z45> ;
     schema:instructor <https://orcid.org/0000-0001-8528-090X> .
 
 <https://www.sib.swiss/training/course/20260305_MODAI>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Multiomics Data Analysis and Integration" ;
     schema:url <https://www.sib.swiss/training/course/20260305_MODAI> ;
     schema:provider <https://ror.org/002n09z45> ;
     schema:instructor <https://orcid.org/0000-0002-9619-1707> .
 
 <https://www.sib.swiss/training/course/20260309_FSWRR>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "First Steps with R in Life Sciences" ;
     schema:url <https://www.sib.swiss/training/course/20260309_FSWRR> ;
     schema:provider <https://ror.org/002n09z45> ;
@@ -35457,7 +35457,7 @@
     schema:instructor <https://www.sib.swiss/directory/person/josefina-lascanomaillard> .
 
 <https://www.sib.swiss/training/course/20260311_FSWPY>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "First Steps with Python in Life Sciences" ;
     schema:url <https://www.sib.swiss/training/course/20260311_FSWPY> ;
     schema:provider <https://ror.org/002n09z45> ;
@@ -35465,14 +35465,14 @@
     schema:instructor <https://www.sib.swiss/directory/person/wandrille-duchemin> .
 
 <https://www.sib.swiss/training/course/20260317_NEXAC>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Nextflow in Action: Build Smarter, Faster, Reproducible Pipelines" ;
     schema:url <https://www.sib.swiss/training/course/20260317_NEXAC> ;
     schema:provider <https://ror.org/002n09z45> ;
     schema:instructor <https://www.sib.swiss/directory/person/jeferyd-yepesgarcia> .
 
 <https://www.sib.swiss/training/course/20260318_ISCTR>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Single-Cell Transcriptomics with R" ;
     schema:url <https://www.sib.swiss/training/course/20260318_ISCTR> ;
     schema:provider <https://ror.org/002n09z45> ;
@@ -35480,7 +35480,7 @@
     schema:instructor <https://www.sib.swiss/directory/person/joana-carlevaro-fita> .
 
 <https://www.sib.swiss/training/course/20260323_BPHPC>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Best Practices in High-Perfomance Computing (sciCORE cluster)" ;
     schema:url <https://www.sib.swiss/training/course/20260323_BPHPC> ;
     schema:provider <https://ror.org/002n09z45> ;
@@ -35488,28 +35488,28 @@
     schema:instructor <https://www.sib.swiss/directory/person/wandrille-duchemin> .
 
 <https://www.sib.swiss/training/course/20260325_BNSAI>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Bonsai: Exploratory Analysis of Single-cell Data" ;
     schema:url <https://www.sib.swiss/training/course/20260325_BNSAI> ;
     schema:provider <https://ror.org/002n09z45> ;
     schema:instructor <https://orcid.org/0000-0001-7616-6435> .
 
 <https://www.sib.swiss/training/course/20260331_STAML>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Statistics and Machine Learning for Life Sciences" ;
     schema:url <https://www.sib.swiss/training/course/20260331_STAML> ;
     schema:provider <https://ror.org/002n09z45> ;
     schema:instructor <https://www.sib.swiss/directory/person/wandrille-duchemin> .
 
 <https://www.sib.swiss/training/course/20260402_SHINY>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Introduction to R Shiny" ;
     schema:url <https://www.sib.swiss/training/course/20260402_SHINY> ;
     schema:provider <https://ror.org/002n09z45> ;
     schema:instructor <https://www.sib.swiss/directory/person/frederic-schutz> .
 
 <https://www.sib.swiss/training/course/20260407_IVIPY>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Interactive Visualisation with Python" ;
     schema:url <https://www.sib.swiss/training/course/20260407_IVIPY> ;
     schema:provider <https://ror.org/002n09z45> ;
@@ -35517,7 +35517,7 @@
     schema:instructor <https://www.sib.swiss/directory/person/wandrille-duchemin> .
 
 <https://www.sib.swiss/training/course/20260408_ISEDA>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Introduction to Sequencing Data Analysis" ;
     schema:url <https://www.sib.swiss/training/course/20260408_ISEDA> ;
     schema:provider <https://ror.org/002n09z45> ;
@@ -35525,7 +35525,7 @@
     schema:instructor <https://www.sib.swiss/directory/person/frederic-burdet> .
 
 <https://www.sib.swiss/training/course/20260414_DARPY>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Data Analysis and Representation in Python" ;
     schema:url <https://www.sib.swiss/training/course/20260414_DARPY> ;
     schema:provider <https://ror.org/002n09z45> ;
@@ -35533,14 +35533,14 @@
     schema:instructor <https://www.sib.swiss/directory/person/wandrille-duchemin> .
 
 <https://www.sib.swiss/training/course/20260416_DIRNA>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Nanopore Direct RNA Sequencing Data Analysis" ;
     schema:url <https://www.sib.swiss/training/course/20260416_DIRNA> ;
     schema:provider <https://ror.org/002n09z45> ;
     schema:instructor <https://www.sib.swiss/directory/person/sonia-cruciani> .
 
 <https://www.sib.swiss/training/course/20260420_FSSQL>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "First Steps with SQL for Data Science" ;
     schema:url <https://www.sib.swiss/training/course/20260420_FSSQL> ;
     schema:provider <https://ror.org/002n09z45> ;
@@ -35548,7 +35548,7 @@
     schema:instructor <https://www.sib.swiss/directory/person/florent-tassy> .
 
 <https://www.sib.swiss/training/course/20260427_FEDBX>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Federated Learning in Bioinformatics" ;
     schema:url <https://www.sib.swiss/training/course/20260427_FEDBX> ;
     schema:provider <https://ror.org/002n09z45> ;
@@ -35557,14 +35557,14 @@
     schema:instructor <https://www.sib.swiss/directory/person/laura-azzimonti> .
 
 <https://www.sib.swiss/training/course/20260427_TTTCH>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "ELIXIR-GOBLET Train-the-Trainer" ;
     schema:url <https://www.sib.swiss/training/course/20260427_TTTCH> ;
     schema:provider <https://ror.org/002n09z45> ;
     schema:instructor <https://orcid.org/0000-0001-9062-6303> .
 
 <https://www.sib.swiss/training/course/20260504_MEMIC>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Introduction to Metagenomics Data Analysis of Microbial Communities" ;
     schema:url <https://www.sib.swiss/training/course/20260504_MEMIC> ;
     schema:provider <https://ror.org/002n09z45> ;
@@ -35572,14 +35572,14 @@
     schema:instructor <https://orcid.org/0000-0001-8102-7579> .
 
 <https://www.sib.swiss/training/course/20260511_OPEMP>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "First Steps in Parallelization with OpenMP" ;
     schema:url <https://www.sib.swiss/training/course/20260511_OPEMP> ;
     schema:provider <https://ror.org/002n09z45> ;
     schema:instructor <https://www.sib.swiss/directory/person/aurelien-cavelan> .
 
 <https://www.sib.swiss/training/course/20260527_BAIBE>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Building Agentic AI Applications for Biodata Exploration" ;
     schema:url <https://www.sib.swiss/training/course/20260527_BAIBE> ;
     schema:provider <https://ror.org/002n09z45> ;
@@ -35589,7 +35589,7 @@
     schema:instructor <https://orcid.org/0000-0002-1501-1082> .
 
 <https://www.sib.swiss/training/course/20260529_BGEEL>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Gene Expression made Useful Easily: Tools and Database of Bgee" ;
     schema:url <https://www.sib.swiss/training/course/20260529_BGEEL> ;
     schema:provider <https://ror.org/002n09z45> ;
@@ -35597,7 +35597,7 @@
     schema:instructor <https://orcid.org/0000-0002-3437-3329> .
 
 <https://www.sib.swiss/training/course/20260601_INMLP>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Introduction to Machine Learning with Python" ;
     schema:url <https://www.sib.swiss/training/course/20260601_INMLP> ;
     schema:provider <https://ror.org/002n09z45> ;
@@ -35606,7 +35606,7 @@
     schema:instructor <https://www.sib.swiss/directory/person/wandrille-duchemin> .
 
 <https://www.sib.swiss/training/course/20260603_ISTDA>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Introduction to Spatial Transcriptomics Data Analysis" ;
     schema:url <https://www.sib.swiss/training/course/20260603_ISTDA> ;
     schema:provider <https://ror.org/002n09z45> ;
@@ -35617,7 +35617,7 @@
     schema:instructor <https://www.sib.swiss/directory/person/peiying-cai> .
 
 <https://www.sib.swiss/training/course/20260608_IMPUT>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Missing Data and Imputation Methods" ;
     schema:url <https://www.sib.swiss/training/course/20260608_IMPUT> ;
     schema:provider <https://ror.org/002n09z45> ;
@@ -35625,21 +35625,21 @@
     schema:instructor <https://www.sib.swiss/directory/person/leonore-wigger> .
 
 <https://www.sib.swiss/training/course/20260610_ISRSR>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Introduction to Snakemake for Reproducible and Scalable Research" ;
     schema:url <https://www.sib.swiss/training/course/20260610_ISRSR> ;
     schema:provider <https://ror.org/002n09z45> ;
     schema:instructor <https://www.sib.swiss/directory/person/antonin-thiebaut> .
 
 <https://www.sib.swiss/training/course/20260611_NGSGV>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "NGS - Genome Variant Analysis" ;
     schema:url <https://www.sib.swiss/training/course/20260611_NGSGV> ;
     schema:provider <https://ror.org/002n09z45> ;
     schema:instructor <https://www.sib.swiss/directory/person/wandrille-duchemin> .
 
 <https://www.sib.swiss/training/course/20260615_GOAUP>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Using the Gene Ontology Annotations in UniProt" ;
     schema:url <https://www.sib.swiss/training/course/20260615_GOAUP> ;
     schema:provider <https://ror.org/002n09z45> ;
@@ -35649,7 +35649,7 @@
     schema:instructor <https://orcid.org/0000-0001-7646-0052> .
 
 <https://www.sib.swiss/training/course/20260616_ISCTR>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Single-Cell Transcriptomics with R" ;
     schema:url <https://www.sib.swiss/training/course/20260616_ISCTR> ;
     schema:provider <https://ror.org/002n09z45> ;
@@ -35657,7 +35657,7 @@
     schema:instructor <https://www.sib.swiss/directory/person/joana-carlevaro-fita> .
 
 <https://www.sib.swiss/training/course/20260623_ALPHA>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "AlphaFold for protein structure prediction" ;
     schema:url <https://www.sib.swiss/training/course/20260623_ALPHA> ;
     schema:provider <https://ror.org/002n09z45> ;
@@ -35665,21 +35665,21 @@
     schema:instructor <https://www.sib.swiss/directory/person/rok-breznikar> .
 
 <https://www.sib.swiss/training/course/20260702_BBPRO>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Best Practices in Programming" ;
     schema:url <https://www.sib.swiss/training/course/20260702_BBPRO> ;
     schema:provider <https://ror.org/002n09z45> ;
     schema:instructor <https://www.sib.swiss/directory/person/emanuel-schmid> .
 
 <https://www.sib.swiss/training/course/20260708_QUART>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Make Your Research FAIRer with Quarto, GitHub and Zenodo" ;
     schema:url <https://www.sib.swiss/training/course/20260708_QUART> ;
     schema:provider <https://ror.org/002n09z45> ;
     schema:instructor <https://www.sib.swiss/directory/person/wandrille-duchemin> .
 
 <https://www.sib.swiss/training/course/20260824_APRWR>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Advanced Programming with R" ;
     schema:url <https://www.sib.swiss/training/course/20260824_APRWR> ;
     schema:provider <https://ror.org/002n09z45> ;
@@ -35687,7 +35687,7 @@
     schema:instructor <https://www.sib.swiss/directory/person/frederic-schutz> .
 
 <https://www.sib.swiss/training/course/20260907_ADDMG>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Advanced Statistics: Statistical Modelling" ;
     schema:url <https://www.sib.swiss/training/course/20260907_ADDMG> ;
     schema:provider <https://ror.org/002n09z45> ;
@@ -35695,28 +35695,28 @@
     schema:instructor <https://www.sib.swiss/directory/person/thomas-zwahlen> .
 
 <https://www.sib.swiss/training/course/20260916_TNRET>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "SIB PhD Training Network Annual Retreat" ;
     schema:url <https://www.sib.swiss/training/course/20260916_TNRET> ;
     schema:provider <https://ror.org/002n09z45> ;
     schema:instructor <https://www.sib.swiss/directory/person/frederic-schutz> .
 
 <https://www.sib.swiss/training/course/20260921_FEATS>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Feature Selection for Bioinformatics with Python" ;
     schema:url <https://www.sib.swiss/training/course/20260921_FEATS> ;
     schema:provider <https://ror.org/002n09z45> ;
     schema:instructor <https://www.sib.swiss/directory/person/wandrille-duchemin> .
 
 <https://www.sib.swiss/training/course/20260923_BIVMD>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Biology-informed Integration and Visualisation of Multiomics Data" ;
     schema:url <https://www.sib.swiss/training/course/20260923_BIVMD> ;
     schema:provider <https://ror.org/002n09z45> ;
     schema:instructor <https://orcid.org/0000-0001-8036-1989> .
 
 <https://www.sib.swiss/training/course/20260928_FSWPY>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "First Steps with Python in Life Sciences" ;
     schema:url <https://www.sib.swiss/training/course/20260928_FSWPY> ;
     schema:provider <https://ror.org/002n09z45> ;
@@ -35724,7 +35724,7 @@
     schema:instructor <https://www.sib.swiss/directory/person/wandrille-duchemin> .
 
 <https://www.sib.swiss/training/course/20261001_INMLP>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Introduction to Machine Learning with Python" ;
     schema:url <https://www.sib.swiss/training/course/20261001_INMLP> ;
     schema:provider <https://ror.org/002n09z45> ;
@@ -35733,7 +35733,7 @@
     schema:instructor <https://www.sib.swiss/directory/person/wandrille-duchemin> .
 
 <https://www.sib.swiss/training/course/20261005_FSWRR>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "First Steps with R in Life Sciences" ;
     schema:url <https://www.sib.swiss/training/course/20261005_FSWRR> ;
     schema:provider <https://ror.org/002n09z45> ;
@@ -35741,14 +35741,14 @@
     schema:instructor <https://www.sib.swiss/directory/person/josefina-lascanomaillard> .
 
 <https://www.sib.swiss/training/course/20261008_IRNAS>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Introduction to Bulk RNA-Seq: From Quality Control to Pathway Analysis" ;
     schema:url <https://www.sib.swiss/training/course/20261008_IRNAS> ;
     schema:provider <https://ror.org/002n09z45> ;
     schema:instructor <https://www.sib.swiss/directory/person/wandrille-duchemin> .
 
 <https://www.sib.swiss/training/course/20261021_ISEDA>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Introduction to Sequencing Data Analysis" ;
     schema:url <https://www.sib.swiss/training/course/20261021_ISEDA> ;
     schema:provider <https://ror.org/002n09z45> ;
@@ -35756,7 +35756,7 @@
     schema:instructor <https://www.sib.swiss/directory/person/frederic-burdet> .
 
 <https://www.sib.swiss/training/course/20261026_CADDS>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Computer-Aided Drug Design" ;
     schema:url <https://www.sib.swiss/training/course/20261026_CADDS> ;
     schema:provider <https://ror.org/002n09z45> ;
@@ -35765,28 +35765,28 @@
     schema:instructor <https://www.sib.swiss/directory/person/vincent-zoete> .
 
 <https://www.sib.swiss/training/course/20261026_TTTCH>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "ELIXIR-GOBLET Train-the-Trainer" ;
     schema:url <https://www.sib.swiss/training/course/20261026_TTTCH> ;
     schema:provider <https://ror.org/002n09z45> ;
     schema:instructor <https://orcid.org/0000-0001-9062-6303> .
 
 <https://www.sib.swiss/training/course/20261029_CVANA>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Cancer Variant Analysis" ;
     schema:url <https://www.sib.swiss/training/course/20261029_CVANA> ;
     schema:provider <https://ror.org/002n09z45> ;
     schema:instructor <https://orcid.org/0000-0001-8036-1989> .
 
 <https://www.sib.swiss/training/course/20261102_BCSHY>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Building Complex Apps with R Shiny" ;
     schema:url <https://www.sib.swiss/training/course/20261102_BCSHY> ;
     schema:provider <https://ror.org/002n09z45> ;
     schema:instructor <https://www.sib.swiss/directory/person/frederic-schutz> .
 
 <https://www.sib.swiss/training/course/BestHPC-sciCORE-Mar2021>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Best practices in High-Perfomance Computing (sciCORE cluster)" ;
     schema:url <https://www.sib.swiss/training/course/BestHPC-sciCORE-Mar2021> ;
     schema:provider <https://ror.org/002n09z45> ;
@@ -35794,7 +35794,7 @@
     schema:instructor <https://www.sib.swiss/directory/person/sofia-georgakopoulou> .
 
 <https://www.sib.swiss/training/course/IntroToLabKey-2019Feb>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Introduction to the LabKey data management tool" ;
     schema:url <https://www.sib.swiss/training/course/IntroToLabKey-2019Feb> ;
     schema:provider <https://ror.org/002n09z45> ;
@@ -35802,7 +35802,7 @@
     schema:instructor <https://www.sib.swiss/directory/person/sofia-georgakopoulou> .
 
 <https://www.sib.swiss/training/course/IntroToLabKey-2019Jan>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Introduction to the LabKey data management tool" ;
     schema:url <https://www.sib.swiss/training/course/IntroToLabKey-2019Jan> ;
     schema:provider <https://ror.org/002n09z45> ;
@@ -35810,7 +35810,7 @@
     schema:instructor <https://www.sib.swiss/directory/person/sofia-georgakopoulou> .
 
 <https://www.sib.swiss/training/course/IntroToLabKey-2019Nov>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Introduction to the LabKey data management tool" ;
     schema:url <https://www.sib.swiss/training/course/IntroToLabKey-2019Nov> ;
     schema:provider <https://ror.org/002n09z45> ;
@@ -35818,7 +35818,7 @@
     schema:instructor <https://www.sib.swiss/directory/person/sofia-georgakopoulou> .
 
 <https://www.sib.swiss/training/course/IntroToLabKey-2020Nov>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Introduction to the LabKey data management tool" ;
     schema:url <https://www.sib.swiss/training/course/IntroToLabKey-2020Nov> ;
     schema:provider <https://ror.org/002n09z45> ;
@@ -35826,14 +35826,14 @@
     schema:instructor <https://www.sib.swiss/directory/person/sofia-georgakopoulou> .
 
 <https://www.sib.swiss/training/course/OpenMP-Basel2020Nov>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "First Steps in Parallelization with OpenMP" ;
     schema:url <https://www.sib.swiss/training/course/OpenMP-Basel2020Nov> ;
     schema:provider <https://ror.org/002n09z45> ;
     schema:instructor <https://www.sib.swiss/directory/person/aurelien-cavelan> .
 
 <https://www.sib.swiss/training/course/intR-May2018>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Intermediate R" ;
     schema:url <https://www.sib.swiss/training/course/intR-May2018> ;
     schema:provider <https://ror.org/002n09z45> ;
@@ -35841,7 +35841,7 @@
     schema:instructor <https://www.sib.swiss/directory/person/geoffrey-fucile> .
 
 <https://www.sib.swiss/training/course/sciCORE-LinuxHPC-Jun2021>
-    a schema:Course ;
+    a schema:CourseInstance ;
     schema:name "Introduction to high-performance computing (sciCORE cluster)" ;
     schema:url <https://www.sib.swiss/training/course/sciCORE-LinuxHPC-Jun2021> ;
     schema:provider <https://ror.org/002n09z45> ;

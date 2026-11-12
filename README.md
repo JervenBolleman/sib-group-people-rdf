@@ -25,7 +25,7 @@ curl -H "Accept: application/sparql-results+json" \
 | Partner institutions | `schema:Organization` | their ROR id, or a sib.swiss based IRI when there is none |
 | People | `schema:Person` | their ORCID iD when it is known, otherwise their sib.swiss directory page |
 | Papers | `schema:ScholarlyArticle` | their DOI, or a sib.swiss based IRI when there is none |
-| Courses | `schema:Course` | their sib.swiss course page |
+| Courses | `schema:CourseInstance` | their sib.swiss course page |
 
 The links between them:
 
@@ -33,7 +33,7 @@ The links between them:
 * A group at the SIB Hub has SIB as its `schema:parentOrganization`.
 * A partner group is `schema:memberOf` SIB, and its `schema:parentOrganization` is its own institution.
 * A paper has people as `schema:author`.
-* A course has people as `schema:instructor`.
+* A course instance has people as `schema:instructor`.
 
 Papers and courses are linked to people by name, so a few links may be wrong.
 

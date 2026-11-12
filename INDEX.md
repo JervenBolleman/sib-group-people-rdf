@@ -28,7 +28,7 @@ Counts the distinct courses each person was an instructor for.
 PREFIX schema: <https://schema.org/>
 
 SELECT ?person ?name (COUNT(DISTINCT ?course) AS ?courses) WHERE {
-  ?course a schema:Course ;
+  ?course a schema:CourseInstance ;
           schema:instructor ?person .
   ?person schema:name ?name .
 }
@@ -44,7 +44,7 @@ Counts the courses that had at least one instructor from each group.
 PREFIX schema: <https://schema.org/>
 
 SELECT ?groupName (COUNT(DISTINCT ?course) AS ?courses) WHERE {
-  ?course a schema:Course ;
+  ?course a schema:CourseInstance ;
           schema:instructor ?person .
   ?person schema:memberOf ?group .
   ?group schema:name ?groupName .
@@ -61,7 +61,7 @@ Pairs of different groups whose members taught the same course together.
 PREFIX schema: <https://schema.org/>
 
 SELECT ?groupA ?groupB (COUNT(DISTINCT ?course) AS ?courses) WHERE {
-  ?course a schema:Course ;
+  ?course a schema:CourseInstance ;
           schema:instructor ?p1, ?p2 .
   ?p1 schema:memberOf ?a .
   ?p2 schema:memberOf ?b .

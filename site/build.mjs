@@ -26,7 +26,7 @@ const SIB_LOGO = 'https://www.sib.swiss/themes/custom/sib/logo_emblem.svg';
 const SCHEMA = 'https://schema.org/';
 const RDF_TYPE = 'http://www.w3.org/1999/02/22-rdf-syntax-ns#type';
 const ROR = 'https://ror.org/002n09z45';
-const TYPE_NAMES = { Person: 'person', Course: 'course', ScholarlyArticle: 'paper' };
+const TYPE_NAMES = { Person: 'person', CourseInstance: 'course', ScholarlyArticle: 'paper' };
 const LINK_KINDS = ['memberOf', 'parentOrganization', 'author', 'instructor'];
 
 function escapeHtml(str) {
