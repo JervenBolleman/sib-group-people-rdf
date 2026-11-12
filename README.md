@@ -4,6 +4,18 @@ This project builds a graph of SIB Swiss Institute of Bioinformatics groups, the
 
 The result is published as a static website. It shows the graph as an interactive network, and runs SPARQL queries in the browser with [Comunica](https://comunica.dev/). Nothing is sent to a server.
 
+## SPARQL endpoint
+
+The data can also be queried with SPARQL at https://sib-people-rdf.jerven-bolleman.workers.dev/sparql. The endpoint is built with [oxigraph-cloudflare-webworker](https://github.com/JervenBolleman/oxigraph-cloudflare-webworker).
+
+For example, to count the people:
+
+```sh
+curl -H "Accept: application/sparql-results+json" \
+  --data-urlencode 'query=PREFIX schema: <https://schema.org/> SELECT (COUNT(?p) AS ?people) WHERE { ?p a schema:Person }' \
+  https://sib-people-rdf.jerven-bolleman.workers.dev/sparql
+```
+
 ## What is in the graph
 
 | Thing | schema.org type | Identified by |
