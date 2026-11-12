@@ -54,8 +54,8 @@ Papers and courses are linked to people by name, so a few links may be wrong.
 The Python scripts run in a virtual environment.
 
 ```sh
-python3 -m venv .venv
-.venv/bin/pip install -r requirements.txt
+python3 -m venv venv
+venv/bin/pip install -r requirements.txt
 ```
 
 The website build needs Node.js 22.
@@ -71,14 +71,14 @@ Run the steps in this order. Each step reads what the earlier ones wrote.
 1. Crawl sib.swiss. This writes `data/sib.ttl`, `data/people.tsv` and `data/institutions.tsv`. Fetched pages are cached in `cache/`.
 
    ```sh
-   .venv/bin/python crawl_sib.py
+   venv/bin/python crawl_sib.py
    ```
 
 2. Look up ORCID iDs and check them against each person's papers.
 
    ```sh
-   .venv/bin/python find_orcid.py
-   .venv/bin/python check_orcid_works.py
+   venv/bin/python find_orcid.py
+   venv/bin/python check_orcid_works.py
    ```
 
    `find_orcid.py` writes `data/orcid.tsv`, with the candidates it found for each person. `check_orcid_works.py` compares each ORCID record with the papers on sib.swiss and writes the result to `logs/orcid_works.log`. Use the log to decide which iDs to trust, and add them to `data/known_orcids.tsv`. Only iDs in that file are used in the graph.
@@ -86,7 +86,7 @@ Run the steps in this order. Each step reads what the earlier ones wrote.
 3. Look up ROR ids for partner institutions.
 
    ```sh
-   .venv/bin/python find_ror.py
+   venv/bin/python find_ror.py
    ```
 
    This writes `data/ror.tsv`. Names that do not match one ROR record exactly are left for review.
@@ -94,15 +94,15 @@ Run the steps in this order. Each step reads what the earlier ones wrote.
 4. Crawl again, so the graph uses the ORCID iDs and ROR ids.
 
    ```sh
-   .venv/bin/python crawl_sib.py
+   venv/bin/python crawl_sib.py
    ```
 
 5. Download photos and logos, and write the other RDF formats.
 
    ```sh
-   .venv/bin/python fetch_photos.py
-   .venv/bin/python fetch_logos.py
-   .venv/bin/python export_rdf.py
+   venv/bin/python fetch_photos.py
+   venv/bin/python fetch_logos.py
+   venv/bin/python export_rdf.py
    ```
 
 ### Files kept by hand
@@ -149,7 +149,7 @@ Two scripts draw the network as large PNG images for slides. The layout is compu
 ```sh
 npm run build
 node site/layout-presentation.mjs
-.venv/bin/python render_presentation.py
+venv/bin/python render_presentation.py
 ```
 
 The images are written to `presentation/`, which is not kept in git.

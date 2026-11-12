@@ -5,7 +5,7 @@ Reads the layout written by site/layout-presentation.mjs (in $TMPDIR/sib-present
 so every image uses the same node positions. Each image hides one more layer than the
 one before it: papers, courses, people, groups, institutions.
 
-Usage: .venv/bin/python render_presentation.py
+Usage: venv/bin/python render_presentation.py
 """
 import json
 import os

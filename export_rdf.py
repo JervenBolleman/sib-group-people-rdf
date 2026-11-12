@@ -5,7 +5,7 @@ Reads data/sib.ttl and writes data/sib.nt, data/sib.jsonld and data/sib.rdf. Eac
 file is parsed back and its triple count compared with the source, so a format that
 loses data fails loudly. Run it with the project's virtualenv (see requirements.txt).
 
-Usage: .venv/bin/python export_rdf.py
+Usage: venv/bin/python export_rdf.py
 """
 import os
 import sys
